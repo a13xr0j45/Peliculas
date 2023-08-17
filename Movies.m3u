@@ -1,0 +1,37 @@
+﻿#EXTM3U
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fiVW06jE7z9YnO4trhaMEdclSiC.jpg" group-title="Peliculas",Fast X (2023)
+https://archive.org/download/1_20230815_20230815_2247/3.mkv
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rktDFPbfHfUbArZ6OOOKsXcv0Bm.jpg" group-title="Peliculas",The Flash (2023)[DUAL]
+https://archive.org/download/1_20230815_20230815_2247/1.mkv
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qNBAXBIQlnOThrVvA6mA2B5ggV6.jpg" group-title="Peliculas",The Super Mario Bros. Movie (2023)[DUAL]
+https://archive.org/download/1_20230815_20230815_2247/2.mkv
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8CYSvYTw9tbFynivdcBcoqRWPGM.jpg" group-title="Peliculas",John Wick Chapter 4 (2023) [DUAL]
+https://archive.org/download/perro_202308/wick4.mkv
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jB9VR1Lz7LN6RWAsI1O18EARYFN.jpg" group-title="Peliculas",Human Trafficking (2005)
+https://archive.org/download/human_202308/Human.mkv
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wD4eLIHUaTvrXQqAzlfduHQ1NYg.jpg" group-title="Peliculas",Insidious The Red Door (2023)[DUAL]
+https://archive.org/download/young_202308/Doors.mkv
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/P0HK6nMCsdFrxu4c4NTavxfuyh.jpg" group-title="Peliculas",Un mundo perfecto (1993)
+https://archive.org/download/young_202308/LinuxWorld.mkv
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fEr6rVOHpXpnBK2WRZZ1wn0PEF9.jpg" group-title="Peliculas",Tráfico de inocentes (2012)
+https://archive.org/download/inocentes/inocentes.mkv
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4lwh4MX2yCogHflyAYMRbfdnpnm.jpg" group-title="Peliculas",Terrifier (2016) [Dual]
+https://archive.org/download/terror-2/Terror.mkv
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8gLhu8UFPZfH2Hv11JhTZkb9CVl.jpg" group-title="Peliculas",Terrifier 2 (2022) [DUAL]
+https://archive.org/download/terror-2/Terror2.mkv
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4K7gQjD19CDEPd7A9KZwr2D9Nco.jpg" group-title="Peliculas",No Hard Feelings (2023)[DUAL]
+https://archive.org/download/feeeling-linux/FeeelingLinux.mkv
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gdJZsSRscoorp23oN9D4sJPYq4L.jpg" group-title="Infantiles",Krakens y sirenas: Conoce a los Gillman (2023)
+https://archive.org/download/young_202308/Young.mkv
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4wHuFNEN1E0LVYIRXbP7BjDH8Y6.jpg" group-title="Infantiles",Pequeños guerreros (1998)
+https://archive.org/download/guerreos/guerreos.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/odhjoOFo9VpGSJCulyJYBFJp7Zo.jpg" group-title="Infantiles",Spider-Man Across the Spider-Verse (2023)[DUAL]
+https://archive.org/download/5p-1d-3r_202308/5p1d3r.mkv
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/aXTDYpNkQxESqVfTyBL2ICph2Ur.jpg" group-title="Infantiles",La sirenita (2023)
+https://archive.org/download/51-r-3-n-1-t-4/51R3N1T4.mkv
+#EXTINF:-1 group-title="Thalia's Mixtape El Soundtrack de mi Vida (2023)", Casetes y Rock en Español
+https://archive.org/download/thalias-mixtape-el-soundtrack-de-mi-vida-2023/Thalia%27s%20Mixtape01.m3u
+#EXTINF:-1 group-title="Thalia's Mixtape El Soundtrack de mi Vida (2023)",S01E02 Quemando Llantas y CDs
+https://archive.org/download/mixtape_20230810/02.mp4
+#EXTINF:-1 group-title="Thalia's Mixtape El Soundtrack de mi Vida (2023)", La Revolución Digital
+https://archive.org/download/mixtape_20230810/03.mp4
