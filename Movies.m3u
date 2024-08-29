@@ -1,4 +1,8 @@
 ﻿#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QkQ8h0n/hell-542x768.jpg",Hell Hole (2024)[ENG]
+https://archive.org/download/02_20240828_20240828/Linux/01.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BCLyZXP/Pandemonium-542x768.jpg",Pandemonium (2023)[ENG]
+https://archive.org/download/02_20240828_20240828/Linux/02.mp4
 #EXTINF:-1,Project Silence (2024) [KOR]
 https://archive.org/download/index_20240823/cursos/02.mp4
 #EXTINF:-1,The Collection (2012)[DUAL]
