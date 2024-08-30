@@ -1,21 +1,108 @@
 ﻿#EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ibb.co/QkQ8h0n/hell-542x768.jpg",Hell Hole (2024)[ENG]
-https://archive.org/download/02_20240828_20240828/Linux/01.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BCLyZXP/Pandemonium-542x768.jpg",Pandemonium (2023)[ENG]
-https://archive.org/download/02_20240828_20240828/Linux/02.mp4
-#EXTINF:-1,Project Silence (2024) [KOR]
-https://archive.org/download/index_20240823/cursos/02.mp4
-#EXTINF:-1,The Collection (2012)[DUAL]
-https://archive.org/download/index_20240823/cursos/03.mp4
-#EXTINF:-1,The Collector (2009)[DUAL]
-https://archive.org/download/index_20240823/cursos/04.mp4
-#EXTINF:-1,The Proposal (2009)[DUAL]
-https://archive.org/download/index_20240823/cursos/05.mp4
-#EXTINF:-1,The Union (2024)[DUAL]
-https://archive.org/download/index_20240823/cursos/06.mp4
 
-#EXTINF:-1,Jackpot! (2024)[DUAL]
-https://archive.org/download/linux-lotery/linux%20lotery.mp4
+#EXTINF:-1,Run (2020) [DUAL]
+https://archive.org/download/Linux-Tutoriales/tutoriales/01.mkv
+#EXTINF:-1,The Vanishing (2019) [DUAL]
+https://archive.org/download/Linux-Tutoriales/tutoriales/02.mkv
+#EXTINF:-1,The Father (2020) [DUAL]
+https://archive.org/download/Linux-Tutoriales/tutoriales/03.mkv
+#EXTINF:-1,Stay Out of the Attic (2020) [ENG]
+https://archive.org/download/Linux-Tutoriales/tutoriales/04.mkv
+#EXTINF:-1,Mortal Kombat Legends: Scorpion's Revenge (2020) [DUAL]
+https://archive.org/download/Linux-Tutoriales/tutoriales/05.mkv
+#EXTINF:-1,Judas and the Black Messiah (2021)[DUAL]
+https://archive.org/download/Linux-Tutoriales/tutoriales/06.mkv
+#EXTINF:-1,Force of Nature (2020) [DUAL]
+https://archive.org/download/Linux-Tutoriales/tutoriales/07.mkv
+#EXTINF:-1,A Time to Kill (1996) [DUAL]
+https://archive.org/download/Linux-Tutoriales/tutoriales/08.mkv
+#EXTINF:-1,The Other Boleyn Girl (2008) [DUAL]
+https://archive.org/download/Linux-Tutoriales/tutoriales/09.mkv
+#EXTINF:-1,Shazam! (2019) [DUAL]
+https://archive.org/download/Linux-Tutoriales/tutoriales/10.mkv
+#EXTINF:-1,Beauty and the Beast (2017) [DUAL]
+https://archive.org/download/Linux-Tutoriales/tutoriales/11.mkv
+#EXTINF:-1,Godzilla vs. Kong (2021) [DUAL]
+https://archive.org/download/Linux-Tutoriales/tutoriales/12.mkv
+#EXTINF:-1,The Banishing (2021)[DUAL]
+https://archive.org/download/Linux-Tutoriales/tutoriales/13.mkv
+#EXTINF:-1,Paper Lives (2021) [DUAL]
+https://archive.org/download/Linux-Tutoriales/tutoriales/14.mkv
+#EXTINF:-1,One Small Problem (2020)[LAT]
+https://archive.org/download/Linux-Tutoriales/tutoriales/15.mkv
+#EXTINF:-1,Star Wars: Episode I - The Phantom Menace (1999)
+https://archive.org/download/linux-02/LINUX01.mkv
+#EXTINF:-1,Star Wars: Episode II - Attack of the Clones (2002)
+https://archive.org/download/linux-02/LINUX02.mkv
+#EXTINF:-1,Star Wars: Episode III - Revenge of the Sith (2005)
+https://archive.org/download/linux-09/LINUX03.mkv
+#EXTINF:-1,Star Wars: Episode IV - Star Wars (1977)
+https://archive.org/download/linux-09/LINUX04.mkv
+#EXTINF:-1,Star Wars: Episode V - The Empire Strikes Back (1980)
+https://archive.org/download/linux-09/LINUX05.mkv
+#EXTINF:-1,Star Wars: Episode VI - Return of the Jedi (1983)
+https://archive.org/download/linux-09/LINUX06.mkv
+#EXTINF:-1,Star Wars: Episode VII - The Force Awakens (2015)
+https://archive.org/download/linux-09/LINUX07.mkv
+#EXTINF:-1,Star Wars: Episode VIII - The Last Jedi (2017)
+https://archive.org/download/linux-09/LINUX08.mkv
+#EXTINF:-1,Star Wars: Episode IX - The Rise of Skywalker (2019)
+https://archive.org/download/linux-09/LINUX09.mkv
+
+#EXTINF:-1,The Little Things (2021)
+https://archive.org/download/gnome-kde/The%20Little%20Things%20%282021%29.mkv
+#EXTINF:-1,Alone (2020)
+https://archive.org/download/manjaro-linux/Alone%20%282020%29.mkv
+#EXTINF:-1,Amulet (2020)
+https://archive.org/download/manjaro-linux/Amulet%20%282020%29.mkv
+#EXTINF:-1,Antebellum (2020)
+https://archive.org/download/manjaro-linux/Antebellum%20%282020%29.mkv
+#EXTINF:-1,Ava (2020)
+https://archive.org/download/manjaro-linux/Ava%20%282020%29.mkv
+#EXTINF:-1,Cats & Dogs 3 Paws Unite (2020)
+https://archive.org/download/manjaro-linux/Cats%20%26%20Dogs%203%20Paws%20Unite%20%282020%29.mkv
+#EXTINF:-1,Follow Me (2020)
+https://archive.org/download/manjaro-linux/Follow%20Me%20%282020%29.mkv
+#EXTINF:-1,May the Devil Take You Too (2020)
+https://archive.org/download/manjaro-linux/May%20the%20Devil%20Take%20You%20Too%20%282020%29.mkv
+#EXTINF:-1,The Devil All the Time (2020)
+https://archive.org/download/manjaro-linux/The%20Devil%20All%20the%20Time%20%282020%29.mkv
+#EXTINF:-1,The Paramedic (2020)
+https://archive.org/download/manjaro-linux/The%20Paramedic%20%282020%29.mkv
+#EXTINF:-1,Gifted (2017)
+https://archive.org/download/linux_2020/Gifted%20%282017%29.mkv
+#EXTINF:-1,Let It Snow (2020)
+https://archive.org/download/linux_2020/Let%20It%20Snow%20%282020%29.mkv
+#EXTINF:-1,The Fanatic (2019)
+https://archive.org/download/linux_2020/The%20Fanatic%20%282019%29.mkv
+#EXTINF:-1,Awoken (2019)
+https://archive.org/download/gravity-2013/Awoken%20%282019%29.mkv
+#EXTINF:-1,Braveheart (1995)
+https://archive.org/download/gravity-2013/Braveheart%20%281995%29.mkv
+#EXTINF:-1,Ghost in the Graveyard (2019)
+https://archive.org/download/gravity-2013/Ghost%20in%20the%20Graveyard%20%282019%29.mkv
+#EXTINF:-1,Gravity (2013)
+https://archive.org/download/gravity-2013/Gravity%20%282013%29.mkv
+#EXTINF:-1,Nekrotronic (2018)
+https://archive.org/download/gravity-2013/Nekrotronic%20%282018%29.mkv
+#EXTINF:-1,Remi, Nobody's Boy (2018)
+https://archive.org/download/gravity-2013/Remi%2C%20Nobody%27s%20Boy%20%282018%29.mkv
+#EXTINF:-1,Silence (2016)
+https://archive.org/download/gravity-2013/Silence%20%282016%29.mkv
+#EXTINF:-1,The Danish Girl (2015)
+https://archive.org/download/gravity-2013/The%20Danish%20Girl%20%282015%29.mkv
+#EXTINF:-1,The Good, the Bad and the Ugly (1966)
+https://archive.org/download/gravity-2013/The%20Good%2C%20the%20Bad%20and%20the%20Ugly%20%281966%29.mkv
+#EXTINF:-1,The Painted Bird (2019)
+https://archive.org/download/gravity-2013/The%20Painted%20Bird%20%282019%29.mkv
+#EXTINF:-1,The Wretched (2020)
+https://archive.org/download/gravity-2013/The%20Wretched%20%282020%29.mkv
+#EXTINF:-1,Z (2019)
+https://archive.org/download/gravity-2013/Z%20%282019%29.mkv
+#EXTINF:-1,Little Necro Red (2019)
+https://archive.org/download/killingme_202005/Little%20Necro%20Red%20%282019%29.mkv
+
+
 #EXTINF:-1,007 Casino Royale
 http://archive.org/download/mio53_yopmail_5/5.mp4
 #EXTINF:-1,007 El mañana nunca muere
@@ -284,10 +371,10 @@ http://archive.org/download/movianpsn/6474.avi
 https://archive.org/download/fino-fine-02/fino-fine-02/fino-fine-02.mp4
 #EXTINF:-1,Amor. Boda. Azar (2020)
 https://dl.dropbox.com/s/whv7rrnh0qukbbm/loveweddingrepeat.mp4
-#EXTINF:-1,Amores perros
-https://archive.org/download/qveqrg4qqvqerc_202001/qveqrg4qqvqerc.mp4
 #EXTINF:-1,AMORES PERROS
 http://archive.org/download/1_20200420_20200420_1906/am/1.avi
+#EXTINF:-1,Amores perros
+https://archive.org/download/qveqrg4qqvqerc_202001/qveqrg4qqvqerc.mp4
 #EXTINF:-1,Amulet (2020)
 https://archive.org/download/manjaro-linux/Amulet%20%282020%29.mp4
 #EXTINF:-1,AMULETO
@@ -361,9 +448,9 @@ https://archive.org/download/tutoriales_202402/Debian.mp4
 #EXTINF:-1,Anyone But You (2023)[ENG]
 https://archive.org/download/tutoriales_202402/Debian.mp4
 #EXTINF:-1,Apocalypto
-https://archive.org/download/00sffdsg/4p0c4.mp4
-#EXTINF:-1,Apocalypto
 https://archive.org/download/picante_202003/picante/picante.avi
+#EXTINF:-1,Apocalypto
+https://archive.org/download/00sffdsg/4p0c4.mp4
 #EXTINF:-1,Apolo 10 Una infancia espacial
 https://archive.org/download/00naran/fgtyko/4p0l.mp4
 #EXTINF:-1,Arlo el Chico Caiman (2021)
@@ -682,10 +769,10 @@ https://archive.org/download/foto-de-mi-boda/MI%20VIAJE%20EN%20TREN.mp4
 https://archive.org/download/1_20200428/1.2/4.mp4
 #EXTINF:-1,Buscando Justicia
 https://dl.dropbox.com/s/jjm5swmikheook8/Buscando.Justicia.mp4
-#EXTINF:-1,buscando un amigo para el fin del mundo
-http://archive.org/download/thebigbossps3movieplus/bu5c4nd0un4m160p4r43lf1nd3lmund0.mp4
 #EXTINF:-1,Buscando un amigo para el fin del mundo
 https://archive.org/download/muca_20200405/muca/muca.mp4
+#EXTINF:-1,buscando un amigo para el fin del mundo
+http://archive.org/download/thebigbossps3movieplus/bu5c4nd0un4m160p4r43lf1nd3lmund0.mp4
 #EXTINF:-1,BUZA CAPERUZA 1
 http://archive.org/download/bc-1aygdyfd/Bc1aygdyfd.mp4
 #EXTINF:-1,BUZA CAPERUZA 2
@@ -1042,18 +1129,18 @@ http://archive.org/download/screenshot-20200510-212518-facebook/dos_158944337957
 https://archive.org/download/df-3_20210525/Acce/DF1.mp4
 #EXTINF:-1,Destino final 2
 https://archive.org/download/df-3_20210525/Acce/DF2.mp4
-#EXTINF:-1,DESTINO FINAL 3
-http://archive.org/download/img-20200512-wa-0033/calidad%203.mp4
 #EXTINF:-1,Destino final 3
 https://archive.org/download/df-3_20210525/Acce/DF3.mp4
-#EXTINF:-1,Destino final 4
-https://archive.org/download/df-5_20210525/ACCE%202/DF4.ts
+#EXTINF:-1,DESTINO FINAL 3
+http://archive.org/download/img-20200512-wa-0033/calidad%203.mp4
 #EXTINF:-1,DESTINO FINAL 4
 http://archive.org/download/img-20200508-wa-0001/calidad%204%20.mp4
-#EXTINF:-1,Destino final 5
-https://archive.org/download/df-5_20210525/ACCE%202/DF5.mp4
+#EXTINF:-1,Destino final 4
+https://archive.org/download/df-5_20210525/ACCE%202/DF4.ts
 #EXTINF:-1,DESTINO FINAL 5
 http://archive.org/download/img-20200510-wa-0017/calidad%205.mp4
+#EXTINF:-1,Destino final 5
+https://archive.org/download/df-5_20210525/ACCE%202/DF5.mp4
 #EXTINF:-1,DEVUELVEME A MI GOHAN
 http://archive.org/download/cocinillas-17508325-115878909-1706x-960/1.mkv
 #EXTINF:-1,Dia de entrenamiento
@@ -1466,10 +1553,10 @@ https://archive.org/download/00naran/22/3ll1br0d3l4m0r.mp4
 http://archive.org/download/hedote_hurify1_1/1.mp4
 #EXTINF:-1,EL MAESTRO DE LA KUNG FUSION
 http://archive.org/download/img20200125112056/F3l1q3uq.mp4
-#EXTINF:-1,El magnifico Ivan
-https://archive.org/download/videoplayback20_202011/sub1d0_p4r4_5tr34ming_P5F11X/videoplayback43.mkv
 #EXTINF:-1,El Magnifico IVAN
 http://archive.org/download/tenkai/1V4N35P3C14L.avi
+#EXTINF:-1,El magnifico Ivan
+https://archive.org/download/videoplayback20_202011/sub1d0_p4r4_5tr34ming_P5F11X/videoplayback43.mkv
 #EXTINF:-1,EL MANICOMIO
 http://archive.org/download/loco_20201015/loco.mp4
 #EXTINF:-1,El Mapa De Los Instantes Perfectos
@@ -1583,9 +1670,9 @@ https://archive.org/download/ck-2_20210106/derty/3lr3gr3s0ac4s4.mp4
 #EXTINF:-1,EL REGRESO DE LA NANA MCFEE (MÁGICA)
 http://archive.org/download/img20200314122721/3lr36r350d3l4n4n4m461c4dr1pl471n0.mp4
 #EXTINF:-1,El regreso de los muertos vivientes
-https://archive.org/download/ayer_20200214/ayer.avi
-#EXTINF:-1,El regreso de los muertos vivientes
 http://archive.org/download/3-l-r-3-gr-3-s-0-d-3-l-0-s-mu-3-rt-0-s-v-1-v-13-nt-3-s/3L%20R3GR3S0%20D3%20L0S%20MU3RT0S%20V1V13NT3S.mp4
+#EXTINF:-1,El regreso de los muertos vivientes
+https://archive.org/download/ayer_20200214/ayer.avi
 #EXTINF:-1,El regreso de los muertos vivientes 2
 https://archive.org/download/hoy2_20200216/hoy%202.mkv
 #EXTINF:-1,El regreso de los muertos vivientes 3
@@ -1932,12 +2019,12 @@ http://archive.org/download/icon1_20190813/15.mp4
 https://dl.dropbox.com/s/x2rnvflu7x8smnr/Fullmetal%20Alchemist%20Pel%C3%ADcula.mp4
 #EXTINF:-1,Fullmetal Alchemist - Live Action
 https://dl.dropbox.com/s/x2rnvflu7x8smnr/Fullmetal%20Alchemist%20Pel%C3%ADcula.mp4
-#EXTINF:-1,Furia De Titanes
-https://archive.org/download/polofoto/polofoto.mp4
-#EXTINF:-1,Furia De Titanes
-https://archive.org/download/polofoto/polofoto.mp4
 #EXTINF:-1,Furia de titanes
 https://archive.org/download/fur-14-t-1-t-4-n-3-s/FUR14T1T4N3S.mp4
+#EXTINF:-1,Furia De Titanes
+https://archive.org/download/polofoto/polofoto.mp4
+#EXTINF:-1,Furia De Titanes
+https://archive.org/download/polofoto/polofoto.mp4
 #EXTINF:-1,Furia de titanes 2
 https://dl.dropbox.com/s/m9aqf4x4bjqjaju/FDT.mp4
 #EXTINF:-1,FURIA SILENCIOSA
@@ -2022,10 +2109,10 @@ https://archive.org/download/mis_tutoriales_202406/Tutoriales/CENTOS.mkv
 https://ia601403.us.archive.org/28/items/futbol-2/Futbol2.mp4
 #EXTINF:-1,Gol! (2005)
 https://ia601400.us.archive.org/4/items/futbol-1/Futbol1.mp4
-#EXTINF:-1,Golpe bajo
-https://archive.org/download/10010010/TH3_L0NG3ST%20Y4RD.avi
 #EXTINF:-1,GOLPE BAJO
 http://archive.org/download/3_20200612_20200612/3.mp4
+#EXTINF:-1,Golpe bajo
+https://archive.org/download/10010010/TH3_L0NG3ST%20Y4RD.avi
 #EXTINF:-1,Gonjiam: Hospital Maldito (2018)
 https://dl.dropboxusercontent.com/s/1s72ufp19xnrphg/Gonjiam.haunted.asylum.2018.1080p-dual-lat-cinecalidad.is.mp4
 #EXTINF:-1,Goodfellas
@@ -2050,10 +2137,10 @@ https://archive.org/download/tour_20200413/hadas.mkv
 https://dl.dropbox.com/s/rbiy36qy2rr7wwu/Greyhound%20HDR%20Latino.mp4
 #EXTINF:-1,GRINGO SE BUSCA VIVO O MUERTO
 http://archive.org/download/PjxbssjbCjsjcjdcJfjdjcb/pjxbssjb%20cjsjcjdc%20jfjdjcb.mp4
-#EXTINF:-1,GUADALUPE REYES
-http://archive.org/download/60da11/60Da11.mp4
 #EXTINF:-1,Guadalupe Reyes
 https://dl.dropboxusercontent.com/s/7jz1o0vf2lnu94x/guadalupe%20reyes.mp4
+#EXTINF:-1,GUADALUPE REYES
+http://archive.org/download/60da11/60Da11.mp4
 #EXTINF:-1,GUADALUPE REYES 2019
 http://ia601507.us.archive.org/4/items/000_20200127/1.mp4
 #EXTINF:-1,Guardianes De La Galaxia
@@ -2062,9 +2149,9 @@ http://archive.org/download/010_20210107_20210107/6U4RD14N35.avi
 https://archive.org/download/123_20200917_202009/123.mp4
 #EXTINF:-1,Guardianes de la Galaxia VOL.1
 https://archive.org/download/pp2_20200324/pp/pp.mp4
-#EXTINF:-1,GUARDIANES DE LA NOCHE
-http://archive.org/download/0guardianes0de0la0Noche/0guardianes0de0la0Noche.mp4
 #EXTINF:-1,Guardianes de la noche
+http://archive.org/download/0guardianes0de0la0Noche/0guardianes0de0la0Noche.mp4
+#EXTINF:-1,GUARDIANES DE LA NOCHE
 http://archive.org/download/0guardianes0de0la0Noche/0guardianes0de0la0Noche.mp4
 #EXTINF:-1,Guardians of the Galaxy Vol. 3 (2023)
 https://archive.org/download/the-king-of-fighters-2002-magic-plus-ll/Guardianes%20de%20la%20Galaxia%20Vol.%203%20.mp4
@@ -2101,9 +2188,9 @@ http://ia601403.us.archive.org/6/items/00000_202010/00002.mp4
 #EXTINF:-1,Halloween IV (1988) El regreso de Michael Myers
 https://archive.org/download/556_20200608/556.mp4
 #EXTINF:-1,Halloween Kills (2021)
-https://archive.org/download/carros_20211015/H4ll0w33n.K1ll5.mkv
-#EXTINF:-1,Halloween Kills (2021)
 https://archive.org/download/00-trorinja/H4LL0K1LL.mp4
+#EXTINF:-1,Halloween Kills (2021)
+https://archive.org/download/carros_20211015/H4ll0w33n.K1ll5.mkv
 #EXTINF:-1,Halloween V (1989)
 https://archive.org/download/09874/09874.mp4
 #EXTINF:-1,Halloween VI (1995) La Maldici n de Michael Myers
@@ -2152,6 +2239,8 @@ https://archive.org/download/00sffdsg/h3m4n.mp4
 https://archive.org/download/00-sierte/m3nt3.mp4
 #EXTINF:-1,HELL FALL
 http://ia801507.us.archive.org/8/items/terugi_newairmail_2/2.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QkQ8h0n/hell-542x768.jpg",Hell Hole (2024)[ENG]
+https://archive.org/download/02_20240828_20240828/Linux/01.mp4
 #EXTINF:-1,Hellboy II
 https://archive.org/download/7at_20200608/hboy/painy.avi
 #EXTINF:-1,HERAISERHEAD
@@ -2344,10 +2433,10 @@ https://archive.org/download/jack-reacher-2-nunca-vuelvas-atras/Jack%20Reacher%2
 http://archive.org/download/T81818M8787B87L544672p/J42k%2B4n60%2B2111.mp4
 #EXTINF:-1,JACKALS
 http://ia801502.us.archive.org/4/items/kevomisig_directmail24_0005/0005.mp4
-#EXTINF:-1,Jackass 1
-https://archive.org/download/sol02/sol%201/sol%201.mp4
 #EXTINF:-1,JACKASS 1
 http://archive.org/download/54321JamALpAO45Jmkss/01JaKmc39plM4P01.mp4
+#EXTINF:-1,Jackass 1
+https://archive.org/download/sol02/sol%201/sol%201.mp4
 #EXTINF:-1,JACKASS 2 (CASTELLANO)
 http://archive.org/download/54321JamALpAO45Jmkss/02JaNpOi21lKmNajOi02.mp4
 #EXTINF:-1,JACKASS 3
@@ -2362,6 +2451,8 @@ http://archive.org/download/54321JamALpAO45Jmkss/04JaLmZ2qwU23Ika04.mp4
 https://archive.org/download/ck-2_20210106/3334/j4ccs.mp4
 #EXTINF:-1,Jackie Brown
 https://archive.org/download/gaseosa/gaseosa/gaseosa.avi
+#EXTINF:-1,Jackpot! (2024)[DUAL]
+https://archive.org/download/linux-lotery/linux%20lotery.mp4
 #EXTINF:-1,JACOBS LADDER
 https://archive.org/download/0drt_20210709/J4C0BB.mp4
 #EXTINF:-1,Jacuzzi al pasado (2010)
@@ -2378,10 +2469,10 @@ http://archive.org/download/8YEl4morLleg4lH0gar/8%20%20Y%20el%20amor%20lleg%C3%B
 http://archive.org/download/3l4m0rV0lvi0AN0s0tr0s/7%20%20Y%20el%20amor%20volvi%C3%B3%20a%20nosotros%20Pel%C3%ADcula%20cristiana%20completa%20en%20espa%C3%B1ol.mp4
 #EXTINF:-1,JEEPERS CREEPERS
 http://archive.org/download/1_20200508_20200508_1806/1.mkv
-#EXTINF:-1,Jeepers Creepers 2
-https://archive.org/download/wuebbsspaengv/wuebb%20S%20spa%20eng%20v.mp4
 #EXTINF:-1,JEEPERS CREEPERS 2
 http://archive.org/download/1_20200508_20200508_1806/2.mkv
+#EXTINF:-1,Jeepers Creepers 2
+https://archive.org/download/wuebbsspaengv/wuebb%20S%20spa%20eng%20v.mp4
 #EXTINF:-1,JEEPERS CREEPERS 3
 http://archive.org/download/1_20200508_20200508_1806/3.mkv
 #EXTINF:-1,Jefa por accidente
@@ -2525,9 +2616,9 @@ https://archive.org/download/ck-2_20210106/derteer/tr3n1n1f1.mp4
 #EXTINF:-1,Kin Rencor Delicia Turca (2021)
 https://archive.org/download/carros_20211014/K1n.mp4
 #EXTINF:-1,King Kong
-https://archive.org/download/KingKong1933Espanol/King%20Kong%20-1933-%20Espa%C3%B1ol.avi
-#EXTINF:-1,King Kong
 https://archive.org/download/028_20200428/028.mkv
+#EXTINF:-1,King Kong
+https://archive.org/download/KingKong1933Espanol/King%20Kong%20-1933-%20Espa%C3%B1ol.avi
 #EXTINF:-1,King Kong P2
 https://archive.org/download/ElHijoDeKong1933Espanol/El%20hijo%20de%20Kong%20-1932-%20espa%C3%B1ol.avi
 #EXTINF:-1,KINGDOM ASHIN DEL NORTE
@@ -2558,9 +2649,9 @@ https://archive.org/download/12_20210412_202104/tutoriales/06.mkv
 http://archive.org/download/01_20200612_20200612/03.mp4
 #EXTINF:-1,KUNG FU PANDA
 http://archive.org/download/img-20200520-wa-0027/K7N75432.mp4
-#EXTINF:-1,KUNG FU YOGA
-http://archive.org/download/AFantasticosDEncontrarlosbrspawww.newpct1.com654848946487468498449489/Kung.Fu.Yoga.1080P.Latino64645465465456456.mp4
 #EXTINF:-1,Kung Fu Yoga
+http://archive.org/download/AFantasticosDEncontrarlosbrspawww.newpct1.com654848946487468498449489/Kung.Fu.Yoga.1080P.Latino64645465465456456.mp4
+#EXTINF:-1,KUNG FU YOGA
 http://archive.org/download/AFantasticosDEncontrarlosbrspawww.newpct1.com654848946487468498449489/Kung.Fu.Yoga.1080P.Latino64645465465456456.mp4
 #EXTINF:-1,KUNG FUSION
 http://archive.org/download/img20200216wa0006_202002/10000000_497491404223452_6182608888630607872_n.mp4
@@ -3542,10 +3633,10 @@ https://archive.org/download/d-0nt-br-34th-3-2/D0n%27t%20Br34th3%202.mkv
 https://archive.org/download/00azucar/SDR/N0R3SP1.mp4
 #EXTINF:-1,No Se Aceptan Devoluciones
 http://archive.org/download/screenshot-20200606-182253/MY4P0R.mp4
-#EXTINF:-1,NO TE METAS CON ZOHAN
-http://archive.org/download/nnndnsfkfjgjjdisdkfjsk/nnndnsfkfjgjjdisdkfjsk.mp4
 #EXTINF:-1,No te metas con Zohan
 https://archive.org/download/proyecto-u-2/ProyectoU2.mp4
+#EXTINF:-1,NO TE METAS CON ZOHAN
+http://archive.org/download/nnndnsfkfjgjjdisdkfjsk/nnndnsfkfjgjjdisdkfjsk.mp4
 #EXTINF:-1,Nobody's Boy (2018)
 https://archive.org/download/gravity-2013/Remi%2C%20Nobody%27s%20Boy%20%282018%29.mkv
 #EXTINF:-1,Noche De Fuego
@@ -3624,6 +3715,8 @@ https://archive.org/download/el-negocio-del-dolor-2023.1080p.dual-lat/El%20negoc
 https://archive.org/download/02sssd/p4l4br4s.mp4
 #EXTINF:-1,Palmer (2021)
 https://archive.org/download/cobijas/P41m3r.mkv
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BCLyZXP/Pandemonium-542x768.jpg",Pandemonium (2023)[ENG]
+https://archive.org/download/02_20240828_20240828/Linux/02.mp4
 #EXTINF:-1,Pantera Negra
 https://archive.org/download/299975a7bfe1d2f/299975a7bfe1d2f.mp4
 #EXTINF:-1,Pantera Negra
@@ -3647,9 +3740,9 @@ https://dl.dropbox.com/s/wz6cszigfoqanws/Stowaway.2021.HD.720p.Latino.mkv
 #EXTINF:-1,Pasante de Moda
 http://archive.org/download/kuhlman_1_20190504/3.mp4
 #EXTINF:-1,Paternidad
-https://archive.org/download/carros_20210622/P4t3rn1d4d.mp4
-#EXTINF:-1,Paternidad
 https://archive.org/download/00-sierte/p4t3r.mp4
+#EXTINF:-1,Paternidad
+https://archive.org/download/carros_20210622/P4t3rn1d4d.mp4
 #EXTINF:-1,PAULI
 http://archive.org/download/img20200115192950/Sub1d0para94.mp4
 #EXTINF:-1,Paw Patrol la película
@@ -3814,6 +3907,8 @@ https://archive.org/download/00naran/fgtyko/pr1s1.mp4
 https://archive.org/download/ck-2_20210106/PrisioN3R0S.mp4
 #EXTINF:-1,Prisioneros de Ghostland (2021)
 https://archive.org/download/ck-2_20210106/PrisioN3R0S.mp4
+#EXTINF:-1,Project Silence (2024) [KOR]
+https://archive.org/download/index_20240823/cursos/02.mp4
 #EXTINF:-1,PROMETHEUS
 http://archive.org/download/prometheus-ciencia-ficcion_202005/P40M3730S.mp4
 #EXTINF:-1,Proximity
@@ -3914,9 +4009,9 @@ https://archive.org/download/ck-2_20210106/R4Y%20D0N0.mp4
 https://archive.org/download/almohadas_20210330/R4y4.4nd.th3.L4st.Dr4g0n.mkv
 #EXTINF:-1,READY PLAYER ONE
 http://archive.org/download/r-34dy-p-74y-3r-0n-3/R34dy%20p74y3r%200n3.avi
-#EXTINF:-1,REBELDES CON CAUSA
-http://archive.org/download/2193KAMWNEW/2193KAMWNEW.mp4
 #EXTINF:-1,Rebeldes con causa
+http://archive.org/download/2193KAMWNEW/2193KAMWNEW.mp4
+#EXTINF:-1,REBELDES CON CAUSA
 http://archive.org/download/2193KAMWNEW/2193KAMWNEW.mp4
 #EXTINF:-1,REC 1
 http://archive.org/download/02_20200612_20200612_1015/01.mp4
@@ -4168,9 +4263,9 @@ http://archive.org/download/DOICE/6.mp4
 http://archive.org/download/DOICE/7.mp4
 #EXTINF:-1,SAW VIII
 http://archive.org/download/DOICE/8.mp4
-#EXTINF:-1,Saw X (2023) [ENG]
-https://archive.org/download/08_20231029/08.mkv
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/w54xXtX9B9zZnE31OcMHqi2WIST.jpg",Saw X (2023) [ENG]
+https://archive.org/download/08_20231029/08.mkv
+#EXTINF:-1,Saw X (2023) [ENG]
 https://archive.org/download/08_20231029/08.mkv
 #EXTINF:-1,Scarface
 https://dl.dropbox.com/s/2st92z6rtzd6g8t/Scarface%20-Latino-.mkv
@@ -4663,9 +4758,9 @@ https://archive.org/download/tutoriales_linux_202402/09.mp4
 #EXTINF:-1,The Bay of Silence (2020)[Eng]
 https://archive.org/download/tutoriales_linux_202402/09.mp4
 #EXTINF:-1,The Black Demon (2023)
-https://archive.org/download/the-king-of-fighters-2002-magic-plus-ll/The.Black.Demon.2023.DVDRip-Lat.mp4
-#EXTINF:-1,The Black Demon (2023)
 https://archive.org/download/the-king-of-fighters-2002-magic-plus-ll/Demonio%20Negro.mp4
+#EXTINF:-1,The Black Demon (2023)
+https://archive.org/download/the-king-of-fighters-2002-magic-plus-ll/The.Black.Demon.2023.DVDRip-Lat.mp4
 #EXTINF:-1,The Blackwell Ghost
 https://archive.org/download/00naran/DRER/1.mp4
 #EXTINF:-1,The Blackwell Ghost 2
@@ -4688,6 +4783,10 @@ https://archive.org/download/ck-2_20210106/AZS/BUNK3RG4.mp4
 http://archive.org/download/gikudec5/Sub1d0_p4r4_5tr34ming_A85_Cr15T14n4S/8.mkv
 #EXTINF:-1,The Cleaning Hour (2019) Terror
 https://archive.org/download/cobijas/7h3%20c134n1ng%20h0ur.mkv
+#EXTINF:-1,The Collection (2012)[DUAL]
+https://archive.org/download/index_20240823/cursos/03.mp4
+#EXTINF:-1,The Collector (2009)[DUAL]
+https://archive.org/download/index_20240823/cursos/04.mp4
 #EXTINF:-1,The Danish Girl (2015)
 https://archive.org/download/gravity-2013/The%20Danish%20Girl%20%282015%29.mkv
 #EXTINF:-1,The Danish Girl (2015)[ENG]
@@ -4763,11 +4862,11 @@ https://archive.org/download/mr_20200529/MR.mkv
 #EXTINF:-1,The Martian
 https://archive.org/download/mr_20200529/MR.mkv
 #EXTINF:-1,The Medium (2021)
-https://archive.org/download/00-zarza/M3D1UM.mp4
-#EXTINF:-1,The Medium (2021)
 https://archive.org/download/casa-en-el-lago/The.Medium.2021.DVDrip-lat.ia.mp4
 #EXTINF:-1,The Medium (2021)
 https://archive.org/download/manguera_20210922/Th3%20M3d1um.mkv
+#EXTINF:-1,The Medium (2021)
+https://archive.org/download/00-zarza/M3D1UM.mp4
 #EXTINF:-1,The Menu (2022)
 https://archive.org/download/fi_20230106/El%20Menu.mp4
 #EXTINF:-1,The Misfits Los Inadaptados
@@ -4797,11 +4896,13 @@ https://archive.org/download/gravity-2013/The%20Painted%20Bird%20%282019%29.mkv
 #EXTINF:-1,The Paramedic (2020)
 https://archive.org/download/manjaro-linux/The%20Paramedic%20%282020%29.mp4
 #EXTINF:-1,The Passion of the Christ (2004)
-https://archive.org/download/tutoriales_202402/Fedora.mp4
-#EXTINF:-1,The Passion of the Christ (2004)
-https://archive.org/download/tutoriales_202402/Fedora.mp4
-#EXTINF:-1,The Passion of the Christ (2004)
 http://archive.org/download/gikudec5/Sub1d0_p4r4_5tr34ming_A85_Cr15T14n4S/13.mkv
+#EXTINF:-1,The Passion of the Christ (2004)
+https://archive.org/download/tutoriales_202402/Fedora.mp4
+#EXTINF:-1,The Passion of the Christ (2004)
+https://archive.org/download/tutoriales_202402/Fedora.mp4
+#EXTINF:-1,The Proposal (2009)[DUAL]
+https://archive.org/download/index_20240823/cursos/05.mp4
 #EXTINF:-1,The Quick and the Dead
 https://dl.dropbox.com/s/brlmgbp900z3cw7/The%20Quick%20and%20the%20Dead%20%28SS_CANY%29.mp4
 #EXTINF:-1,The Remaining (2014)[DUAL]
@@ -4834,6 +4935,8 @@ https://archive.org/download/12_20210412_202104/tutoriales/16.mkv
 https://archive.org/download/12_20210412_202104/tutoriales/17.mp4
 #EXTINF:-1,The Unhealer
 https://archive.org/download/carros_20210622/Th3%20Unh34l3r.mp4
+#EXTINF:-1,The Union (2024)[DUAL]
+https://archive.org/download/index_20240823/cursos/06.mp4
 #EXTINF:-1,The Vanishing (2018)[DUAL]
 https://archive.org/download/Linux-Tutoriales/tutoriales/02.mkv
 #EXTINF:-1,THE WASH
@@ -4856,10 +4959,10 @@ https://archive.org/download/gravity-2013/The%20Wretched%20%282020%29.mkv
 https://archive.org/download/12_20210412_202104/tutoriales/18.mkv
 #EXTINF:-1,Think Like a Dog
 https://dl.dropbox.com/s/540ttslwq9jhl5s/ThinkLikeaDog%20%282020%29.mp4
-#EXTINF:-1,THOR
-http://archive.org/download/04_20201231/T407.avi
 #EXTINF:-1,Thor
 https://archive.org/download/lso-32/43.mp4
+#EXTINF:-1,THOR
+http://archive.org/download/04_20201231/T407.avi
 #EXTINF:-1,Thor 2: Un mundo oscuro
 https://archive.org/download/cuartormuna/20.mp4
 #EXTINF:-1,THOR AMOR Y TRUENO
@@ -4894,20 +4997,20 @@ http://ia801507.us.archive.org/4/items/000_20200127/5.mp4
 http://ia801509.us.archive.org/26/items/meyize_hurify1_F1n/tt.mp4
 #EXTINF:-1,Tio Buck al rescate
 https://docentecoahuila-my.sharepoint.com/:v:/g/personal/franciscoorlando_robles_docentecoahuila_gob_mx/ETiJ8GkaE0BNjv4K__PKtCEBJNOGD4yqJvXp23o4boCSiw?download=1
-#EXTINF:-1,TITANIC
-https://archive.org/download/00guay-4/t1t4n1.mp4
 #EXTINF:-1,Titanic
 https://archive.org/download/001_20200216/001.mkv
+#EXTINF:-1,TITANIC
+https://archive.org/download/00guay-4/t1t4n1.mp4
 #EXTINF:-1,TODAS CAEN
 http://ia601508.us.archive.org/33/items/000_20191215_201912/1.mp4
 #EXTINF:-1,Todas Las Lunas (2021)
 https://archive.org/download/carros_20211013/T0d4s%20l4s%20lun4s.mp4
 #EXTINF:-1,TODO PODEROSO
 http://archive.org/download/18092064327status5752751c537e4dd6a1fd54293b37e439_201912/todo%20poderoso.mp4
-#EXTINF:-1,Todo Un Parto
-https://archive.org/download/tu-p_20200512/TuP.mkv
 #EXTINF:-1,TODO UN PARTO
 http://ia601502.us.archive.org/14/items/dejefo_hotmailpro_000/G.mp4
+#EXTINF:-1,Todo Un Parto
+https://archive.org/download/tu-p_20200512/TuP.mkv
 #EXTINF:-1,TodoMGD.Com
 http://archive.org/download/4k-1r-4_202101/4k1r4.mp4
 #EXTINF:-1,Todos Hablan De Jamie (2021)
@@ -5206,14 +5309,14 @@ https://archive.org/download/tinaco_20210329/B4CK%20T0%20TH3%20FUTUR3%203.mkv
 https://dl.dropbox.com/s/5znomz8xeg7c0z5/Volver%20Al%20Futuro%20%281985%29.mkv
 #EXTINF:-1,VOLVER AL FUTURO I (OPC2)
 https://archive.org/download/fotos-de-mi-casa-en-la-playa/Volver%20al%20Futuro%201.mp4
-#EXTINF:-1,VOLVER AL FUTURO II
-https://archive.org/download/fotos-de-mi-casa-en-la-playa/Volver%20Al%20Futuro%202.mp4
 #EXTINF:-1,Volver al futuro II
 https://dl.dropbox.com/s/6srf7oqbkty9cc6/Volver%20Al%20Futuro%202%20%281989%29.mkv
-#EXTINF:-1,VOLVER AL FUTURO III
-https://archive.org/download/fotos-de-mi-casa-en-la-playa/Volver%20al%20Futuro%203.mp4
+#EXTINF:-1,VOLVER AL FUTURO II
+https://archive.org/download/fotos-de-mi-casa-en-la-playa/Volver%20Al%20Futuro%202.mp4
 #EXTINF:-1,Volver al futuro III
 https://dl.dropbox.com/s/xrdxjdr26dgkls9/Volver%20Al%20Futuro%203%20%281990%29.mkv
+#EXTINF:-1,VOLVER AL FUTURO III
+https://archive.org/download/fotos-de-mi-casa-en-la-playa/Volver%20al%20Futuro%203.mp4
 #EXTINF:-1,Voyagers
 https://archive.org/download/dfrte/v0y4g3.mp4
 #EXTINF:-1,War Room (2015)
@@ -5226,10 +5329,10 @@ https://archive.org/download/tutoriales_linux_202402/08.mp4
 https://archive.org/download/tutoriales_linux_202402/08.mp4
 #EXTINF:-1,Was I Really Kidnapped
 https://dl.dropboxusercontent.com/s/4bsnsro00412co4/Gone%20%282019%29.mp4
-#EXTINF:-1,WATCHMEN
-http://archive.org/download/009876/wachbu.mp4
 #EXTINF:-1,Watchmen
 https://dl.dropbox.com/s/paty84gulmhj2ua/watchmen.mkv
+#EXTINF:-1,WATCHMEN
+http://archive.org/download/009876/wachbu.mp4
 #EXTINF:-1,Waterworld
 https://archive.org/download/003_20200426_202004/003.mkv
 #EXTINF:-1,Waterworld
@@ -5334,14 +5437,14 @@ https://archive.org/download/3_20200410/5.mkv
 https://archive.org/download/YoungWarriorsAkaTheGraduatesOfMalibuHigh1982/Young%20Warriors%20aka%20The%20Graduates%20of%20Malibu%20High%20%281982%29-.mp4
 #EXTINF:-1,Z (2019)
 https://archive.org/download/desct/Z.mp4
-#EXTINF:-1,Z (2019)[ENG]
-https://archive.org/download/gravity-2013/Z%20%282019%29.mkv
-#EXTINF:-1,Z (2019)[Eng]
-https://archive.org/download/tutoriales_linux_202402/04.mp4
 #EXTINF:-1,Z (2019)[Eng]
 https://archive.org/download/tutoriales_linux_202402/04.mp4
 #EXTINF:-1,Z (2019)[ENG]
 https://archive.org/download/gravity-2013/Z%20%282019%29.mkv
+#EXTINF:-1,Z (2019)[ENG]
+https://archive.org/download/gravity-2013/Z%20%282019%29.mkv
+#EXTINF:-1,Z (2019)[Eng]
+https://archive.org/download/tutoriales_linux_202402/04.mp4
 #EXTINF:-1,Zack Snyder's Justice League (2021)[DUAL]
 https://archive.org/download/mint_20240311/Tutoriales/Mint.mp4
 #EXTINF:-1,Zack Snyder's Justice League (2021)[ENG]
