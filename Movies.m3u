@@ -1,4 +1,14 @@
 ﻿#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yQ4wWCL/Borderlands-2024.jpg",Borderlands (2024)[ENG]
+https://archive.org/download/01_20240901_20240901_1848/bordados/01.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tZt3LCq/Instigators.jpg",The Instigators (2024)
+https://archive.org/download/01_20240901_20240901_1848/bordados/04.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nML4282/untamed.jpg",Untamed Royals (2024)[ENG]
+https://archive.org/download/01_20240901_20240901_1848/bordados/02.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Jt8rZFy/Deliverance.jpg",The Deliverance (2024)[ENG]
+https://archive.org/download/01_20240901_20240901_1848/bordados/03.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dtvb518/Kinds-of-Kindness-2024.jpg",Kinds of Kindness (2024) [DUAL]
+https://archive.org/download/kind_20240903/Tutoriales/kind.mkv
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wWSXrcL/run.jpg",Run (2020) [DUAL]
 https://archive.org/download/Linux-Tutoriales/tutoriales/01.mkv
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mhVGPPW/Stay-Out-of-the-Attic.jpg",Stay Out of the Attic (2020)[ENG]
