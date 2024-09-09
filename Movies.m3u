@@ -1,4 +1,16 @@
 ﻿#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FJPSST0/100-Feet.jpg",100 Feet (2008)[DUAL]
+https://archive.org/download/03_20240905_20240905_2002/Tutoriales/01.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/G2cX24T/Chime.jpg",Chime (2024)[JAP]
+https://archive.org/download/03_20240905_20240905_2002/Tutoriales/02.mp4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZWnWDRB/Concrete-Utopia.jpg",Concrete Utopia (2023)[DUAL]
+https://archive.org/download/03_20240905_20240905_2002/Tutoriales/03.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cDWNqj4/Faithfully-Yours.jpg",Faithfully Yours (2022)[DE]
+https://archive.org/download/03_20240905_20240905_2002/Tutoriales/04.mp4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nPvSG2c/Trap.jpg",Trap (2024)[DUAL]
+https://archive.org/download/03_20240905_20240905_2002/Tutoriales/05.mp4
 #EXTINF:-1,007 Casino Royale
 http://archive.org/download/mio53_yopmail_5/5.mp4
 #EXTINF:-1,007 El mañana nunca muere
