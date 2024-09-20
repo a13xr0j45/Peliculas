@@ -1,4 +1,12 @@
 ﻿#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8rzh2Y5/Speak-No-Evil-2022.jpg",Speak No Evil (2022)[ENG]
+https://archive.org/download/04_20240920_20240920/LINUX/01.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JCGvF1Y/Sleep-2023.jpg",Sleep (2023)[KOR]
+https://archive.org/download/04_20240920_20240920/LINUX/02.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yfnV08q/Project-Silence.jpg",Project Silence (2024)[KOR]
+https://archive.org/download/04_20240920_20240920/LINUX/03.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/njtYnHw/Cuckoo-2024.jpg",Cuckoo (2024)[ENG]
+https://archive.org/download/04_20240920_20240920/LINUX/04.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KXzLVVq/TheCrow.jpg",The Crow (2024)[ENG]
 https://archive.org/download/sabayon_202409/Linux/01.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jHs2sBf/Afraid.jpg",Afraid (2024)[ENG]
