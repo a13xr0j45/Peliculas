@@ -1,4 +1,10 @@
 ﻿#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0KRtrYp/The-Penguin-500x281.jpg",The Penguin (2024) S01E01 After Hours
+https://archive.org/download/01_20240930_20240930_1306/Mandriva/01.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0KRtrYp/The-Penguin-500x281.jpg",The Penguin (2024) S01E02 Inside Man
+https://archive.org/download/01_20240930_20240930_1306/Mandriva/02.mp4
+
 #EXTINF:-1 tvg-logo="https://ia600801.us.archive.org/6/items/pbx_20240912/pbx/S01/Calls%20%28US%29.jpg",S01E01 The End
 https://archive.org/download/pbx_20240912/pbx/S01/01.mp4
 #EXTINF:-1 tvg-logo="https://ia600801.us.archive.org/6/items/pbx_20240912/pbx/S01/Calls%20%28US%29.jpg",Calls (US) (2021)S01E02 The Beginning
