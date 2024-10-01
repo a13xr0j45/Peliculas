@@ -1,107 +1,100 @@
 ﻿#EXTM3U
-#EXTINF:-1 group-title="The Walking Dead Daryl Dixon (2023)",tvg-logo="https://i.ibb.co/KGRTVJL/The-Walking-Dead-Daryl-Dixon-500x281.jpg",The Walking Dead Daryl Dixon (2023) S01E01 The Kindness of Strangers
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KGRTVJL/The-Walking-Dead-Daryl-Dixon-500x281.jpg" group-title="The Walking Dead Daryl Dixon (2023)",The Walking Dead Daryl Dixon (2023) S01E01 The Kindness of Strangers
 https://archive.org/download/index_20240930/redhat/S02/01.mp4
-
-#EXTINF:-1 group-title="The Penguin (2024)",tvg-logo="https://i.ibb.co/0KRtrYp/The-Penguin-500x281.jpg",The Penguin (2024) S01E01 After Hours
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0KRtrYp/The-Penguin-500x281.jpg" group-title="The Penguin (2024)",The Penguin (2024) S01E01 After Hours
 https://archive.org/download/01_20240930_20240930_1306/Mandriva/01.mp4
-#EXTINF:-1 group-title="The Penguin (2024)",tvg-logo="https://i.ibb.co/0KRtrYp/The-Penguin-500x281.jpg",The Penguin (2024) S01E02 Inside Man
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0KRtrYp/The-Penguin-500x281.jpg" group-title="The Penguin (2024)",The Penguin (2024) S01E02 Inside Man
 https://archive.org/download/01_20240930_20240930_1306/Mandriva/02.mp4
-
-#EXTINF:-1 tvg-logo="https://ia600801.us.archive.org/6/items/pbx_20240912/pbx/S01/Calls%20%28US%29.jpg",Calls (US) (2021) S01E01 The End
+#EXTINF:-1 tvg-logo="https://ia600801.us.archive.org/6/items/pbx_20240912/pbx/S01/Calls%20%28US%29.jpg" group-title="Calls (US) (2021)",Calls (US) (2021) S01E01 The End
 https://archive.org/download/pbx_20240912/pbx/S01/01.mp4
-#EXTINF:-1 tvg-logo="https://ia600801.us.archive.org/6/items/pbx_20240912/pbx/S01/Calls%20%28US%29.jpg",Calls (US) (2021) S01E02 The Beginning
+#EXTINF:-1 tvg-logo="https://ia600801.us.archive.org/6/items/pbx_20240912/pbx/S01/Calls%20%28US%29.jpg" group-title="Calls (US) (2021)",Calls (US) (2021) S01E02 The Beginning
 https://archive.org/download/pbx_20240912/pbx/S01/02.mp4
-#EXTINF:-1 tvg-logo="https://ia600801.us.archive.org/6/items/pbx_20240912/pbx/S01/Calls%20%28US%29.jpg",Calls (US) (2021) S01E03 Pedro Across the Street
+#EXTINF:-1 tvg-logo="https://ia600801.us.archive.org/6/items/pbx_20240912/pbx/S01/Calls%20%28US%29.jpg" group-title="Calls (US) (2021)",Calls (US) (2021) S01E03 Pedro Across the Street
 https://archive.org/download/pbx_20240912/pbx/S01/03.mp4
-#EXTINF:-1 tvg-logo="https://ia600801.us.archive.org/6/items/pbx_20240912/pbx/S01/Calls%20%28US%29.jpg",Calls (US) (2021) S01E04 It's All in Your Head
+#EXTINF:-1 tvg-logo="https://ia600801.us.archive.org/6/items/pbx_20240912/pbx/S01/Calls%20%28US%29.jpg" group-title="Calls (US) (2021)",Calls (US) (2021) S01E04 It's All in Your Head
 https://archive.org/download/pbx_20240912/pbx/S01/04.mp4
-#EXTINF:-1 tvg-logo="https://ia600801.us.archive.org/6/items/pbx_20240912/pbx/S01/Calls%20%28US%29.jpg",Calls (US) (2021) S01E05 Me Myself and Darlene
+#EXTINF:-1 tvg-logo="https://ia600801.us.archive.org/6/items/pbx_20240912/pbx/S01/Calls%20%28US%29.jpg" group-title="Calls (US) (2021)",Calls (US) (2021) S01E05 Me Myself and Darlene
 https://archive.org/download/pbx_20240912/pbx/S01/05.mp4
-#EXTINF:-1 tvg-logo="https://ia600801.us.archive.org/6/items/pbx_20240912/pbx/S01/Calls%20%28US%29.jpg",Calls (US) (2021) S01E06 The Universe Did It
+#EXTINF:-1 tvg-logo="https://ia600801.us.archive.org/6/items/pbx_20240912/pbx/S01/Calls%20%28US%29.jpg" group-title="Calls (US) (2021)",Calls (US) (2021) S01E06 The Universe Did It
 https://archive.org/download/pbx_20240912/pbx/S01/06.mp4
-#EXTINF:-1 tvg-logo="https://ia600801.us.archive.org/6/items/pbx_20240912/pbx/S01/Calls%20%28US%29.jpg",Calls (US) (2021) S01E07 Mom
+#EXTINF:-1 tvg-logo="https://ia600801.us.archive.org/6/items/pbx_20240912/pbx/S01/Calls%20%28US%29.jpg" group-title="Calls (US) (2021)",Calls (US) (2021) S01E07 Mom
 https://archive.org/download/pbx_20240912/pbx/S01/07.mp4
-#EXTINF:-1 tvg-logo="https://ia600801.us.archive.org/6/items/pbx_20240912/pbx/S01/Calls%20%28US%29.jpg",Calls (US) (2021) S01E08 Is There a Scientist on the Plane?
+#EXTINF:-1 tvg-logo="https://ia600801.us.archive.org/6/items/pbx_20240912/pbx/S01/Calls%20%28US%29.jpg" group-title="Calls (US) (2021)",Calls (US) (2021) S01E08 Is There a Scientist on the Plane?
 https://archive.org/download/pbx_20240912/pbx/S01/08.mp4
-#EXTINF:-1 tvg-logo="https://ia600801.us.archive.org/6/items/pbx_20240912/pbx/S01/Calls%20%28US%29.jpg",Calls (US) (2021) S01E09 Leap Year Girl
+#EXTINF:-1 tvg-logo="https://ia600801.us.archive.org/6/items/pbx_20240912/pbx/S01/Calls%20%28US%29.jpg" group-title="Calls (US) (2021)",Calls (US) (2021) S01E09 Leap Year Girl
 https://archive.org/download/pbx_20240912/pbx/S01/09.mp4
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gWp59VV/The-Morning-Show-500x281.jpg",The Morning Show (2019) S01E01 In the Dark Night of the Soul It's Always 3:30 in the Morning
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gWp59VV/The-Morning-Show-500x281.jpg" group-title="The Morning Show (2019)",The Morning Show (2019) S01E01 In the Dark Night of the Soul It's Always 3:30 in the Morning
 https://archive.org/download/index_20240911_0534/Tutoriales/S01/001.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gWp59VV/The-Morning-Show-500x281.jpg",The Morning Show (2019) S01E02 A Seat at the Table
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gWp59VV/The-Morning-Show-500x281.jpg" group-title="The Morning Show (2019)",The Morning Show (2019) S01E02 A Seat at the Table
 https://archive.org/download/index_20240911_0534/Tutoriales/S01/002.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gWp59VV/The-Morning-Show-500x281.jpg",The Morning Show (2019) S01E03 Chaos Is the New Cocaine
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gWp59VV/The-Morning-Show-500x281.jpg" group-title="The Morning Show (2019)",The Morning Show (2019) S01E03 Chaos Is the New Cocaine
 https://archive.org/download/index_20240911_0534/Tutoriales/S01/003.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gWp59VV/The-Morning-Show-500x281.jpg",The Morning Show (2019) S01E04 That Woman
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gWp59VV/The-Morning-Show-500x281.jpg" group-title="The Morning Show (2019)",The Morning Show (2019) S01E04 That Woman
 https://archive.org/download/index_20240911_0534/Tutoriales/S01/004.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gWp59VV/The-Morning-Show-500x281.jpg",The Morning Show (2019) S01E05 No One's Gonna Harm You Not While I'm Around
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gWp59VV/The-Morning-Show-500x281.jpg" group-title="The Morning Show (2019)",The Morning Show (2019) S01E05 No One's Gonna Harm You Not While I'm Around
 https://archive.org/download/index_20240911_0534/Tutoriales/S01/005.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gWp59VV/The-Morning-Show-500x281.jpg",The Morning Show (2019) S01E06 The Pendulum Swings
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gWp59VV/The-Morning-Show-500x281.jpg" group-title="The Morning Show (2019)",The Morning Show (2019) S01E06 The Pendulum Swings
 https://archive.org/download/index_20240911_0534/Tutoriales/S01/006.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gWp59VV/The-Morning-Show-500x281.jpg",The Morning Show (2019) S01E07 Open Waters
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gWp59VV/The-Morning-Show-500x281.jpg" group-title="The Morning Show (2019)",The Morning Show (2019) S01E07 Open Waters
 https://archive.org/download/index_20240911_0534/Tutoriales/S01/007.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gWp59VV/The-Morning-Show-500x281.jpg",The Morning Show (2019) S01E08 Lonely at the Top
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gWp59VV/The-Morning-Show-500x281.jpg" group-title="The Morning Show (2019)",The Morning Show (2019) S01E08 Lonely at the Top
 https://archive.org/download/index_20240911_0534/Tutoriales/S01/008.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gWp59VV/The-Morning-Show-500x281.jpg",The Morning Show (2019) S01E09 Play the Queen
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gWp59VV/The-Morning-Show-500x281.jpg" group-title="The Morning Show (2019)",The Morning Show (2019) S01E09 Play the Queen
 https://archive.org/download/index_20240911_0534/Tutoriales/S01/009.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gWp59VV/The-Morning-Show-500x281.jpg",The Morning Show (2019) S01E10 The Interview
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gWp59VV/The-Morning-Show-500x281.jpg" group-title="The Morning Show (2019)",The Morning Show (2019) S01E10 The Interview
 https://archive.org/download/index_20240911_0534/Tutoriales/S01/010.mp4
-
-#EXTINF:-1 tvg-logo="https://archive.org/download/rhchp/Bridge/Under%20the%20bridge.jpg",Under the Bridge (2024) S01E01 Looking Glass
+#EXTINF:-1 tvg-logo="https://archive.org/download/rhchp/Bridge/Under%20the%20bridge.jpg" group-title="Under the Bridge (2024)",Under the Bridge (2024) S01E01 Looking Glass
 https://archive.org/download/rhchp/Bridge/01.mp4
-#EXTINF:-1 tvg-logo="https://archive.org/download/rhchp/Bridge/Under%20the%20bridge.jpg",Under the Bridge (2024) S01E02 The John Gotti of Seven Oaks
+#EXTINF:-1 tvg-logo="https://archive.org/download/rhchp/Bridge/Under%20the%20bridge.jpg" group-title="Under the Bridge (2024)",Under the Bridge (2024) S01E02 The John Gotti of Seven Oaks
 https://archive.org/download/rhchp/Bridge/02.mp4
-#EXTINF:-1 tvg-logo="https://archive.org/download/rhchp/Bridge/Under%20the%20bridge.jpg",Under the Bridge (2024) S01E03 Blood Oath
+#EXTINF:-1 tvg-logo="https://archive.org/download/rhchp/Bridge/Under%20the%20bridge.jpg" group-title="Under the Bridge (2024)",Under the Bridge (2024) S01E03 Blood Oath
 https://archive.org/download/rhchp/Bridge/03.mp4
-#EXTINF:-1 tvg-logo="https://archive.org/download/rhchp/Bridge/Under%20the%20bridge.jpg",Under the Bridge (2024) S01E04 Beautiful British Columbia
+#EXTINF:-1 tvg-logo="https://archive.org/download/rhchp/Bridge/Under%20the%20bridge.jpg" group-title="Under the Bridge (2024)",Under the Bridge (2024) S01E04 Beautiful British Columbia
 https://archive.org/download/rhchp/Bridge/04.mp4
-#EXTINF:-1 tvg-logo="https://archive.org/download/rhchp/Bridge/Under%20the%20bridge.jpg",Under the Bridge (2024) S01E05 When the Heat Comes Down
+#EXTINF:-1 tvg-logo="https://archive.org/download/rhchp/Bridge/Under%20the%20bridge.jpg" group-title="Under the Bridge (2024)",Under the Bridge (2024) S01E05 When the Heat Comes Down
 https://archive.org/download/rhchp/Bridge/05.mp4
-#EXTINF:-1 tvg-logo="https://archive.org/download/rhchp/Bridge/Under%20the%20bridge.jpg",Under the Bridge (2024) S01E06 In Water They Sink As the Same
+#EXTINF:-1 tvg-logo="https://archive.org/download/rhchp/Bridge/Under%20the%20bridge.jpg" group-title="Under the Bridge (2024)",Under the Bridge (2024) S01E06 In Water They Sink As the Same
 https://archive.org/download/rhchp/Bridge/06.mp4
-#EXTINF:-1 tvg-logo="https://archive.org/download/rhchp/Bridge/Under%20the%20bridge.jpg",Under the Bridge (2024) S01E07 Three and Seven
+#EXTINF:-1 tvg-logo="https://archive.org/download/rhchp/Bridge/Under%20the%20bridge.jpg" group-title="Under the Bridge (2024)",Under the Bridge (2024) S01E07 Three and Seven
 https://archive.org/download/rhchp/Bridge/07.mp4
-#EXTINF:-1 tvg-logo="https://archive.org/download/rhchp/Bridge/Under%20the%20bridge.jpg",Under the Bridge (2024) S01E08 Mercy Alone
+#EXTINF:-1 tvg-logo="https://archive.org/download/rhchp/Bridge/Under%20the%20bridge.jpg" group-title="Under the Bridge (2024)",Under the Bridge (2024) S01E08 Mercy Alone
 https://archive.org/download/rhchp/Bridge/08.mp4
-
-#EXTINF:-1 tvg-logo="https://ia600101.us.archive.org/27/items/06_20240910_20240910_1759/SAP%20HANA/The%20Frog.jpg",The Frog (2024) S01E01 Do You Know What They Call People Like Us?
+#EXTINF:-1 tvg-logo="https://ia600101.us.archive.org/27/items/06_20240910_20240910_1759/SAP%20HANA/The%20Frog.jpg" group-title="The Frog (2024)",The Frog (2024) S01E01 Do You Know What They Call People Like Us?
 https://archive.org/download/06_20240910_20240910_1759/SAP%20HANA/01.mp4
-#EXTINF:-1 tvg-logo="https://ia600101.us.archive.org/27/items/06_20240910_20240910_1759/SAP%20HANA/The%20Frog.jpg",The Frog (2024) S01E02 Who Will Come Knocking on the Door of My Destiny?
+#EXTINF:-1 tvg-logo="https://ia600101.us.archive.org/27/items/06_20240910_20240910_1759/SAP%20HANA/The%20Frog.jpg" group-title="The Frog (2024)",The Frog (2024) S01E02 Who Will Come Knocking on the Door of My Destiny?
 https://archive.org/download/06_20240910_20240910_1759/SAP%20HANA/02.mp4
-#EXTINF:-1 tvg-logo="https://ia600101.us.archive.org/27/items/06_20240910_20240910_1759/SAP%20HANA/The%20Frog.jpg",The Frog (2024) S01E03 As Though You Couldn't Get Me Off Your Mind
+#EXTINF:-1 tvg-logo="https://ia600101.us.archive.org/27/items/06_20240910_20240910_1759/SAP%20HANA/The%20Frog.jpg" group-title="The Frog (2024)",The Frog (2024) S01E03 As Though You Couldn't Get Me Off Your Mind
 https://archive.org/download/06_20240910_20240910_1759/SAP%20HANA/03.mp4
-#EXTINF:-1 tvg-logo="https://ia600101.us.archive.org/27/items/06_20240910_20240910_1759/SAP%20HANA/The%20Frog.jpg",The Frog (2024) S01E04 I Think She Killed a Child
+#EXTINF:-1 tvg-logo="https://ia600101.us.archive.org/27/items/06_20240910_20240910_1759/SAP%20HANA/The%20Frog.jpg" group-title="The Frog (2024)",The Frog (2024) S01E04 I Think She Killed a Child
 https://archive.org/download/06_20240910_20240910_1759/SAP%20HANA/04.mp4
-#EXTINF:-1 tvg-logo="https://ia600101.us.archive.org/27/items/06_20240910_20240910_1759/SAP%20HANA/The%20Frog.jpg",The Frog (2024) S01E05 I'm Just "It" in This Game of Tag
+#EXTINF:-1 tvg-logo="https://ia600101.us.archive.org/27/items/06_20240910_20240910_1759/SAP%20HANA/The%20Frog.jpg" group-title="The Frog (2024)",The Frog (2024) S01E05 I'm Just "It" in This Game of Tag
 https://archive.org/download/06_20240910_20240910_1759/SAP%20HANA/05.mp4
-#EXTINF:-1 tvg-logo="https://ia600101.us.archive.org/27/items/06_20240910_20240910_1759/SAP%20HANA/The%20Frog.jpg",The Frog (2024) S01E06 Dad Will Come Get You
+#EXTINF:-1 tvg-logo="https://ia600101.us.archive.org/27/items/06_20240910_20240910_1759/SAP%20HANA/The%20Frog.jpg" group-title="The Frog (2024)",The Frog (2024) S01E06 Dad Will Come Get You
 https://archive.org/download/06_20240910_20240910_1759/SAP%20HANA/06.mp4
-#EXTINF:-1 tvg-logo="https://ia600101.us.archive.org/27/items/06_20240910_20240910_1759/SAP%20HANA/The%20Frog.jpg",The Frog (2024) S01E07 We'll See the End Together
+#EXTINF:-1 tvg-logo="https://ia600101.us.archive.org/27/items/06_20240910_20240910_1759/SAP%20HANA/The%20Frog.jpg" group-title="The Frog (2024)",The Frog (2024) S01E07 We'll See the End Together
 https://archive.org/download/06_20240910_20240910_1759/SAP%20HANA/07.mp4
-#EXTINF:-1 tvg-logo="https://ia600101.us.archive.org/27/items/06_20240910_20240910_1759/SAP%20HANA/The%20Frog.jpg",The Frog (2024) S01E08 We'll Have a Lot To Talk About
+#EXTINF:-1 tvg-logo="https://ia600101.us.archive.org/27/items/06_20240910_20240910_1759/SAP%20HANA/The%20Frog.jpg" group-title="The Frog (2024)",The Frog (2024) S01E08 We'll Have a Lot To Talk About
 https://archive.org/download/06_20240910_20240910_1759/SAP%20HANA/08.mp4
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Wk7t0p7/Sunny-2024.jpg",Sunny (2024) S01E01 He's in Refrigerators
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Wk7t0p7/Sunny-2024.jpg" group-title="Sunny (2024)",Sunny (2024) S01E01 He's in Refrigerators
 https://archive.org/download/09_20240910_202409/SunMicrosystems/Solaris/01.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Wk7t0p7/Sunny-2024.jpg",Sunny (2024) S01E02 Don't Blame the Machine
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Wk7t0p7/Sunny-2024.jpg" group-title="Sunny (2024)",Sunny (2024) S01E02 Don't Blame the Machine
 https://archive.org/download/09_20240910_202409/SunMicrosystems/Solaris/02.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Wk7t0p7/Sunny-2024.jpg",Sunny (2024) S01E03 Mmmm Hinoki
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Wk7t0p7/Sunny-2024.jpg" group-title="Sunny (2024)",Sunny (2024) S01E03 Mmmm Hinoki
 https://archive.org/download/09_20240910_202409/SunMicrosystems/Solaris/03.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Wk7t0p7/Sunny-2024.jpg",Sunny (2024) S01E04 Sticky
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Wk7t0p7/Sunny-2024.jpg" group-title="Sunny (2024)",Sunny (2024) S01E04 Sticky
 https://archive.org/download/09_20240910_202409/SunMicrosystems/Solaris/04.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Wk7t0p7/Sunny-2024.jpg",Sunny (2024) S01E05 Joey Sakamoto
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Wk7t0p7/Sunny-2024.jpg" group-title="Sunny (2024)",Sunny (2024) S01E05 Joey Sakamoto
 https://archive.org/download/09_20240910_202409/SunMicrosystems/Solaris/05.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Wk7t0p7/Sunny-2024.jpg",Sunny (2024) S01E06 Kyoto Manjū So Delicious
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Wk7t0p7/Sunny-2024.jpg" group-title="Sunny (2024)",Sunny (2024) S01E06 Kyoto Manjū So Delicious
 https://archive.org/download/09_20240910_202409/SunMicrosystems/Solaris/06.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Wk7t0p7/Sunny-2024.jpg",Sunny (2024) S01E07 There's Been a Shift
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Wk7t0p7/Sunny-2024.jpg" group-title="Sunny (2024)",Sunny (2024) S01E07 There's Been a Shift
 https://archive.org/download/09_20240910_202409/SunMicrosystems/Solaris/07.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Wk7t0p7/Sunny-2024.jpg",Sunny (2024) S01E08 Trash or Not-Trash
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Wk7t0p7/Sunny-2024.jpg" group-title="Sunny (2024)",Sunny (2024) S01E08 Trash or Not-Trash
 https://archive.org/download/09_20240910_202409/SunMicrosystems/Solaris/08.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Wk7t0p7/Sunny-2024.jpg",Sunny (2024) S01E09 Who's in the Box?
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Wk7t0p7/Sunny-2024.jpg" group-title="Sunny (2024)",Sunny (2024) S01E09 Who's in the Box?
 https://archive.org/download/09_20240910_202409/SunMicrosystems/Solaris/09.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Wk7t0p7/Sunny-2024.jpg",Sunny (2024) S01E10 The Dark Manual
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Wk7t0p7/Sunny-2024.jpg" group-title="Sunny (2024)",Sunny (2024) S01E10 The Dark Manual
 https://archive.org/download/09_20240910_202409/SunMicrosystems/Solaris/10.mp4
-
 #EXTINF:-1 group-title="28 Days Haunted (2022)",28 Days Haunted (2022) S01E01 Day One
 https://archive.org/download/202406/linux/S01/01.mp4
 #EXTINF:-1 group-title="28 Days Haunted (2022)",28 Days Haunted (2022) S01E02 Get Out!
