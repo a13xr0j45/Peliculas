@@ -1,29 +1,29 @@
 ﻿#EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ibb.co/KGRTVJL/The-Walking-Dead-Daryl-Dixon-500x281.jpg",The Walking Dead Daryl Dixon S01E01 The Kindness of Strangers
+#EXTINF:-1 group-title="The Walking Dead Daryl Dixon (2023)",tvg-logo="https://i.ibb.co/KGRTVJL/The-Walking-Dead-Daryl-Dixon-500x281.jpg",The Walking Dead Daryl Dixon (2023) S01E01 The Kindness of Strangers
 https://archive.org/download/index_20240930/redhat/S02/01.mp4
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0KRtrYp/The-Penguin-500x281.jpg",The Penguin (2024) S01E01 After Hours
+#EXTINF:-1 group-title="The Penguin (2024)",tvg-logo="https://i.ibb.co/0KRtrYp/The-Penguin-500x281.jpg",The Penguin (2024) S01E01 After Hours
 https://archive.org/download/01_20240930_20240930_1306/Mandriva/01.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0KRtrYp/The-Penguin-500x281.jpg",The Penguin (2024) S01E02 Inside Man
+#EXTINF:-1 group-title="The Penguin (2024)",tvg-logo="https://i.ibb.co/0KRtrYp/The-Penguin-500x281.jpg",The Penguin (2024) S01E02 Inside Man
 https://archive.org/download/01_20240930_20240930_1306/Mandriva/02.mp4
 
-#EXTINF:-1 tvg-logo="https://ia600801.us.archive.org/6/items/pbx_20240912/pbx/S01/Calls%20%28US%29.jpg",S01E01 The End
+#EXTINF:-1 tvg-logo="https://ia600801.us.archive.org/6/items/pbx_20240912/pbx/S01/Calls%20%28US%29.jpg",Calls (US) (2021) S01E01 The End
 https://archive.org/download/pbx_20240912/pbx/S01/01.mp4
-#EXTINF:-1 tvg-logo="https://ia600801.us.archive.org/6/items/pbx_20240912/pbx/S01/Calls%20%28US%29.jpg",Calls (US) (2021)S01E02 The Beginning
+#EXTINF:-1 tvg-logo="https://ia600801.us.archive.org/6/items/pbx_20240912/pbx/S01/Calls%20%28US%29.jpg",Calls (US) (2021) S01E02 The Beginning
 https://archive.org/download/pbx_20240912/pbx/S01/02.mp4
-#EXTINF:-1 tvg-logo="https://ia600801.us.archive.org/6/items/pbx_20240912/pbx/S01/Calls%20%28US%29.jpg",S01E03 Pedro Across the Street
+#EXTINF:-1 tvg-logo="https://ia600801.us.archive.org/6/items/pbx_20240912/pbx/S01/Calls%20%28US%29.jpg",Calls (US) (2021) S01E03 Pedro Across the Street
 https://archive.org/download/pbx_20240912/pbx/S01/03.mp4
-#EXTINF:-1 tvg-logo="https://ia600801.us.archive.org/6/items/pbx_20240912/pbx/S01/Calls%20%28US%29.jpg",S01E04 It's All in Your Head
+#EXTINF:-1 tvg-logo="https://ia600801.us.archive.org/6/items/pbx_20240912/pbx/S01/Calls%20%28US%29.jpg",Calls (US) (2021) S01E04 It's All in Your Head
 https://archive.org/download/pbx_20240912/pbx/S01/04.mp4
-#EXTINF:-1 tvg-logo="https://ia600801.us.archive.org/6/items/pbx_20240912/pbx/S01/Calls%20%28US%29.jpg",S01E05 Me, Myself and Darlene
+#EXTINF:-1 tvg-logo="https://ia600801.us.archive.org/6/items/pbx_20240912/pbx/S01/Calls%20%28US%29.jpg",Calls (US) (2021) S01E05 Me Myself and Darlene
 https://archive.org/download/pbx_20240912/pbx/S01/05.mp4
-#EXTINF:-1 tvg-logo="https://ia600801.us.archive.org/6/items/pbx_20240912/pbx/S01/Calls%20%28US%29.jpg",S01E06 The Universe Did It
+#EXTINF:-1 tvg-logo="https://ia600801.us.archive.org/6/items/pbx_20240912/pbx/S01/Calls%20%28US%29.jpg",Calls (US) (2021) S01E06 The Universe Did It
 https://archive.org/download/pbx_20240912/pbx/S01/06.mp4
-#EXTINF:-1 tvg-logo="https://ia600801.us.archive.org/6/items/pbx_20240912/pbx/S01/Calls%20%28US%29.jpg",S01E07 Mom
+#EXTINF:-1 tvg-logo="https://ia600801.us.archive.org/6/items/pbx_20240912/pbx/S01/Calls%20%28US%29.jpg",Calls (US) (2021) S01E07 Mom
 https://archive.org/download/pbx_20240912/pbx/S01/07.mp4
-#EXTINF:-1 tvg-logo="https://ia600801.us.archive.org/6/items/pbx_20240912/pbx/S01/Calls%20%28US%29.jpg",S01E08 Is There a Scientist on the Plane?
+#EXTINF:-1 tvg-logo="https://ia600801.us.archive.org/6/items/pbx_20240912/pbx/S01/Calls%20%28US%29.jpg",Calls (US) (2021) S01E08 Is There a Scientist on the Plane?
 https://archive.org/download/pbx_20240912/pbx/S01/08.mp4
-#EXTINF:-1 tvg-logo="https://ia600801.us.archive.org/6/items/pbx_20240912/pbx/S01/Calls%20%28US%29.jpg",S01E09 Leap Year Girl
+#EXTINF:-1 tvg-logo="https://ia600801.us.archive.org/6/items/pbx_20240912/pbx/S01/Calls%20%28US%29.jpg",Calls (US) (2021) S01E09 Leap Year Girl
 https://archive.org/download/pbx_20240912/pbx/S01/09.mp4
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gWp59VV/The-Morning-Show-500x281.jpg",The Morning Show (2019) S01E01 In the Dark Night of the Soul It's Always 3:30 in the Morning
