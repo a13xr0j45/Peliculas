@@ -1,5 +1,7 @@
 ﻿#EXTM3U
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/K7gf9h6/Robot-salvaje.jpg",Robot salvaje (2024)
+https://archive.org/download/1_20241003_20241003_1434/linux/1.mp4 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SdMShCB/Sinister-2012.jpg",Sinister (2012)[ENG]
 https://archive.org/download/dia-de-muertos_202409/UPLOAD/01.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N15stHn/Sinister-2-2015.jpg",Sinister 2 (2015)[ENG]
