@@ -1,5 +1,11 @@
 ﻿#EXTM3U
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wyyLkRg/The-Platform-2-2024.jpg",The Platform 2 (2024)[DUAL]
+https://archive.org/download/01_20241006/linux/01.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sWRh25w/Wolfs-2024.jpg",Wolfs (2024)[DUAL]
+https://archive.org/download/01_20241006/linux/02.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xLDCSmq/Darker-Than-Night-2014.jpg",Darker Than Night (2014)[DUAL]
+https://archive.org/download/01_20241006/linux/03.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wJbDPZX/The-Exorcism.jpg",The Exorcism (2024)[DUAL]
 https://archive.org/download/03_20241006/linux/01.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Z2VH7fZ/constantine.jpg",Constantine (2005)[DUAL]
