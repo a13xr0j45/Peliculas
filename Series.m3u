@@ -1,6 +1,17 @@
 ﻿#EXTM3U
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KGRTVJL/The-Walking-Dead-Daryl-Dixon-500x281.jpg" group-title="The Walking Dead Daryl Dixon (2023)",The Walking Dead Daryl Dixon (2023) S01E01 The Kindness of Strangers
 https://archive.org/download/index_20240930/redhat/S02/01.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KGRTVJL/The-Walking-Dead-Daryl-Dixon-500x281.jpg" group-title="The Walking Dead Daryl Dixon (2023)",The Walking Dead Daryl Dixon (2023) S01E02 Moulin Rouge
+https://archive.org/download/index_20240930/redhat/S02/02.mkv
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KGRTVJL/The-Walking-Dead-Daryl-Dixon-500x281.jpg" group-title="The Walking Dead Daryl Dixon (2023)",The Walking Dead Daryl Dixon (2023) S01E03 L'Invisible
+https://archive.org/download/index_20240930/redhat/S02/03.mkv
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KGRTVJL/The-Walking-Dead-Daryl-Dixon-500x281.jpg" group-title="The Walking Dead Daryl Dixon (2023)",The Walking Dead Daryl Dixon (2023) S01E04 La Paradis Pour Toi
+https://archive.org/download/index_20240930/redhat/S02/04.mkv
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KGRTVJL/The-Walking-Dead-Daryl-Dixon-500x281.jpg" group-title="The Walking Dead Daryl Dixon (2023)",The Walking Dead Daryl Dixon (2023) S01E05 Vouloir C'est Pouvoir
+https://archive.org/download/index_20240930/redhat/S02/05.mkv
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KGRTVJL/The-Walking-Dead-Daryl-Dixon-500x281.jpg" group-title="The Walking Dead Daryl Dixon (2023)",The Walking Dead Daryl Dixon (2023) S01E06 Au Revoir les Enfants
+https://archive.org/download/index_20240930/redhat/S02/06.mkv
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0KRtrYp/The-Penguin-500x281.jpg" group-title="The Penguin (2024)",The Penguin (2024) S01E01 After Hours
 https://archive.org/download/01_20240930_20240930_1306/Mandriva/01.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0KRtrYp/The-Penguin-500x281.jpg" group-title="The Penguin (2024)",The Penguin (2024) S01E02 Inside Man
