@@ -1,16 +1,24 @@
 ﻿#EXTM3U
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wJbDPZX/The-Exorcism.jpg",The Exorcism (2024)[DUAL]
+https://archive.org/download/03_20241006/linux/01.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Z2VH7fZ/constantine.jpg",Constantine (2005)[DUAL]
+https://archive.org/download/03_20241006/linux/02.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9tvbj3B/Past-Lives-2023.jpg",Past Lives (2023)[ENG]
+https://archive.org/download/03_20241006/linux/03.mp4
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SXWRw7v/one-Missed-Call.jpg",One Missed Call (2003)
 https://archive.org/download/02_20241006_20241006_1822/BSD/01.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zfczG6v/one-Missed-Call2.jpg",One Missed Call 2 (2005)
 https://archive.org/download/02_20241006_20241006_1822/BSD/02.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zZKJHgg/one-Missed-Call3.jpg",One Missed Call 3 Final (2006)
 https://archive.org/download/02_20241006_20241006_1822/BSD/03.mp4
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/K7gf9h6/Robot-salvaje.jpg",Robot salvaje (2024)[DUAL]
 https://archive.org/download/1_20241003_20241003_1434/linux/1.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kJvV68m/Salem-s-Lot-2024.jpg",Salem's Lot (2024)[DUAL]
 https://archive.org/download/1_20241003_20241003_1434/linux/2.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8rzh2Y5/Speak-No-Evil-2022.jpg",Speak No Evil (2022)[ENG]
+https://archive.org/download/04_20240920_20240920/LINUX/01.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/txRjfZH/Speak-No-Evil-2024.jpg",Speak No Evil (2024)[DUAL]
 https://archive.org/download/1_20241003_20241003_1434/linux/3.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cyKCP4Y/Apartment-7-A.jpg",Apartment 7A (2024)[DUAL]
@@ -25,8 +33,6 @@ https://archive.org/download/dia-de-muertos_202409/UPLOAD/03.mp4
 https://archive.org/download/dia-de-muertos_202409/UPLOAD/04.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KXzLVVq/TheCrow.jpg",The Crow (2024)[ENG]
 https://archive.org/download/sabayon_202409/Linux/01.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8rzh2Y5/Speak-No-Evil-2022.jpg",Speak No Evil (2022)[ENG]
-https://archive.org/download/04_20240920_20240920/LINUX/01.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JCGvF1Y/Sleep-2023.jpg",Sleep (2023)[KOR]
 https://archive.org/download/04_20240920_20240920/LINUX/02.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yfnV08q/Project-Silence.jpg",Project Silence (2024)[KOR]
