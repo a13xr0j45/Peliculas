@@ -1,5 +1,11 @@
 ﻿#EXTM3U
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GJXMP3t/Beetlejuice-Beetlejuice-2024.jpg",Beetlejuice Beetlejuice (2024)[DUAL]
+https://archive.org/download/01_20241009/Halloween/01.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TtV32z4/V-H-S-Beyond-2024.jpg",V-H-S-Beyond (2024)[ENG
+https://archive.org/download/01_20241009/Halloween/02.mp4
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wyyLkRg/The-Platform-2-2024.jpg",The Platform 2 (2024)[DUAL]
 https://archive.org/download/01_20241006/linux/01.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sWRh25w/Wolfs-2024.jpg",Wolfs (2024)[DUAL]
