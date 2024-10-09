@@ -1,4 +1,8 @@
 ﻿#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tKf5KDX/Garfield-La-pel-cula-2024.jpg",The Garfield Movie (2024)[DUAL]
+https://archive.org/download/perifericos_202407/upload/perifericos.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/K7gf9h6/Robot-salvaje.jpg",Robot salvaje (2024)[DUAL]
+https://archive.org/download/1_20241003_20241003_1434/linux/1.mp4
 #EXTINF:-1,101 dalmatas
 https://dl.dropboxusercontent.com/s/wmlamexvl327mth/101.1961.mp4
 #EXTINF:-1,22 contra el Mundo (2021)
