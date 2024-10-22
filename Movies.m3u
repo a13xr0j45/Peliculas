@@ -1,7 +1,8 @@
 ﻿#EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ZY61x1C/The-Substance-2024.jpg",The Substance (2024)[DUAL]
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/m6nP4Jf3I0m2064wpGU8Sx3Nzya.jpg",The Substance (2024)[DUAL]
 https://dl.dropbox.com/scl/fi/glmaudmqyjaej9eockusr/The-Substance-2024-DUAL.mp4?rlkey=okzg4ggm64a7d476xzh9quaq3
-#EXTINF:-1,10 cosas que debemos hacer antes de separarnos
+
+#EXTINF:-1tvg-logo="https://image.tmdb.org/t/p/original/cWXlmLf1csWEdnq20v7Va6nPlAw.jpg",10 Things We Should Do Before We Break Up (2020)[ESP]
 https://dl.dropbox.com/s/l1l2ietud29v27x/10.Things.Before.We.Break.Up.mp4
 #EXTINF:-1,10 Minutos Para Morir
 https://dl.dropboxusercontent.com/s/gudmdnmk6qxyyln/angeles%20de%20charly.mp4
