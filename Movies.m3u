@@ -25,22 +25,21 @@ https://archive.org/download/dheriveichon_202005/Jugoz/21RPLT.avi
 https://archive.org/download/comando-especial_202106/Comando%20Especial.avi
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/40bfdmaoscXkGpcDmSqeIjGIL0z.jpg",22 Bullets (2010)
 https://archive.org/download/22b4l42/22%20B4L42.mp4
-
-#EXTINF:-1,22 Jump Street (2014)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/i6hKDzKytkVxDBQ4beYgKfdSjlZ.jpg",22 Jump Street (2014)
 https://archive.org/download/comando-especial-2_202106/Comando%20Especial%202.avi
-#EXTINF:-1,3 From Hell (2019)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/54xBFHgzu6AK43cV0w6ysYwXK2K.jpg",3 From Hell (2019)
 https://archive.org/download/hell_20200522/hell.mp4
-#EXTINF:-1,3 IDIOTAS
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/73icc1rjNGZwuAa9Ife6frwHQnN.jpg",3 Idiotas (2017)
 http://ia601405.us.archive.org/26/items/000_20200306_202003/03.mp4
-#EXTINF:-1,3 lancheros muy picudos
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/u2G42nQcR6a7xgcxTZ3aPnaDgjm.jpg",Tres lancheros muy picudos (1989)
 https://archive.org/download/dedede-1/3%20l4nch3r0s%20p1cud05.mp4
-#EXTINF:-1,300
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/9BwIgrRbqo9OlWdO8gJ6klv8Qzv.jpg",300 (2007)
 https://ia601509.us.archive.org/32/items/nhu9tdftu/nhu9tdftu.mp4
-#EXTINF:-1,300 NACIMIENTO DE UN IMPERIO
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/q9QKBXDoR58omzgsMGMSLzXP6ug.jpg",300 Rise of an Empire (2014)
 http://archive.org/download/1589567773091/7R35C13IAN705.mp4
-#EXTINF:-1,300: El nacimiento de un imperio
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/q9QKBXDoR58omzgsMGMSLzXP6ug.jpg",300 Rise of an Empire (2014)
 https://ia601509.us.archive.org/32/items/nhu9tdftu/bvuwv.mp4
-#EXTINF:-1,31 Minutos la pelicula
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/c2FSMzDP5iElh6zVg1yZrZkuUus.jpg",31 Minutos la película (2008)
 http://archive.org/download/31m1nu70/31M%2C%20La%20Pelicula.mp4
 #EXTINF:-1,32 Malasana Street (2020)
 https://archive.org/download/32_20200416/32.mkv
@@ -64,8 +63,6 @@ https://dl.dropbox.com/s/0u75i49lo9svau3/7500.2019.mp4
 http://ia601509.us.archive.org/23/items/000_20200122_202001/2.mp4
 #EXTINF:-1,A DOS METROS DE TI
 http://archive.org/download/rasecaral42_gmail_45/P/2mtu.mkv
-#EXTINF:-1,A Ghost Story (2017)[DUAL]
-https://archive.org/download/tutoriales_linux_202402/03.mp4
 #EXTINF:-1,A Ghost Story (2017)[DUAL]
 https://archive.org/download/tutoriales_linux_202402/03.mp4
 #EXTINF:-1,A Gruta (2020)
@@ -96,7 +93,7 @@ http://archive.org/download/5_20200304_20200304/7.mp4
 https://archive.org/download/ck-2_20210106/V3NT4N4.mp4
 #EXTINF:-1,A Walk Among the Tombstones (2014)[Eng]
 https://archive.org/download/linuxmint_202101/A%20Walk%20Among%20the%20Tombstones%20%282014%29.mkv
-#EXTINF:-1,a-nice-girl-like you
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/3YRRtagiM4j0dMPsSUPppFNsI6o.jpg",A Nice Girl Like You (2020)
 https://archive.org/download/a-nice-girl-like-you/a%20nice%20girl%20like%20you.mp4
 #EXTINF:-1,A.X.L
 https://archive.org/download/ax_20200528/ax.mp4
@@ -5370,8 +5367,6 @@ https://dl.dropbox.com/s/tucatoky8nnj3t9/xm3nd4rkph03n1x.mp4
 https://archive.org/download/00300_201909/00300.mkv
 #EXTINF:-1,Xtremo
 https://archive.org/download/dfrte/xtr3m.mp4
-#EXTINF:-1,Xtremo
-https://archive.org/download/dfrte/xtr3m.mp4
 #EXTINF:-1,Y DONDE ESTA EL FANTASMA
 http://archive.org/download/5_20200328_20200328/7.mp4
 #EXTINF:-1,Y DONDE ESTAN LAS RUBIAS (OPC2)
@@ -5382,16 +5377,10 @@ https://dl.dropboxusercontent.com/s/tclmbcxx96qajlu/Ya%20no%20estoy%20aqui%20%28
 http://archive.org/download/y-4-n-0-35-t-0-y-4-qu-1/Y4%20N0%2035T0Y%204QU1.mp4
 #EXTINF:-1,Yesterday
 https://archive.org/download/delfin_202004/delfin/delfin.mkv
-#EXTINF:-1,Yesterday
-https://archive.org/download/delfin_202004/delfin/delfin.mkv
-#EXTINF:-1,Yesterday
-https://archive.org/download/delfin_202004/delfin/delfin.mkv
 #EXTINF:-1,Yo antes de ti
 https://dl.dropbox.com/s/xxg9rsq88z0yjx9/eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjpbIjIwMC4yNC4xOTYuNyIsIm44cThkbnJjNzI2NyIsIm4iLDFdLCJleHAiOjE1OTE2MzI3NDB9.8lpCLW4cbLlF686ojy2OkCStqBVSsXDYUHiJNzn9iaM.mp4
 #EXTINF:-1,Yo Soy Muy Macho (1953)
 https://ia801502.us.archive.org/32/items/YoSoyMuyMachoSilviaPinal/Yo%20Soy%20Muy%20Macho%20-%20Silvia%20Pinal.mp4
-#EXTINF:-1,Yojimbo
-https://archive.org/download/faraon/faraon/faraon.mkv
 #EXTINF:-1,Yojimbo
 https://archive.org/download/faraon/faraon/faraon.mkv
 #EXTINF:-1,Yojimbo
@@ -5410,14 +5399,10 @@ https://archive.org/download/desct/Z.mp4
 https://archive.org/download/tutoriales_linux_202402/04.mp4
 #EXTINF:-1,Z (2019)[ENG]
 https://archive.org/download/gravity-2013/Z%20%282019%29.mkv
-#EXTINF:-1,Z (2019)[ENG]
-https://archive.org/download/gravity-2013/Z%20%282019%29.mkv
 #EXTINF:-1,Z (2019)[Eng]
 https://archive.org/download/tutoriales_linux_202402/04.mp4
 #EXTINF:-1,Zack Snyder's Justice League (2021)[DUAL]
 https://archive.org/download/mint_20240311/Tutoriales/Mint.mp4
-#EXTINF:-1,Zack Snyder's Justice League (2021)[ENG]
-https://archive.org/download/12_20210412_202104/tutoriales/20.mkv
 #EXTINF:-1,Zack Snyder's Justice League (2021)[ENG]
 https://archive.org/download/12_20210412_202104/tutoriales/20.mkv
 #EXTINF:-1,Zack Snyders La Liga de La Justicia
@@ -5444,7 +5429,5 @@ http://archive.org/download/ch-1-q-1-t-0-p-3-r-0-p-3-l-1-gr-0-s-0/Z0MB1N4Z1.mp4
 https://archive.org/download/ck-2_20210106/3334/joebla.mp4
 #EXTINF:-1,¿Cuánto Vale La Vida? (2021)
 https://archive.org/download/00-coco/CU4NT0V4L3L4V1D4.mp4
-#EXTINF:-1,Érase una vez en México (2003)
-https://archive.org/download/sciyt/Mhuc/11up.avi
 #EXTINF:-1,Érase una vez en México (2003)
 https://archive.org/download/sciyt/Mhuc/11up.avi
