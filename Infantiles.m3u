@@ -1,4 +1,5 @@
 ﻿#EXTM3U
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tKf5KDX/Garfield-La-pel-cula-2024.jpg",The Garfield Movie (2024)[DUAL]
 https://archive.org/download/perifericos_202407/upload/perifericos.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/K7gf9h6/Robot-salvaje.jpg",Robot salvaje (2024)[DUAL]
@@ -9,6 +10,8 @@ https://dl.dropboxusercontent.com/s/wmlamexvl327mth/101.1961.mp4
 https://dl.dropbox.com/s/iksztbi5m65fl0r/22%20contra%20la%20Tierra%20%282021%29%20HD%201080p%20Latino.mkv
 #EXTINF:-1,Abracadabra Redoblaje latino
 https://dl.dropbox.com/s/7m4n4bs98g27ntq/4br4c4d4br4%20r3d0bl4j3.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/nhDIex7976ORDopTZ77nN0jIzVd.jpg",22 vs. Earth (2021)
+https://dl.dropbox.com/s/iksztbi5m65fl0r/22%20contra%20la%20Tierra%20%282021%29%20HD%201080p%20Latino.mkv
 #EXTINF:-1,Agente 00 Gato (2018)
 https://archive.org/download/agnt_20210627/41lol02/agnt.mp4
 #EXTINF:-1,Aladdin
