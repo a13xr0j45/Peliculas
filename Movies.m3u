@@ -1,5 +1,16 @@
 ﻿#EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ibb.co/r2GpynF/Smile-2-2024.jpg",Smile (2024)[ENG]
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/b1fbVvn/Skincare-2024.jpg",Skincare (2024)[DUAL]
+https://archive.org/download/fedora_202411/linux/LinuxMint.mkv
+#EXTINF:-1 tvg-logo="https://i.ibb.co/80BqYMb/Las-t-as-2024.jpg",Las tías (2024)[ESP]
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cgQT7rD/GTMAX-2024.jpg",GTMAX (2024)[DUAL]
+https://archive.org/download/fedora_202411/linux/OpenBSD.mkv
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VBNnKRc/Terrifier-3-2024.jpg",Terrifier 3 (2024)[DUAL]
+https://archive.org/download/fedora_202411/linux/Debian.mkv
+#EXTINF:-1 tvg-logo="s://i.ibb.co/r2GpynF/Smile-2-2024.jpg",Smile 2 (2024)[DUAL]
+https://archive.org/download/fedora_202411/linux/Fedora.mkv
+#EXTINF:-1 tvg-logo="https://i.ibb.co/r2GpynF/Smile-2-2024.jpg",Smile 2 (2024)[ENG]
 https://archive.org/download/ubuntu-server/linux/ubuntu/UbuntuServer.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Zc0fGVZ/Don-t-Move.jpg",Don_t Move (2024)[ENG]
 https://archive.org/download/02_20241115_20241115/UPLOAD/linux/01.mp4
