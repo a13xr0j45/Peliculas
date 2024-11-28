@@ -1,5 +1,9 @@
 ﻿#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fvtGLQ0/Conclave-2024.jpg",Conclave (2024)[DUAL]
+https://archive.org/download/01_20241128/Mandriva/01.mp4
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QrZb5sm/Alice-2024.jpg",Alice (2024)[DUAL]
+https://archive.org/download/01_20241113_20241113_2102/Blue/01.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HzrNdYq/Dear-Santa-2024.jpg",Dear Santa (2024)[DUAL]
 https://archive.org/download/01_20241113_20241113_2102/red/01.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/b1fbVvn/Skincare-2024.jpg",Skincare (2024)[DUAL]
