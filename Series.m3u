@@ -1,5 +1,5 @@
 ﻿#EXTM3U
-<<<<<<< HEAD
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cggf2sh/Before-2024.jpg",Before (2024) S01E01 The Imposter
 https://archive.org/download/01_20241128/Linux/S01/01.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cggf2sh/Before-2024.jpg",Before (2024) S01E02 The Scientist
@@ -54,8 +54,6 @@ https://archive.org/download/index_20241126/Coins/S02/07.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YfWxQR5/01-mp4-snapshot-00-05-22-380.jpg",S02E08 El ojo de Dios
 https://archive.org/download/index_20241126/Coins/S02/08.mp4
 
-=======
->>>>>>> afbc8cc2a86cc6ceb4708a7806881a24bacd56a0
 #EXTINF:-1 group-title="28 Days Haunted (2022)",28 Days Haunted (2022) S01E01 Day One
 https://archive.org/download/202406/linux/S01/01.mp4
 #EXTINF:-1 group-title="28 Days Haunted (2022)",28 Days Haunted (2022) S01E02 Get Out!
