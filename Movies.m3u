@@ -1,4 +1,9 @@
 ﻿#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qnY861m/Husk-2011.jpg",Husk (2011)[DUAL]
+https://archive.org/download/01_20241129_20241129_2041/Linux/01/01.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rc8B8QQ/The-Holiday-2006.jpg",The Holiday (2006)[DUAL]
+https://archive.org/download/01_20241129_20241129_2041/Linux/01/01.mp4
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fvtGLQ0/Conclave-2024.jpg",Conclave (2024)[DUAL]
 https://archive.org/download/01_20241128/Mandriva/01.mp4
 
