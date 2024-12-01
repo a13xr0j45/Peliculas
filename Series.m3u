@@ -1,4 +1,24 @@
 ﻿#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ibb.co/b7nGKRB/Cada-minuto-cuenta-2024.jpg" group-title="Cada minuto cuenta (2024)",Cada minuto cuenta (2024) S01E01 7:19 AM
+https://archive.org/download/04_20241130_202411/Linux/S01/01.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/b7nGKRB/Cada-minuto-cuenta-2024.jpg" group-title="Cada minuto cuenta (2024)",Cada minuto cuenta (2024) S01E02	8:00 AM
+https://archive.org/download/04_20241130_202411/Linux/S01/02.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/b7nGKRB/Cada-minuto-cuenta-2024.jpg" group-title="Cada minuto cuenta (2024)",Cada minuto cuenta (2024) S01E03	9:00 AM
+https://archive.org/download/04_20241130_202411/Linux/S01/03.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/b7nGKRB/Cada-minuto-cuenta-2024.jpg" group-title="Cada minuto cuenta (2024)",Cada minuto cuenta (2024) S01E04	10:00 AM
+https://archive.org/download/04_20241130_202411/Linux/S01/04.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/b7nGKRB/Cada-minuto-cuenta-2024.jpg" group-title="Cada minuto cuenta (2024)",Cada minuto cuenta (2024) S01E05	11:00 AM
+https://archive.org/download/04_20241130_202411/Linux/S01/05.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/b7nGKRB/Cada-minuto-cuenta-2024.jpg" group-title="Cada minuto cuenta (2024)",Cada minuto cuenta (2024) S01E06	12:00 PM
+https://archive.org/download/04_20241130_202411/Linux/S01/06.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/b7nGKRB/Cada-minuto-cuenta-2024.jpg" group-title="Cada minuto cuenta (2024)",Cada minuto cuenta (2024) S01E07	01:00 PM
+https://archive.org/download/04_20241130_202411/Linux/S01/07.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/b7nGKRB/Cada-minuto-cuenta-2024.jpg" group-title="Cada minuto cuenta (2024)",Cada minuto cuenta (2024) S01E08	02:00 PM
+https://archive.org/download/04_20241130_202411/Linux/S01/08.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/b7nGKRB/Cada-minuto-cuenta-2024.jpg" group-title="Cada minuto cuenta (2024)",Cada minuto cuenta (2024) S01E09	03:00 PM
+https://archive.org/download/04_20241130_202411/Linux/S01/09.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/b7nGKRB/Cada-minuto-cuenta-2024.jpg" group-title="Cada minuto cuenta (2024)",Cada minuto cuenta (2024) S01E10	04:00 PM
+https://archive.org/download/04_20241130_202411/Linux/S01/10.mp4
 #EXTINF:-1 group-title="28 Days Haunted (2022)",28 Days Haunted (2022) S01E01 Day One
 https://archive.org/download/202406/linux/S01/01.mp4
 #EXTINF:-1 group-title="28 Days Haunted (2022)",28 Days Haunted (2022) S01E02 Get Out!
