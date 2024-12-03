@@ -1,4 +1,21 @@
 ﻿#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BsHWYJs/Teacup-2024.jpg" group-title="Teacup (2024)",Teacup (2024) S01E01 Think About the Bubbles
+https://archive.org/download/08_20241203/S01/01.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BsHWYJs/Teacup-2024.jpg" group-title="Teacup (2024)",Teacup (2024) S01E02 My Little Lighthouse
+https://archive.org/download/08_20241203/S01/02.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BsHWYJs/Teacup-2024.jpg" group-title="Teacup (2024)",Teacup (2024) S01E03 Quiet for No Reason
+https://archive.org/download/08_20241203/S01/03.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BsHWYJs/Teacup-2024.jpg" group-title="Teacup (2024)",Teacup (2024) S01E04 In the Heart of the Country
+https://archive.org/download/08_20241203/S01/04.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BsHWYJs/Teacup-2024.jpg" group-title="Teacup (2024)",Teacup (2024) S01E05 I'm a Witness to the Sickness
+https://archive.org/download/08_20241203/S01/05.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BsHWYJs/Teacup-2024.jpg" group-title="Teacup (2024)",Teacup (2024) S01E06 You Don't Know What It Means to Win
+https://archive.org/download/08_20241203/S01/06.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BsHWYJs/Teacup-2024.jpg" group-title="Teacup (2024)",Teacup (2024) S01E07 This Is Nowhere (1)
+https://archive.org/download/08_20241203/S01/07.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BsHWYJs/Teacup-2024.jpg" group-title="Teacup (2024)",Teacup (2024) S01E08 This Is Nowhere (2)
+https://archive.org/download/08_20241203/S01/08.mp4
+
 #EXTINF:-1 group-title="28 Days Haunted (2022)",28 Days Haunted (2022) S01E01 Day One
 https://archive.org/download/202406/linux/S01/01.mp4
 #EXTINF:-1 group-title="28 Days Haunted (2022)",28 Days Haunted (2022) S01E02 Get Out!
