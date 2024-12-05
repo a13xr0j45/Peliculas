@@ -1,15 +1,14 @@
 ﻿#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dKP524h/The-Mistress-2023.jpg",The Mistress (2023)[DUAL]
+https://archive.org/download/06_20241202/Videotutoriales/01.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CHHqysc/Juror-2-2024.jpg",Juror #2 (2024)[DUAL]
 https://archive.org/download/02_20241203_202412/opnbsd/01.mp4
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qnY861m/Husk-2011.jpg",Husk (2011)[DUAL]
 https://archive.org/download/01_20241129_20241129_2041/Linux/01/01.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rc8B8QQ/The-Holiday-2006.jpg",The Holiday (2006)[DUAL]
 https://archive.org/download/01_20241129_20241129_2041/Linux/01/01.mp4
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fvtGLQ0/Conclave-2024.jpg",Conclave (2024)[DUAL]
 https://archive.org/download/01_20241128/Mandriva/01.mp4
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QrZb5sm/Alice-2024.jpg",Alice (2024)[DUAL]
 https://archive.org/download/01_20241113_20241113_2102/Blue/01.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HzrNdYq/Dear-Santa-2024.jpg",Dear Santa (2024)[DUAL]
@@ -17,7 +16,6 @@ https://archive.org/download/01_20241113_20241113_2102/red/01.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/b1fbVvn/Skincare-2024.jpg",Skincare (2024)[DUAL]
 https://archive.org/download/fedora_202411/linux/LinuxMint.mkv
 #EXTINF:-1 tvg-logo="https://i.ibb.co/80BqYMb/Las-t-as-2024.jpg",Las tías (2024)[ESP]
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cgQT7rD/GTMAX-2024.jpg",GTMAX (2024)[DUAL]
 https://archive.org/download/fedora_202411/linux/OpenBSD.mkv
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VBNnKRc/Terrifier-3-2024.jpg",Terrifier 3 (2024)[DUAL]
