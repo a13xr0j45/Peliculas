@@ -1,5 +1,7 @@
 ﻿#EXTM3U
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/r71Zi3jdqyebvtGQVjSeGJyN8sw.jpg",Red One (2024)[DUAL]
+https://archive.org/download/01_20241213_202412/opensource/linux/01.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zH6R6m5/Woman-in-the-Maze-2023.jpg",Woman in the Maze (2023)[DUAL]
 https://archive.org/download/05_20241210_202412/utp/549.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/23YbtrS/venom.jpg",Venom The Last Dance (2024)[DUAL]
