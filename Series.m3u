@@ -1,24 +1,34 @@
 ﻿#EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ibb.co/yF2k4JT/Grotesquerie.jpg" group-title="Grotesquerie (2024)",Grotesquerie (2024) S01E01 Pilot
-https://archive.org/download/01_20241203_202412/Tutoriales/linux/01.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/yF2k4JT/Grotesquerie.jpg" group-title="Grotesquerie (2024)",Grotesquerie (2024) S01E02 True Crime Catholics
-https://archive.org/download/01_20241203_202412/Tutoriales/linux/02.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/yF2k4JT/Grotesquerie.jpg" group-title="Grotesquerie (2024)",Grotesquerie (2024) S01E03 The Bender
-https://archive.org/download/01_20241203_202412/Tutoriales/linux/03.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/yF2k4JT/Grotesquerie.jpg" group-title="Grotesquerie (2024)",Grotesquerie (2024) S01E04 Coordinates
-https://archive.org/download/01_20241203_202412/Tutoriales/linux/04.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/yF2k4JT/Grotesquerie.jpg" group-title="Grotesquerie (2024)",Grotesquerie (2024) S01E05 Red Haze
-https://archive.org/download/01_20241203_202412/Tutoriales/linux/05.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/yF2k4JT/Grotesquerie.jpg" group-title="Grotesquerie (2024)",Grotesquerie (2024) S01E06 Good Ceasarean Work
-https://archive.org/download/01_20241203_202412/Tutoriales/linux/06.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/yF2k4JT/Grotesquerie.jpg" group-title="Grotesquerie (2024)",Grotesquerie (2024) S01E07 Unplugged
-https://archive.org/download/01_20241203_202412/Tutoriales/linux/07.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/yF2k4JT/Grotesquerie.jpg" group-title="Grotesquerie (2024)",Grotesquerie (2024) S01E08 In Dreams
-https://archive.org/download/01_20241203_202412/Tutoriales/linux/08.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/yF2k4JT/Grotesquerie.jpg" group-title="Grotesquerie (2024)",Grotesquerie (2024) S01E09 The Stinging Aroma of Sulfur
-https://archive.org/download/01_20241203_202412/Tutoriales/linux/09.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/yF2k4JT/Grotesquerie.jpg" group-title="Grotesquerie (2024)",Grotesquerie (2024) S01E10 I Think I'm Dead
-https://archive.org/download/01_20241203_202412/Tutoriales/linux/10.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PNg6PZW/Secret-Level-2024.jpg" group-title="Secret Level (2024) ",Secret Level (2024) S01E01 Dungeons & Dragons: The Queen's Cradle
+https://archive.org/download/07_20241213/utp/S01/01.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PNg6PZW/Secret-Level-2024.jpg" group-title="Secret Level (2024) ",Secret Level (2024) S01E02 Sifu: It Takes a Life
+https://archive.org/download/07_20241213/utp/S01/02.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PNg6PZW/Secret-Level-2024.jpg" group-title="Secret Level (2024) ",Secret Level (2024) S01E03 New World: The Once and Future King
+https://archive.org/download/07_20241213/utp/S01/03.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PNg6PZW/Secret-Level-2024.jpg" group-title="Secret Level (2024) ",Secret Level (2024) S01E04 Unreal Tournament: Xan
+https://archive.org/download/07_20241213/utp/S01/04.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PNg6PZW/Secret-Level-2024.jpg" group-title="Secret Level (2024) ",Secret Level (2024) S01E05 Warhammer 40 000: And They Shall Know No Fear
+https://archive.org/download/07_20241213/utp/S01/05.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PNg6PZW/Secret-Level-2024.jpg" group-title="Secret Level (2024) ",Secret Level (2024) S01E06 PAC-MAN: Circle
+https://archive.org/download/07_20241213/utp/S01/06.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PNg6PZW/Secret-Level-2024.jpg" group-title="Secret Level (2024) ",Secret Level (2024) S01E07 Crossfire: Good Conflict
+https://archive.org/download/07_20241213/utp/S01/07.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PNg6PZW/Secret-Level-2024.jpg" group-title="Secret Level (2024) ",Secret Level (2024) S01E08 Armored Core: Asset Management
+https://archive.org/download/07_20241213/utp/S01/08.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PNg6PZW/Secret-Level-2024.jpg" group-title="Secret Level (2024) ",Secret Level (2024) S01E09 The Outer Worlds: The Company We Keep
+https://archive.org/download/07_20241213/utp/S02/01.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PNg6PZW/Secret-Level-2024.jpg" group-title="Secret Level (2024) ",Secret Level (2024) S01E10 Mega Man: Start
+https://archive.org/download/07_20241213/utp/S02/02.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PNg6PZW/Secret-Level-2024.jpg" group-title="Secret Level (2024) ",Secret Level (2024) S01E11 Exodus: Odyssey
+https://archive.org/download/07_20241213/utp/S02/03.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PNg6PZW/Secret-Level-2024.jpg" group-title="Secret Level (2024) ",Secret Level (2024) S01E12 Spelunky: Tally
+https://archive.org/download/07_20241213/utp/S02/04.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PNg6PZW/Secret-Level-2024.jpg" group-title="Secret Level (2024) ",Secret Level (2024) S01E13 Concord: Tale of the Implacable
+https://archive.org/download/07_20241213/utp/S02/05.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PNg6PZW/Secret-Level-2024.jpg" group-title="Secret Level (2024) ",Secret Level (2024) S01E14 Honor of Kings: The Way of All Things
+https://archive.org/download/07_20241213/utp/S02/06.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PNg6PZW/Secret-Level-2024.jpg" group-title="Secret Level (2024) ",Secret Level (2024) S01E15 Playtime: Fulfillment
+https://archive.org/download/07_20241213/utp/S02/07.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3sgbbxW/Dan-Da-Dan-2024.jpg" group-title="Dan Da Dan (2024)",Dan Da Dan (2024) S01E01 それって恋のはじまりじゃんよ
 https://archive.org/download/01_20241213_202412/opensource/freebsd/01.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3sgbbxW/Dan-Da-Dan-2024.jpg" group-title="Dan Da Dan (2024)",Dan Da Dan (2024) S01E02 それって宇宙人じゃね
@@ -43,6 +53,68 @@ https://archive.org/download/01_20241213_202412/opensource/freebsd/10.mp4
 https://archive.org/download/01_20241213_202412/opensource/freebsd/11.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3sgbbxW/Dan-Da-Dan-2024.jpg" group-title="Dan Da Dan (2024)",Dan Da Dan (2024) S01E12 呪いの家へレッツゴー
 https://archive.org/download/01_20241213_202412/opensource/freebsd/12.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rshQ2Tb/velma.jpg" group-title="Velma (2023)",Velma (2023) S01E01 Velma	
+https://archive.org/download/index_20241006_1639/BSD/S01/001.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rshQ2Tb/velma.jpg" group-title="Velma (2023)",Velma (2023) S01E02 The Candy Man	
+https://archive.org/download/index_20241006_1639/BSD/S01/002.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rshQ2Tb/velma.jpg" group-title="Velma (2023)",Velma (2023) S01E03 Velma Kai	
+https://archive.org/download/index_20241006_1639/BSD/S01/003.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rshQ2Tb/velma.jpg" group-title="Velma (2023)",Velma (2023) S01E04 Velma Makes a List	
+https://archive.org/download/index_20241006_1639/BSD/S01/004.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rshQ2Tb/velma.jpg" group-title="Velma (2023)",Velma (2023) S01E05 Marching Band Sleepover	
+https://archive.org/download/index_20241006_1639/BSD/S01/005.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rshQ2Tb/velma.jpg" group-title="Velma (2023)",Velma (2023) S01E06 The Sins of the Fathers and Some of the Mothers	
+https://archive.org/download/index_20241006_1639/BSD/S01/006.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rshQ2Tb/velma.jpg" group-title="Velma (2023)",Velma (2023) S01E07 Fog Fest	
+https://archive.org/download/index_20241006_1639/BSD/S01/007.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rshQ2Tb/velma.jpg" group-title="Velma (2023)",Velma (2023) S01E08 A Velma in the Woods	
+https://archive.org/download/index_20241006_1639/BSD/S01/008.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rshQ2Tb/velma.jpg" group-title="Velma (2023)",Velma (2023) S01E09 Family (Wo)man	
+https://archive.org/download/index_20241006_1639/BSD/S01/009.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rshQ2Tb/velma.jpg" group-title="Velma (2023)",Velma (2023) S01E10 The Brains of the Operation
+https://archive.org/download/index_20241006_1639/BSD/S01/010.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rshQ2Tb/velma.jpg" group-title="Velma (2023)",Velma (2023) S02E01 The Mystery of Teen Romance	
+https://archive.org/download/index_20241006_1639/BSD/S02/021.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rshQ2Tb/velma.jpg" group-title="Velma (2023)",Velma (2023) S02E02 Creaky Friday	
+https://archive.org/download/index_20241006_1639/BSD/S02/022.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rshQ2Tb/velma.jpg" group-title="Velma (2023)",Velma (2023) S02E03 When Velma Met Money	
+https://archive.org/download/index_20241006_1639/BSD/S02/023.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rshQ2Tb/velma.jpg" group-title="Velma (2023)",Velma (2023) S02E04 Seancé	
+https://archive.org/download/index_20241006_1639/BSD/S02/024.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rshQ2Tb/velma.jpg" group-title="Velma (2023)",Velma (2023) S02E05 Burning Woman	
+https://archive.org/download/index_20241006_1639/BSD/S02/025.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rshQ2Tb/velma.jpg" group-title="Velma (2023)",Velma (2023) S02E06 Private Velmjamin	
+https://archive.org/download/index_20241006_1639/BSD/S02/026.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rshQ2Tb/velma.jpg" group-title="Velma (2023)",Velma (2023) S02E07 Female Utopia	
+https://archive.org/download/index_20241006_1639/BSD/S02/027.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rshQ2Tb/velma.jpg" group-title="Velma (2023)",Velma (2023) S02E08 Aman Hunt	
+https://archive.org/download/index_20241006_1639/BSD/S02/028.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rshQ2Tb/velma.jpg" group-title="Velma (2023)",Velma (2023) S02E09 The Real Villain	
+https://archive.org/download/index_20241006_1639/BSD/S02/029.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rshQ2Tb/velma.jpg" group-title="Velma (2023)",Velma (2023) S02E10 Til Death
+https://archive.org/download/index_20241006_1639/BSD/S02/030.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rshQ2Tb/velma.jpg" group-title="Velma (2023)",Velma (2023) S02E11 This Halloween Needs To Be More Special!
+https://archive.org/download/index_20241006_1639/BSD/S02/031.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yF2k4JT/Grotesquerie.jpg" group-title="Grotesquerie (2024)",Grotesquerie (2024) S01E01 Pilot
+https://archive.org/download/01_20241203_202412/Tutoriales/linux/01.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yF2k4JT/Grotesquerie.jpg" group-title="Grotesquerie (2024)",Grotesquerie (2024) S01E02 True Crime Catholics
+https://archive.org/download/01_20241203_202412/Tutoriales/linux/02.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yF2k4JT/Grotesquerie.jpg" group-title="Grotesquerie (2024)",Grotesquerie (2024) S01E03 The Bender
+https://archive.org/download/01_20241203_202412/Tutoriales/linux/03.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yF2k4JT/Grotesquerie.jpg" group-title="Grotesquerie (2024)",Grotesquerie (2024) S01E04 Coordinates
+https://archive.org/download/01_20241203_202412/Tutoriales/linux/04.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yF2k4JT/Grotesquerie.jpg" group-title="Grotesquerie (2024)",Grotesquerie (2024) S01E05 Red Haze
+https://archive.org/download/01_20241203_202412/Tutoriales/linux/05.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yF2k4JT/Grotesquerie.jpg" group-title="Grotesquerie (2024)",Grotesquerie (2024) S01E06 Good Ceasarean Work
+https://archive.org/download/01_20241203_202412/Tutoriales/linux/06.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yF2k4JT/Grotesquerie.jpg" group-title="Grotesquerie (2024)",Grotesquerie (2024) S01E07 Unplugged
+https://archive.org/download/01_20241203_202412/Tutoriales/linux/07.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yF2k4JT/Grotesquerie.jpg" group-title="Grotesquerie (2024)",Grotesquerie (2024) S01E08 In Dreams
+https://archive.org/download/01_20241203_202412/Tutoriales/linux/08.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yF2k4JT/Grotesquerie.jpg" group-title="Grotesquerie (2024)",Grotesquerie (2024) S01E09 The Stinging Aroma of Sulfur
+https://archive.org/download/01_20241203_202412/Tutoriales/linux/09.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yF2k4JT/Grotesquerie.jpg" group-title="Grotesquerie (2024)",Grotesquerie (2024) S01E10 I Think I'm Dead
+https://archive.org/download/01_20241203_202412/Tutoriales/linux/10.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TRzzCKq/The-Patient-2022.jpg" group-title="The Patient (2022)",The Patient (2022) S01E01 Intake
 https://archive.org/download/index_20241206/pbx/S01/01.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TRzzCKq/The-Patient-2022.jpg" group-title="The Patient (2022)",The Patient (2022) S01E02 Alan Learns to Meditate
@@ -2091,48 +2163,6 @@ https://archive.org/download/rhchp/Bridge/06.mp4
 https://archive.org/download/rhchp/Bridge/07.mp4
 #EXTINF:-1 tvg-logo="https://archive.org/download/rhchp/Bridge/Under%20the%20bridge.jpg" group-title="Under the Bridge (2024)",Under the Bridge (2024) S01E08 Mercy Alone
 https://archive.org/download/rhchp/Bridge/08.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rshQ2Tb/velma.jpg" group-title="Velma (2023)",Velma (2023) S01E01 Velma	
-https://archive.org/download/index_20241006_1639/BSD/S01/001.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rshQ2Tb/velma.jpg" group-title="Velma (2023)",Velma (2023) S01E02 The Candy Man	
-https://archive.org/download/index_20241006_1639/BSD/S01/002.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rshQ2Tb/velma.jpg" group-title="Velma (2023)",Velma (2023) S01E03 Velma Kai	
-https://archive.org/download/index_20241006_1639/BSD/S01/003.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rshQ2Tb/velma.jpg" group-title="Velma (2023)",Velma (2023) S01E04 Velma Makes a List	
-https://archive.org/download/index_20241006_1639/BSD/S01/004.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rshQ2Tb/velma.jpg" group-title="Velma (2023)",Velma (2023) S01E05 Marching Band Sleepover	
-https://archive.org/download/index_20241006_1639/BSD/S01/005.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rshQ2Tb/velma.jpg" group-title="Velma (2023)",Velma (2023) S01E06 The Sins of the Fathers and Some of the Mothers	
-https://archive.org/download/index_20241006_1639/BSD/S01/006.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rshQ2Tb/velma.jpg" group-title="Velma (2023)",Velma (2023) S01E07 Fog Fest	
-https://archive.org/download/index_20241006_1639/BSD/S01/007.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rshQ2Tb/velma.jpg" group-title="Velma (2023)",Velma (2023) S01E08 A Velma in the Woods	
-https://archive.org/download/index_20241006_1639/BSD/S01/008.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rshQ2Tb/velma.jpg" group-title="Velma (2023)",Velma (2023) S01E09 Family (Wo)man	
-https://archive.org/download/index_20241006_1639/BSD/S01/009.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rshQ2Tb/velma.jpg" group-title="Velma (2023)",Velma (2023) S01E10 The Brains of the Operation
-https://archive.org/download/index_20241006_1639/BSD/S01/010.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rshQ2Tb/velma.jpg" group-title="Velma (2023)",Velma (2023) S02E01 The Mystery of Teen Romance	
-https://archive.org/download/index_20241006_1639/BSD/S02/021.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rshQ2Tb/velma.jpg" group-title="Velma (2023)",Velma (2023) S02E02 Creaky Friday	
-https://archive.org/download/index_20241006_1639/BSD/S02/022.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rshQ2Tb/velma.jpg" group-title="Velma (2023)",Velma (2023) S02E03 When Velma Met Money	
-https://archive.org/download/index_20241006_1639/BSD/S02/023.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rshQ2Tb/velma.jpg" group-title="Velma (2023)",Velma (2023) S02E04 Seancé	
-https://archive.org/download/index_20241006_1639/BSD/S02/024.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rshQ2Tb/velma.jpg" group-title="Velma (2023)",Velma (2023) S02E05 Burning Woman	
-https://archive.org/download/index_20241006_1639/BSD/S02/025.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rshQ2Tb/velma.jpg" group-title="Velma (2023)",Velma (2023) S02E06 Private Velmjamin	
-https://archive.org/download/index_20241006_1639/BSD/S02/026.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rshQ2Tb/velma.jpg" group-title="Velma (2023)",Velma (2023) S02E07 Female Utopia	
-https://archive.org/download/index_20241006_1639/BSD/S02/027.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rshQ2Tb/velma.jpg" group-title="Velma (2023)",Velma (2023) S02E08 Aman Hunt	
-https://archive.org/download/index_20241006_1639/BSD/S02/028.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rshQ2Tb/velma.jpg" group-title="Velma (2023)",Velma (2023) S02E09 The Real Villain	
-https://archive.org/download/index_20241006_1639/BSD/S02/029.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rshQ2Tb/velma.jpg" group-title="Velma (2023)",Velma (2023) S02E10 Til Death
-https://archive.org/download/index_20241006_1639/BSD/S02/030.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rshQ2Tb/velma.jpg" group-title="Velma (2023)",Velma (2023) S02E11 This Halloween Needs To Be More Special!
-https://archive.org/download/index_20241006_1639/BSD/S02/031.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PZrQd3y/Yellowstone-2018.jpg" group-title="Yellowstone (2018)",Yellowstone (2018) S01E01 Daybreak
 https://archive.org/download/debian_202411/OpenBSD/S01/10.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PZrQd3y/Yellowstone-2018.jpg" group-title="Yellowstone (2018)",Yellowstone (2018) S01E02 Kill the Messenger
