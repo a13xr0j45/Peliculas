@@ -1,10 +1,14 @@
 ﻿#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DrdXHjJ/What-Women-Want-2000.jpg",What Women Want (2000)[DUAL]
+https://archive.org/download/5432_20241222/sabayon/34563T3Q4.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/m8h389q/Silent-Hill-Revelation-3-D-2012.jpg",Silent Hill: Revelation 3D (2012)[LAT]
+https://archive.org/download/d-3-xrr-234/sabayon/54654f43w5.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CWprs3S/The-Colony-2013.jpg",The Colony (2013)[DUAL]
+https://archive.org/download/d-3-xrr-234/sabayon/D3XRR234.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/r0gycNj/Woman-of-the-Hour-2024.jpg",Woman of the Hour (2024) [DUAL]
 https://archive.org/download/5432_20241222/sabayon/3454212.mp4
-
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/6UKL26TJn2dvj0HDCoRYqAqzbyc.jpg",The Polar Express (2004)[DUAL]
 https://archive.org/download/07_20241213/chuchu.mkv
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WP8yxsq/Gladiator-II-2024.jpg",Gladiator II (2024)[DUAL]
 https://archive.org/download/5432_20241222/sabayon/674534.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/uR9M6nOXTigDq64upoBzr23X3ag.jpg",Gladiator II (2024)[ENG]
