@@ -1,5 +1,4 @@
 ﻿#EXTM3U
-#EXTM3U
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RvGdFQ9/1992-2024.jpg" group-title="1992 (2024)",1992 (2024) S01E01 ¿Te acuerdas de Curro?
 https://archive.org/download/ewdwe3ww/utp/01.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RvGdFQ9/1992-2024.jpg" group-title="1992 (2024)",1992 (2024) S01E02 La España que nos dejaron
@@ -12,20 +11,6 @@ https://archive.org/download/ewdwe3ww/utp/04.mp4
 https://archive.org/download/ewdwe3ww/utp/05.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RvGdFQ9/1992-2024.jpg" group-title="1992 (2024)",1992 (2024) S01E06 Hice lo que me pidieron
 https://archive.org/download/ewdwe3ww/utp/06.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/HhLmWzg/squid-game.jpg" group-title="Squid Game (2021)",Squid Game (2021) S02E01 빵과 복권
-https://archive.org/download/d-3-xrr-234/GitHub/01.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/HhLmWzg/squid-game.jpg" group-title="Squid Game (2021)",Squid Game (2021) S02E02 할로윈 파티
-https://archive.org/download/d-3-xrr-234/GitHub/02.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/HhLmWzg/squid-game.jpg" group-title="Squid Game (2021)",Squid Game (2021) S02E03 001
-https://archive.org/download/d-3-xrr-234/GitHub/03.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/HhLmWzg/squid-game.jpg" group-title="Squid Game (2021)",Squid Game (2021) S02E04 여섯 개의 다리
-https://archive.org/download/d-3-xrr-234/GitHub/04.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/HhLmWzg/squid-game.jpg" group-title="Squid Game (2021)",Squid Game (2021) S02E05 한 판 더
-https://archive.org/download/d-3-xrr-234/GitHub/05.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/HhLmWzg/squid-game.jpg" group-title="Squid Game (2021)",Squid Game (2021) S02E06 O ﻿ X
-https://archive.org/download/d-3-xrr-234/GitHub/06.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/HhLmWzg/squid-game.jpg" group-title="Squid Game (2021)",Squid Game (2021) S02E07 친구와 적
-https://archive.org/download/d-3-xrr-234/GitHub/07.mp4
 #EXTINF:-1 group-title="28 Days Haunted (2022)",28 Days Haunted (2022) S01E01 Day One
 https://archive.org/download/202406/linux/S01/01.mp4
 #EXTINF:-1 group-title="28 Days Haunted (2022)",28 Days Haunted (2022) S01E02 Get Out!
@@ -38,38 +23,6 @@ https://archive.org/download/202406/linux/S01/04.mp4
 https://archive.org/download/202406/linux/S01/05.mp4
 #EXTINF:-1 group-title="28 Days Haunted (2022)",28 Days Haunted (2022) S01E06 Piercing the Veil
 https://archive.org/download/202406/linux/S01/06.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/YfWxQR5/01-mp4-snapshot-00-05-22-380.jpg" group-title="30 monedas (2020)",30 monedas (2020) S01E01 Telarañas
-https://archive.org/download/index_20241126/Coins/S01/01.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/YfWxQR5/01-mp4-snapshot-00-05-22-380.jpg" group-title="30 monedas (2020)",30 monedas (2020) S01E02 Ouija
-https://archive.org/download/index_20241126/Coins/S01/02.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/YfWxQR5/01-mp4-snapshot-00-05-22-380.jpg" group-title="30 monedas (2020)",30 monedas (2020) S01E03 El espejo
-https://archive.org/download/index_20241126/Coins/S01/03.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/YfWxQR5/01-mp4-snapshot-00-05-22-380.jpg" group-title="30 monedas (2020)",30 monedas (2020) S01E04 Recuerdos
-https://archive.org/download/index_20241126/Coins/S01/04.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/YfWxQR5/01-mp4-snapshot-00-05-22-380.jpg" group-title="30 monedas (2020)",30 monedas (2020) S01E05 El doble
-https://archive.org/download/index_20241126/Coins/S01/05.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/YfWxQR5/01-mp4-snapshot-00-05-22-380.jpg" group-title="30 monedas (2020)",30 monedas (2020) S01E06 Guerra Santa
-https://archive.org/download/index_20241126/Coins/S01/06.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/YfWxQR5/01-mp4-snapshot-00-05-22-380.jpg" group-title="30 monedas (2020)",30 monedas (2020) S01E07 La caja de cristal
-https://archive.org/download/index_20241126/Coins/S01/07.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/YfWxQR5/01-mp4-snapshot-00-05-22-380.jpg" group-title="30 monedas (2020)",30 monedas (2020) S01E08 Sacrificio
-https://archive.org/download/index_20241126/Coins/S01/08.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/YfWxQR5/01-mp4-snapshot-00-05-22-380.jpg" group-title="30 monedas (2020)",30 monedas (2020) S02E01 El pueblo fantasma
-https://archive.org/download/index_20241126/Coins/S02/01.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/YfWxQR5/01-mp4-snapshot-00-05-22-380.jpg" group-title="30 monedas (2020)",30 monedas (2020) S02E02 Las tierras del sueño
-https://archive.org/download/index_20241126/Coins/S02/02.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/YfWxQR5/01-mp4-snapshot-00-05-22-380.jpg" group-title="30 monedas (2020)",30 monedas (2020) S02E03 Criaturas infernales
-https://archive.org/download/index_20241126/Coins/S02/03.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/YfWxQR5/01-mp4-snapshot-00-05-22-380.jpg" group-title="30 monedas (2020)",30 monedas (2020) S02E04 El libro negro del árabe loco
-https://archive.org/download/index_20241126/Coins/S02/04.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/YfWxQR5/01-mp4-snapshot-00-05-22-380.jpg" group-title="30 monedas (2020)",30 monedas (2020) S02E05 El símbolo arcano
-https://archive.org/download/index_20241126/Coins/S02/05.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/YfWxQR5/01-mp4-snapshot-00-05-22-380.jpg" group-title="30 monedas (2020)",30 monedas (2020) S02E06 Resetear el mundo
-https://archive.org/download/index_20241126/Coins/S02/06.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/YfWxQR5/01-mp4-snapshot-00-05-22-380.jpg" group-title="30 monedas (2020)",30 monedas (2020) S02E07 Los dos núcleos
-https://archive.org/download/index_20241126/Coins/S02/07.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/YfWxQR5/01-mp4-snapshot-00-05-22-380.jpg" group-title="30 monedas (2020)",30 monedas (2020) S02E08 El ojo de Dios
-https://archive.org/download/index_20241126/Coins/S02/08.mp4
 #EXTINF:-1 group-title="Battlestar Galactica (2003)",Battlestar Galactica (2003) S00E01 Battlestar Galactica: The Miniseries (1)
 https://archive.org/download/bsg-miniseries-s-00.-e-02/BSG-Miniseries-S00.E01.mkv
 #EXTINF:-1 group-title="Battlestar Galactica (2003)",Battlestar Galactica (2003) S00E02 Battlestar Galactica: The Miniseries (2)
@@ -218,46 +171,6 @@ https://archive.org/download/battlestar.-galactica.-s-04-e-19/Battlestar.Galacti
 https://archive.org/download/battlestar.-galactica.-s-04-e-19/Battlestar.Galactica.S04E18.mkv
 #EXTINF:-1 group-title="Battlestar Galactica (2003)",Battlestar Galactica (2003) S04E19 Daybreak (1)
 https://archive.org/download/battlestar.-galactica.-s-04-e-19/Battlestar.Galactica.S04E19.mkv
-#EXTINF:-1 tvg-logo="https://i.ibb.co/cggf2sh/Before-2024.jpg" group-title="Before (2024)",Before (2024) S01E01 The Imposter
-https://archive.org/download/01_20241128/Linux/S01/01.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/cggf2sh/Before-2024.jpg" group-title="Before (2024)",Before (2024) S01E02 The Scientist
-https://archive.org/download/01_20241128/Linux/S01/02.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/cggf2sh/Before-2024.jpg" group-title="Before (2024)",Before (2024) S01E03 The Liar
-https://archive.org/download/01_20241128/Linux/S01/03.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/cggf2sh/Before-2024.jpg" group-title="Before (2024)",Before (2024) S01E04 Symbols and Signs
-https://archive.org/download/01_20241128/Linux/S01/04.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/cggf2sh/Before-2024.jpg" group-title="Before (2024)",Before (2024) S01E05 Folie à Deux
-https://archive.org/download/01_20241128/Linux/S01/05.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/cggf2sh/Before-2024.jpg" group-title="Before (2024)",Before (2024) S01E06 Fever Dream
-https://archive.org/download/01_20241128/Linux/S01/06.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/cggf2sh/Before-2024.jpg" group-title="Before (2024)",Before (2024) S01E07 The Power of Belief
-https://archive.org/download/01_20241128/Linux/S01/07.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/cggf2sh/Before-2024.jpg" group-title="Before (2024)",Before (2024) S01E08 When We Dead Awaken
-https://archive.org/download/01_20241128/Linux/S01/08.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/cggf2sh/Before-2024.jpg" group-title="Before (2024)",Before (2024) S01E09 And the Darkness Was Called Night
-https://archive.org/download/01_20241128/Linux/S01/09.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/cggf2sh/Before-2024.jpg" group-title="Before (2024)",Before (2024) S01E10 Before
-https://archive.org/download/01_20241128/Linux/S01/10.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/cggf2sh/Before-2024.jpg" group-title="Before (2024)",Before (2024) S01E01 The Imposter
-https://archive.org/download/01_20241128/Linux/S01/01.mkv
-#EXTINF:-1 tvg-logo="https://i.ibb.co/cggf2sh/Before-2024.jpg" group-title="Before (2024)",Before (2024) S01E02 The Scientist
-https://archive.org/download/01_20241128/Linux/S01/02.mkv
-#EXTINF:-1 tvg-logo="https://i.ibb.co/cggf2sh/Before-2024.jpg" group-title="Before (2024)",Before (2024) S01E03 The Liar
-https://archive.org/download/01_20241128/Linux/S01/03.mkv
-#EXTINF:-1 tvg-logo="https://i.ibb.co/cggf2sh/Before-2024.jpg" group-title="Before (2024)",Before (2024) S01E04 Symbols and Signs
-https://archive.org/download/01_20241128/Linux/S01/04.mkv
-#EXTINF:-1 tvg-logo="https://i.ibb.co/cggf2sh/Before-2024.jpg" group-title="Before (2024)",Before (2024) S01E05 Folie à Deux
-https://archive.org/download/01_20241128/Linux/S01/05.mkv
-#EXTINF:-1 tvg-logo="https://i.ibb.co/cggf2sh/Before-2024.jpg" group-title="Before (2024)",Before (2024) S01E06 Fever Dream
-https://archive.org/download/01_20241128/Linux/S01/06.mkv
-#EXTINF:-1 tvg-logo="https://i.ibb.co/cggf2sh/Before-2024.jpg" group-title="Before (2024)",Before (2024) S01E07 The Power of Belief
-https://archive.org/download/01_20241128/Linux/S01/07.mkv
-#EXTINF:-1 tvg-logo="https://i.ibb.co/cggf2sh/Before-2024.jpg" group-title="Before (2024)",Before (2024) S01E08 When We Dead Awaken
-https://archive.org/download/01_20241128/Linux/S01/08.mkv
-#EXTINF:-1 tvg-logo="https://i.ibb.co/cggf2sh/Before-2024.jpg" group-title="Before (2024)",Before (2024) S01E09 And the Darkness Was Called Night
-https://archive.org/download/01_20241128/Linux/S01/09.mkv
-#EXTINF:-1 tvg-logo="https://i.ibb.co/cggf2sh/Before-2024.jpg" group-title="Before (2024)",Before (2024) S01E10 Before
-https://archive.org/download/01_20241128/Linux/S01/10.mkv
 #EXTINF:-1 tvg-logo="https://i.ibb.co/b7nGKRB/Cada-minuto-cuenta-2024.jpg" group-title="Cada minuto cuenta (2024)",Cada minuto cuenta (2024) S01E01 7:19 AM
 https://archive.org/download/04_20241130_202411/Linux/S01/01.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/b7nGKRB/Cada-minuto-cuenta-2024.jpg" group-title="Cada minuto cuenta (2024)",Cada minuto cuenta (2024) S01E02	8:00 AM
@@ -296,84 +209,6 @@ https://archive.org/download/pbx_20240912/pbx/S01/07.mp4
 https://archive.org/download/pbx_20240912/pbx/S01/08.mp4
 #EXTINF:-1 tvg-logo="https://ia600801.us.archive.org/6/items/pbx_20240912/pbx/S01/Calls%20%28US%29.jpg" group-title="Calls (US) (2021)",Calls (US) (2021) S01E09 Leap Year Girl
 https://archive.org/download/pbx_20240912/pbx/S01/09.mp4
-#EXTINF:-1 group-title="Capadocia (2008)",Capadocia (2008) S01E01 Genesis
-https://archive.org/download/index_carcelario/Hosting/S01/01.mp4
-#EXTINF:-1 group-title="Capadocia (2008)",Capadocia (2008) S01E02 Exodus
-https://archive.org/download/index_carcelario/Hosting/S01/02.mp4
-#EXTINF:-1 group-title="Capadocia (2008)",Capadocia (2008) S01E03 The Sacrifice
-https://archive.org/download/index_carcelario/Hosting/S01/03.mp4
-#EXTINF:-1 group-title="Capadocia (2008)",Capadocia (2008) S01E04 The Sorrowful Mother
-https://archive.org/download/index_carcelario/Hosting/S01/04.mp4
-#EXTINF:-1 group-title="Capadocia (2008)",Capadocia (2008) S01E05 The Prodigal Son
-https://archive.org/download/index_carcelario/Hosting/S01/05.mp4
-#EXTINF:-1 group-title="Capadocia (2008)",Capadocia (2008) S01E06 The Fallen Angel
-https://archive.org/download/index_carcelario/Hosting/S01/06.mp4
-#EXTINF:-1 group-title="Capadocia (2008)",Capadocia (2008) S01E07 Capital Sin
-https://archive.org/download/index_carcelario/Hosting/S01/07.mp4
-#EXTINF:-1 group-title="Capadocia (2008)",Capadocia (2008) S01E08 Saints for Sinners
-https://archive.org/download/index_carcelario/Hosting/S01/08.mp4
-#EXTINF:-1 group-title="Capadocia (2008)",Capadocia (2008) S01E09 The Good Samaritan
-https://archive.org/download/index_carcelario/Hosting/S01/09.mp4
-#EXTINF:-1 group-title="Capadocia (2008)",Capadocia (2008) S01E10 Mary Magdalene
-https://archive.org/download/index_carcelario/Hosting/S01/10.mp4
-#EXTINF:-1 group-title="Capadocia (2008)",Capadocia (2008) S01E11 The Chosen One
-https://archive.org/download/index_carcelario/Hosting/S01/11.mp4
-#EXTINF:-1 group-title="Capadocia (2008)",Capadocia (2008) S01E12 Forgive Our Sins
-https://archive.org/download/index_carcelario/Hosting/S01/12.mp4
-#EXTINF:-1 group-title="Capadocia (2008)",Capadocia (2008) S01E13 Paradise Lost
-https://archive.org/download/index_carcelario/Hosting/S01/13.mp4
-#EXTINF:-1 group-title="Capadocia (2008)",Capadocia (2008) S02E01 What God Has Joined Together
-https://archive.org/download/index_carcelario/Hosting/S02/01.mp4
-#EXTINF:-1 group-title="Capadocia (2008)",Capadocia (2008) S02E02 Lamb of God
-https://archive.org/download/index_carcelario/Hosting/S02/02.mp4
-#EXTINF:-1 group-title="Capadocia (2008)",Capadocia (2008) S02E03 Take This Chalice From Me
-https://archive.org/download/index_carcelario/Hosting/S02/03.mp4
-#EXTINF:-1 group-title="Capadocia (2008)",Capadocia (2008) S02E04 The Eye of God
-https://archive.org/download/index_carcelario/Hosting/S02/04.mp4
-#EXTINF:-1 group-title="Capadocia (2008)",Capadocia (2008) S02E05 Love Thine Enemies
-https://archive.org/download/index_carcelario/Hosting/S02/05.mp4
-#EXTINF:-1 group-title="Capadocia (2008)",Capadocia (2008) S02E06 Blessed Are the Poor in Spirit
-https://archive.org/download/index_carcelario/Hosting/S02/06.mp4
-#EXTINF:-1 group-title="Capadocia (2008)",Capadocia (2008) S02E07 Father- Why Hast Thou Forsaken Me?
-https://archive.org/download/index_carcelario/Hosting/S02/07.mp4
-#EXTINF:-1 group-title="Capadocia (2008)",Capadocia (2008) S02E08 Atonement
-https://archive.org/download/index_carcelario/Hosting/S02/08.mp4
-#EXTINF:-1 group-title="Capadocia (2008)",Capadocia (2008) S02E09 Lot's Wife
-https://archive.org/download/index_carcelario/Hosting/S02/08.mp4
-#EXTINF:-1 group-title="Capadocia (2008)",Capadocia (2008) S02E10 The Salt of the Earth
-https://archive.org/download/index_carcelario/Hosting/S02/10.mp4
-#EXTINF:-1 group-title="Capadocia (2008)",Capadocia (2008) S02E11 And He Resurrected on the Third Day
-https://archive.org/download/index_carcelario/Hosting/S02/11.mp4
-#EXTINF:-1 group-title="Capadocia (2008)",Capadocia (2008) S02E12 The Third Part of the Sea Became Blood
-https://archive.org/download/index_carcelario/Hosting/S02/12.mp4
-#EXTINF:-1 group-title="Capadocia (2008)",Capadocia (2008) S02E13 And All the Nations Will Cry Their Death
-https://archive.org/download/index_carcelario/Hosting/S02/13.mp4
-#EXTINF:-1 group-title="Capadocia (2008)",Capadocia (2008) S03E01 A Cry
-https://archive.org/download/index_carcelario/Hosting/S03/01.mp4
-#EXTINF:-1 group-title="Capadocia (2008)",Capadocia (2008) S03E02 The Fruit of Your Womb
-https://archive.org/download/index_carcelario/Hosting/S03/02.mp4
-#EXTINF:-1 group-title="Capadocia (2008)",Capadocia (2008) S03E03 Anointing Oil
-https://archive.org/download/index_carcelario/Hosting/S03/03.mp4
-#EXTINF:-1 group-title="Capadocia (2008)",Capadocia (2008) S03E04 The Chosen
-https://archive.org/download/index_carcelario/Hosting/S03/04.mp4
-#EXTINF:-1 group-title="Capadocia (2008)",Capadocia (2008) S03E05 Destroy
-https://archive.org/download/index_carcelario/Hosting/S03/05.mp4
-#EXTINF:-1 group-title="Capadocia (2008)",Capadocia (2008) S03E06 The Wells of Salvation
-https://archive.org/download/index_carcelario/Hosting/S03/06.mp4 
-#EXTINF:-1 group-title="Capadocia (2008)",Capadocia (2008) S03E07 The Righteous
-https://archive.org/download/index_carcelario/Hosting/S03/07.mp4 
-#EXTINF:-1 group-title="Capadocia (2008)",Capadocia (2008) S03E08 The Angel of the Abyss
-https://archive.org/download/index_carcelario/Hosting/S03/08.mp4
-#EXTINF:-1 group-title="Capadocia (2008)",Capadocia (2008) S03E09 Sheep and Wolves
-https://archive.org/download/index_carcelario/Hosting/S03/09.mp4
-#EXTINF:-1 group-title="Capadocia (2008)",Capadocia (2008) S03E10 The Shadow of Your Wings
-https://archive.org/download/index_carcelario/Hosting/S03/10.mp4
-#EXTINF:-1 group-title="Capadocia (2008)",Capadocia (2008) S03E11 Peace and a Sword
-https://archive.org/download/index_carcelario/Hosting/S03/11.mp4
-#EXTINF:-1 group-title="Capadocia (2008)",Capadocia (2008) S03E12 The Blood of the Innocent
-https://archive.org/download/index_carcelario/Hosting/S03/12.mp4
-#EXTINF:-1 group-title="Capadocia (2008)",Capadocia (2008) S03E13 Apocalypse
-https://archive.org/download/index_carcelario/Hosting/S03/13.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3sgbbxW/Dan-Da-Dan-2024.jpg" group-title="Dan Da Dan (2024)",Dan Da Dan (2024) S01E01 それって恋のはじまりじゃんよ
 https://archive.org/download/01_20241213_202412/opensource/freebsd/01.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3sgbbxW/Dan-Da-Dan-2024.jpg" group-title="Dan Da Dan (2024)",Dan Da Dan (2024) S01E02 それって宇宙人じゃね
@@ -416,20 +251,6 @@ https://archive.org/download/blackarch_Linux/blackarch/07.mp4
 https://archive.org/download/blackarch_Linux/blackarch/08.mp4
 #EXTINF:-1 group-title="Dark Matter (2024)",Dark Matter (2024) S01E09 Entanglement
 https://archive.org/download/blackarch_Linux/blackarch/09.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/LYQ3drH/Disclaimer.jpg" group-title="Disclaimer (2024)",Disclaimer (2024) S01E01 I
-https://archive.org/download/05_20241114_202411/OpenBSD/01.mkv
-#EXTINF:-1 tvg-logo="https://i.ibb.co/LYQ3drH/Disclaimer.jpg" group-title="Disclaimer (2024)",Disclaimer (2024) S01E02 II
-https://archive.org/download/05_20241114_202411/OpenBSD/02.mkv
-#EXTINF:-1 tvg-logo="https://i.ibb.co/LYQ3drH/Disclaimer.jpg" group-title="Disclaimer (2024)",Disclaimer (2024) S01E03 III
-https://archive.org/download/05_20241114_202411/OpenBSD/03.mkv
-#EXTINF:-1 tvg-logo="https://i.ibb.co/LYQ3drH/Disclaimer.jpg" group-title="Disclaimer (2024)",Disclaimer (2024) S01E04 IV
-https://archive.org/download/05_20241114_202411/OpenBSD/04.mkv
-#EXTINF:-1 tvg-logo="https://i.ibb.co/LYQ3drH/Disclaimer.jpg" group-title="Disclaimer (2024)",Disclaimer (2024) S01E05 V
-https://archive.org/download/05_20241114_202411/OpenBSD/05.mkv
-#EXTINF:-1 tvg-logo="https://i.ibb.co/LYQ3drH/Disclaimer.jpg" group-title="Disclaimer (2024)",Disclaimer (2024) S01E06 VI
-https://archive.org/download/05_20241114_202411/OpenBSD/06.mkv
-#EXTINF:-1 tvg-logo="https://i.ibb.co/LYQ3drH/Disclaimer.jpg" group-title="Disclaimer (2024)",Disclaimer (2024) S01E07 VII
-https://archive.org/download/02_20241115_20241115/UPLOAD/Desprecio/01/07.mp4
 #EXTINF:-1 group-title="From (2022)",From (2022) S01E01 Long Day's Journey Into Night
 https://archive.org/download/tux_20240728/desde%20Linux/S01/01.mp4
 #EXTINF:-1 group-title="From (2022)",From (2022) S01E02 The Way Things Are Now
@@ -536,26 +357,6 @@ https://archive.org/download/08_20240820/tutoriales/asiatic/S01/06.mp4
 https://archive.org/download/08_20240820/tutoriales/asiatic/S01/07.mp4
 #EXTINF:-1 group-title="Goedam (2020)",Goedam (2020) S01E08 Birth
 https://archive.org/download/08_20240820/tutoriales/asiatic/S01/08.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/yF2k4JT/Grotesquerie.jpg" group-title="Grotesquerie (2024)",Grotesquerie (2024) S01E01 Pilot
-https://archive.org/download/01_20241203_202412/Tutoriales/linux/01.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/yF2k4JT/Grotesquerie.jpg" group-title="Grotesquerie (2024)",Grotesquerie (2024) S01E02 True Crime Catholics
-https://archive.org/download/01_20241203_202412/Tutoriales/linux/02.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/yF2k4JT/Grotesquerie.jpg" group-title="Grotesquerie (2024)",Grotesquerie (2024) S01E03 The Bender
-https://archive.org/download/01_20241203_202412/Tutoriales/linux/03.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/yF2k4JT/Grotesquerie.jpg" group-title="Grotesquerie (2024)",Grotesquerie (2024) S01E04 Coordinates
-https://archive.org/download/01_20241203_202412/Tutoriales/linux/04.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/yF2k4JT/Grotesquerie.jpg" group-title="Grotesquerie (2024)",Grotesquerie (2024) S01E05 Red Haze
-https://archive.org/download/01_20241203_202412/Tutoriales/linux/05.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/yF2k4JT/Grotesquerie.jpg" group-title="Grotesquerie (2024)",Grotesquerie (2024) S01E06 Good Ceasarean Work
-https://archive.org/download/01_20241203_202412/Tutoriales/linux/06.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/yF2k4JT/Grotesquerie.jpg" group-title="Grotesquerie (2024)",Grotesquerie (2024) S01E07 Unplugged
-https://archive.org/download/01_20241203_202412/Tutoriales/linux/07.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/yF2k4JT/Grotesquerie.jpg" group-title="Grotesquerie (2024)",Grotesquerie (2024) S01E08 In Dreams
-https://archive.org/download/01_20241203_202412/Tutoriales/linux/08.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/yF2k4JT/Grotesquerie.jpg" group-title="Grotesquerie (2024)",Grotesquerie (2024) S01E09 The Stinging Aroma of Sulfur
-https://archive.org/download/01_20241203_202412/Tutoriales/linux/09.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/yF2k4JT/Grotesquerie.jpg" group-title="Grotesquerie (2024)",Grotesquerie (2024) S01E10 I Think I'm Dead
-https://archive.org/download/01_20241203_202412/Tutoriales/linux/10.mp4
 #EXTINF:-1 group-title="Human The World Within (2021)",Human The World Within (2021) S01E01 Birth
 https://archive.org/download/ubuntu_202407/Human-Linux/S01/01.mp4
 #EXTINF:-1 group-title="Human The World Within (2021)",Human The World Within (2021) S01E02 Pulse
@@ -824,50 +625,6 @@ https://archive.org/download/Distros_Viejas/VideoTutoriales/S02/08.mp4
 https://archive.org/download/Distros_Viejas/VideoTutoriales/S02/09.mp4
 #EXTINF:-1 group-title="Prehistoric Planet (2022)",Prehistoric Planet (2022) S02E05 North America
 https://archive.org/download/Distros_Viejas/VideoTutoriales/S02/10.mp4
-#EXTINF:-1 group-title="Rome (2005)",Rome (2005) S01E01 The Stolen Eagle
-https://archive.org/download/Linux_Romano/Romanos/S01/001.mp4
-#EXTINF:-1 group-title="Rome (2005)",Rome (2005) S01E02 How Titus Pullo Brought Down the Republic
-https://archive.org/download/Linux_Romano/Romanos/S01/002.mp4
-#EXTINF:-1 group-title="Rome (2005)",Rome (2005) S01E03 An Owl in a Thornbush
-https://archive.org/download/Linux_Romano/Romanos/S01/003.mp4
-#EXTINF:-1 group-title="Rome (2005)",Rome (2005) S01E04 Stealing from Saturn
-https://archive.org/download/Linux_Romano/Romanos/S01/004.mp4
-#EXTINF:-1 group-title="Rome (2005)",Rome (2005) S01E05 The Ram Has Touched the Wall
-https://archive.org/download/Linux_Romano/Romanos/S01/005.mp4
-#EXTINF:-1 group-title="Rome (2005)",Rome (2005) S01E06 Egeria
-https://archive.org/download/Linux_Romano/Romanos/S01/006.mp4
-#EXTINF:-1 group-title="Rome (2005)",Rome (2005) S01E07 Pharsalus
-https://archive.org/download/Linux_Romano/Romanos/S01/007.mp4
-#EXTINF:-1 group-title="Rome (2005)",Rome (2005) S01E08 Caesarion
-https://archive.org/download/Linux_Romano/Romanos/S01/008.mp4
-#EXTINF:-1 group-title="Rome (2005)",Rome (2005) S01E09 Utica
-https://archive.org/download/Linux_Romano/Romanos/S01/009.mp4
-#EXTINF:-1 group-title="Rome (2005)",Rome (2005) S01E10 Triumph
-https://archive.org/download/Linux_Romano/Romanos/S01/010.mp4
-#EXTINF:-1 group-title="Rome (2005)",Rome (2005) S01E11 The Spoils
-https://archive.org/download/Linux_Romano/Romanos/S01/011.mp4
-#EXTINF:-1 group-title="Rome (2005)",Rome (2005) S01E12 Kalends of February
-https://archive.org/download/Linux_Romano/Romanos/S01/012.mp4
-#EXTINF:-1 group-title="Rome (2005)",Rome (2005) S02E01 Passover
-https://archive.org/download/Linux_Romano/Romanos/S02/012.mp4
-#EXTINF:-1 group-title="Rome (2005)",Rome (2005) S02E02 Son of Hades
-https://archive.org/download/Linux_Romano/Romanos/S02/013.mp4
-#EXTINF:-1 group-title="Rome (2005)",Rome (2005) S02E03 These Being the Words of Marcus Tullius Cicero
-https://archive.org/download/Linux_Romano/Romanos/S02/014.mp4
-#EXTINF:-1 group-title="Rome (2005)",Rome (2005) S02E04 Testudo et Lepus (The Tortoise and the Hare)
-https://archive.org/download/Linux_Romano/Romanos/S02/015.mp4
-#EXTINF:-1 group-title="Rome (2005)",Rome (2005) S02E05 Heroes of the Republic
-https://archive.org/download/Linux_Romano/Romanos/S02/016.mp4
-#EXTINF:-1 group-title="Rome (2005)",Rome (2005) S02E06 Philippi
-https://archive.org/download/Linux_Romano/Romanos/S02/017.mp4
-#EXTINF:-1 group-title="Rome (2005)",Rome (2005) S02E07 Death Mask
-https://archive.org/download/Linux_Romano/Romanos/S02/018.mp4
-#EXTINF:-1 group-title="Rome (2005)",Rome (2005) S02E08 A Necessary Fiction
-https://archive.org/download/Linux_Romano/Romanos/S02/019.mp4
-#EXTINF:-1 group-title="Rome (2005)",Rome (2005) S02E09 Deus Impeditio Esuritori Nullus (No God Can Stop a Hungry Man)
-https://archive.org/download/Linux_Romano/Romanos/S02/020.mp4
-#EXTINF:-1 group-title="Rome (2005)",Rome (2005) S02E10 De Patre Vostro (About Your Father)
-https://archive.org/download/Linux_Romano/Romanos/S02/021.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PNg6PZW/Secret-Level-2024.jpg" group-title="Secret Level (2024) ",Secret Level (2024) S01E01 Dungeons & Dragons: The Queen's Cradle
 https://archive.org/download/07_20241213/utp/S01/01.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PNg6PZW/Secret-Level-2024.jpg" group-title="Secret Level (2024) ",Secret Level (2024) S01E02 Sifu: It Takes a Life
@@ -978,40 +735,20 @@ https://archive.org/download/index_20240626/Linux2024/S04/08.mp4
 https://archive.org/download/index_20240626/Linux2024/S04/09.mp4
 #EXTINF:-1 group-title="Servant (2019)",Servant (2019) S04E10 Fallen
 https://archive.org/download/index_20240626/Linux2024/S04/10.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/djxnXKg/Shrinking-2023.jpg" group-title="Shrinking (2023)",Shrinking (2023) S01E01 Coin Flip
-https://archive.org/download/index_20241127/PBX/S01/11.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/djxnXKg/Shrinking-2023.jpg" group-title="Shrinking (2023)",Shrinking (2023) S01E02 Fortress of Solitude
-https://archive.org/download/index_20241127/PBX/S01/12.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/djxnXKg/Shrinking-2023.jpg" group-title="Shrinking (2023)",Shrinking (2023) S01E03 Fifteen Minutes
-https://archive.org/download/index_20241127/PBX/S01/13.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/djxnXKg/Shrinking-2023.jpg" group-title="Shrinking (2023)",Shrinking (2023) S01E04 Potatoes
-https://archive.org/download/index_20241127/PBX/S01/14.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/djxnXKg/Shrinking-2023.jpg" group-title="Shrinking (2023)",Shrinking (2023) S01E05 Woof
-https://archive.org/download/index_20241127/PBX/S01/15.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/djxnXKg/Shrinking-2023.jpg" group-title="Shrinking (2023)",Shrinking (2023) S01E06 Imposter Syndrome
-https://archive.org/download/index_20241127/PBX/S01/16.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/djxnXKg/Shrinking-2023.jpg" group-title="Shrinking (2023)",Shrinking (2023) S01E07 Apology Tour
-https://archive.org/download/index_20241127/PBX/S01/17.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/djxnXKg/Shrinking-2023.jpg" group-title="Shrinking (2023)",Shrinking (2023) S01E08 Boop
-https://archive.org/download/index_20241127/PBX/S01/18.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/djxnXKg/Shrinking-2023.jpg" group-title="Shrinking (2023)",Shrinking (2023) S01E09 Moving Forward
-https://archive.org/download/index_20241127/PBX/S01/19.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/djxnXKg/Shrinking-2023.jpg" group-title="Shrinking (2023)",Shrinking (2023) S01E10 Closure
-https://archive.org/download/index_20241127/PBX/S01/20.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/djxnXKg/Shrinking-2023.jpg" group-title="Shrinking (2023)",Shrinking (2023) S02E01 Jimmying
-https://archive.org/download/index_20241127/PBX/S02/21.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/djxnXKg/Shrinking-2023.jpg" group-title="Shrinking (2023)",Shrinking (2023) S02E02 I Love Pain
-https://archive.org/download/index_20241127/PBX/S02/22.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/djxnXKg/Shrinking-2023.jpg" group-title="Shrinking (2023)",Shrinking (2023) S02E03 Psychological Something-ism
-https://archive.org/download/index_20241127/PBX/S02/23.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/djxnXKg/Shrinking-2023.jpg" group-title="Shrinking (2023)",Shrinking (2023) S02E04 Made You Look
-https://archive.org/download/index_20241127/PBX/S02/24.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/djxnXKg/Shrinking-2023.jpg" group-title="Shrinking (2023)",Shrinking (2023) S02E05 Honesty Era
-https://archive.org/download/index_20241127/PBX/S02/25.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/djxnXKg/Shrinking-2023.jpg" group-title="Shrinking (2023)",Shrinking (2023) S02E06 In a Lonely Place
-https://archive.org/download/index_20241127/PBX/S02/26.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/djxnXKg/Shrinking-2023.jpg" group-title="Shrinking (2023)",Shrinking (2023) S02E07 Get in the Sea
-https://archive.org/download/index_20241127/PBX/S02/27.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HhLmWzg/squid-game.jpg" group-title="Squid Game (2021)",Squid Game (2021) S02E01 빵과 복권
+https://archive.org/download/d-3-xrr-234/GitHub/01.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HhLmWzg/squid-game.jpg" group-title="Squid Game (2021)",Squid Game (2021) S02E02 할로윈 파티
+https://archive.org/download/d-3-xrr-234/GitHub/02.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HhLmWzg/squid-game.jpg" group-title="Squid Game (2021)",Squid Game (2021) S02E03 001
+https://archive.org/download/d-3-xrr-234/GitHub/03.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HhLmWzg/squid-game.jpg" group-title="Squid Game (2021)",Squid Game (2021) S02E04 여섯 개의 다리
+https://archive.org/download/d-3-xrr-234/GitHub/04.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HhLmWzg/squid-game.jpg" group-title="Squid Game (2021)",Squid Game (2021) S02E05 한 판 더
+https://archive.org/download/d-3-xrr-234/GitHub/05.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HhLmWzg/squid-game.jpg" group-title="Squid Game (2021)",Squid Game (2021) S02E06 O ﻿ X
+https://archive.org/download/d-3-xrr-234/GitHub/06.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HhLmWzg/squid-game.jpg" group-title="Squid Game (2021)",Squid Game (2021) S02E07 친구와 적
+https://archive.org/download/d-3-xrr-234/GitHub/07.mp4
 #EXTINF:-1 group-title="Stargate Atlantis (2004)",Stargate Atlantis (2004) S01E01 Rising (1)
 https://archive.org/download/atlantis_202408/Atlantis/S01/001.mp4
 #EXTINF:-1 group-title="Stargate Atlantis (2004)",Stargate Atlantis (2004) S01E02 Rising (2)
@@ -1926,22 +1663,6 @@ https://archive.org/download/index_20240815/LINUX-RINGS/S01/06.mp4
 https://archive.org/download/index_20240815/LINUX-RINGS/S01/07.mp4
 #EXTINF:-1 group-title="The Lord of the Rings: The Rings of Power (2022)",The Rings of Power (2022) S01E08 Alloyed
 https://archive.org/download/index_20240815/LINUX-RINGS/S01/08.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/jyrxZp8/The-Madness-2024.jpg" group-title="The Madness (2024)",The Madness (2024) S01E01 Pilot
-https://archive.org/download/01_20241129/XBP/01.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/jyrxZp8/The-Madness-2024.jpg" group-title="The Madness (2024)",The Madness (2024) S01E02 Djibouti
-https://archive.org/download/01_20241129/XBP/02.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/jyrxZp8/The-Madness-2024.jpg" group-title="The Madness (2024)",The Madness (2024) S01E03 Discord
-https://archive.org/download/01_20241129/XBP/03.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/jyrxZp8/The-Madness-2024.jpg" group-title="The Madness (2024)",The Madness (2024) S01E04 Radioactive
-https://archive.org/download/01_20241129/XBP/04.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/jyrxZp8/The-Madness-2024.jpg" group-title="The Madness (2024)",The Madness (2024) S01E05 Icarus
-https://archive.org/download/01_20241129/XBP/05.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/jyrxZp8/The-Madness-2024.jpg" group-title="The Madness (2024)",The Madness (2024) S01E06 Loco
-https://archive.org/download/01_20241129/XBP/06.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/jyrxZp8/The-Madness-2024.jpg" group-title="The Madness (2024)",The Madness (2024) S01E07 DNA
-https://archive.org/download/01_20241129/XBP/07.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/jyrxZp8/The-Madness-2024.jpg" group-title="The Madness (2024)",The Madness (2024) S01E08 No More Madness
-https://archive.org/download/01_20241129/XBP/08.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gWp59VV/The-Morning-Show-500x281.jpg" group-title="The Morning Show (2019)",The Morning Show (2019) S01E01 In the Dark Night of the Soul It's Always 3:30 in the Morning
 https://archive.org/download/index_20240911_0534/Tutoriales/S01/001.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gWp59VV/The-Morning-Show-500x281.jpg" group-title="The Morning Show (2019)",The Morning Show (2019) S01E02 A Seat at the Table
@@ -2042,26 +1763,6 @@ https://archive.org/download/index_20241206/pbx/S01/08.mp4
 https://archive.org/download/index_20241206/pbx/S01/09.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TRzzCKq/The-Patient-2022.jpg" group-title="The Patient (2022)",The Patient (2022) S01E10	The Cantor's Husband
 https://archive.org/download/index_20241206/pbx/S01/10.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0KRtrYp/The-Penguin-500x281.jpg" group-title="The Penguin (2024)",The Penguin (2024) S01E01 After Hours
-https://archive.org/download/01_20240930_20240930_1306/Mandriva/01.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0KRtrYp/The-Penguin-500x281.jpg" group-title="The Penguin (2024)",The Penguin (2024) S01E02 Inside Man
-https://archive.org/download/01_20240930_20240930_1306/Mandriva/02.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/MDGbxzv/The-Penguin.jpg" group-title="The Penguin (2024)",The Penguin (2024) S01E01 After Hours	
-https://archive.org/download/mandriva-2024.-s-01-e-08_202411/Mandriva/S01/Mandriva%282024%29.S01E01.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/MDGbxzv/The-Penguin.jpg" group-title="The Penguin (2024)",The Penguin (2024) S01E02 Inside Man	
-https://archive.org/download/mandriva-2024.-s-01-e-08_202411/Mandriva/S01/Mandriva%282024%29.S01E02.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/MDGbxzv/The-Penguin.jpg" group-title="The Penguin (2024)",The Penguin (2024) S01E03 Bliss	
-https://archive.org/download/mandriva-2024.-s-01-e-08_202411/Mandriva/S01/Mandriva%282024%29.S01E03.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/MDGbxzv/The-Penguin.jpg" group-title="The Penguin (2024)",The Penguin (2024) S01E04 Cent'anni	
-https://archive.org/download/mandriva-2024.-s-01-e-08_202411/Mandriva/S01/Mandriva%282024%29.S01E04.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/MDGbxzv/The-Penguin.jpg" group-title="The Penguin (2024)",The Penguin (2024) S01E05 Homecoming	
-https://archive.org/download/mandriva-2024.-s-01-e-08_202411/Mandriva/S01/Mandriva%282024%29.S01E05.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/MDGbxzv/The-Penguin.jpg" group-title="The Penguin (2024)",The Penguin (2024) S01E06 Gold Summit	
-https://archive.org/download/mandriva-2024.-s-01-e-08_202411/Mandriva/S01/Mandriva%282024%29.S01E06.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/MDGbxzv/The-Penguin.jpg" group-title="The Penguin (2024)",The Penguin (2024) S01E07 Top Hat	
-https://archive.org/download/mandriva-2024.-s-01-e-08_202411/Mandriva/S01/Mandriva%282024%29.S01E07.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/MDGbxzv/The-Penguin.jpg" group-title="The Penguin (2024)",The Penguin (2024) S01E08 A Great Or Little Thing
-https://archive.org/download/mandriva-2024.-s-01-e-08_202411/Mandriva/S01/Mandriva%282024%29.S01E08.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KGRTVJL/The-Walking-Dead-Daryl-Dixon-500x281.jpg" group-title="The Walking Dead Daryl Dixon (2023)",The Walking Dead Daryl Dixon (2023) S01E01 L'âme Perdue
 https://archive.org/download/01_20241128_20241128/linux/01.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KGRTVJL/The-Walking-Dead-Daryl-Dixon-500x281.jpg" group-title="The Walking Dead Daryl Dixon (2023)",The Walking Dead Daryl Dixon (2023) S01E02 Alouette
@@ -2318,89 +2019,3 @@ https://archive.org/download/70_20241221/LinuxRiver/S06/68.mp4
 https://archive.org/download/70_20241221/LinuxRiver/S06/69.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/f4bhWQj/Virgin-River-2019.jpg" group-title="Virgin River (2019)",Virgin River (2019) S06E10 The Big Day
 https://archive.org/download/70_20241221/LinuxRiver/S06/70.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/PZrQd3y/Yellowstone-2018.jpg" group-title="Yellowstone (2018)",Yellowstone (2018) S01E01 Daybreak
-https://archive.org/download/debian_202411/OpenBSD/S01/10.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/PZrQd3y/Yellowstone-2018.jpg" group-title="Yellowstone (2018)",Yellowstone (2018) S01E02 Kill the Messenger
-https://archive.org/download/debian_202411/OpenBSD/S01/11.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/PZrQd3y/Yellowstone-2018.jpg" group-title="Yellowstone (2018)",Yellowstone (2018) S01E03 No Good Horses
-https://archive.org/download/debian_202411/OpenBSD/S01/12.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/PZrQd3y/Yellowstone-2018.jpg" group-title="Yellowstone (2018)",Yellowstone (2018) S01E04 The Long Black Train
-https://archive.org/download/debian_202411/OpenBSD/S01/13.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/PZrQd3y/Yellowstone-2018.jpg" group-title="Yellowstone (2018)",Yellowstone (2018) S01E05 Coming Home
-https://archive.org/download/debian_202411/OpenBSD/S01/14.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/PZrQd3y/Yellowstone-2018.jpg" group-title="Yellowstone (2018)",Yellowstone (2018) S01E06 The Remembering
-https://archive.org/download/debian_202411/OpenBSD/S01/15.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/PZrQd3y/Yellowstone-2018.jpg" group-title="Yellowstone (2018)",Yellowstone (2018) S01E07 A Monster Is Among Us
-https://archive.org/download/debian_202411/OpenBSD/S01/16.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/PZrQd3y/Yellowstone-2018.jpg" group-title="Yellowstone (2018)",Yellowstone (2018) S01E08 The Unravelling (1)
-https://archive.org/download/debian_202411/OpenBSD/S01/17.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/PZrQd3y/Yellowstone-2018.jpg" group-title="Yellowstone (2018)",Yellowstone (2018) S01E09 The Unravelling (2)
-https://archive.org/download/debian_202411/OpenBSD/S01/18.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/PZrQd3y/Yellowstone-2018.jpg" group-title="Yellowstone (2018)",Yellowstone (2018) S02E01 A Thundering
-https://archive.org/download/debian_202411/OpenBSD/S02/20.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/PZrQd3y/Yellowstone-2018.jpg" group-title="Yellowstone (2018)",Yellowstone (2018) S02E02 New Beginnings
-https://archive.org/download/debian_202411/OpenBSD/S02/21.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/PZrQd3y/Yellowstone-2018.jpg" group-title="Yellowstone (2018)",Yellowstone (2018) S02E03 The Reek of Desperation
-https://archive.org/download/debian_202411/OpenBSD/S02/22.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/PZrQd3y/Yellowstone-2018.jpg" group-title="Yellowstone (2018)",Yellowstone (2018) S02E04 Only Devils Left
-https://archive.org/download/debian_202411/OpenBSD/S02/23.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/PZrQd3y/Yellowstone-2018.jpg" group-title="Yellowstone (2018)",Yellowstone (2018) S02E05 Touching Your Enemy
-https://archive.org/download/debian_202411/OpenBSD/S02/24.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/PZrQd3y/Yellowstone-2018.jpg" group-title="Yellowstone (2018)",Yellowstone (2018) S02E06 Blood the Boy
-https://archive.org/download/debian_202411/OpenBSD/S02/25.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/PZrQd3y/Yellowstone-2018.jpg" group-title="Yellowstone (2018)",Yellowstone (2018) S02E07 Resurrection Day
-https://archive.org/download/debian_202411/OpenBSD/S02/26.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/PZrQd3y/Yellowstone-2018.jpg" group-title="Yellowstone (2018)",Yellowstone (2018) S02E08 Behind Us Only Grey
-https://archive.org/download/debian_202411/OpenBSD/S02/27.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/PZrQd3y/Yellowstone-2018.jpg" group-title="Yellowstone (2018)",Yellowstone (2018) S02E09 Enemies by Monday
-https://archive.org/download/debian_202411/OpenBSD/S02/28.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/PZrQd3y/Yellowstone-2018.jpg" group-title="Yellowstone (2018)",Yellowstone (2018) S02E10 Sins of the Father
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/PZrQd3y/Yellowstone-2018.jpg" group-title="Yellowstone (2018)",Yellowstone (2018) S03E01 You're the Indian Now
-https://archive.org/download/debian_202411/OpenBSD/S03/30.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/PZrQd3y/Yellowstone-2018.jpg" group-title="Yellowstone (2018)",Yellowstone (2018) S03E02 Freight Trains and Monsters
-https://archive.org/download/debian_202411/OpenBSD/S03/31.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/PZrQd3y/Yellowstone-2018.jpg" group-title="Yellowstone (2018)",Yellowstone (2018) S03E03 An Acceptable Surrender
-https://archive.org/download/debian_202411/OpenBSD/S03/32.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/PZrQd3y/Yellowstone-2018.jpg" group-title="Yellowstone (2018)",Yellowstone (2018) S03E04 Going Back to Cali
-https://archive.org/download/debian_202411/OpenBSD/S03/33.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/PZrQd3y/Yellowstone-2018.jpg" group-title="Yellowstone (2018)",Yellowstone (2018) S03E05 Cowboys and Dreamers
-https://archive.org/download/debian_202411/OpenBSD/S03/34.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/PZrQd3y/Yellowstone-2018.jpg" group-title="Yellowstone (2018)",Yellowstone (2018) S03E06 All for Nothing
-https://archive.org/download/debian_202411/OpenBSD/S03/35.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/PZrQd3y/Yellowstone-2018.jpg" group-title="Yellowstone (2018)",Yellowstone (2018) S03E07 The Beating
-https://archive.org/download/debian_202411/OpenBSD/S03/36.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/PZrQd3y/Yellowstone-2018.jpg" group-title="Yellowstone (2018)",Yellowstone (2018) S03E08 I Killed a Man Today
-https://archive.org/download/debian_202411/OpenBSD/S03/37.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/PZrQd3y/Yellowstone-2018.jpg" group-title="Yellowstone (2018)",Yellowstone (2018) S03E09 Meaner Than Evil
-https://archive.org/download/debian_202411/OpenBSD/S03/38.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/PZrQd3y/Yellowstone-2018.jpg" group-title="Yellowstone (2018)",Yellowstone (2018) S03E10 The World Is Purple
-https://archive.org/download/debian_202411/OpenBSD/S03/39.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/PZrQd3y/Yellowstone-2018.jpg" group-title="Yellowstone (2018)",Yellowstone (2018) S04E01 Half the Money	
-https://archive.org/download/debian_202411/OpenBSD/S04/40.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/PZrQd3y/Yellowstone-2018.jpg" group-title="Yellowstone (2018)",Yellowstone (2018) S04E02 Phantom Pain
-https://archive.org/download/debian_202411/OpenBSD/S04/41.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/PZrQd3y/Yellowstone-2018.jpg" group-title="Yellowstone (2018)",Yellowstone (2018) S04E03	All I See Is You
-https://archive.org/download/debian_202411/OpenBSD/S04/42.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/PZrQd3y/Yellowstone-2018.jpg" group-title="Yellowstone (2018)",Yellowstone (2018) S04E04	Winning or Learning
-https://archive.org/download/debian_202411/OpenBSD/S04/43.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/PZrQd3y/Yellowstone-2018.jpg" group-title="Yellowstone (2018)",Yellowstone (2018) S04E05	Under a Blanket of Red
-https://archive.org/download/debian_202411/OpenBSD/S04/44.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/PZrQd3y/Yellowstone-2018.jpg" group-title="Yellowstone (2018)",Yellowstone (2018) S04E06	I Want to Be Him
-https://archive.org/download/debian_202411/OpenBSD/S04/45.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/PZrQd3y/Yellowstone-2018.jpg" group-title="Yellowstone (2018)",Yellowstone (2018) S04E07	Keep the Wolves Close
-https://archive.org/download/debian_202411/OpenBSD/S04/46.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/PZrQd3y/Yellowstone-2018.jpg" group-title="Yellowstone (2018)",Yellowstone (2018) S04E08	No Kindness for the Coward
-https://archive.org/download/debian_202411/OpenBSD/S04/47.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/PZrQd3y/Yellowstone-2018.jpg" group-title="Yellowstone (2018)",Yellowstone (2018) S04E09	No Such Thing as Fair
-https://archive.org/download/debian_202411/OpenBSD/S04/48.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/PZrQd3y/Yellowstone-2018.jpg" group-title="Yellowstone (2018)",Yellowstone (2018) S04E10	Grass on the Streets and Weeds on the Rooftops
-https://archive.org/download/debian_202411/OpenBSD/S04/49.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/PZrQd3y/Yellowstone-2018.jpg" group-title="Yellowstone (2018)",Yellowstone (2018) S05E01 One Hundred Years Is Nothing
-https://archive.org/download/debian_202411/OpenBSD/S05/50.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/PZrQd3y/Yellowstone-2018.jpg" group-title="Yellowstone (2018)",Yellowstone (2018) S05E02 The Sting of Wisdom
-https://archive.org/download/debian_202411/OpenBSD/S05/51.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/PZrQd3y/Yellowstone-2018.jpg" group-title="Yellowstone (2018)",Yellowstone (2018) S05E03 Tall Drink of Water
-https://archive.org/download/debian_202411/OpenBSD/S05/52.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/PZrQd3y/Yellowstone-2018.jpg" group-title="Yellowstone (2018)",Yellowstone (2018) S05E04 Horses in Heaven
-https://archive.org/download/debian_202411/OpenBSD/S05/53.mp4
