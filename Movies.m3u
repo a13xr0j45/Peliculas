@@ -1,4 +1,8 @@
 ﻿#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ibb.co/y4b2Jsj/Nosferatu-2024-542-X-768.jpg",Nosferatu (2024)[DUAL]
+https://archive.org/download/01_20250122_20250122_1756/linux/02.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/f2Sj2mw/Sonic-the-Hedgehog-3-2024-542-X-768.jpg",Sonic 3 (2024)[DUAL]
+https://archive.org/download/01_20250122_20250122_1756/linux/01.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/j8DBhRh/Oldboy-2003-542-X-768.jpg",Oldboy (2003)[DUAL]
 https://archive.org/download/ubuntu_202501/asterix/LinuxMint.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4ZGcL8W/Inglourious-Basterds-2009.jpg",Inglourious Basterds (2009)[DUAL]
