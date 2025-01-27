@@ -1,4 +1,8 @@
 ﻿#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9VbfD7P/Azrael-2024-500-281-542-x-768.jpg",Azrael (2024)
+https://archive.org/download/debian_202501/Debian/Debian.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qRTXX9v/Deus-Irae-2023-500-281-542-x-768.jpg",Deus Irae (2023)[CAST]
+https://archive.org/download/debian_202501/Debian/Manjaro.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/m9zDVHG/Knock-Knock-2015-542-X-768.jpg",Knock Knock (2015)[DUAL]
 https://archive.org/download/01_20250122_20250122_1756/linux/04.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/qe9G6JqX79QCzOjFhHRmd1RD2Wg.jpg",10 Minutes Gone (2019)
