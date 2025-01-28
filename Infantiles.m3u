@@ -1,5 +1,10 @@
 ﻿#EXTM3U
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rbp4Pdf/Moana-2-2024-542-x-768.jpg",Moana 2 (2024)[DUAL]
+https://archive.org/download/copilot_202501/ia/Copilot.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jv78qNg/El-origen-de-los-guardianes-542-x-768.jpg",El origen de los guardianes (2012)
+https://archive.org/download/copilot_202501/ia/Gemini.mp4
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tKf5KDX/Garfield-La-pel-cula-2024.jpg",The Garfield Movie (2024)[DUAL]
 https://archive.org/download/perifericos_202407/upload/perifericos.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/K7gf9h6/Robot-salvaje.jpg",Robot salvaje (2024)[DUAL]
