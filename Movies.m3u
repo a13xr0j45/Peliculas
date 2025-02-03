@@ -1,10 +1,10 @@
 ﻿#EXTM3U
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/XZymLRNc/Caveat-2021-542-X-768.jpg",SLM Caveat (2021)[ENG]
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/XhQ0Sgd/Companion-2025-542-X-768.jpg",Gemini Companion (2025)[DUAL]
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XZymLRNc/Caveat-2021-542-X-768.jpg",Caveat (2021)[ENG]
+https://archive.org/download/gemini_202502/IA/SLM.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XhQ0Sgd/Companion-2025-542-X-768.jpg",Companion (2025)[DUAL]
+https://archive.org/download/gemini_202502/IA/Gemini.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4w7ckRxG/Arcadian-2024-542-X-768.jpg",Arcadian (2024)[DUAL]
 https://archive.org/download/gemini_202502/IA/Copilot.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ksm8nPRs/Slasher-2023-542-X-768.jpg",Slasher (2023)[CAST]
