@@ -1,6 +1,7 @@
 ﻿#EXTM3U
 
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Q7DpNPXL/Star-Trek-Section-31-2025-542-X-768.jpg",Star Trek Section 31 (2025)[DUAL]
+https://archive.org/download/gemini_202502/IA/LLaMA.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XZymLRNc/Caveat-2021-542-X-768.jpg",Caveat (2021)[ENG]
 https://archive.org/download/gemini_202502/IA/SLM.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XhQ0Sgd/Companion-2025-542-X-768.jpg",Companion (2025)[DUAL]
