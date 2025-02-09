@@ -1,4 +1,21 @@
 ﻿#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ibb.co/39WphdVS/Wolf-Man-2025-542-x-768.jpg",Wolf Man (2025)[DUAL]
+https://archive.org/download/manjaro_202502/LINUX/LinuxMint.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Q7DpNPXL/Star-Trek-Section-31-2025-542-X-768.jpg",Star Trek Section 31 (2025)[DUAL]
+https://archive.org/download/gemini_202502/IA/LLaMA.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XZymLRNc/Caveat-2021-542-X-768.jpg",Caveat (2021)[ENG]
+https://archive.org/download/gemini_202502/IA/SLM.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XhQ0Sgd/Companion-2025-542-X-768.jpg",Companion (2025)[DUAL]
+https://archive.org/download/gemini_202502/IA/Gemini.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4w7ckRxG/Arcadian-2024-542-X-768.jpg",Arcadian (2024)[DUAL]
+https://archive.org/download/gemini_202502/IA/Copilot.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ksm8nPRs/Slasher-2023-542-X-768.jpg",Slasher (2023)[CAST]
+https://archive.org/download/gemini_202502/IA/ClimateNet.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZRGccbhb/Jugaremos-en-el-bosque-2024-542-X-768.jpg",Jugaremos en el bosque (2024)[LAT]
+https://archive.org/download/gemini_202502/IA/ChatGPT.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/b5ryySzv/Piglet-2025-542-X-768.jpg",Piglet (2025) [ENG]
+https://archive.org/download/gemini_202502/IA/Claude.mp4
+
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/qe9G6JqX79QCzOjFhHRmd1RD2Wg.jpg" group-title="Movies",10 Minutes Gone (2019)
 https://dl.dropboxusercontent.com/s/gudmdnmk6qxyyln/angeles%20de%20charly.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/cWXlmLf1csWEdnq20v7Va6nPlAw.jpg" group-title="Movies",10 Things We Should Do Before We Break Up (2020)[ESP]
