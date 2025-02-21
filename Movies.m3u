@@ -1,20 +1,23 @@
 ﻿#EXTM3U
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/4e9G0kzD2m0woJJxNPo5uubm0RX.jpg",Mufasa The Lion King (2024)[DUAL]
+https://archive.org/download/01_20250220_20250220_1639/Pbx/01.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/e6HZjibQHZga4ysX3KNQVPojytZ.jpg",Dog Man (2025)[dual]
+https://archive.org/download/01_20250220_20250220_1639/Pbx/02.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/5n1rAhQ27JGB7C0dRKSf91ELmma.jpg",A Few Good Men (1992)[DUAL]
+https://archive.org/download/01_20250220_20250220_1639/Pbx/03.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/cKfgyzDm5kMGVI6qHZeLQUx2sXT.jpg",The Djinn (2021)[LAT]
+https://archive.org/download/01_20250220_20250220_1639/Pbx/04.mp4
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Fb686GHs/House-of-Sayuri-2024-542-x-768.jpg",House of Sayuri (2024)[JAP]
 https://archive.org/download/03_20250214_20250214/LINUX/01.mp4
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YBCsg2bH/Devils-Stay-2024-542-x-768.jpg",Devils Stay (2024)[KOR]
 https://archive.org/download/03_20250214_20250214/LINUX/02.mp4
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7xTzq0L3/Oddity-2024-542-x-768.jpg",Oddity (2024)[DUAL]
 https://archive.org/download/03_20250214_20250214/LINUX/04.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0pxyDXq9/The-Gorge-2025-542-x-768.jpg",The Gorge (2025)[DUAL]
 https://archive.org/download/03_20250214_20250214/LINUX/03.mp4
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PvVdJ4Qn/Bridget-Jones-Mad-About-the-Boy-2025-542-x-768.jpg",Bridget Jones Mad About the Boy (2025)[DUAL]
 https://archive.org/download/03_20250214_20250214/LINUX/05.mp4
-
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/39WphdVS/Wolf-Man-2025-542-x-768.jpg",Wolf Man (2025)[DUAL]
 https://archive.org/download/manjaro_202502/LINUX/LinuxMint.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Q7DpNPXL/Star-Trek-Section-31-2025-542-X-768.jpg",Star Trek Section 31 (2025)[DUAL]
@@ -31,7 +34,6 @@ https://archive.org/download/gemini_202502/IA/ClimateNet.mp4
 https://archive.org/download/gemini_202502/IA/ChatGPT.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/b5ryySzv/Piglet-2025-542-X-768.jpg",Piglet (2025) [ENG]
 https://archive.org/download/gemini_202502/IA/Claude.mp4
-
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/qe9G6JqX79QCzOjFhHRmd1RD2Wg.jpg" group-title="Movies",10 Minutes Gone (2019)
 https://dl.dropboxusercontent.com/s/gudmdnmk6qxyyln/angeles%20de%20charly.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/cWXlmLf1csWEdnq20v7Va6nPlAw.jpg" group-title="Movies",10 Things We Should Do Before We Break Up (2020)[ESP]
