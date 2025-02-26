@@ -1,4 +1,8 @@
 ﻿#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4n9rL9BX/Presence-2025-542-x-768.jpg"Presence (2025)[ENG]
+https://archive.org/download/05_20250226_20250226_1739/Fedora/02.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yFp9xYKZ/Unfriended-Dark-Web-2018-542-x-768.jpg",Unfriended Dark Web (2018)[ENG]
+https://archive.org/download/05_20250226_20250226_1739/Fedora/01.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/4e9G0kzD2m0woJJxNPo5uubm0RX.jpg",Mufasa The Lion King (2024)[DUAL]
 https://archive.org/download/01_20250220_20250220_1639/Pbx/01.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/e6HZjibQHZga4ysX3KNQVPojytZ.jpg",Dog Man (2025)[dual]
