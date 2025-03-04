@@ -1,7 +1,11 @@
 ﻿#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ibb.co/prjLncMk/Paddington-in-Peru-2024-542-x-768.jpg",Paddington in Peru (2024)[DUAL]
+https://archive.org/download/01_20250228_20250228_1542/Sabayon/01.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Qv6dDMc9/Kraven-the-Hunter-2024-542-x-768.jpg",Kraven the Hunter (2024)[DUAL]
+https://archive.org/download/01_20250228_20250228_1542/Sabayon/02.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Z6LC9FmT/The-Deep-Web-Murdershow-2024-542-x-768.jpg",The Deep Web Murdershow (2024)[DUAL]
 https://archive.org/download/05_20250226_20250226_1739/Fedora/03.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4n9rL9BX/Presence-2025-542-x-768.jpg"Presence (2025)[ENG]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4n9rL9BX/Presence-2025-542-x-768.jpg",Presence (2025)[ENG]
 https://archive.org/download/05_20250226_20250226_1739/Fedora/02.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yFp9xYKZ/Unfriended-Dark-Web-2018-542-x-768.jpg",Unfriended Dark Web (2018)[ENG]
 https://archive.org/download/05_20250226_20250226_1739/Fedora/01.mp4
@@ -13,7 +17,6 @@ https://archive.org/download/01_20250220_20250220_1639/Pbx/02.mp4
 https://archive.org/download/01_20250220_20250220_1639/Pbx/03.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/cKfgyzDm5kMGVI6qHZeLQUx2sXT.jpg",The Djinn (2021)[LAT]
 https://archive.org/download/01_20250220_20250220_1639/Pbx/04.mp4
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Fb686GHs/House-of-Sayuri-2024-542-x-768.jpg",House of Sayuri (2024)[JAP]
 https://archive.org/download/03_20250214_20250214/LINUX/01.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YBCsg2bH/Devils-Stay-2024-542-x-768.jpg",Devils Stay (2024)[KOR]
