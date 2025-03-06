@@ -1,4 +1,8 @@
 ﻿#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6Grh8s8/Brave-New-World-2025-542-X-768.jpg",Captain America - Brave New World (2025)
+https://archive.org/download/01_20250305_20250305_1754/SO/01.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xqRXCmTp/Heart-Eyes-2025-542-X-768.jpg",Heart Eyes (2025)[ENG]
+https://archive.org/download/01_20250305_20250305_1754/SO/02.mp4
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HfZb94h1/Time-Trap-2018-542-x-768.jpg",Time Trap (2018)[DUAL]
 https://archive.org/download/linux_202503/Linux/01.mp4
@@ -6,8 +10,6 @@ https://archive.org/download/linux_202503/Linux/01.mp4
 https://archive.org/download/linux_202503/Linux/02.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LdxbC3TV/Something-in-the-Water-2024-542-x-768.jpg",Something in the Water (2024)[DUAL]
 https://archive.org/download/linux_202503/Linux/03.mp4
-
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/prjLncMk/Paddington-in-Peru-2024-542-x-768.jpg",Paddington in Peru (2024)[DUAL]
 https://archive.org/download/01_20250228_20250228_1542/Sabayon/01.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Qv6dDMc9/Kraven-the-Hunter-2024-542-x-768.jpg",Kraven the Hunter (2024)[DUAL]
