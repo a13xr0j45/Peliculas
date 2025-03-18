@@ -1,4 +1,12 @@
 ﻿#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5hsQQpSb/Control-Freak-2025-542-X-768.jpg",Control Freak (2025)[ENG]
+https://archive.org/download/03_20250317/pbx/05.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bggdbzXY/The-Parenting-2025-542-X-768.jpg",The Parenting (2025)[ENG]
+https://archive.org/download/03_20250317/pbx/06.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pBVqkQ6P/High-Rollers-2025-542-X-768.jpg",High Rollers (2025)[ENG]
+https://archive.org/download/03_20250317/pbx/07.mp4
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/r2qs2y2k/Dark-Nuns-2025-542-X-768.jpg",Dark Nuns (2025)[KO]
 https://archive.org/download/03_20250317/pbx/04.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/5n1rAhQ27JGB7C0dRKSf91ELmma.jpg",A Few Good Men (1992)[DUAL]
