@@ -1,9 +1,15 @@
 ﻿#EXTM3U
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mV4W9TFK/August-Rush-2007-542-X-768.jpg",August Rush (2007)[DUAL]
 https://archive.org/download/01_20250324_202503/temp/01.mp4
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Nn9pjnFK/The-Monkey-2025-542-x-768.jpg",The Monkey (2025)[ENG]
 https://archive.org/download/01_20250324_202503/temp/02.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/psSKfSf/Sympathy-for-Mr-Vengeance-2002-542-x-768.jpg",Sympathy for Mr. Vengeance (2002)[KOR]
+https://archive.org/download/01_20250324_202503/temp/03.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yF32Ch2n/Oldboy-2003-542-x-768.jpg",Oldboy (2003)[KOR]
+https://archive.org/download/01_20250324_202503/temp/04.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gb3ztD0V/Lady-Vengeance-2005-542-x-768.jpg",Lady Vengeance (2005)[KOR]
+https://archive.org/download/01_20250324_202503/temp/05.mp4
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/394KVFM4/Guardians-of-the-Galaxy-2014-542-X-768.jpg",Guardians of the Galaxy (2014)[DUAL]
 https://archive.org/download/03_20250317/pbx/01.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mVDCQmK6/Guardians-of-the-Galaxy-Vol-2-2017-542-X-768.jpg",Guardians of the Galaxy Vol. 2 (2017)[DUAL]
