@@ -1,14 +1,4 @@
 ﻿#EXTM3U
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/HLZ82HpK/Adolescence-500-x-281.jpg",Adolescence (2025) S01E01
-https://archive.org/download/01_20250324_202503/linux/01.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/HLZ82HpK/Adolescence-500-x-281.jpg",Adolescence (2025) S01E02
-https://archive.org/download/01_20250324_202503/linux/02.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/HLZ82HpK/Adolescence-500-x-281.jpg",Adolescence (2025) S01E03
-https://archive.org/download/01_20250324_202503/linux/03.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/HLZ82HpK/Adolescence-500-x-281.jpg",Adolescence (2025) S01E04
-https://archive.org/download/01_20250324_202503/linux/04.mp4
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RvGdFQ9/1992-2024.jpg" group-title="1992 (2024)",1992 (2024) S01E01 ¿Te acuerdas de Curro?
 https://archive.org/download/ewdwe3ww/utp/01.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RvGdFQ9/1992-2024.jpg" group-title="1992 (2024)",1992 (2024) S01E02 La España que nos dejaron
@@ -33,6 +23,14 @@ https://archive.org/download/202406/linux/S01/04.mp4
 https://archive.org/download/202406/linux/S01/05.mp4
 #EXTINF:-1 group-title="28 Days Haunted (2022)",28 Days Haunted (2022) S01E06 Piercing the Veil
 https://archive.org/download/202406/linux/S01/06.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HLZ82HpK/Adolescence-500-x-281.jpg" group-title="Adolescence (2025)",Adolescence (2025) S01E01
+https://archive.org/download/01_20250324_202503/linux/01.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HLZ82HpK/Adolescence-500-x-281.jpg" group-title="Adolescence (2025)",Adolescence (2025) S01E02
+https://archive.org/download/01_20250324_202503/linux/02.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HLZ82HpK/Adolescence-500-x-281.jpg" group-title="Adolescence (2025)",Adolescence (2025) S01E03
+https://archive.org/download/01_20250324_202503/linux/03.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HLZ82HpK/Adolescence-500-x-281.jpg" group-title="Adolescence (2025)",Adolescence (2025) S01E04
+https://archive.org/download/01_20250324_202503/linux/04.mp4
 #EXTINF:-1 group-title="Battlestar Galactica (2003)",Battlestar Galactica (2003) S00E01 Battlestar Galactica: The Miniseries (1)
 https://archive.org/download/bsg-miniseries-s-00.-e-02/BSG-Miniseries-S00.E01.mkv
 #EXTINF:-1 group-title="Battlestar Galactica (2003)",Battlestar Galactica (2003) S00E02 Battlestar Galactica: The Miniseries (2)
