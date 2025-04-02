@@ -1,6 +1,17 @@
 ﻿#EXTM3U
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Y76DgsQq/Black-Bag-2025-542-x-768.jpg",Black Bag (2025)[ENG]
 https://archive.org/download/06_20250402_20250402_1738/Daemons/01.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TBmFsTN8/Ghost-Game-2024-542-x-768.jpg",Ghost Game (2024)[DUAL]
+https://archive.org/download/06_20250402_20250402_1738/Daemons/02.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/whJN03bJ/Sputnik-2020-542-x-768.png",Sputnik (2020) [DUAL]
+https://archive.org/download/06_20250402_20250402_1738/Daemons/03.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Fq7zLZnn/Opus-2025-542-x-768.jpg",Opus (2025)[ENG]
+https://archive.org/download/06_20250402_20250402_1738/Daemons/04.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dJmPT081/Uranus-2324-2024-542-x-768.jpg",Uranus 2324 (2024)[DUAL]
+https://archive.org/download/06_20250402_20250402_1738/Daemons/05.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/V0zTnFkT/Cloud-2024-542-x-768.jpg",Cloud (2024)[JAP]
+https://archive.org/download/06_20250402_20250402_1738/Daemons/06.mp4
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mV4W9TFK/August-Rush-2007-542-X-768.jpg",August Rush (2007)[DUAL]
 https://archive.org/download/01_20250324_202503/temp/01.mp4
