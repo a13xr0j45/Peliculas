@@ -1,4 +1,14 @@
 ﻿#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ibb.co/F4Hk6CDc/Mickey-17-2025-542-x-768.jpg",Mickey 17 (2025)[DUAL]
+https://archive.org/download/04_20250407/pbx/01.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fV0RrsC6/Turno-nocturno-2024-542-x-768.jpg",Turno nocturno (2024)[LAT]
+https://archive.org/download/04_20250407/pbx/02.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Kjjs3CT0/The-Skulls-III-2004-542-x-768.jpg",The Skulls III (2004)[ENG]
+https://archive.org/download/04_20250407/pbx/03.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xtf9zCLr/The-One-2022-542-x-768.jpg",The One (2022)[DUAL]
+https://archive.org/download/04_20250407/pbx/04.mp4
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Y76DgsQq/Black-Bag-2025-542-x-768.jpg",Black Bag (2025)[ENG]
 https://archive.org/download/06_20250402_20250402_1738/Daemons/01.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TBmFsTN8/Ghost-Game-2024-542-x-768.jpg",Ghost Game (2024)[DUAL]
