@@ -1,8 +1,12 @@
 ﻿#EXTM3U
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/F4Hk6CDc/Mickey-17-2025-542-x-768.jpg",Mickey 17 (2025)[DUAL]
 https://archive.org/download/04_20250407/pbx/01.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fV0RrsC6/Turno-nocturno-2024-542-x-768.jpg",Turno nocturno (2024)[LAT]
 https://archive.org/download/04_20250407/pbx/02.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xtf9zCLr/The-One-2022-542-x-768.jpg",The One (2022)[DUAL]
+https://archive.org/download/04_20250407/pbx/04.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Mk2HtbNR/The-Skulls-2000-542-x-768.jpg",The Skulls (2000)[ENG]
 https://archive.org/download/04_20250407/pbx/05.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/35gzPTD9/The-Skulls-II-2002-542-x-768.jpg",The Skulls II (2002)[ENG]
@@ -11,8 +15,8 @@ https://archive.org/download/04_20250407/pbx/06.mp4
 https://archive.org/download/04_20250407/pbx/03.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sJmmn6xM/Last-Breath-542-x-768.jpg",Last Breath (2025)[DUAL]
 https://archive.org/download/04_20250407/pbx/07.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/xtf9zCLr/The-One-2022-542-x-768.jpg",The One (2022)[DUAL]
-https://archive.org/download/04_20250407/pbx/04.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xKt01FG8/Perfume-The-Story-of-a-Murderer-2006-542-x-768.jpg",Perfume The Story of a Murderer (2006)[DUAL]
+https://archive.org/download/04_20250407/pbx/08.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Y76DgsQq/Black-Bag-2025-542-x-768.jpg",Black Bag (2025)[ENG]
 https://archive.org/download/06_20250402_20250402_1738/Daemons/01.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TBmFsTN8/Ghost-Game-2024-542-x-768.jpg",Ghost Game (2024)[DUAL]
