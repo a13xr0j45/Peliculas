@@ -1,6 +1,8 @@
 ﻿#EXTM3U
-
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VsyqVWR/Flight-2012-542-x-768.jpg",Flight (2012)[DUAL]
+https://archive.org/download/00_20250409/servers/01.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4wwxmBp6/Survivre-2024-542-x-768.jpg",Survivre (2024)[DUAL]
+https://archive.org/download/00_20250409/servers/02.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/F4Hk6CDc/Mickey-17-2025-542-x-768.jpg",Mickey 17 (2025)[DUAL]
 https://archive.org/download/04_20250407/pbx/01.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fV0RrsC6/Turno-nocturno-2024-542-x-768.jpg",Turno nocturno (2024)[LAT]
