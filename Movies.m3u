@@ -1,5 +1,5 @@
 ﻿#EXTM3U
-#EXTINF:-1 tvg-logo="",Life Is Beautiful (1997) [DUAL]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ymC5p5PV/Life-Is-Beautiful-1997-542-X-768.jpg",Life Is Beautiful (1997) [DUAL]
 https://archive.org/download/01_20250419/fedora/01.mp4
 #EXTINF:-1 tvg-logo="https://ibb.co/TMTnJ5Mb",Easter Bloody Easter (2024) [DUAL]
 https://archive.org/download/01_20250419/fedora/02.mp4
@@ -26,8 +26,6 @@ https://archive.org/download/07_20250411_202504/WorkFlow/06.mp4
 https://archive.org/download/07_20250411_202504/WorkFlow/07.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VsyqVWR/Flight-2012-542-x-768.jpg",Flight (2012)[DUAL]
 https://archive.org/download/00_20250409/servers/01.mp4
-
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4wwxmBp6/Survivre-2024-542-x-768.jpg",Survivre (2024)[DUAL]
 https://archive.org/download/00_20250409/servers/02.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/F4Hk6CDc/Mickey-17-2025-542-x-768.jpg",Mickey 17 (2025)[DUAL]
