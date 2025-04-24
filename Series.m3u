@@ -1859,22 +1859,54 @@ https://archive.org/download/01_20241129_20241129_2041/Linux/02/24.mp4
 https://archive.org/download/01_20241129_20241129_2041/Linux/02/25.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KGRTVJL/The-Walking-Dead-Daryl-Dixon-500x281.jpg" group-title="The Walking Dead Daryl Dixon (2023)",The Walking Dead Daryl Dixon (2023) S02E06 Au Revoir les Enfants
 https://archive.org/download/01_20241129_20241129_2041/Linux/02/26.mp4
-#EXTINF:-1 group-title="The Wheel of Time (2021)",The Wheel of Time (2021) S01E01 Leavetaking
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ms1EhaJHC6sunztZfWIp6sSCE30.jpg" group-title="The Wheel of Time (2021)",The Wheel of Time (2021) S01E01 Leavetaking
 https://archive.org/download/index_20240816/Whell-Linux/S01/01.mp4	
-#EXTINF:-1 group-title="The Wheel of Time (2021)",The Wheel of Time (2021) S01E02 Shadow's Waiting
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ms1EhaJHC6sunztZfWIp6sSCE30.jpg" group-title="The Wheel of Time (2021)",The Wheel of Time (2021) S01E02 Shadow's Waiting
 https://archive.org/download/index_20240816/Whell-Linux/S01/02.mp4
-#EXTINF:-1 group-title="The Wheel of Time (2021)",The Wheel of Time (2021) S01E03 A Place of Safety
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ms1EhaJHC6sunztZfWIp6sSCE30.jpg" group-title="The Wheel of Time (2021)",The Wheel of Time (2021) S01E03 A Place of Safety
 https://archive.org/download/index_20240816/Whell-Linux/S01/03.mp4
-#EXTINF:-1 group-title="The Wheel of Time (2021)",The Wheel of Time (2021) S01E04 The Dragon Reborn
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ms1EhaJHC6sunztZfWIp6sSCE30.jpg" group-title="The Wheel of Time (2021)",The Wheel of Time (2021) S01E04 The Dragon Reborn
 https://archive.org/download/index_20240816/Whell-Linux/S01/04.mp4	
-#EXTINF:-1 group-title="The Wheel of Time (2021)",The Wheel of Time (2021) S01E05 Blood Calls Blood
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ms1EhaJHC6sunztZfWIp6sSCE30.jpg" group-title="The Wheel of Time (2021)",The Wheel of Time (2021) S01E05 Blood Calls Blood
 https://archive.org/download/index_20240816/Whell-Linux/S01/05.mp4	
-#EXTINF:-1 group-title="The Wheel of Time (2021)",The Wheel of Time (2021) S01E06 The Flame of Tar Valon
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ms1EhaJHC6sunztZfWIp6sSCE30.jpg" group-title="The Wheel of Time (2021)",The Wheel of Time (2021) S01E06 The Flame of Tar Valon
 https://archive.org/download/index_20240816/Whell-Linux/S01/06.mp4
-#EXTINF:-1 group-title="The Wheel of Time (2021)",The Wheel of Time (2021) S01E07 The Dark Along the Ways
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ms1EhaJHC6sunztZfWIp6sSCE30.jpg" group-title="The Wheel of Time (2021)",The Wheel of Time (2021) S01E07 The Dark Along the Ways
 https://archive.org/download/index_20240816/Whell-Linux/S01/07.mp4
-#EXTINF:-1 group-title="The Wheel of Time (2021)",The Wheel of Time (2021) S01E08 The Eye of the World
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ms1EhaJHC6sunztZfWIp6sSCE30.jpg" group-title="The Wheel of Time (2021)",The Wheel of Time (2021) S01E08 The Eye of the World
 https://archive.org/download/index_20240816/Whell-Linux/S01/08.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ms1EhaJHC6sunztZfWIp6sSCE30.jpg" group-title="The Wheel of Time (2021)",The Wheel of Time (2021) S02E01 A Taste of Solitude
+https://archive.org/download/index_20250421/wheel/S02/Linux.%282025%29.S02E01.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ms1EhaJHC6sunztZfWIp6sSCE30.jpg" group-title="The Wheel of Time (2021)",The Wheel of Time (2021) S02E02 Strangers and Friends
+https://archive.org/download/index_20250421/wheel/S02/Linux.%282025%29.S02E02.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ms1EhaJHC6sunztZfWIp6sSCE30.jpg" group-title="The Wheel of Time (2021)",The Wheel of Time (2021) S02E03 What Might Be
+https://archive.org/download/index_20250421/wheel/S02/Linux.%282025%29.S02E03.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ms1EhaJHC6sunztZfWIp6sSCE30.jpg" group-title="The Wheel of Time (2021)",The Wheel of Time (2021) S02E04 Daughter of the Night
+https://archive.org/download/index_20250421/wheel/S02/Linux.%282025%29.S02E04.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ms1EhaJHC6sunztZfWIp6sSCE30.jpg" group-title="The Wheel of Time (2021)",The Wheel of Time (2021) S02E05 Damane
+https://archive.org/download/index_20250421/wheel/S02/Linux.%282025%29.S02E05.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ms1EhaJHC6sunztZfWIp6sSCE30.jpg" group-title="The Wheel of Time (2021)",The Wheel of Time (2021) S02E06 Eyes Without Pity
+https://archive.org/download/index_20250421/wheel/S02/Linux.%282025%29.S02E06.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ms1EhaJHC6sunztZfWIp6sSCE30.jpg" group-title="The Wheel of Time (2021)",The Wheel of Time (2021) S02E07 Daes Dae'Mar
+https://archive.org/download/index_20250421/wheel/S02/Linux.%282025%29.S02E07.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ms1EhaJHC6sunztZfWIp6sSCE30.jpg" group-title="The Wheel of Time (2021)",The Wheel of Time (2021) S02E08 What Was Meant to Be
+https://archive.org/download/index_20250421/wheel/S02/Linux.%282025%29.S02E08.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ms1EhaJHC6sunztZfWIp6sSCE30.jpg" group-title="The Wheel of Time (2021)",The Wheel of Time (2021) S03E01 To Race the Shadow
+https://archive.org/download/index_20250421/wheel/S03/Linux.%282025%29.S03E01.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ms1EhaJHC6sunztZfWIp6sSCE30.jpg" group-title="The Wheel of Time (2021)",The Wheel of Time (2021) S03E02 A Question of Crimson
+https://archive.org/download/index_20250421/wheel/S03/Linux.%282025%29.S03E02.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ms1EhaJHC6sunztZfWIp6sSCE30.jpg" group-title="The Wheel of Time (2021)",The Wheel of Time (2021) S03E03 Seeds of Shadow
+https://archive.org/download/index_20250421/wheel/S03/Linux.%282025%29.S03E03.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ms1EhaJHC6sunztZfWIp6sSCE30.jpg" group-title="The Wheel of Time (2021)",The Wheel of Time (2021) S03E04 The Road to the Spear
+https://archive.org/download/index_20250421/wheel/S03/Linux.%282025%29.S03E04.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ms1EhaJHC6sunztZfWIp6sSCE30.jpg" group-title="The Wheel of Time (2021)",The Wheel of Time (2021) S03E05 Tel'aran'rhiod
+https://archive.org/download/index_20250421/wheel/S03/Linux.%282025%29.S03E05.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ms1EhaJHC6sunztZfWIp6sSCE30.jpg" group-title="The Wheel of Time (2021)",The Wheel of Time (2021) S03E06 The Shadow in the Night
+https://archive.org/download/index_20250421/wheel/S03/Linux.%282025%29.S03E06.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ms1EhaJHC6sunztZfWIp6sSCE30.jpg" group-title="The Wheel of Time (2021)",The Wheel of Time (2021) S03E07 Goldeneyes
+https://archive.org/download/index_20250421/wheel/S03/Linux.%282025%29.S03E07.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ms1EhaJHC6sunztZfWIp6sSCE30.jpg" group-title="The Wheel of Time (2021)",The Wheel of Time (2021) S03E08 He Who Comes with the Dawn
+https://archive.org/download/index_20250421/wheel/S03/Linux.%282025%29.S03E08.mp4
 #EXTINF:-1 group-title="Those About to Die (2024)",Those About to Die (2024) S01E01 Rise or Die
 https://archive.org/download/00_20250409/HomeOffice/S01/01.mp4
 #EXTINF:-1 group-title="Those About to Die (2024)",Those About to Die (2024) S01E01 Trust None
