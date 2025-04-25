@@ -1,4 +1,18 @@
 ﻿#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tTsRBNMd/The-Ten-Commandments-1956-542-X-768.jpg",The Ten Commandments (1956)[DUAL]
+https://archive.org/download/01_20250424_20250424/daemons/01.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZRcf7S0K/Jesus-1979-542-X-768.jpg",Jesus (1979) [DUAL]
+https://archive.org/download/01_20250424_20250424/daemons/02.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pY07475/Ben-Hur-2016-542-X-768.jpg",Ben-Hur (2016)[DUAL]
+https://archive.org/download/01_20250424_20250424/daemons/03.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9myFQj93/Insidious-Chapter-2-2013-542-X-768.jpg",Insidious Chapter 2 (2013) [DUAL]
+https://archive.org/download/01_20250424_20250424/daemons/04.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DBw049C/Insidious-Chapter-3-2015-542-X-768.jpg",Insidious Chapter 3 (2015) [DUAL]
+https://archive.org/download/01_20250424_20250424/daemons/05.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3mSfFXXb/Insidiou-S-The-Last-Key-2018-542-X-768.jpg",Insidious The Last Key (2018) [DUAL]
+https://archive.org/download/01_20250424_20250424/daemons/06.mp4
+
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/5n1rAhQ27JGB7C0dRKSf91ELmma.jpg",A Few Good Men (1992)[DUAL]
 https://archive.org/download/01_20250220_20250220_1639/Pbx/03.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WvJgGMKv/A-Minecraft-Movie-2025-542-X-768.jpg",A Minecraft Movie (2025)[DUAL]
