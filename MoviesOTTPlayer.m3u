@@ -1,18 +1,4 @@
 ﻿#EXTM3U
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/qe9G6JqX79QCzOjFhHRmd1RD2Wg.jpg",10 Minutes Gone (2019)
-https://dl.dropboxusercontent.com/s/gudmdnmk6qxyyln/angeles%20de%20charly.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/cWXlmLf1csWEdnq20v7Va6nPlAw.jpg",10 Things We Should Do Before We Break Up (2020)[ESP]
-https://dl.dropbox.com/s/l1l2ietud29v27x/10.Things.Before.We.Break.Up.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/6hk83BKQVSza220YPBwajbpvArf.jpg",100 Feet (2008)[DUAL]
-https://archive.org/download/03_20240905_20240905_2002/Tutoriales/01.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/6HlqFduEtFsTbFrjkhEBlFPsB2t.jpg",12 Hour Shift (2020)
-http://ia601502.us.archive.org/15/items/000_20201007/00009.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/yA2Uk12unHsirVgtbXatzzHkXBF.jpg",16 Wishes (2010)
-http://archive.org/download/15902128715955695074031776787353/1.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/7Pgih7Y6SZL8fo0SWVFOXYUlaHR.jpg",17 Again (2009)
-http://archive.org/download/PjfxjsfjddbxjJdjdjdxj/pjfxjsfjddbxj%20jdjdjdxj.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ynMgSWf/1917-2019.jpg",1917 (2019)[DUAL]
-https://archive.org/download/wed143r134dwe/SYSADMIN/23wxwd324de4.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xtIi6sst4d5Wz4RnVbV7OUTShhU.jpg",1984 (2023)
 http://archive.org/download/1_20200418_20200418_2015/hk/1.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/gsG4smdqrfRVnu7jDTaqAoWFHF8.jpg",1BR (2019)
@@ -5317,3 +5303,17 @@ https://archive.org/download/ck-2_20210106/3334/joebla.mp4
 https://archive.org/download/00-coco/CU4NT0V4L3L4V1D4.mp4
 #EXTINF:-1,Érase una vez en México (2003)
 https://archive.org/download/sciyt/Mhuc/11up.avi
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/qe9G6JqX79QCzOjFhHRmd1RD2Wg.jpg" group-title="Accion",10 Minutes Gone (2019)
+https://dl.dropboxusercontent.com/s/gudmdnmk6qxyyln/angeles%20de%20charly.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ynMgSWf/1917-2019.jpg" group-title="Accion",1917 (2019)[DUAL]
+https://archive.org/download/wed143r134dwe/SYSADMIN/23wxwd324de4.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/7Pgih7Y6SZL8fo0SWVFOXYUlaHR.jpg" group-title="Comedia",17 Again (2009)
+http://archive.org/download/PjfxjsfjddbxjJdjdjdxj/pjfxjsfjddbxj%20jdjdjdxj.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/yA2Uk12unHsirVgtbXatzzHkXBF.jpg" group-title="Fantasia",16 Wishes (2010)
+http://archive.org/download/15902128715955695074031776787353/1.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/cWXlmLf1csWEdnq20v7Va6nPlAw.jpg" group-title="Romanticas",10 Things We Should Do Before We Break Up (2020)[ESP]
+https://dl.dropbox.com/s/l1l2ietud29v27x/10.Things.Before.We.Break.Up.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/6hk83BKQVSza220YPBwajbpvArf.jpg" group-title="Terror",100 Feet (2008)[DUAL]
+https://archive.org/download/03_20240905_20240905_2002/Tutoriales/01.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/6HlqFduEtFsTbFrjkhEBlFPsB2t.jpg" group-title="Terror",12 Hour Shift (2020)
+http://ia601502.us.archive.org/15/items/000_20201007/00009.mp4
