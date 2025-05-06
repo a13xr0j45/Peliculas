@@ -1,4 +1,18 @@
 ﻿#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nNGhN6WM/Child-s-Play-1988-542-X-768.jpg",Child_s Play (1988) [DUAL]
+https://archive.org/download/04_20250505_20250505Toysrus/Toys/01.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PZXXrcXg/Child-s-Play-2-1990-542-X-768.jpg",Child_s Play 2 (1990) [DUAL]
+https://archive.org/download/04_20250505_20250505Toysrus/Toys/02.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qMwPFZJm/Child-s-Play-3-1991-542-X-768.jpg",Child_s Play 3 (1991) [DUAL]
+https://archive.org/download/04_20250505_20250505Toysrus/Toys/03.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Ld9KF9hT/Bride-of-Chucky-1998-542-X-768.jpg",Bride of Chucky (1998) [DUAL]
+https://archive.org/download/04_20250505_20250505Toysrus/Toys/04.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1tygXsHC/Seed-of-Chucky-2004-542-X-768.jpg",Seed of Chucky (2004) [DUAL]
+https://archive.org/download/04_20250505_20250505Toysrus/Toys/05.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/G4XTMt8w/Curse-of-Chucky-2013-542-X-768.jpg",Curse of Chucky (2013) [DUAL]
+https://archive.org/download/04_20250505_20250505Toysrus/Toys/06.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/93gtvjHF/Cult-of-Chucky-2017-542-X-768.jpg",Cult of Chucky (2017) [DUAL]
+https://archive.org/download/04_20250505_20250505Toysrus/Toys/07.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4bkCcch/Another-Simple-Favor-2025-542-x-768.jpg",Another Simple Favor (2025)[DUAL]
 https://archive.org/download/txr_20250505/txr/01.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WvrnmDWQ/Raging-Grace-2023-542-X-768.jpg",Raging Grace (2023)[DUAL]
@@ -9,8 +23,6 @@ https://archive.org/download/txr_20250505/txr/03.mp4
 https://archive.org/download/txr_20250505/txr/04.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VYqxDddj/Lucky-2020-542-x-768.jpg",Lucky (2020)[DUAL]
 https://archive.org/download/txr_20250505/txr/05.mp4
-
-
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/5n1rAhQ27JGB7C0dRKSf91ELmma.jpg",A Few Good Men (1992)[DUAL]
 https://archive.org/download/01_20250220_20250220_1639/Pbx/03.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WvJgGMKv/A-Minecraft-Movie-2025-542-X-768.jpg",A Minecraft Movie (2025)[DUAL]
