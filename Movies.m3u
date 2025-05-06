@@ -1,34 +1,12 @@
 ﻿#EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ibb.co/nNGhN6WM/Child-s-Play-1988-542-X-768.jpg",Child_s Play (1988) [DUAL]
-https://archive.org/download/04_20250505_20250505Toysrus/Toys/01.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/PZXXrcXg/Child-s-Play-2-1990-542-X-768.jpg",Child_s Play 2 (1990) [DUAL]
-https://archive.org/download/04_20250505_20250505Toysrus/Toys/02.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qMwPFZJm/Child-s-Play-3-1991-542-X-768.jpg",Child_s Play 3 (1991) [DUAL]
-https://archive.org/download/04_20250505_20250505Toysrus/Toys/03.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Ld9KF9hT/Bride-of-Chucky-1998-542-X-768.jpg",Bride of Chucky (1998) [DUAL]
-https://archive.org/download/04_20250505_20250505Toysrus/Toys/04.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/1tygXsHC/Seed-of-Chucky-2004-542-X-768.jpg",Seed of Chucky (2004) [DUAL]
-https://archive.org/download/04_20250505_20250505Toysrus/Toys/05.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/G4XTMt8w/Curse-of-Chucky-2013-542-X-768.jpg",Curse of Chucky (2013) [DUAL]
-https://archive.org/download/04_20250505_20250505Toysrus/Toys/06.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/93gtvjHF/Cult-of-Chucky-2017-542-X-768.jpg",Cult of Chucky (2017) [DUAL]
-https://archive.org/download/04_20250505_20250505Toysrus/Toys/07.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4bkCcch/Another-Simple-Favor-2025-542-x-768.jpg",Another Simple Favor (2025)[DUAL]
-https://archive.org/download/txr_20250505/txr/01.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/WvrnmDWQ/Raging-Grace-2023-542-X-768.jpg",Raging Grace (2023)[DUAL]
-https://archive.org/download/txr_20250505/txr/02.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/3m2WvgFR/Open-Water-2003-542-x-768.jpg",Open Water (2003)[DUAL]
-https://archive.org/download/txr_20250505/txr/03.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rRzSmpF9/Immersion-2023-542-x-768.jpg",Immersion (2023)[DUAL]
-https://archive.org/download/txr_20250505/txr/04.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/VYqxDddj/Lucky-2020-542-x-768.jpg",Lucky (2020)[DUAL]
-https://archive.org/download/txr_20250505/txr/05.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/5n1rAhQ27JGB7C0dRKSf91ELmma.jpg",A Few Good Men (1992)[DUAL]
 https://archive.org/download/01_20250220_20250220_1639/Pbx/03.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WvJgGMKv/A-Minecraft-Movie-2025-542-X-768.jpg",A Minecraft Movie (2025)[DUAL]
 https://archive.org/download/01_20250419/fedora/06.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Fb24sMD9/Absolution-2024-542-X-768.jpg",Absolution (2024) [DUAL]
 https://archive.org/download/05_20250420/centos/07.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4bkCcch/Another-Simple-Favor-2025-542-x-768.jpg",Another Simple Favor (2025)[DUAL]
+https://archive.org/download/txr_20250505/txr/01.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4w7ckRxG/Arcadian-2024-542-X-768.jpg",Arcadian (2024)[DUAL]
 https://archive.org/download/gemini_202502/IA/Copilot.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XkDTqkVc/Ash-2025-542-X-768.jpg",Ash (2025)
@@ -43,12 +21,20 @@ https://archive.org/download/03_20250317/pbx/08.mp4
 https://archive.org/download/01_20250424_20250424/daemons/03.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Y76DgsQq/Black-Bag-2025-542-x-768.jpg",Black Bag (2025)[ENG]
 https://archive.org/download/06_20250402_20250402_1738/Daemons/01.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Ld9KF9hT/Bride-of-Chucky-1998-542-X-768.jpg",Bride of Chucky (1998) [DUAL]
+https://archive.org/download/04_20250505_20250505Toysrus/Toys/04.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PvVdJ4Qn/Bridget-Jones-Mad-About-the-Boy-2025-542-x-768.jpg",Bridget Jones Mad About the Boy (2025)[DUAL]
 https://archive.org/download/03_20250214_20250214/LINUX/05.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6Grh8s8/Brave-New-World-2025-542-X-768.jpg",Captain America - Brave New World (2025)[DUAL]
 https://archive.org/download/01_20250419/fedora/05.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XZymLRNc/Caveat-2021-542-X-768.jpg",Caveat (2021)[ENG]
 https://archive.org/download/gemini_202502/IA/SLM.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nNGhN6WM/Child-s-Play-1988-542-X-768.jpg",Child_s Play (1988) [DUAL]
+https://archive.org/download/04_20250505_20250505Toysrus/Toys/01.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PZXXrcXg/Child-s-Play-2-1990-542-X-768.jpg",Child_s Play 2 (1990) [DUAL]
+https://archive.org/download/04_20250505_20250505Toysrus/Toys/02.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qMwPFZJm/Child-s-Play-3-1991-542-X-768.jpg",Child_s Play 3 (1991) [DUAL]
+https://archive.org/download/04_20250505_20250505Toysrus/Toys/03.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/V0zTnFkT/Cloud-2024-542-x-768.jpg",Cloud (2024)[JAP]
 https://archive.org/download/06_20250402_20250402_1738/Daemons/06.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XhQ0Sgd/Companion-2025-542-X-768.jpg",Companion (2025)[DUAL]
@@ -57,10 +43,14 @@ https://archive.org/download/gemini_202502/IA/Gemini.mp4
 https://archive.org/download/01_20250419/fedora/04.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5hsQQpSb/Control-Freak-2025-542-X-768.jpg",Control Freak (2025)[ENG]
 https://archive.org/download/03_20250317/pbx/05.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/r2qs2y2k/Dark-Nuns-2025-542-X-768.jpg",Dark Nuns (2025)[KO]
-https://archive.org/download/05_20250420/centos/01.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/93gtvjHF/Cult-of-Chucky-2017-542-X-768.jpg",Cult of Chucky (2017) [DUAL]
+https://archive.org/download/04_20250505_20250505Toysrus/Toys/07.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/G4XTMt8w/Curse-of-Chucky-2013-542-X-768.jpg",Curse of Chucky (2013) [DUAL]
+https://archive.org/download/04_20250505_20250505Toysrus/Toys/06.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/r2qs2y2k/Dark-Nuns-2025-542-X-768.jpg",Dark Nuns (2025)[KO]
 https://archive.org/download/03_20250317/pbx/04.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/r2qs2y2k/Dark-Nuns-2025-542-X-768.jpg",Dark Nuns (2025)[KO]
+https://archive.org/download/05_20250420/centos/01.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YBCsg2bH/Devils-Stay-2024-542-x-768.jpg",Devils Stay (2024)[KOR]
 https://archive.org/download/03_20250214_20250214/LINUX/02.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/e6HZjibQHZga4ysX3KNQVPojytZ.jpg",Dog Man (2025)[dual]
@@ -89,6 +79,8 @@ https://archive.org/download/05_20250420/centos/08.mp4
 https://archive.org/download/03_20250317/pbx/07.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Fb686GHs/House-of-Sayuri-2024-542-x-768.jpg",House of Sayuri (2024)[JAP]
 https://archive.org/download/03_20250214_20250214/LINUX/01.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rRzSmpF9/Immersion-2023-542-x-768.jpg",Immersion (2023)[DUAL]
+https://archive.org/download/txr_20250505/txr/04.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9myFQj93/Insidious-Chapter-2-2013-542-X-768.jpg",Insidious Chapter 2 (2013) [DUAL]
 https://archive.org/download/01_20250424_20250424/daemons/04.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DBw049C/Insidious-Chapter-3-2015-542-X-768.jpg",Insidious Chapter 3 (2015) [DUAL]
@@ -109,6 +101,8 @@ https://archive.org/download/01_20250324_202503/temp/05.mp4
 https://archive.org/download/04_20250407/pbx/07.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ymC5p5PV/Life-Is-Beautiful-1997-542-X-768.jpg",Life Is Beautiful (1997) [DUAL]
 https://archive.org/download/01_20250419/fedora/01.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VYqxDddj/Lucky-2020-542-x-768.jpg",Lucky (2020)[DUAL]
+https://archive.org/download/txr_20250505/txr/05.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hFMmQQ1P/Lyla-2022-542-x-768.jpg",Lyla (2022) [DUAL]
 https://archive.org/download/07_20250411_202504/WorkFlow/01.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/F4Hk6CDc/Mickey-17-2025-542-x-768.jpg",Mickey 17 (2025)[DUAL]
@@ -121,6 +115,8 @@ https://archive.org/download/01_20250220_20250220_1639/Pbx/01.mp4
 https://archive.org/download/03_20250214_20250214/LINUX/04.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yF32Ch2n/Oldboy-2003-542-x-768.jpg",Oldboy (2003)[KOR]
 https://archive.org/download/01_20250324_202503/temp/04.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3m2WvgFR/Open-Water-2003-542-x-768.jpg",Open Water (2003)[DUAL]
+https://archive.org/download/txr_20250505/txr/03.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yns1KL3h/Operation-Undead-2024-DUAL-542-x-768.jpg",Operation Undead (2024)[DUAL]
 https://archive.org/download/linux_202503/Linux/02.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Fq7zLZnn/Opus-2025-542-x-768.jpg",Opus (2025)[ENG]
@@ -133,12 +129,16 @@ https://archive.org/download/04_20250407/pbx/08.mp4
 https://archive.org/download/gemini_202502/IA/Claude.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4n9rL9BX/Presence-2025-542-x-768.jpg",Presence (2025)[ENG]
 https://archive.org/download/05_20250226_20250226_1739/Fedora/02.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WvrnmDWQ/Raging-Grace-2023-542-X-768.jpg",Raging Grace (2023)[DUAL]
+https://archive.org/download/txr_20250505/txr/02.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VYXYyg1f/Red-Eye-2005-542-X-768.jpg",Red Eye (2005)[DUAL]
 https://archive.org/download/05_20250420/centos/03.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7dvZgK1x/Red-Rooms-2023-542-X-768.jpg",Red Rooms (2023)[DUAL]
 https://archive.org/download/01_20250324_202503/temp/06.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sdsRjt70/Secret-Zoo-2020-542-x-768.jpg",Secret Zoo (2020) [DUAL]
 https://archive.org/download/07_20250411_202504/WorkFlow/04.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1tygXsHC/Seed-of-Chucky-2004-542-X-768.jpg",Seed of Chucky (2004) [DUAL]
+https://archive.org/download/04_20250505_20250505Toysrus/Toys/05.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ksm8nPRs/Slasher-2023-542-X-768.jpg",Slasher (2023)[CAST]
 https://archive.org/download/gemini_202502/IA/ClimateNet.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LdxbC3TV/Something-in-the-Water-2024-542-x-768.jpg",Something in the Water (2024)[DUAL]
@@ -5551,4 +5551,3 @@ https://archive.org/download/ck-2_20210106/3334/joebla.mp4
 https://archive.org/download/00-coco/CU4NT0V4L3L4V1D4.mp4
 #EXTINF:-1 group-title="Movies",Érase una vez en México (2003)
 https://archive.org/download/sciyt/Mhuc/11up.avi
-
