@@ -1,4 +1,11 @@
 ﻿#EXTM3U
+#EXTINF:-1 tvg-logo="",The Forbidden Kingdom (2008)[DUAL]
+https://archive.org/download/chromeos_202505/ChromeOS/01.mp4
+#EXTINF:-1 tvg-logo="",Child_s Play (2019)[DUAL]
+https://archive.org/download/chromeos_202505/ChromeOS/02.mp4
+#EXTINF:-1 tvg-logo="",Drop (2025)[DUAL]
+https://archive.org/download/chromeos_202505/ChromeOS/03.mp4
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4bkCcch/Another-Simple-Favor-2025-542-x-768.jpg",Another Simple Favor (2025)
 https://archive.org/download/txr_20250505/txr/01.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WvrnmDWQ/Raging-Grace-2023-542-X-768.jpg",Raging Grace (2023)
