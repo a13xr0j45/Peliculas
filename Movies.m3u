@@ -1,4 +1,19 @@
 ﻿#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CKdGXdvx/Just-Friends-2005-542-x-768.jpg",Just Friends (2005)[DUAL]
+https://archive.org/download/chromeos_202505/ChromeOS/04.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zK4HwGq/The-Seed-of-the-Sacred-Fig-2024-542-x-768.jpg",The Seed of the Sacred Fig (2024)[DUAL]
+https://archive.org/download/chromeos_202505/ChromeOS/05.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SD1JxYDw/It-Comes-at-Night-2017-542-x-768.jpg",It Comes at Night (2017)[DUAL]
+https://archive.org/download/chromeos_202505/ChromeOS/06.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xqxFc0fZ/The-Longest-Night-2019-542-x-768.jpg",The Longest Night (2019)[CAST]
+https://archive.org/download/chromeos_202505/ChromeOS/07.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6RT2Fhck/Stream-2024-542-x-768.jpg",Stream (2024)[CAST]
+https://archive.org/download/chromeos_202505/ChromeOS/08.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nHmQ5rf/Conjuring-the-Cult-2024-542-x-768.jpg",Conjuring the Cult (2024)[DUAL]
+https://archive.org/download/chromeos_202505/ChromeOS/09.mp4
+
+
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/i8lVYRplWdCEqYOutxpxeCtaD2a.jpg",10 Minutes Gone (2019)
 https://dl.dropboxusercontent.com/s/gudmdnmk6qxyyln/angeles%20de%20charly.mp4
 #EXTINF:-1,10 things we should do before we break up (2020)[esp]
