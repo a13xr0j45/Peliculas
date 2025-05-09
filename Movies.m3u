@@ -1,21 +1,4 @@
 ﻿#EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ibb.co/7dWWtdVy/The-Forbidden-Kingdom-2008-542-x-768.jpg",The Forbidden Kingdom (2008)[DUAL]
-https://archive.org/download/chromeos_202505/ChromeOS/01.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BHTgF5fq/Child-s-Play-2019-542-x-768.jpg",Child_s Play (2019)[DUAL]
-https://archive.org/download/chromeos_202505/ChromeOS/02.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/JWJWW1Sy/Drop-2025-542-x-768.jpg",Drop (2025)[DUAL]
-https://archive.org/download/chromeos_202505/ChromeOS/03.mp4
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4bkCcch/Another-Simple-Favor-2025-542-x-768.jpg",Another Simple Favor (2025)
-https://archive.org/download/txr_20250505/txr/01.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/WvrnmDWQ/Raging-Grace-2023-542-X-768.jpg",Raging Grace (2023)
-https://archive.org/download/txr_20250505/txr/02.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/3m2WvgFR/Open-Water-2003-542-x-768.jpg",Open Water (2003)
-https://archive.org/download/txr_20250505/txr/03.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rRzSmpF9/Immersion-2023-542-x-768.jpg",Immersion (2023)[DUAL]
-https://archive.org/download/txr_20250505/txr/04.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/VYqxDddj/Lucky-2020-542-x-768.jpg",Lucky (2020)[DUAL]
-https://archive.org/download/txr_20250505/txr/05.mp4
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/i8lVYRplWdCEqYOutxpxeCtaD2a.jpg",10 Minutes Gone (2019)
 https://dl.dropboxusercontent.com/s/gudmdnmk6qxyyln/angeles%20de%20charly.mp4
 #EXTINF:-1,10 things we should do before we break up (2020)[esp]
@@ -49,9 +32,9 @@ http://ia601405.us.archive.org/26/items/000_20200306_202003/03.mp4
 #EXTINF:-1,300 (2007)
 https://ia601509.us.archive.org/32/items/nhu9tdftu/nhu9tdftu.mp4
 #EXTINF:-1,300 rise of an empire (2014)
-https://ia601509.us.archive.org/32/items/nhu9tdftu/bvuwv.mp4
-#EXTINF:-1,300 rise of an empire (2014)
 http://archive.org/download/1589567773091/7r35c13ian705.mp4
+#EXTINF:-1,300 rise of an empire (2014)
+https://ia601509.us.archive.org/32/items/nhu9tdftu/bvuwv.mp4
 #EXTINF:-1,31 minutos la película (2008)
 http://archive.org/download/31m1nu70/31m%2c%20la%20pelicula.mp4
 #EXTINF:-1,32 malasana street (2020)
@@ -312,7 +295,7 @@ https://archive.org/download/041_20200519_202005/042.mkv
 https://archive.org/download/muneca/mu%c3%b1eca.mp4
 #EXTINF:-1,anonymous
 https://dl.dropboxusercontent.com/s/my9tn1ijj322seo/anonymous.mp4
-#EXTINF:-1,another simple favor (2025)[dual]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4bkCcch/Another-Simple-Favor-2025-542-x-768.jpg",Another Simple Favor (2025)[DUAL]
 https://archive.org/download/txr_20250505/txr/01.mp4
 #EXTINF:-1,ant bully
 http://archive.org/download/2020-08-17-04-25-40-908/4nt.bully.mp4
@@ -335,9 +318,9 @@ https://archive.org/download/tutoriales_202402/debian.mp4
 #EXTINF:-1,apartment 7a (2024)[dual]
 https://archive.org/download/1_20241003_20241003_1434/linux/4.mp4
 #EXTINF:-1,apocalypto
-https://archive.org/download/picante_202003/picante/picante.avi
-#EXTINF:-1,apocalypto
 https://archive.org/download/00sffdsg/4p0c4.mp4
+#EXTINF:-1,apocalypto
+https://archive.org/download/picante_202003/picante/picante.avi
 #EXTINF:-1,apolo 10 una infancia espacial
 https://archive.org/download/00naran/fgtyko/4p0l.mp4
 #EXTINF:-1,arlo el chico caiman (2021)
@@ -399,9 +382,9 @@ https://archive.org/download/almohadas/c4o7ur4d0.mkv
 #EXTINF:-1,austin powers the spy who shagged me
 http://archive.org/download/killerscorpion_01_hotmail_2/sub1d0_p4r4_5tr34ming_a85/1.mp4
 #EXTINF:-1,ava (2020)
-https://archive.org/download/manjaro-linux/ava%20%282020%29.mp4
-#EXTINF:-1,ava (2020)
 https://archive.org/download/manjaro-linux/ava%20%282020%29.mkv
+#EXTINF:-1,ava (2020)
+https://archive.org/download/manjaro-linux/ava%20%282020%29.mp4
 #EXTINF:-1,avalancha
 https://archive.org/download/almohadas_202103/the.climbers.mkv
 #EXTINF:-1,avatar - the way of water (2022)
@@ -409,9 +392,9 @@ https://archive.org/download/fi_20230106/avatar2_elsentido%2bdel%2bagua_1080p.mp
 #EXTINF:-1,avatar the way of water (2022)
 https://archive.org/download/the-king-of-fighters-2002-magic-plus-ll/avatar%20el%20camino%20del%20agua.mp4
 #EXTINF:-1,avengers
-https://archive.org/download/aceroa/11111.mp4
-#EXTINF:-1,avengers
 http://archive.org/download/06_20210102_202101/4v3n63r5.avi
+#EXTINF:-1,avengers
+https://archive.org/download/aceroa/11111.mp4
 #EXTINF:-1,avengers end game
 http://archive.org/download/4-v-3-ng-3-rs-3-ndg-4-m-3/4v3ng3rs3ndg4m3.mkv
 #EXTINF:-1,avengers: infinity wars
@@ -623,9 +606,9 @@ https://archive.org/download/00pa_20210706/b0yk4.mp4
 #EXTINF:-1,brahms el ni o 2
 https://archive.org/download/v_20200509/v.mp4
 #EXTINF:-1,braveheart (1995)
-https://archive.org/download/gravity-2013/braveheart%20%281995%29.mp4
-#EXTINF:-1,braveheart (1995)
 https://archive.org/download/gravity-2013/braveheart%20%281995%29.mkv
+#EXTINF:-1,braveheart (1995)
+https://archive.org/download/gravity-2013/braveheart%20%281995%29.mp4
 #EXTINF:-1,braveheart (1995)[eng]
 https://archive.org/download/gravity-2013/braveheart%20%281995%29.mkv
 #EXTINF:-1,braveheart (1995)[eng]
@@ -649,9 +632,9 @@ https://archive.org/download/foto-de-mi-boda/mi%20viaje%20en%20tren.mp4
 #EXTINF:-1,buscando justicia
 https://dl.dropbox.com/s/jjm5swmikheook8/buscando.justicia.mp4
 #EXTINF:-1,buscando un amigo para el fin del mundo
-http://archive.org/download/thebigbossps3movieplus/bu5c4nd0un4m160p4r43lf1nd3lmund0.mp4
-#EXTINF:-1,buscando un amigo para el fin del mundo
 https://archive.org/download/muca_20200405/muca/muca.mp4
+#EXTINF:-1,buscando un amigo para el fin del mundo
+http://archive.org/download/thebigbossps3movieplus/bu5c4nd0un4m160p4r43lf1nd3lmund0.mp4
 #EXTINF:-1,buza caperuza 1
 http://archive.org/download/bc-1aygdyfd/bc1aygdyfd.mp4
 #EXTINF:-1,buza caperuza 2
@@ -762,6 +745,8 @@ http://archive.org/download/2fc-07f-7872cf-8a-100d-544b-609239a-80f/gch1hckeh3nj
 http://ia801504.us.archive.org/29/items/000_20200127_202001/2.mp4
 #EXTINF:-1,child_s play (1988) [dual]
 https://archive.org/download/04_20250505_20250505toysrus/toys/01.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BHTgF5fq/Child-s-Play-2019-542-x-768.jpg",Child_s Play (2019)[DUAL]
+https://archive.org/download/chromeos_202505/ChromeOS/02.mp4
 #EXTINF:-1,child_s play 2 (1990) [dual]
 https://archive.org/download/04_20250505_20250505toysrus/toys/02.mp4
 #EXTINF:-1,child_s play 3 (1991) [dual]
@@ -785,9 +770,9 @@ https://archive.org/download/02sssd/c1el0r0j0.mp4
 #EXTINF:-1,cincuenta sombras de grey
 https://archive.org/download/9781433670404/c1nc03nt4.mp4
 #EXTINF:-1,cindy la regia
-http://ia801507.us.archive.org/7/items/000_20200223_20200223_0200/03.mp4
-#EXTINF:-1,cindy la regia
 https://archive.org/download/clr_20200409/clr.mkv
+#EXTINF:-1,cindy la regia
+http://ia801507.us.archive.org/7/items/000_20200223_20200223_0200/03.mp4
 #EXTINF:-1,ciudades de papel (2015)
 https://archive.org/download/132375009/ciudades_de_papel_hd__1080p___970104.mp4
 #EXTINF:-1,cj7
@@ -991,17 +976,17 @@ https://archive.org/download/df-3_20210525/acce/df1.mp4
 #EXTINF:-1,destino final 2
 https://archive.org/download/df-3_20210525/acce/df2.mp4
 #EXTINF:-1,destino final 3
-https://archive.org/download/df-3_20210525/acce/df3.mp4
-#EXTINF:-1,destino final 3
 http://archive.org/download/img-20200512-wa-0033/calidad%203.mp4
+#EXTINF:-1,destino final 3
+https://archive.org/download/df-3_20210525/acce/df3.mp4
 #EXTINF:-1,destino final 4
 http://archive.org/download/img-20200508-wa-0001/calidad%204%20.mp4
 #EXTINF:-1,destino final 4
 https://archive.org/download/df-5_20210525/acce%202/df4.ts
 #EXTINF:-1,destino final 5
-https://archive.org/download/df-5_20210525/acce%202/df5.mp4
-#EXTINF:-1,destino final 5
 http://archive.org/download/img-20200510-wa-0017/calidad%205.mp4
+#EXTINF:-1,destino final 5
+https://archive.org/download/df-5_20210525/acce%202/df5.mp4
 #EXTINF:-1,devuelveme a mi gohan
 http://archive.org/download/cocinillas-17508325-115878909-1706x-960/1.mkv
 #EXTINF:-1,dia de entrenamiento
@@ -1118,6 +1103,8 @@ https://archive.org/download/05_20250420/centos/04.mp4
 https://archive.org/download/pacto1/dr34.mp4
 #EXTINF:-1,drive (2011)
 https://archive.org/download/00-zarza/dr1v3.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JWJWW1Sy/Drop-2025-542-x-768.jpg",Drop (2025)[DUAL]
+https://archive.org/download/chromeos_202505/ChromeOS/03.mp4
 #EXTINF:-1,dulce noviembre (2001)
 https://dl.dropboxusercontent.com/s/oupp7b0yb0wmgcm/dulce%20noviembre%20%282001%29.mp4
 #EXTINF:-1,dulce y amargo
@@ -1501,9 +1488,9 @@ https://archive.org/download/ck-2_20210106/derty/3lr3gr3s0ac4s4.mp4
 #EXTINF:-1,el regreso de la nana mcfee (mágica)
 http://archive.org/download/img20200314122721/3lr36r350d3l4n4n4m461c4dr1pl471n0.mp4
 #EXTINF:-1,el regreso de los muertos vivientes
-https://archive.org/download/ayer_20200214/ayer.avi
-#EXTINF:-1,el regreso de los muertos vivientes
 http://archive.org/download/3-l-r-3-gr-3-s-0-d-3-l-0-s-mu-3-rt-0-s-v-1-v-13-nt-3-s/3l%20r3gr3s0%20d3%20l0s%20mu3rt0s%20v1v13nt3s.mp4
+#EXTINF:-1,el regreso de los muertos vivientes
+https://archive.org/download/ayer_20200214/ayer.avi
 #EXTINF:-1,el regreso de los muertos vivientes 2
 https://archive.org/download/hoy2_20200216/hoy%202.mkv
 #EXTINF:-1,el regreso de los muertos vivientes 3
@@ -1805,9 +1792,9 @@ https://archive.org/download/forrest-gump/forrest%20gump.mp4
 #EXTINF:-1,fracture (2007) [dual]
 https://archive.org/download/07_20250411_202504/workflow/05.mp4
 #EXTINF:-1,fragmentado
-http://archive.org/download/ude-1tyfjfjvgeh/frgm1ideuhn.mp4
-#EXTINF:-1,fragmentado
 https://archive.org/download/036_20200504/037.mkv
+#EXTINF:-1,fragmentado
+http://archive.org/download/ude-1tyfjfjvgeh/frgm1ideuhn.mp4
 #EXTINF:-1,francotirador
 https://archive.org/download/11.-2014-hd-dual-lat.c_202005/american.sniper.2014-hd-dual-lat.c.mp4
 #EXTINF:-1,frankenstein (1931)
@@ -1839,11 +1826,11 @@ https://dl.dropbox.com/s/x2rnvflu7x8smnr/fullmetal%20alchemist%20pel%c3%adcula.m
 #EXTINF:-1,fullmetal alchemist - live action
 https://dl.dropbox.com/s/x2rnvflu7x8smnr/fullmetal%20alchemist%20pel%c3%adcula.mp4
 #EXTINF:-1,furia de titanes
+https://archive.org/download/polofoto/polofoto.mp4
+#EXTINF:-1,furia de titanes
+https://archive.org/download/polofoto/polofoto.mp4
+#EXTINF:-1,furia de titanes
 https://archive.org/download/fur-14-t-1-t-4-n-3-s/fur14t1t4n3s.mp4
-#EXTINF:-1,furia de titanes
-https://archive.org/download/polofoto/polofoto.mp4
-#EXTINF:-1,furia de titanes
-https://archive.org/download/polofoto/polofoto.mp4
 #EXTINF:-1,furia de titanes 2
 https://dl.dropbox.com/s/m9aqf4x4bjqjaju/fdt.mp4
 #EXTINF:-1,furia silenciosa
@@ -2158,6 +2145,8 @@ https://archive.org/download/0hyu_20210713/1g0rgr0.mp4
 https://archive.org/download/0hyu_20210713/1g0rgr0.mp4
 #EXTINF:-1,immersion (2023)[dual]
 https://archive.org/download/txr_20250505/txr/04.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rRzSmpF9/Immersion-2023-542-x-768.jpg",Immersion (2023)[DUAL]
+https://archive.org/download/txr_20250505/txr/04.mp4
 #EXTINF:-1,impacto
 https://archive.org/download/02sssd/1mp4ct.mp4
 #EXTINF:-1,impacto
@@ -2349,9 +2338,9 @@ http://ia601509.us.archive.org/23/items/000_20200122_202001/5.mp4
 #EXTINF:-1,juguetes de terror
 http://archive.org/download/j-1_20201207/jug3t3sd3et3rr0r.mp4
 #EXTINF:-1,jumanji
-https://archive.org/download/027_20200428/027.mkv
-#EXTINF:-1,jumanji
 http://archive.org/download/img20190721152019/4bd13l60nz4l34.mp4
+#EXTINF:-1,jumanji
+https://archive.org/download/027_20200428/027.mkv
 #EXTINF:-1,jumanji en la selva
 http://archive.org/download/1_20200524/1.mp4
 #EXTINF:-1,jumper
@@ -2431,9 +2420,9 @@ https://archive.org/download/carros_20211014/k1n.mp4
 #EXTINF:-1,kinds of kindness (2024) [dual]
 https://archive.org/download/kind_20240903/tutoriales/kind.mkv
 #EXTINF:-1,king kong
-https://archive.org/download/kingkong1933espanol/king%20kong%20-1933-%20espa%c3%b1ol.avi
-#EXTINF:-1,king kong
 https://archive.org/download/028_20200428/028.mkv
+#EXTINF:-1,king kong
+https://archive.org/download/kingkong1933espanol/king%20kong%20-1933-%20espa%c3%b1ol.avi
 #EXTINF:-1,king kong p2
 https://archive.org/download/elhijodekong1933espanol/el%20hijo%20de%20kong%20-1932-%20espa%c3%b1ol.avi
 #EXTINF:-1,kingdom ashin del norte
@@ -3034,6 +3023,8 @@ https://dl.dropbox.com/s/jpnh585txfgwynb/lr.mp4
 https://archive.org/download/carros_20210625_1634/l8c4.mp4
 #EXTINF:-1,lucky (2020)[dual]
 https://archive.org/download/txr_20250505/txr/05.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VYqxDddj/Lucky-2020-542-x-768.jpg",Lucky (2020)[DUAL]
+https://archive.org/download/txr_20250505/txr/05.mp4
 #EXTINF:-1,luna nueva
 https://dl.dropbox.com/s/irfxi4idpcr69wm/cr3pu5cul02.avi
 #EXTINF:-1,lyla (2022) [dual]
@@ -3403,15 +3394,15 @@ http://archive.org/download/rasecaral42_gmail_45/p/nmf2.mkv
 #EXTINF:-1,no me echen ese muerto
 https://archive.org/download/00-trorinja/n0m3heches3s3smuert0.mp4
 #EXTINF:-1,no respires 2 (2021)
-https://archive.org/download/00azucar/sdr/n0r3sp1.mp4
-#EXTINF:-1,no respires 2 (2021)
 https://archive.org/download/d-0nt-br-34th-3-2/d0n%27t%20br34th3%202.mkv
+#EXTINF:-1,no respires 2 (2021)
+https://archive.org/download/00azucar/sdr/n0r3sp1.mp4
 #EXTINF:-1,no se aceptan devoluciones
 http://archive.org/download/screenshot-20200606-182253/my4p0r.mp4
 #EXTINF:-1,no te metas con zohan
-http://archive.org/download/nnndnsfkfjgjjdisdkfjsk/nnndnsfkfjgjjdisdkfjsk.mp4
-#EXTINF:-1,no te metas con zohan
 https://archive.org/download/proyecto-u-2/proyectou2.mp4
+#EXTINF:-1,no te metas con zohan
+http://archive.org/download/nnndnsfkfjgjjdisdkfjsk/nnndnsfkfjgjjdisdkfjsk.mp4
 #EXTINF:-1,nobody's boy (2018)
 https://archive.org/download/gravity-2013/remi%2c%20nobody%27s%20boy%20%282018%29.mkv
 #EXTINF:-1,nobody's boy (2018)
@@ -3460,6 +3451,8 @@ https://archive.org/download/02_20241006_20241006_1822/bsd/01.mp4
 https://archive.org/download/02_20241006_20241006_1822/bsd/02.mp4
 #EXTINF:-1,one missed call 3 final (2006)
 https://archive.org/download/02_20241006_20241006_1822/bsd/03.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3m2WvgFR/Open-Water-2003-542-x-768.jpg",Open Water (2003)
+https://archive.org/download/txr_20250505/txr/03.mp4
 #EXTINF:-1,open water (2003)[dual]
 https://archive.org/download/txr_20250505/txr/03.mp4
 #EXTINF:-1,operación jacinto
@@ -3527,9 +3520,9 @@ http://archive.org/download/kuhlman_1_20190504/3.mp4
 #EXTINF:-1,past lives (2023)[eng]
 https://archive.org/download/03_20241006/linux/03.mp4
 #EXTINF:-1,paternidad
-https://archive.org/download/00-sierte/p4t3r.mp4
-#EXTINF:-1,paternidad
 https://archive.org/download/carros_20210622/p4t3rn1d4d.mp4
+#EXTINF:-1,paternidad
+https://archive.org/download/00-sierte/p4t3r.mp4
 #EXTINF:-1,pauli
 http://archive.org/download/img20200115192950/sub1d0para94.mp4
 #EXTINF:-1,paw patrol la película
@@ -3776,6 +3769,8 @@ https://archive.org/download/hobysha/buho/hobysha.mp4
 https://archive.org/download/radical_linux/04.mp4
 #EXTINF:-1,radical (2023)[esp]
 https://archive.org/download/radical_linux/04.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WvrnmDWQ/Raging-Grace-2023-542-X-768.jpg",Raging Grace (2023)
+https://archive.org/download/txr_20250505/txr/02.mp4
 #EXTINF:-1,raging grace (2023)[dual]
 https://archive.org/download/txr_20250505/txr/02.mp4
 #EXTINF:-1,ralph el demoledor
@@ -4199,9 +4194,9 @@ http://archive.org/download/skyline_202005/5k71in3.mp4
 #EXTINF:-1,skyfall (2012)
 http://archive.org/download/mio53_yopmail_7/7.mp4
 #EXTINF:-1,skyfire (2019)[dual]
-https://archive.org/download/12_20210412_202104/tutoriales/13.mkv
-#EXTINF:-1,skyfire (2019)[dual]
 https://archive.org/download/12_20210412_202104/tutoriales/11.mp4
+#EXTINF:-1,skyfire (2019)[dual]
+https://archive.org/download/12_20210412_202104/tutoriales/13.mkv
 #EXTINF:-1,skylin3rs
 https://dl.dropbox.com/s/hb7d3f6ino8xrw7/skylines%20%282020%29%20hd%20720p%20latino.mkv
 #EXTINF:-1,skylin3s (2020)
@@ -4555,9 +4550,9 @@ https://archive.org/download/tutoriales_linux_202402/09.mp4
 #EXTINF:-1,the bay of silence (2020)[eng]
 https://archive.org/download/tutoriales_linux_202402/09.mp4
 #EXTINF:-1,the black demon (2023)
-https://archive.org/download/the-king-of-fighters-2002-magic-plus-ll/demonio%20negro.mp4
-#EXTINF:-1,the black demon (2023)
 https://archive.org/download/the-king-of-fighters-2002-magic-plus-ll/the.black.demon.2023.dvdrip-lat.mp4
+#EXTINF:-1,the black demon (2023)
+https://archive.org/download/the-king-of-fighters-2002-magic-plus-ll/demonio%20negro.mp4
 #EXTINF:-1,the blackwell ghost
 https://archive.org/download/00naran/drer/1.mp4
 #EXTINF:-1,the blackwell ghost 2
@@ -4605,9 +4600,9 @@ https://archive.org/download/gravity-2013/the%20danish%20girl%20%282015%29.mkv
 #EXTINF:-1,the deliverance (2024)[eng]
 https://archive.org/download/01_20240901_20240901_1848/bordados/03.mp4
 #EXTINF:-1,the devil all the time (2020)
-https://archive.org/download/manjaro-linux/the%20devil%20all%20the%20time%20%282020%29.mkv
-#EXTINF:-1,the devil all the time (2020)
 https://archive.org/download/manjaro-linux/the%20devil%20all%20the%20time%20%282020%29.mp4
+#EXTINF:-1,the devil all the time (2020)
+https://archive.org/download/manjaro-linux/the%20devil%20all%20the%20time%20%282020%29.mkv
 #EXTINF:-1,the devil all the time (2020)[eng]
 https://archive.org/download/tutoriales_202402/manjaro.mp4
 #EXTINF:-1,the devil all the time (2020)[eng]
@@ -4640,6 +4635,8 @@ https://archive.org/download/linux-tutoriales/tutoriales/03.mkv
 http://archive.org/download/0_20200403_202004/1.mp4
 #EXTINF:-1,the flash (2023)
 https://archive.org/download/the-king-of-fighters-2002-magic-plus-ll/flash%20%282023%29.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7dWWtdVy/The-Forbidden-Kingdom-2008-542-x-768.jpg",The Forbidden Kingdom (2008)[DUAL]
+https://archive.org/download/chromeos_202505/ChromeOS/01.mp4
 #EXTINF:-1,the frighteners (1996)
 https://archive.org/download/the-king-of-fighters-2002-magic-plus-ll/muertos%20de%20miedo.mp4
 #EXTINF:-1,the gangster the cop the devil (2019)[kor]
@@ -4697,11 +4694,11 @@ https://archive.org/download/mr_20200529/mr.mkv
 #EXTINF:-1,the martian
 https://archive.org/download/mr_20200529/mr.mkv
 #EXTINF:-1,the medium (2021)
-https://archive.org/download/00-zarza/m3d1um.mp4
+https://archive.org/download/manguera_20210922/th3%20m3d1um.mkv
 #EXTINF:-1,the medium (2021)
 https://archive.org/download/casa-en-el-lago/the.medium.2021.dvdrip-lat.ia.mp4
 #EXTINF:-1,the medium (2021)
-https://archive.org/download/manguera_20210922/th3%20m3d1um.mkv
+https://archive.org/download/00-zarza/m3d1um.mp4
 #EXTINF:-1,the menu (2022)
 https://archive.org/download/fi_20230106/el%20menu.mp4
 #EXTINF:-1,the misfits los inadaptados
@@ -4735,15 +4732,15 @@ https://archive.org/download/gravity-2013/the%20painted%20bird%20%282019%29.mkv
 #EXTINF:-1,the painted bird (2019)[eng]
 https://archive.org/download/gravity-2013/the%20painted%20bird%20%282019%29.mkv
 #EXTINF:-1,the paramedic (2020)
-https://archive.org/download/manjaro-linux/the%20paramedic%20%282020%29.mkv
-#EXTINF:-1,the paramedic (2020)
 https://archive.org/download/manjaro-linux/the%20paramedic%20%282020%29.mp4
+#EXTINF:-1,the paramedic (2020)
+https://archive.org/download/manjaro-linux/the%20paramedic%20%282020%29.mkv
+#EXTINF:-1,the passion of the christ (2004)
+https://archive.org/download/tutoriales_202402/fedora.mp4
+#EXTINF:-1,the passion of the christ (2004)
+https://archive.org/download/tutoriales_202402/fedora.mp4
 #EXTINF:-1,the passion of the christ (2004)
 http://archive.org/download/gikudec5/sub1d0_p4r4_5tr34ming_a85_cr15t14n4s/13.mkv
-#EXTINF:-1,the passion of the christ (2004)
-https://archive.org/download/tutoriales_202402/fedora.mp4
-#EXTINF:-1,the passion of the christ (2004)
-https://archive.org/download/tutoriales_202402/fedora.mp4
 #EXTINF:-1,the passion of the christ (2004)[dual]
 https://archive.org/download/05_20250420/centos/05.mp4
 #EXTINF:-1,the perilous internet ring (2020) [dual]
@@ -4845,9 +4842,9 @@ http://archive.org/download/img-20200601-105221-hdr/1.mp4
 #EXTINF:-1,this is me…now (2024)[dual]
 https://archive.org/download/now-this-is-me/now%20this%20is%20me.mp4
 #EXTINF:-1,thor
-http://archive.org/download/04_20201231/t407.avi
-#EXTINF:-1,thor
 https://archive.org/download/lso-32/43.mp4
+#EXTINF:-1,thor
+http://archive.org/download/04_20201231/t407.avi
 #EXTINF:-1,thor 2: un mundo oscuro
 https://archive.org/download/cuartormuna/20.mp4
 #EXTINF:-1,thor ragnarok
@@ -4881,9 +4878,9 @@ http://ia801509.us.archive.org/26/items/meyize_hurify1_f1n/tt.mp4
 #EXTINF:-1,tio buck al rescate
 https://docentecoahuila-my.sharepoint.com/:v:/g/personal/franciscoorlando_robles_docentecoahuila_gob_mx/etij8gkae0bnjv4k__pktcebjnogd4yqjvxp23o4bocsiw?download=1
 #EXTINF:-1,titanic
-https://archive.org/download/001_20200216/001.mkv
-#EXTINF:-1,titanic
 https://archive.org/download/00guay-4/t1t4n1.mp4
+#EXTINF:-1,titanic
+https://archive.org/download/001_20200216/001.mkv
 #EXTINF:-1,todas caen
 http://ia601508.us.archive.org/33/items/000_20191215_201912/1.mp4
 #EXTINF:-1,todas las lunas (2021)
@@ -4891,9 +4888,9 @@ https://archive.org/download/carros_20211013/t0d4s%20l4s%20lun4s.mp4
 #EXTINF:-1,todo poderoso
 http://archive.org/download/18092064327status5752751c537e4dd6a1fd54293b37e439_201912/todo%20poderoso.mp4
 #EXTINF:-1,todo un parto
-http://ia601502.us.archive.org/14/items/dejefo_hotmailpro_000/g.mp4
-#EXTINF:-1,todo un parto
 https://archive.org/download/tu-p_20200512/tup.mkv
+#EXTINF:-1,todo un parto
+http://ia601502.us.archive.org/14/items/dejefo_hotmailpro_000/g.mp4
 #EXTINF:-1,todomgd.com
 http://archive.org/download/4k-1r-4_202101/4k1r4.mp4
 #EXTINF:-1,todos hablan de jamie (2021)
@@ -5159,9 +5156,9 @@ https://archive.org/download/raton_202004/raton/raton.mp4
 #EXTINF:-1,vivarium (2019)
 https://archive.org/download/3_20200410/3.mkv
 #EXTINF:-1,vivo (2021)
-https://archive.org/download/manguera_20210808/v1v0.mkv
-#EXTINF:-1,vivo (2021)
 https://archive.org/download/00chayo/rt/v1v0.mp4
+#EXTINF:-1,vivo (2021)
+https://archive.org/download/manguera_20210808/v1v0.mkv
 #EXTINF:-1,volver al futuro 2
 https://archive.org/download/tinaco_20210329/b4ck%20t0%20th3%20fu7ur3%202.mkv
 #EXTINF:-1,volver al futuro 3
@@ -5185,9 +5182,9 @@ https://archive.org/download/tutoriales_linux_202402/08.mp4
 #EXTINF:-1,was i really kidnapped
 https://dl.dropboxusercontent.com/s/4bsnsro00412co4/gone%20%282019%29.mp4
 #EXTINF:-1,watchmen
-https://dl.dropbox.com/s/paty84gulmhj2ua/watchmen.mkv
-#EXTINF:-1,watchmen
 http://archive.org/download/009876/wachbu.mp4
+#EXTINF:-1,watchmen
+https://dl.dropbox.com/s/paty84gulmhj2ua/watchmen.mkv
 #EXTINF:-1,waterworld
 https://archive.org/download/003_20200426_202004/003.mkv
 #EXTINF:-1,waterworld
@@ -5301,9 +5298,9 @@ https://archive.org/download/3_20200410/5.mkv
 #EXTINF:-1,young warrior (ingles)
 https://archive.org/download/youngwarriorsakathegraduatesofmalibuhigh1982/young%20warriors%20aka%20the%20graduates%20of%20malibu%20high%20%281982%29-.mp4
 #EXTINF:-1,z (2019)
-https://archive.org/download/desct/z.mp4
-#EXTINF:-1,z (2019)
 https://archive.org/download/gravity-2013/z%20%282019%29.mkv
+#EXTINF:-1,z (2019)
+https://archive.org/download/desct/z.mp4
 #EXTINF:-1,z (2019)[eng]
 https://archive.org/download/tutoriales_linux_202402/04.mp4
 #EXTINF:-1,z (2019)[eng]
