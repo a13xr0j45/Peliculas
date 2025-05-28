@@ -1,6 +1,7 @@
 ﻿#EXTM3U
 
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bRJQfZjr/Popeye-the-Slayer-Man-2025-542-x-768.jpg",Popeye the Slayer Man (2025)[ENG]
+https://archive.org/download/telematica_202505/informatica/00-1.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/k2wHw9qt/Until-Dawn-2025-542-x-768.jpg",Until Dawn (2025)[DUAL]
 https://archive.org/download/Telematica/matematicas/01.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/W4p7RQn7/Efsunlu-Kabirden-Gelen-2019-542-x-768.jpg",Efsunlu Kabirden Gelen (2019) [DUAL]
