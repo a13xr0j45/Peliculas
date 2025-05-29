@@ -1,5 +1,14 @@
 ﻿#EXTM3U
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yB57VgYt/The-Mouse-Trap-2024-542-x-768.jpg",The Mouse Trap (2024)[DUAL]
+https://archive.org/download/Telematica/telematica/01.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9mq14t3f/In-a-Violent-Nature-2024-542-x-768.jpg",In a Violent Nature (2024)[DUAL]
+https://archive.org/download/Telematica/telematica/02.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N2WMLKSm/Blocking-The-Horse-2024-542-x-768.jpg",Blocking The Horse (2024)[DUAL]
+https://archive.org/download/Telematica/telematica/03.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tpnw3vpR/Strange-Darling-2024-542-x-768.jpg",Strange Darling (2024) [DUAL]
+https://archive.org/download/Telematica/telematica/04.mp4
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/x9xnBBL/Occupation-2018-542-x-768.jpg",Occupation (2018)[DUAL]
 https://archive.org/download/telematica_202505/matematicas/01.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/chsH2yQy/The-Calendar-Killer-2025-542-x-768.jpg",The Calendar Killer (2025) [GER]
@@ -12,7 +21,6 @@ https://archive.org/download/telematica_202505/matematicas/04.mp4
 https://archive.org/download/telematica_202505/matematicas/05.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Mxhy9cWN/Fountain-of-Youth-2025-542-x-768.jpg",Fountain of Youth (2025)[DUAL]
 https://archive.org/download/telematica_202505/matematicas/06.mp4
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bRJQfZjr/Popeye-the-Slayer-Man-2025-542-x-768.jpg",Popeye the Slayer Man (2025)[ENG]
 https://archive.org/download/telematica_202505/informatica/00-1.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/k2wHw9qt/Until-Dawn-2025-542-x-768.jpg",Until Dawn (2025)[DUAL]
