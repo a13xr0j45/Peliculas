@@ -1,4 +1,16 @@
 ﻿#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ibb.co/35VDvfyy/The-Night-Manager-2016-500-x-281.jpg" group-title="The Night Manager (2016)",The Night Manager (2016) S01E01 Episode 1
+https://archive.org/download/unix_20250604/Unix/S01/01.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/35VDvfyy/The-Night-Manager-2016-500-x-281.jpg" group-title="The Night Manager (2016)",The Night Manager (2016) S01E02 Episode 2
+https://archive.org/download/unix_20250604/Unix/S01/02.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/35VDvfyy/The-Night-Manager-2016-500-x-281.jpg" group-title="The Night Manager (2016)",The Night Manager (2016) S01E03 Episode 3
+https://archive.org/download/unix_20250604/Unix/S01/03.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/35VDvfyy/The-Night-Manager-2016-500-x-281.jpg" group-title="The Night Manager (2016)",The Night Manager (2016) S01E04 Episode 4
+https://archive.org/download/unix_20250604/Unix/S01/04.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/35VDvfyy/The-Night-Manager-2016-500-x-281.jpg" group-title="The Night Manager (2016)",The Night Manager (2016) S01E05 Episode 5
+https://archive.org/download/unix_20250604/Unix/S01/05.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/35VDvfyy/The-Night-Manager-2016-500-x-281.jpg" group-title="The Night Manager (2016)",The Night Manager (2016) S01E06 Episode 6
+https://archive.org/download/unix_20250604/Unix/S01/06.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zW7WPJGS/The-Good-Lord-Bird-2020-500-x-281.jpg" group-title="The Good Lord Bird (2020)",The Good Lord Bird (2020) S01E01 Meet the Lord
 https://archive.org/download/Lord-Bird/linux/S01/01.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zW7WPJGS/The-Good-Lord-Bird-2020-500-x-281.jpg" group-title="The Good Lord Bird (2020)",The Good Lord Bird (2020) S01E02 A Wicked Plot
