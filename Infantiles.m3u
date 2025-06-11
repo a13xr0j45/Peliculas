@@ -1,4 +1,15 @@
 ﻿#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hJ1yGY2v/Aladdin-and-the-King-of-Thieves-1996-542-x-768.jpg",Aladdin and the King of Thieves (1996)
+https://archive.org/download/03_20250611_20250611/cmd/01.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gbgdFgb3/The-Return-of-Jafar-1994-542-x-768.jpg",The Return of Jafar (1994)
+https://archive.org/download/03_20250611_20250611/cmd/02.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tT49kzMg/Cars-2006-542-x-768.jpg",Cars (2006)
+https://archive.org/download/03_20250611_20250611/cmd/03.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TD7SXHJQ/Cars-2-2011-542-x-768.jpg",Cars 2 (2011)
+https://archive.org/download/03_20250611_20250611/cmd/04.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/j9FGsKDc/Cars-3-2017-542-x-768.jpg",Cars 3 (2017)
+https://archive.org/download/03_20250611_20250611/cmd/05.mp4
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BHRdCFRM/Savages-2024-542-X-768.jpg",Savages (2024)[DUAL]
 https://archive.org/download/01_20250609/bsd/02.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gML7hpdk/La-dama-y-el-vagabundo-1955-542-x-768.jpg",La dama y el vagabundo (1955)
