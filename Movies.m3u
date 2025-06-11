@@ -1,8 +1,20 @@
 ﻿#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LXwd4hv3/Play-Dead-2025-542-x-768.jpg",Play Dead (2025)[DUAL]
+https://archive.org/download/asterix_202506/pbx/01.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YFrkkdVW/The-Crow-2024-542-x-768.jpg",The Crow (2024)[DUAL]
+https://archive.org/download/asterix_202506/pbx/02.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tPXW9Cny/Queen-of-the-Damned-2002-542-x-768.jpg",Queen of the Damned (2002)[DUAL]
+https://archive.org/download/asterix_202506/pbx/03.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/spVs0zmD/STRAW-2025-542-x-768.jpg",STRAW (2025) [DUAL]
+https://archive.org/download/asterix_202506/pbx/04.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DH4R0kx8/The-Amateur-2025-542-x-768.jpg",The Amateur (2025)[DUAL]
+https://archive.org/download/asterix_202506/pbx/05.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N2NYFY0V/Skyfire-2019-542-x-768.jpg",Skyfire (2019)[DUAL]
+https://archive.org/download/asterix_202506/pbx/06.mp4
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/j9nD0vG3/Baskin-2015-542-X-768.jpg",Baskin (2015)[TUR]
 https://archive.org/download/01_20250609/bsd/01.mp4
-
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TMTws25K/Karate-Kid-Legends-2025-542-x-768.jpg",Karate Kid Legends (2025) [DUAL]
 https://archive.org/download/linux_202506/linux/01.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qMy2CZyw/The-Arctic-Convoy-2023-542-x-768.jpg",The Arctic Convoy (2023) [DUAL]
