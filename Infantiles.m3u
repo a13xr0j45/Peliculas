@@ -1,4 +1,18 @@
 ﻿#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YBGCmYHF/Despicable-Me-2010-542-x-768.jpg",Despicable Me (2010)
+https://archive.org/download/05_20250612/daemons/01.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/23nX6jZT/Despicable-Me-2-2013-542-x-768.jpg",Despicable Me 2 (2013)
+https://archive.org/download/05_20250612/daemons/02.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9mZgkfjR/Despicable-Me-3-2017-542-x-768.jpg",Despicable Me 3 (2017)
+https://archive.org/download/05_20250612/daemons/03.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PGvCHpy4/Despicable-Me-4-2024-542-x-768.jpg",Despicable Me 4 (2024)
+https://archive.org/download/05_20250612/daemons/04.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gLKfYFXT/Finding-Nemo-2003-542-x-768.jpg",Finding Nemo (2003)
+https://archive.org/download/05_20250612/daemons/05.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PXwq2Bj/Finding-Dory-2016-542-x-768.jpg",Finding Dory (2016)
+https://archive.org/download/05_20250612/daemons/06.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8n0NZBDF/Encanto-2021-542-x-768.jpg",Encanto (2021)
+https://archive.org/download/05_20250612/daemons/07.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hJ1yGY2v/Aladdin-and-the-King-of-Thieves-1996-542-x-768.jpg",Aladdin and the King of Thieves (1996)
 https://archive.org/download/03_20250611_20250611/cmd/01.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gbgdFgb3/The-Return-of-Jafar-1994-542-x-768.jpg",The Return of Jafar (1994)
