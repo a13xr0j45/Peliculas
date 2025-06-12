@@ -1,4 +1,12 @@
 ﻿#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dsVYj467/Eyes-Wide-Shut-1999-542-x-768.jpg",Eyes Wide Shut (1999)[DUAL]
+https://archive.org/download/tutoriales_202506/TutorialesLinux/01.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pvG7T8RJ/The-Skulls-2000-542-x-768.jpg",The Skulls (2000)[ENG]
+https://archive.org/download/tutoriales_202506/TutorialesLinux/02.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wrpGPLv6/Clown-in-a-Cornfield-2025-ENG-542-x-768.jpg",Clown in a Cornfield (2025)[ENG]
+https://archive.org/download/tutoriales_202506/TutorialesLinux/03.mp4
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ynVGVRkf/Warfare-2025-542-x-768.jpg",Warfare (2025)[DUAL]
 https://archive.org/download/01_20250609/bsd/03.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TDpR9r57/Thir13en-Ghosts-2001-542-x-768.jpg",Thir13en Ghosts (2001)[DUAL]
