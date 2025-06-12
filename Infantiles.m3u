@@ -1,4 +1,16 @@
 ﻿#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Z68tjbGR/The-Wild-Robot-2024-542-x-768.jpg",The Wild Robot (2024)[DUAL]
+https://archive.org/download/tutoriales_202506/TutorialesLinux/04.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MDHLfF0Z/Taiki-2019-542-x-768.jpg",Taiki (2019)[DUAL]
+https://archive.org/download/tutoriales_202506/TutorialesLinux/05.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LD4H2GdD/Wallace-Gromit-Vengeance-Most-Fowl-2024.jpg",Wallace & Gromit Vengeance Most Fowl (2024)
+https://archive.org/download/tutoriales_202506/TutorialesLinux/06.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rRRyCcjH/The-Good-Dinosaur-2015-542-x-768.jpg",The Good Dinosaur (2015)
+https://archive.org/download/tutoriales_202506/TutorialesLinux/07.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rG8vz0DC/Super-Monsters-Dia-de-los-Monsters-2020-542-x-768.jpg",Super Monsters Dia de los Monsters (2020)
+https://archive.org/download/tutoriales_202506/TutorialesLinux/08.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TzRk9Nn/Dragonkeeper-2024-542-x-768.jpg",Dragonkeeper (2024)
+https://archive.org/download/tutoriales_202506/TutorialesLinux/09.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YBGCmYHF/Despicable-Me-2010-542-x-768.jpg",Despicable Me (2010)
 https://archive.org/download/05_20250612/daemons/01.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/23nX6jZT/Despicable-Me-2-2013-542-x-768.jpg",Despicable Me 2 (2013)
