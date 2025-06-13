@@ -1,30 +1,4 @@
 ﻿#EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ibb.co/35VDvfyy/The-Night-Manager-2016-500-x-281.jpg" group-title="The Night Manager (2016)",The Night Manager (2016) S01E01 Episode 1
-https://archive.org/download/unix_20250604/Unix/S01/01.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/35VDvfyy/The-Night-Manager-2016-500-x-281.jpg" group-title="The Night Manager (2016)",The Night Manager (2016) S01E02 Episode 2
-https://archive.org/download/unix_20250604/Unix/S01/02.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/35VDvfyy/The-Night-Manager-2016-500-x-281.jpg" group-title="The Night Manager (2016)",The Night Manager (2016) S01E03 Episode 3
-https://archive.org/download/unix_20250604/Unix/S01/03.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/35VDvfyy/The-Night-Manager-2016-500-x-281.jpg" group-title="The Night Manager (2016)",The Night Manager (2016) S01E04 Episode 4
-https://archive.org/download/unix_20250604/Unix/S01/04.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/35VDvfyy/The-Night-Manager-2016-500-x-281.jpg" group-title="The Night Manager (2016)",The Night Manager (2016) S01E05 Episode 5
-https://archive.org/download/unix_20250604/Unix/S01/05.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/35VDvfyy/The-Night-Manager-2016-500-x-281.jpg" group-title="The Night Manager (2016)",The Night Manager (2016) S01E06 Episode 6
-https://archive.org/download/unix_20250604/Unix/S01/06.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zW7WPJGS/The-Good-Lord-Bird-2020-500-x-281.jpg" group-title="The Good Lord Bird (2020)",The Good Lord Bird (2020) S01E01 Meet the Lord
-https://archive.org/download/Lord-Bird/linux/S01/01.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zW7WPJGS/The-Good-Lord-Bird-2020-500-x-281.jpg" group-title="The Good Lord Bird (2020)",The Good Lord Bird (2020) S01E02 A Wicked Plot
-https://archive.org/download/Lord-Bird/linux/S01/02.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zW7WPJGS/The-Good-Lord-Bird-2020-500-x-281.jpg" group-title="The Good Lord Bird (2020)",The Good Lord Bird (2020) S01E03 Mister Fred
-https://archive.org/download/Lord-Bird/linux/S01/03.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zW7WPJGS/The-Good-Lord-Bird-2020-500-x-281.jpg" group-title="The Good Lord Bird (2020)",The Good Lord Bird (2020) S01E04 Smells Like Bear
-https://archive.org/download/Lord-Bird/linux/S01/04.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zW7WPJGS/The-Good-Lord-Bird-2020-500-x-281.jpg" group-title="The Good Lord Bird (2020)",The Good Lord Bird (2020) S01E05 Hiving the Bees
-https://archive.org/download/Lord-Bird/linux/S01/05.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zW7WPJGS/The-Good-Lord-Bird-2020-500-x-281.jpg" group-title="The Good Lord Bird (2020)",The Good Lord Bird (2020) S01E06 Jesus is Walkin'
-https://archive.org/download/Lord-Bird/linux/S01/06.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zW7WPJGS/The-Good-Lord-Bird-2020-500-x-281.jpg" group-title="The Good Lord Bird (2020)",The Good Lord Bird (2020) S01E07 Last Words
-https://archive.org/download/Lord-Bird/linux/S01/07.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pGf781B/1923-2022-500-x-281.jpg" group-title="1923 (2022)",S01E01 1923 (2022) 1923	
 https://archive.org/download/01_20250324_202503/Daemons/S01/01.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pGf781B/1923-2022-500-x-281.jpg" group-title="1923 (2022)",S01E02 Nature's Empty Throne
@@ -423,6 +397,22 @@ https://archive.org/download/08_20240820/tutoriales/asiatic/S01/06.mp4
 https://archive.org/download/08_20240820/tutoriales/asiatic/S01/07.mp4
 #EXTINF:-1 group-title="Goedam (2020)",Goedam (2020) S01E08 Birth
 https://archive.org/download/08_20240820/tutoriales/asiatic/S01/08.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/39SZK0sn/Good-American-Family-2025-500-x-281.jpg" group-title="Good American Family (2025)",Good American Family (2025) S01E01 Almost Like a Prayer
+https://archive.org/download/family_202506/American/S01/01.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/39SZK0sn/Good-American-Family-2025-500-x-281.jpg" group-title="Good American Family (2025)",Good American Family (2025) S01E02 Jump the Jitters Out
+https://archive.org/download/family_202506/American/S01/02.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/39SZK0sn/Good-American-Family-2025-500-x-281.jpg" group-title="Good American Family (2025)",Good American Family (2025) S01E03 Ghosts Everywhere
+https://archive.org/download/family_202506/American/S01/03.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/39SZK0sn/Good-American-Family-2025-500-x-281.jpg" group-title="Good American Family (2025)",Good American Family (2025) S01E04 Right There in Black and White
+https://archive.org/download/family_202506/American/S01/04.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/39SZK0sn/Good-American-Family-2025-500-x-281.jpg" group-title="Good American Family (2025)",Good American Family (2025) S01E05 Too Hurty Without It
+https://archive.org/download/family_202506/American/S01/05.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/39SZK0sn/Good-American-Family-2025-500-x-281.jpg" group-title="Good American Family (2025)",Good American Family (2025) S01E06 Not Today Satan
+https://archive.org/download/family_202506/American/S01/06.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/39SZK0sn/Good-American-Family-2025-500-x-281.jpg" group-title="Good American Family (2025)",Good American Family (2025) S01E07 If You Tell a Story Well Enough
+https://archive.org/download/family_202506/American/S01/07.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/39SZK0sn/Good-American-Family-2025-500-x-281.jpg" group-title="Good American Family (2025)",Good American Family (2025) S01E08 Blood on Her Hands
+https://archive.org/download/family_202506/American/S01/08.mp4
 #EXTINF:-1 group-title="Human The World Within (2021)",Human The World Within (2021) S01E01 Birth
 https://archive.org/download/ubuntu_202407/Human-Linux/S01/01.mp4
 #EXTINF:-1 group-title="Human The World Within (2021)",Human The World Within (2021) S01E02 Pulse
@@ -1757,6 +1747,20 @@ https://archive.org/download/06_20240910_20240910_1759/SAP%20HANA/06.mp4
 https://archive.org/download/06_20240910_20240910_1759/SAP%20HANA/07.mp4
 #EXTINF:-1 tvg-logo="https://ia600101.us.archive.org/27/items/06_20240910_20240910_1759/SAP%20HANA/The%20Frog.jpg" group-title="The Frog (2024)",The Frog (2024) S01E08 We'll Have a Lot To Talk About
 https://archive.org/download/06_20240910_20240910_1759/SAP%20HANA/08.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zW7WPJGS/The-Good-Lord-Bird-2020-500-x-281.jpg" group-title="The Good Lord Bird (2020)",The Good Lord Bird (2020) S01E01 Meet the Lord
+https://archive.org/download/Lord-Bird/linux/S01/01.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zW7WPJGS/The-Good-Lord-Bird-2020-500-x-281.jpg" group-title="The Good Lord Bird (2020)",The Good Lord Bird (2020) S01E02 A Wicked Plot
+https://archive.org/download/Lord-Bird/linux/S01/02.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zW7WPJGS/The-Good-Lord-Bird-2020-500-x-281.jpg" group-title="The Good Lord Bird (2020)",The Good Lord Bird (2020) S01E03 Mister Fred
+https://archive.org/download/Lord-Bird/linux/S01/03.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zW7WPJGS/The-Good-Lord-Bird-2020-500-x-281.jpg" group-title="The Good Lord Bird (2020)",The Good Lord Bird (2020) S01E04 Smells Like Bear
+https://archive.org/download/Lord-Bird/linux/S01/04.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zW7WPJGS/The-Good-Lord-Bird-2020-500-x-281.jpg" group-title="The Good Lord Bird (2020)",The Good Lord Bird (2020) S01E05 Hiving the Bees
+https://archive.org/download/Lord-Bird/linux/S01/05.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zW7WPJGS/The-Good-Lord-Bird-2020-500-x-281.jpg" group-title="The Good Lord Bird (2020)",The Good Lord Bird (2020) S01E06 Jesus is Walkin'
+https://archive.org/download/Lord-Bird/linux/S01/06.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zW7WPJGS/The-Good-Lord-Bird-2020-500-x-281.jpg" group-title="The Good Lord Bird (2020)",The Good Lord Bird (2020) S01E07 Last Words
+https://archive.org/download/Lord-Bird/linux/S01/07.mp4
 #EXTINF:-1 group-title="The Lord of the Rings: The Rings of Power (2022)",The Rings of Power (2022) S01E01 A Shadow of the Past
 https://archive.org/download/index_20240815/LINUX-RINGS/S01/01.mp4
 #EXTINF:-1 group-title="The Lord of the Rings: The Rings of Power (2022)",The Rings of Power (2022) S01E02 Adrift
@@ -1833,6 +1837,18 @@ https://archive.org/download/index_20240911_0534/Tutoriales/S03/38.mp4
 https://archive.org/download/index_20240911_0534/Tutoriales/S03/39.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gWp59VV/The-Morning-Show-500x281.jpg" group-title="The Morning Show (2019)",The Morning Show (2019) S03E10 The Overview Effect
 https://archive.org/download/index_20240911_0534/Tutoriales/S03/40.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/35VDvfyy/The-Night-Manager-2016-500-x-281.jpg" group-title="The Night Manager (2016)",The Night Manager (2016) S01E01 Episode 1
+https://archive.org/download/unix_20250604/Unix/S01/01.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/35VDvfyy/The-Night-Manager-2016-500-x-281.jpg" group-title="The Night Manager (2016)",The Night Manager (2016) S01E02 Episode 2
+https://archive.org/download/unix_20250604/Unix/S01/02.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/35VDvfyy/The-Night-Manager-2016-500-x-281.jpg" group-title="The Night Manager (2016)",The Night Manager (2016) S01E03 Episode 3
+https://archive.org/download/unix_20250604/Unix/S01/03.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/35VDvfyy/The-Night-Manager-2016-500-x-281.jpg" group-title="The Night Manager (2016)",The Night Manager (2016) S01E04 Episode 4
+https://archive.org/download/unix_20250604/Unix/S01/04.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/35VDvfyy/The-Night-Manager-2016-500-x-281.jpg" group-title="The Night Manager (2016)",The Night Manager (2016) S01E05 Episode 5
+https://archive.org/download/unix_20250604/Unix/S01/05.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/35VDvfyy/The-Night-Manager-2016-500-x-281.jpg" group-title="The Night Manager (2016)",The Night Manager (2016) S01E06 Episode 6
+https://archive.org/download/unix_20250604/Unix/S01/06.mp4
 #EXTINF:-1 group-title="The Outsider (2020)",The Outsider (2020) S01E01 Fish in a Barrel
 https://archive.org/download/the.-outsider.-s-01-e-08/The.Outsider.S01E01.mkv
 #EXTINF:-1 group-title="The Outsider (2020)",The Outsider (2020) S01E02 Roanoke
