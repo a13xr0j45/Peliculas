@@ -1,4 +1,18 @@
 ﻿#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vxqNwqgx/The-Crucifixion-2017-542-X-768.jpg",La Crucifixión (2017)[DUAL]
+https://archive.org/download/04_20250615_202506/atn/01.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xKcCntth/Death-Valley-2021-542-X-768.jpg",Death Valley (2021) [DUAL]
+https://archive.org/download/04_20250615_202506/atn/02.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/s9y8WYbz/The-Dark-and-the-Wicked-2020-542-X-768.jpg",The Dark and the Wicked (2020) [ENG]
+https://archive.org/download/04_20250615_202506/atn/05.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JWq4WkYc/Rosario-2025-542-X-768.jpg",Rosario (2025) [ENG]
+https://archive.org/download/04_20250615_202506/atn/06.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60K0t575/Cad-ver-2018-542-X-768.jpg", Cadáver (2018) [DUAL]
+https://archive.org/download/04_20250615_202506/atn/07.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0jr7JJ1L/Hitch-2005-542-X-768.jpg",Hitch (2005)[DUAL]
+https://archive.org/download/04_20250615_202506/atn/04.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/F492sxr4/The-Devil-s-Advocate-1997-542-X-768.jpg",The Devil_s Advocate (1997)[DUAL]
+https://archive.org/download/04_20250615_202506/atn/03.mp4
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dsVYj467/Eyes-Wide-Shut-1999-542-x-768.jpg",Eyes Wide Shut (1999)[DUAL]
 https://archive.org/download/tutoriales_202506/TutorialesLinux/01.mp4
