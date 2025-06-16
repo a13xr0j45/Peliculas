@@ -1,47 +1,45 @@
 ﻿#EXTM3U
 #EXTINF:-1 tvg-logo="https://i.ibb.co/svgsFLqR/A-Working-Man-2025-542-x-768.jpg",A Working Man (2025) [4K][HDR10][DUAL]
 https://archive.org/download/01_20250616_20250616_1849/COBOL/01.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/xSQPvzHc/Friday-the-13th-1980-542-x-768.jpg",Friday the 13th (1980) [4k][HDR10][DUAL]
-https://archive.org/download/01_20250616_20250616_1849/COBOL/02.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5UsK3grJvtQrtzEgqNlDljJW96w.jpg",Batman v Superman: Dawn of Justice (2016) [DUAL][4k]
+https://archive.org/download/tinaco_20210409/B4tm4n.v55up35m4n.mkv
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qghZmJBDHGj4GFHNih8RW1GHMJT.jpg",Dont Move (2024)[4K]
+https://archive.org/download/ubuntu-server/linux/ubuntu/Debian.mkv
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bcCBq9N1EMo3daNIjWJ8kYvrQm6.jpg",Eternals (2021)[DUAL][4K]
 https://eu1.akirabox.com/uploads/users/jN2p3D4A3Ma5/cog0vAZyGI08d0fMAde-Eternals%20(2021)%20BDRip%204K%20DV%20HDR10%20Latino%20WWW.GDRIVELatinoHD.NET.mkv?access=QchlHZzt2ZyRWYsRmYrNmcs9mZ4NzMwImNhlWb
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xSQPvzHc/Friday-the-13th-1980-542-x-768.jpg",Friday the 13th (1980) [4k][HDR10][DUAL]
+https://archive.org/download/01_20250616_20250616_1849/COBOL/02.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dKMkmb1Oyfo9H8YuyG7awLGUNXL.jpg",In the Tall Grass (2019) [4K][HDR10][DUAL]
+https://archive.org/download/06_20241202/PBX4K/01.mkv
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg",Interstellar (2014) [DUAL]
+https://archive.org/download/ubuntu_202104/Interstellar%20%282014%29%5B4K%5D%5BDUAL%5D.mkv
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2GqRAbc6Xcak2ZYrIdTQGbHyTsl.jpg",Interstellar (2014)[4K][DUAL](opc2)
+https://archive.org/download/ubuntu_202104/Interstellar%20%282014%29%5B4K%5D%5BDUAL%5D.mkv
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ht8Uv9QPv9y7K0RvUyJIaXOZTfd.jpg",Smile 2 (2024) [DUAL][4K]
+https://archive.org/download/02_20241203_202412/opnbsd/02.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/x5jfgaL2N3TpwUNuMwkfQi6Jev8.jpg",Star Wars: Episode I - The Phantom Menace (1999) [ENG][4K]
+https://archive.org/download/linux-02/LINUX01.mkv
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/d4rSvWozgxCq2f1xdVq9rU1Avpv.jpg",Star Wars: Episode II - Attack of the Clones (2002) [ENG][4K]
+https://archive.org/download/linux-02/LINUX02.mkv
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hHg49exUKyuZ2xUFAhVflUrBnvt.jpg",Star Wars: Episode III - Revenge of the Sith (2005)
+https://archive.org/download/linux-09/LINUX03.mkv
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/x5KZT5LYLvkCb3mxgOYXuPIuzs7.jpg",Star Wars: Episode IV - A New Hope (1977)
+https://archive.org/download/linux-09/LINUX04.mkv
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1IHkpzEYK25puLJU9JsCprcx9Np.jpg",Star Wars: Episode V - The Empire Strikes Back (1980)
+https://archive.org/download/linux-09/LINUX05.mkv
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/40HKwFzsPoukpQVYcM1bSWQWNkX.jpg",Star Wars: Episode VI - Return of the Jedi (1983)
+https://archive.org/download/linux-09/LINUX06.mkv
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wno9NucSWF0chaYI37MMhVjR6ZV.jpg",Star Wars: Episode VII - The Force Awakens (2015)
+https://archive.org/download/linux-09/LINUX07.mkv
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/aOfzX4s5r7wnItzKU62biCuJ5a5.jpg",Star Wars: Episode VIII - The Last Jedi (2017)
+https://archive.org/download/linux-09/LINUX08.mkv
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/npU7S1lgRQXoBrWFHzgoZYfVPPQ.jpg",Star Wars: Episode IX - The Rise of Skywalker (2019)
+https://archive.org/download/linux-09/LINUX09.mkv
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3ndAx3weG6KDkJIRMCi5vXX6Dyb.jpg",The Martian (2015)[DUAL][4K]
+https://archive.org/download/ubuntuforum/ubuntu-marciano.mkv
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cGm2qnmXx9tFabmzEIkJZjCJdQd.jpg",The Substance (2024)[4K]
+https://archive.org/download/ubuntu-server/linux/ubuntu/linuxMint.mkv
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/k62LisG7J56LBQpCYvbO7NQNQyI.jpg",Total Recall (1990)[DUAL][4K]
+https://archive.org/download/ubuntuforum/LLAMADO-FINAL.mkv
 #EXTINF:-1 tvg-logo="https://i.ibb.co/39WphdVS/Wolf-Man-2025-542-x-768.jpg",Wolf Man (2025)[DUAL][4K]
 https://archive.org/download/manjaro_202502/LINUX/Manjaro.mkv
-#EXTINF:-1,In the Tall Grass (2019) [4K][HDR10][DUAL]
-https://archive.org/download/06_20241202/PBX4K/01.mkv
-#EXTINF:-1,Smile 2 (2024) [DUAL][4K]
-https://archive.org/download/02_20241203_202412/opnbsd/02.mp4
-#EXTINF:-1,Dont Move (2024)[4K]
-https://archive.org/download/ubuntu-server/linux/ubuntu/Debian.mkv
-#EXTINF:-1,The Substance (2024)[4K]
-https://archive.org/download/ubuntu-server/linux/ubuntu/linuxMint.mkv
-#EXTINF:-1,The Martian (2015)[DUAL][4K]
-https://archive.org/download/ubuntuforum/ubuntu-marciano.mkv
-#EXTINF:-1,Total Recall (1990)[DUAL][4K]
-https://archive.org/download/ubuntuforum/LLAMADO-FINAL.mkv
-#EXTINF:-1,Interstellar (2014) [DUAL]
-https://archive.org/download/ubuntu_202104/Interstellar%20%282014%29%5B4K%5D%5BDUAL%5D.mkv
-#EXTINF:-1,Batman v Superman: Dawn of Justice (2016) [DUAL][4k]
-https://archive.org/download/tinaco_20210409/B4tm4n.v55up35m4n.mkv
-#EXTINF:-1,Interstellar (2014)[4K][DUAL](opc2)
-https://archive.org/download/ubuntu_202104/Interstellar%20%282014%29%5B4K%5D%5BDUAL%5D.mkv
-#EXTINF:-1,Star Wars: Episode I - The Phantom Menace (1999) [ENG][4K]
-https://archive.org/download/linux-02/LINUX01.mkv
-#EXTINF:-1,Star Wars: Episode II - Attack of the Clones (2002) [ENG][4K]
-https://archive.org/download/linux-02/LINUX02.mkv
-#EXTINF:-1,Star Wars: Episode III - Revenge of the Sith (2005)
-https://archive.org/download/linux-09/LINUX03.mkv
-#EXTINF:-1,Star Wars: Episode IV - A New Hope (1977)
-https://archive.org/download/linux-09/LINUX04.mkv
-#EXTINF:-1,Star Wars: Episode IX - The Rise of Skywalker (2019)
-https://archive.org/download/linux-09/LINUX09.mkv
-#EXTINF:-1,Star Wars: Episode V - The Empire Strikes Back (1980)
-https://archive.org/download/linux-09/LINUX05.mkv
-#EXTINF:-1,Star Wars: Episode VI - Return of the Jedi (1983)
-https://archive.org/download/linux-09/LINUX06.mkv
-#EXTINF:-1,Star Wars: Episode VII - The Force Awakens (2015)
-https://archive.org/download/linux-09/LINUX07.mkv
-#EXTINF:-1,Star Wars: Episode VIII - The Last Jedi (2017)
-https://archive.org/download/linux-09/LINUX08.mkv
-#EXTINF:-1,Total Recall (1990)[4][DUAL]
-https://archive.org/download/ubuntuforum/LLAMADO-FINAL.mkv
