@@ -51,6 +51,8 @@ https://archive.org/download/asterix_202506/pbx/05.mp4
 https://archive.org/download/asterix_202506/pbx/06.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/j9nD0vG3/Baskin-2015-542-X-768.jpg",Baskin (2015)[TUR]
 https://archive.org/download/01_20250609/bsd/01.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vDQpXXD6xV6S2K86H0k6IDwaHgr.jpg",ben-hur (2016)[dual]
+https://archive.org/download/01_20250424_20250424/daemons/03.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TMTws25K/Karate-Kid-Legends-2025-542-x-768.jpg",Karate Kid Legends (2025) [DUAL]
 https://archive.org/download/linux_202506/linux/01.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qMy2CZyw/The-Arctic-Convoy-2023-542-x-768.jpg",The Arctic Convoy (2023) [DUAL]
@@ -5475,5 +5477,4 @@ http://archive.org/download/0_20200417/1.mp4
 http://archive.org/download/0_20200418/1.mp4
 #EXTINF:-1,zombies nazis
 http://archive.org/download/ch-1-q-1-t-0-p-3-r-0-p-3-l-1-gr-0-s-0/z0mb1n4z1.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vDQpXXD6xV6S2K86H0k6IDwaHgr.jpg",ben-hur (2016)[dual]
-https://archive.org/download/01_20250424_20250424/daemons/03.mp4
+
