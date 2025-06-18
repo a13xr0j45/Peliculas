@@ -1,4 +1,10 @@
 ﻿#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WpMgMwZD/Possessions-2024-542-x-768.jpg",Possessions (2024)[DUAL]
+https://archive.org/download/02_20250618_20250618_1938/FORTRAN/01.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dsRJPfF8/The-Day-the-Earth-Stood-Still-2008-542-x-768.jpg",The Day the Earth Stood Still (2008)[DUAL]
+https://archive.org/download/02_20250618_20250618_1938/FORTRAN/02.mp4
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vxqNwqgx/The-Crucifixion-2017-542-X-768.jpg",La Crucifixión (2017)[DUAL]
 https://archive.org/download/04_20250615_202506/atn/01.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xKcCntth/Death-Valley-2021-542-X-768.jpg",Death Valley (2021) [DUAL]
