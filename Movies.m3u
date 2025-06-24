@@ -1,16 +1,41 @@
 ﻿#EXTM3U
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1tv9931T/Missing-Link-1988-542-x-768.jpg",Missing Link (1988)[DUAL]
+https://archive.org/download/01_20250624_20250624_1917/pascal/01.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pj8Hkmw2/The-Lady-of-Heaven-2021-542-x-768.jpg",The Lady of Heaven (2021)[DUAL]
+https://archive.org/download/01_20250624_20250624_1917/pascal/02.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RTzPRzVZ/Crazy-Lizard-2024-542-X-768.jpg",Crazy Lizard (2024)[DUAL]
+https://archive.org/download/01_20250624_20250624_1917/pascal/03.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XR9q8RY/Green-Book-2018-542-X-768.jpg",Green Book (2018) [DUAL]
+https://archive.org/download/01_20250624_20250624_1917/pascal/04.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xqg02RTT/The-Twisters-2024-542-x-768.jpg",The Twisters (2024)[DUAL]
+https://archive.org/download/01_20250624_20250624_1917/pascal/05.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HpXd66DJ/Mudbrick-2024-542-X-768.jpg",Mudbrick (2024)[DUAL]
+https://archive.org/download/01_20250624_20250624_1917/pascal/06.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/V02B7H3g/Distant-2024-542-X-768.jpg",Distant (2024)[DUAL]
+https://archive.org/download/01_20250624_20250624_1917/pascal/07.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bkF4zyW/The-Future-Awaits-2025-542-x-768.jpg",The Future Awaits (2025)[DUAL]
+https://archive.org/download/01_20250624_20250624_1917/pascal/08.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sdV2Hw71/The-Woman-in-the-Yard-2025-542-x-768.jpg",The Woman in the Yard (2025)[DUAL]
+https://archive.org/download/01_20250624_20250624_1917/pascal/09.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xkFpgsj/Hola-Frida-2025-542-x-768.jpg",Hola Frida! (2025)[DUAL]
+https://archive.org/download/01_20250624_20250624_1917/pascal/10.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wZZm7NX5/Sting-2024-542-x-768.jpg",Sting (2024)[DUAL]
+https://archive.org/download/01_20250624_20250624_1917/pascal/11.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WWBRPytj/The-Monkey-2025-542-x-768.jpg",The Monkey (2025) [DUAL]
+https://archive.org/download/01_20250624_20250624_1917/pascal/12.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QjNwHPjg/The-Arbors-2020-542-x-768.jpg",The Arbors (2020)[DUAL]
+https://archive.org/download/01_20250624_20250624_1917/pascal/13.mp4
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/27rRwJTT/28-Days-Later-2002-542-X-768.jpg",28 Days Later (2002)[DUAL]
 https://archive.org/download/01_20250616_20250616_1849/COBOL/07.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LhBpDyjD/28-Weeks-Later-2007-542-X-768.jpg",28 Weeks Later (2007)[DUAL]
 https://archive.org/download/01_20250616_20250616_1849/COBOL/06.mp4
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WpMgMwZD/Possessions-2024-542-x-768.jpg",Possessions (2024)[DUAL]
 https://archive.org/download/02_20250618_20250618_1938/FORTRAN/01.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dsRJPfF8/The-Day-the-Earth-Stood-Still-2008-542-x-768.jpg",The Day the Earth Stood Still (2008)[DUAL]
 https://archive.org/download/02_20250618_20250618_1938/FORTRAN/02.mp4
-
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vxqNwqgx/The-Crucifixion-2017-542-X-768.jpg",La Crucifixión (2017)[DUAL]
 https://archive.org/download/04_20250615_202506/atn/01.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xKcCntth/Death-Valley-2021-542-X-768.jpg",Death Valley (2021) [DUAL]
