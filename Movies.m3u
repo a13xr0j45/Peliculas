@@ -1,4 +1,10 @@
 ﻿#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/27rRwJTT/28-Days-Later-2002-542-X-768.jpg",28 Days Later (2002)[DUAL]
+https://archive.org/download/01_20250616_20250616_1849/COBOL/07.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LhBpDyjD/28-Weeks-Later-2007-542-X-768.jpg",28 Weeks Later (2007)[DUAL]
+https://archive.org/download/01_20250616_20250616_1849/COBOL/06.mp4
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WpMgMwZD/Possessions-2024-542-x-768.jpg",Possessions (2024)[DUAL]
 https://archive.org/download/02_20250618_20250618_1938/FORTRAN/01.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dsRJPfF8/The-Day-the-Earth-Stood-Still-2008-542-x-768.jpg",The Day the Earth Stood Still (2008)[DUAL]
