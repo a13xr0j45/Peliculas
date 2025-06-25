@@ -1,5 +1,4 @@
 ﻿#EXTM3U
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1tv9931T/Missing-Link-1988-542-x-768.jpg",Missing Link (1988)[DUAL]
 https://archive.org/download/01_20250624_20250624_1917/pascal/01.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pj8Hkmw2/The-Lady-of-Heaven-2021-542-x-768.jpg",The Lady of Heaven (2021)[DUAL]
@@ -18,16 +17,12 @@ https://archive.org/download/01_20250624_20250624_1917/pascal/07.mp4
 https://archive.org/download/01_20250624_20250624_1917/pascal/08.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sdV2Hw71/The-Woman-in-the-Yard-2025-542-x-768.jpg",The Woman in the Yard (2025)[DUAL]
 https://archive.org/download/01_20250624_20250624_1917/pascal/09.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/xkFpgsj/Hola-Frida-2025-542-x-768.jpg",Hola Frida! (2025)[DUAL]
-https://archive.org/download/01_20250624_20250624_1917/pascal/10.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wZZm7NX5/Sting-2024-542-x-768.jpg",Sting (2024)[DUAL]
 https://archive.org/download/01_20250624_20250624_1917/pascal/11.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WWBRPytj/The-Monkey-2025-542-x-768.jpg",The Monkey (2025) [DUAL]
 https://archive.org/download/01_20250624_20250624_1917/pascal/12.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QjNwHPjg/The-Arbors-2020-542-x-768.jpg",The Arbors (2020)[DUAL]
 https://archive.org/download/01_20250624_20250624_1917/pascal/13.mp4
-
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/27rRwJTT/28-Days-Later-2002-542-X-768.jpg",28 Days Later (2002)[DUAL]
 https://archive.org/download/01_20250616_20250616_1849/COBOL/07.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LhBpDyjD/28-Weeks-Later-2007-542-X-768.jpg",28 Weeks Later (2007)[DUAL]
