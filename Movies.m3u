@@ -1,4 +1,15 @@
 ﻿#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VYH93Y2X/Logan-2017-542-x-768.jpg",Logan (2017)[DUAL]
+https://archive.org/download/01_20250625_20250625_1655/temp/01.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qM920Kjp/Blade-Runner-2049-2017-542-x-768.jpg",Blade Runner 2049 (2017)[DUAL]
+https://archive.org/download/01_20250625_20250625_1655/temp/02.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GQddqxs7/Night-Call-2024-542-x-768.jpg",Night Call (2024)[DUAL]
+https://archive.org/download/01_20250625_20250625_1655/temp/03.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N2v1zH4G/Paradox-Effect-2024-542-x-768.jpg",Paradox Effect (2024)[DUAL]
+https://archive.org/download/01_20250625_20250625_1655/temp/04.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hFZ1ZWYW/The-Most-Precious-of-Cargoes-2024-542-x-768.jpg",The Most Precious of Cargoes (2024)[DUAL]
+https://archive.org/download/01_20250625_20250625_1655/temp/05.mp4
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1tv9931T/Missing-Link-1988-542-x-768.jpg",Missing Link (1988)[DUAL]
 https://archive.org/download/01_20250624_20250624_1917/pascal/01.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pj8Hkmw2/The-Lady-of-Heaven-2021-542-x-768.jpg",The Lady of Heaven (2021)[DUAL]
