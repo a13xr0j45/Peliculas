@@ -1,4 +1,6 @@
 ﻿#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xkFpgsj/Hola-Frida-2025-542-x-768.jpg",Hola Frida! (2025)[DUAL]
+https://archive.org/download/01_20250624_20250624_1917/pascal/10.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Z68tjbGR/The-Wild-Robot-2024-542-x-768.jpg",The Wild Robot (2024)[DUAL]
 https://archive.org/download/tutoriales_202506/TutorialesLinux/04.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MDHLfF0Z/Taiki-2019-542-x-768.jpg",Taiki (2019)[DUAL]
