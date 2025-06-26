@@ -1,36 +1,4 @@
 ﻿#EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gMJkxnXg/Happy-Face-2025-500-X-281.jpg" group-title="Happy Face (2025)",Happy Face (2025) S01E01 The Confession
-https://archive.org/download/00_20250625/SistemasOperativos/bsd/S01/01.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gMJkxnXg/Happy-Face-2025-500-X-281.jpg" group-title="Happy Face (2025)",Happy Face (2025) S01E02 Killing Shame
-https://archive.org/download/00_20250625/SistemasOperativos/bsd/S01/02.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gMJkxnXg/Happy-Face-2025-500-X-281.jpg" group-title="Happy Face (2025)",Happy Face (2025) S01E03 Was it Worth It?
-https://archive.org/download/00_20250625/SistemasOperativos/bsd/S01/03.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gMJkxnXg/Happy-Face-2025-500-X-281.jpg" group-title="Happy Face (2025)",Happy Face (2025) S01E04 Controlled Burn
-https://archive.org/download/00_20250625/SistemasOperativos/bsd/S01/04.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gMJkxnXg/Happy-Face-2025-500-X-281.jpg" group-title="Happy Face (2025)",Happy Face (2025) S01E05 Don’t Dream
-https://archive.org/download/00_20250625/SistemasOperativos/bsd/S01/05.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gMJkxnXg/Happy-Face-2025-500-X-281.jpg" group-title="Happy Face (2025)",Happy Face (2025) S01E06 Lorelai
-https://archive.org/download/00_20250625/SistemasOperativos/bsd/S01/06.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gMJkxnXg/Happy-Face-2025-500-X-281.jpg" group-title="Happy Face (2025)",Happy Face (2025) S01E07 My Jesperson Girls
-https://archive.org/download/00_20250625/SistemasOperativos/bsd/S01/07.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gMJkxnXg/Happy-Face-2025-500-X-281.jpg" group-title="Happy Face (2025)",Happy Face (2025) S01E08 The Star
-https://archive.org/download/00_20250625/SistemasOperativos/bsd/S01/08.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GQ6sxWss/The-Trunk-500-x-281.jpg" group-title="The Trunk (2024)",The Trunk (2024) S01E01 1화
-https://archive.org/download/00_20250625/SistemasOperativos/macos/S01/01.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GQ6sxWss/The-Trunk-500-x-281.jpg" group-title="The Trunk (2024)",The Trunk (2024) S01E02 2화
-https://archive.org/download/00_20250625/SistemasOperativos/macos/S01/02.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GQ6sxWss/The-Trunk-500-x-281.jpg" group-title="The Trunk (2024)",The Trunk (2024) S01E03 3화
-https://archive.org/download/00_20250625/SistemasOperativos/macos/S01/03.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GQ6sxWss/The-Trunk-500-x-281.jpg" group-title="The Trunk (2024)",The Trunk (2024) S01E04 4화
-https://archive.org/download/00_20250625/SistemasOperativos/macos/S01/04.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GQ6sxWss/The-Trunk-500-x-281.jpg" group-title="The Trunk (2024)",The Trunk (2024) S01E05 5화
-https://archive.org/download/00_20250625/SistemasOperativos/macos/S01/05.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GQ6sxWss/The-Trunk-500-x-281.jpg" group-title="The Trunk (2024)",The Trunk (2024) S01E06 6화
-https://archive.org/download/00_20250625/SistemasOperativos/macos/S01/06.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GQ6sxWss/The-Trunk-500-x-281.jpg" group-title="The Trunk (2024)",The Trunk (2024) S01E07 7화
-https://archive.org/download/00_20250625/SistemasOperativos/macos/S01/07.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GQ6sxWss/The-Trunk-500-x-281.jpg" group-title="The Trunk (2024)",The Trunk (2024) S01E08 8화
-https://archive.org/download/00_20250625/SistemasOperativos/macos/S01/08.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pGf781B/1923-2022-500-x-281.jpg" group-title="1923 (2022)",S01E01 1923 (2022) 1923	
 https://archive.org/download/01_20250324_202503/Daemons/S01/01.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pGf781B/1923-2022-500-x-281.jpg" group-title="1923 (2022)",S01E02 Nature's Empty Throne
@@ -445,6 +413,22 @@ https://archive.org/download/family_202506/American/S01/06.mp4
 https://archive.org/download/family_202506/American/S01/07.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/39SZK0sn/Good-American-Family-2025-500-x-281.jpg" group-title="Good American Family (2025)",Good American Family (2025) S01E08 Blood on Her Hands
 https://archive.org/download/family_202506/American/S01/08.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gMJkxnXg/Happy-Face-2025-500-X-281.jpg" group-title="Happy Face (2025)",Happy Face (2025) S01E01 The Confession
+https://archive.org/download/00_20250625/SistemasOperativos/bsd/S01/01.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gMJkxnXg/Happy-Face-2025-500-X-281.jpg" group-title="Happy Face (2025)",Happy Face (2025) S01E02 Killing Shame
+https://archive.org/download/00_20250625/SistemasOperativos/bsd/S01/02.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gMJkxnXg/Happy-Face-2025-500-X-281.jpg" group-title="Happy Face (2025)",Happy Face (2025) S01E03 Was it Worth It?
+https://archive.org/download/00_20250625/SistemasOperativos/bsd/S01/03.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gMJkxnXg/Happy-Face-2025-500-X-281.jpg" group-title="Happy Face (2025)",Happy Face (2025) S01E04 Controlled Burn
+https://archive.org/download/00_20250625/SistemasOperativos/bsd/S01/04.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gMJkxnXg/Happy-Face-2025-500-X-281.jpg" group-title="Happy Face (2025)",Happy Face (2025) S01E05 Don’t Dream
+https://archive.org/download/00_20250625/SistemasOperativos/bsd/S01/05.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gMJkxnXg/Happy-Face-2025-500-X-281.jpg" group-title="Happy Face (2025)",Happy Face (2025) S01E06 Lorelai
+https://archive.org/download/00_20250625/SistemasOperativos/bsd/S01/06.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gMJkxnXg/Happy-Face-2025-500-X-281.jpg" group-title="Happy Face (2025)",Happy Face (2025) S01E07 My Jesperson Girls
+https://archive.org/download/00_20250625/SistemasOperativos/bsd/S01/07.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gMJkxnXg/Happy-Face-2025-500-X-281.jpg" group-title="Happy Face (2025)",Happy Face (2025) S01E08 The Star
+https://archive.org/download/00_20250625/SistemasOperativos/bsd/S01/08.mp4
 #EXTINF:-1 group-title="Human The World Within (2021)",Human The World Within (2021) S01E01 Birth
 https://archive.org/download/ubuntu_202407/Human-Linux/S01/01.mp4
 #EXTINF:-1 group-title="Human The World Within (2021)",Human The World Within (2021) S01E02 Pulse
@@ -1921,6 +1905,22 @@ https://archive.org/download/index_20241206/pbx/S01/08.mp4
 https://archive.org/download/index_20241206/pbx/S01/09.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TRzzCKq/The-Patient-2022.jpg" group-title="The Patient (2022)",The Patient (2022) S01E10	The Cantor's Husband
 https://archive.org/download/index_20241206/pbx/S01/10.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GQ6sxWss/The-Trunk-500-x-281.jpg" group-title="The Trunk (2024)",The Trunk (2024) S01E01 1화
+https://archive.org/download/00_20250625/SistemasOperativos/macos/S01/01.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GQ6sxWss/The-Trunk-500-x-281.jpg" group-title="The Trunk (2024)",The Trunk (2024) S01E02 2화
+https://archive.org/download/00_20250625/SistemasOperativos/macos/S01/02.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GQ6sxWss/The-Trunk-500-x-281.jpg" group-title="The Trunk (2024)",The Trunk (2024) S01E03 3화
+https://archive.org/download/00_20250625/SistemasOperativos/macos/S01/03.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GQ6sxWss/The-Trunk-500-x-281.jpg" group-title="The Trunk (2024)",The Trunk (2024) S01E04 4화
+https://archive.org/download/00_20250625/SistemasOperativos/macos/S01/04.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GQ6sxWss/The-Trunk-500-x-281.jpg" group-title="The Trunk (2024)",The Trunk (2024) S01E05 5화
+https://archive.org/download/00_20250625/SistemasOperativos/macos/S01/05.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GQ6sxWss/The-Trunk-500-x-281.jpg" group-title="The Trunk (2024)",The Trunk (2024) S01E06 6화
+https://archive.org/download/00_20250625/SistemasOperativos/macos/S01/06.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GQ6sxWss/The-Trunk-500-x-281.jpg" group-title="The Trunk (2024)",The Trunk (2024) S01E07 7화
+https://archive.org/download/00_20250625/SistemasOperativos/macos/S01/07.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GQ6sxWss/The-Trunk-500-x-281.jpg" group-title="The Trunk (2024)",The Trunk (2024) S01E08 8화
+https://archive.org/download/00_20250625/SistemasOperativos/macos/S01/08.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KGRTVJL/The-Walking-Dead-Daryl-Dixon-500x281.jpg" group-title="The Walking Dead Daryl Dixon (2023)",The Walking Dead Daryl Dixon (2023) S01E01 L'âme Perdue
 https://archive.org/download/01_20241128_20241128/linux/01.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KGRTVJL/The-Walking-Dead-Daryl-Dixon-500x281.jpg" group-title="The Walking Dead Daryl Dixon (2023)",The Walking Dead Daryl Dixon (2023) S01E02 Alouette
