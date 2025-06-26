@@ -1,4 +1,40 @@
 ﻿#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ibb.co/R4YWsmBd/The-Black-Phone-2022-542-x-768.jpg",The Black Phone (2022) [DUAL]
+https://archive.org/download/05_20250626_202506/linux/01.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rR0xR8bp/Interview-with-the-Vampire-1994-542-x-768.jpg",Interview with the Vampire (1994)[DUAL]
+https://archive.org/download/05_20250626_202506/linux/02.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mrPWtqd3/Longlegs-2024-542-x-768.jpg",Longlegs (2024)[DUAL]
+https://archive.org/download/05_20250626_202506/linux/03.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YT0Ftw9Y/Ma-XXXine-2024-542-x-768.jpg",MaXXXine (2024)[DUAL]
+https://archive.org/download/05_20250626_202506/linux/04.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4wjLVQTZ/Mirrors-2008-542-x-768.jpg",Mirrors (2008)[DUAL]
+https://archive.org/download/05_20250626_202506/linux/05.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/svxK1m4R/Rosemary-s-Baby-1968-542-x-768.jpg",Rosemary_s Baby (1968)[DUAL]
+https://archive.org/download/05_20250626_202506/linux/06.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/F4jyRFf4/Imaginary-2024-542-x-768.jpg",Imaginary (2024)[DUAL]
+https://archive.org/download/05_20250626_202506/linux/07.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3yNB2PtR/The-Wailing-2024-542-x-768.jpg",The Wailing (2024)[ESP]
+https://archive.org/download/05_20250626_202506/linux/08.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ymGg00hY/Azrael-2024-542-x-768.jpg",Azrael (2024)[DUAL]
+https://archive.org/download/05_20250626_202506/linux/09.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Z1BcgPCB/Terrifier-3-2024-542-x-768.jpg",Terrifier 3 (2024)[DUAL]
+https://archive.org/download/05_20250626_202506/linux/10.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pj1fD61j/Lavender-2016-542-x-768.jpg",Lavender (2016)[DUAL]
+https://archive.org/download/05_20250626_202506/linux/11.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7JTwh3mF/Dead-Bride-2025-542-x-768.jpg",Dead Bride (2025)[DUAL]
+https://archive.org/download/05_20250626_202506/linux/12.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/66Td4sF/The-Twin-2022-542-x-768.jpg",The Twin (2022)[DUAL]
+https://archive.org/download/05_20250626_202506/linux/13.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pjh1V3wp/Sinners-2025-542-x-768.jpg",Sinners (2025)[DUAL]
+https://archive.org/download/05_20250626_202506/linux/14.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wNrhhFTm/Los-habitantes-2023-542-x-768.jpg",Los habitantes (2023)[DUAL]
+https://archive.org/download/05_20250626_202506/linux/15.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/n880XhpK/The-Exorcism-2024-542-x-768.jpg",The Exorcism (2024)[DUAL]
+https://archive.org/download/05_20250626_202506/linux/16.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hFjyNQCk/CORALINE-542-x-768.jpg",Coraline (2009)
+https://archive.org/download/05_20250626_202506/linux/17.mp4
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VYH93Y2X/Logan-2017-542-x-768.jpg",Logan (2017)[DUAL]
 https://archive.org/download/01_20250625_20250625_1655/temp/01.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qM920Kjp/Blade-Runner-2049-2017-542-x-768.jpg",Blade Runner 2049 (2017)[DUAL]
