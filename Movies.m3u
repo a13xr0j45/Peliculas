@@ -1,4 +1,20 @@
 ﻿#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Lz09JZF8/Pearl-2022-542-x-768.jpg",Pearl (2022)[DUAL]
+https://archive.org/download/03_20250627_202506/RPM/01.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KjfZWws1/X-2022-542-x-768.jpg",X (2022)[ENG]
+https://archive.org/download/03_20250627_202506/RPM/02.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TyNXFGS/Sinister-2012-542-x-768.jpg",Sinister (2012)[DUAL]
+https://archive.org/download/03_20250627_202506/RPM/03.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GvPvGrwf/Sinister-2-2015-542-x-768.jpg",Sinister 2 (2015)[ENG]
+https://archive.org/download/03_20250627_202506/RPM/04.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PvtFm6m8/The-Equalizer-2014-542-x-768.jpg",The Equalizer (2014) [DUAL]
+https://archive.org/download/03_20250627_202506/RPM/05.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ks05MB28/The-Equalizer-2-2018-542-x-768.jpg",The Equalizer 2 (2018) [DUAL]
+https://archive.org/download/03_20250627_202506/RPM/06.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hxRdybQT/The-Equalizer-3-2023-542-x-768.jpg",The Equalizer 3 (2023) [DUAL]
+https://archive.org/download/03_20250627_202506/RPM/07.mp4
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/R4YWsmBd/The-Black-Phone-2022-542-x-768.jpg",The Black Phone (2022) [DUAL]
 https://archive.org/download/05_20250626_202506/linux/01.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rR0xR8bp/Interview-with-the-Vampire-1994-542-x-768.jpg",Interview with the Vampire (1994)[DUAL]
