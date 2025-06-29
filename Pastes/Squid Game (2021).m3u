@@ -1,4 +1,23 @@
 ﻿#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gZKYphpN/1-500-X-281.jpg" group-title="Season 01",Squid Game (2021) S01E01 무궁화 꽃이 피던 날
+https://archive.org/download/02_20250629/LinuxGames/S01/01.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gZKYphpN/1-500-X-281.jpg" group-title="Season 01",Squid Game (2021) S01E02 지옥
+https://archive.org/download/02_20250629/LinuxGames/S01/02.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gZKYphpN/1-500-X-281.jpg" group-title="Season 01",Squid Game (2021) S01E03 우산을 쓴 남자
+https://archive.org/download/02_20250629/LinuxGames/S01/03.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gZKYphpN/1-500-X-281.jpg" group-title="Season 01",Squid Game (2021) S01E04 쫄려도 편먹기
+https://archive.org/download/02_20250629/LinuxGames/S01/04.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gZKYphpN/1-500-X-281.jpg" group-title="Season 01",Squid Game (2021) S01E05 평등한 세상
+https://archive.org/download/02_20250629/LinuxGames/S01/05.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gZKYphpN/1-500-X-281.jpg" group-title="Season 01",Squid Game (2021) S01E06 깐부
+https://archive.org/download/02_20250629/LinuxGames/S01/06.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gZKYphpN/1-500-X-281.jpg" group-title="Season 01",Squid Game (2021) S01E07 VIPS
+https://archive.org/download/02_20250629/LinuxGames/S01/07.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gZKYphpN/1-500-X-281.jpg" group-title="Season 01",Squid Game (2021) S01E08 프론트맨
+https://archive.org/download/02_20250629/LinuxGames/S01/08.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gZKYphpN/1-500-X-281.jpg" group-title="Season 01",Squid Game (2021) S01E09 운수 좋은 날
+https://archive.org/download/02_20250629/LinuxGames/S01/09.mp4
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HhLmWzg/squid-game.jpg" group-title="Season 02",Squid Game (2021) S02E01 빵과 복권
 https://archive.org/download/d-3-xrr-234/GitHub/01.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HhLmWzg/squid-game.jpg" group-title="Season 02",Squid Game (2021) S02E02 할로윈 파티
