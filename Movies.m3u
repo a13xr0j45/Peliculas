@@ -1,4 +1,26 @@
 ﻿#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4nR3pnPh/Paranormal-Activity-2007-542-X-768.jpg",Paranormal Activity (2007)[DUAL]
+https://archive.org/download/05_20250630/atn/01.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zTQFJXpV/Paranormal-Activity-2-2010-542-X-768.jpg",Paranormal Activity 2 (2010)[DUAL]
+https://archive.org/download/05_20250630/atn/02.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/99fHRx66/Paranormal-Activity-3-2011-542-X-768.jpg",Paranormal Activity 3 (2011)[DUAL]
+https://archive.org/download/05_20250630/atn/03.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DDgvWngw/Paranormal-Activity-4-2012-542-X-768.jpg",Paranormal Activity 4 (2012)[DUAL]
+https://archive.org/download/05_20250630/atn/04.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5gFQyZM6/Paranormal-Activity-The-Marked-Ones-2014-542-X-768.jpg",Paranormal Activity 5 The Marked Ones: (2014)
+https://archive.org/download/05_20250630/atn/05.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DPmxL9tm/Paranormal-Activity-The-Ghost-Dimension-2015-542-X-768.jpg",Paranormal Activity: The Ghost Dimension: (2015)
+https://archive.org/download/05_20250630/atn/06.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gMpBm7dw/Paranormal-Activity-Next-of-Kin-2021-542-X-768.jpg",Paranormal Activity: Next of Kin: (2021)
+https://archive.org/download/05_20250630/atn/07.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xKrxBhBs/Paranormal-Activity-Tokyo-Night-2010-542-X-768.jpg",Paranormal Activity Tokyo Night (2010)[DUAL]
+https://archive.org/download/05_20250630/atn/08.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fYxxyDpf/Guimoon-The-Lightless-Door-2021-542-X-768.jpg",Guimoon The Lightless Door (2021)[DUAL]
+https://archive.org/download/05_20250630/atn/09.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/d0NbZxsP/I-See-You-2019-542-X-768.jpg",I See You (2019)[DUAL]
+https://archive.org/download/05_20250630/atn/10.mp4
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Lz09JZF8/Pearl-2022-542-x-768.jpg",Pearl (2022)[DUAL]
 https://archive.org/download/03_20250627_202506/RPM/01.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KjfZWws1/X-2022-542-x-768.jpg",X (2022)[ENG]
