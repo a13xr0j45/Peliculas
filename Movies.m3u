@@ -1,5 +1,28 @@
 ﻿#EXTM3U
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Y4SGB9Mh/Lord-of-Misrule-2023-542-x-768.jpg",01 Lord of Misrule (2023)[DUAL]
+https://archive.org/download/02_20250630_20250630_2006/er/01.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/q3ndYn32/Pride-Prejudice-2005-542-x-768.jpg",Pride & Prejudice (2005)[DUAL]
+https://archive.org/download/02_20250630_20250630_2006/er/02.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/G3rNTDy1/Locked-2025-542-x-768.jpg",Locked (2025)[DUAL]
+https://archive.org/download/02_20250630_20250630_2006/er/03.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LhHKJQT3/Fear-Cabin-The-Last-Weekend-of-Summer-2024-542-x-768.jpg",Fear Cabin The Last Weekend of Summer (2024)[DUAL]
+https://archive.org/download/02_20250630_20250630_2006/er/04.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TD2rnMhB/It-Feeds-2025-542-x-768.jpg",It Feeds (2025)[DUAL]
+https://archive.org/download/02_20250630_20250630_2006/er/05.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fY1mDK8m/Fierce-Town-2025-542-x-768.jpg",Fierce Town (2025)[DUAL]
+https://archive.org/download/02_20250630_20250630_2006/er/06.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TxgF1s2k/Our-Brand-Is-Crisis-2015-542-x-768.jpg",Our Brand Is Crisis (2015)[DUAL]
+https://archive.org/download/02_20250630_20250630_2006/er/07.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fdW8T1c4/Source-Code-2011-542-x-768.jpg",Source Code (2011)[DUAL]
+https://archive.org/download/02_20250630_20250630_2006/er/08.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hJpFbRWj/Thunderbolts-2025-542-x-768.jpg",Thunderbolts (2025)[DUAL]
+https://archive.org/download/02_20250630_20250630_2006/er/09.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MD62NfLr/World-War-Z-2013-542-x-768.jpg",World War Z (2013)[DUAL]
+https://archive.org/download/02_20250630_20250630_2006/er/10.mp4
+
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4nR3pnPh/Paranormal-Activity-2007-542-X-768.jpg",Paranormal Activity (2007)[DUAL]
 https://archive.org/download/05_20250630/atn/01.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zTQFJXpV/Paranormal-Activity-2-2010-542-X-768.jpg",Paranormal Activity 2 (2010)[DUAL]
