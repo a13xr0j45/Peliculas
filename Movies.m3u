@@ -1,5 +1,27 @@
 ﻿#EXTM3U
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TDw57VK7/Star-Wars-1977-542-x-768.jpg",Star Wars Episode IV - Star Wars (1977)[DUAL]
+https://archive.org/download/09_20250701_202507/skynet/01.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fd7J0XJS/The-Empire-Strikes-Back-1980.jpg",Star Wars Episode VI - The Empire Strikes Back (1980)[DUAL]
+https://archive.org/download/09_20250701_202507/skynet/02.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Tn8xBR0/Return-of-the-Jedi-1983.jpg",Star Wars Episode VII - Return of the Jedi (1983)[DUAL]
+https://archive.org/download/09_20250701_202507/skynet/03.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JwRmPDT5/Star-Wars-Episode-I-The-Phantom-Menace-1999.jpg",Star Wars Episode I - The Phantom Menace (1999)[DUAL]
+https://archive.org/download/09_20250701_202507/skynet/04.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Hfr3r8Vp/Star-Wars-Episode-II-Attack-of-the-Clones-2002.jpg",Star Wars Episode II - Attack of the Clones (2002)[DUAL]
+https://archive.org/download/09_20250701_202507/skynet/05.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NdqzhCHT/Star-Wars-Episode-III-Revenge-of-the-Sith-2005.jpg",Star Wars Episode III - Revenge of the Sith (2005)[DUAL]
+https://archive.org/download/09_20250701_202507/skynet/06.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2YKmVXph/Star-Wars-The-Force-Awakens-2015-542-x-768.jpg",Star Wars Episode VII - The Force Awakens (2015)[DUAL]
+https://archive.org/download/09_20250701_202507/skynet/07.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Gfwx8hNR/Star-Wars-The-Last-Jedi-2017-542-x-768.jpg",Star Wars Episode VIII - The Last Jedi (2017)[DUAL]
+https://archive.org/download/09_20250701_202507/skynet/08.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7dWtgTnX/Star-Wars-The-Rise-of-Skywalker-2019-542-x-768.jpg",Star Wars Episode IX - The Rise of Skywalker (2019)[DUAL]
+https://archive.org/download/09_20250701_202507/skynet/09.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/R4SNk8LB/Rogue-One-A-Star-Wars-Story-2016-542-x-768.jpg",Rogue One A Star Wars Story (2016)[DUAL]
+https://archive.org/download/09_20250701_202507/skynet/10.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CqzYsQw/Solo-A-Star-Wars-Story-2018-542-x-768.jpg",Solo A Star Wars Story (2018)[DUAL]
+https://archive.org/download/09_20250701_202507/skynet/11.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Y4SGB9Mh/Lord-of-Misrule-2023-542-x-768.jpg",Lord of Misrule (2023)[DUAL]
 https://archive.org/download/02_20250630_20250630_2006/er/01.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/q3ndYn32/Pride-Prejudice-2005-542-x-768.jpg",Pride & Prejudice (2005)[DUAL]
