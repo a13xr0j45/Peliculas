@@ -1,10 +1,5 @@
 ﻿#EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/TDw57VK7/Star-Wars-1977-542-x-768.jpg",Star Wars Episode IV - Star Wars (1977)[DUAL]
-https://archive.org/download/09_20250701_202507/skynet/01.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/fd7J0XJS/The-Empire-Strikes-Back-1980.jpg",Star Wars Episode VI - The Empire Strikes Back (1980)[DUAL]
-https://archive.org/download/09_20250701_202507/skynet/02.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Tn8xBR0/Return-of-the-Jedi-1983.jpg",Star Wars Episode VII - Return of the Jedi (1983)[DUAL]
 https://archive.org/download/09_20250701_202507/skynet/03.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JwRmPDT5/Star-Wars-Episode-I-The-Phantom-Menace-1999.jpg",Star Wars Episode I - The Phantom Menace (1999)[DUAL]
 https://archive.org/download/09_20250701_202507/skynet/04.mp4
@@ -12,6 +7,11 @@ https://archive.org/download/09_20250701_202507/skynet/04.mp4
 https://archive.org/download/09_20250701_202507/skynet/05.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NdqzhCHT/Star-Wars-Episode-III-Revenge-of-the-Sith-2005.jpg",Star Wars Episode III - Revenge of the Sith (2005)[DUAL]
 https://archive.org/download/09_20250701_202507/skynet/06.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TDw57VK7/Star-Wars-1977-542-x-768.jpg",Star Wars Episode IV - Star Wars (1977)[DUAL]
+https://archive.org/download/09_20250701_202507/skynet/01.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fd7J0XJS/The-Empire-Strikes-Back-1980.jpg",Star Wars Episode VI - The Empire Strikes Back (1980)[DUAL]
+https://archive.org/download/09_20250701_202507/skynet/02.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Tn8xBR0/Return-of-the-Jedi-1983.jpg",Star Wars Episode VII - Return of the Jedi (1983)[DUAL]
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2YKmVXph/Star-Wars-The-Force-Awakens-2015-542-x-768.jpg",Star Wars Episode VII - The Force Awakens (2015)[DUAL]
 https://archive.org/download/09_20250701_202507/skynet/07.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Gfwx8hNR/Star-Wars-The-Last-Jedi-2017-542-x-768.jpg",Star Wars Episode VIII - The Last Jedi (2017)[DUAL]
