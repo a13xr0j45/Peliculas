@@ -1,4 +1,12 @@
 ﻿#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LX7Bfz7j/Karate-Kid-Legends-2025-542x768.png",Karate Kid Legends (2025)[DUAL]
+https://archive.org/download/05_20250707/c%2B%2B/01.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jZhXyvZf/City-of-Angels-1998-542x768.jpg",City of Angels (1998)[DUAL]
+https://archive.org/download/05_20250707/c%2B%2B/02.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6RM3WcfW/Phone-Booth-2003-542x768.jpg",Phone Booth (2003)[DUAL]
+https://archive.org/download/05_20250707/c%2B%2B/03.mp4
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Y4KxGVb1/Legends-of-the-Condor-Heroes-The-Gallants-2025-542-X-768.jpg",Legends of the Condor Heroes The Gallants (2025)[MAN]
 https://archive.org/download/05_20250707/er/01.mkv
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Y4x0y35T/Ne-Zha-2019-542-X-768.jpg",Ne Zha (2019)[DUAL]
