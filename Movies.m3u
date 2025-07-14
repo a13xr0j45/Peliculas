@@ -1,8 +1,4 @@
 ﻿#EXTM3U
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/i8lVYRplWdCEqYOutxpxeCtaD2a.jpg" group-title="Movies",10 Minutes Gone (2019)
-https://dl.dropboxusercontent.com/s/gudmdnmk6qxyyln/angeles%20de%20charly.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hJJaDnmz32da6gUfhTRkaXaZlwk.jpg" group-title="Movies",10 Things We Should Do Before We Break Up (2020))[ESP]
-https://dl.dropbox.com/s/l1l2ietud29v27x/10.things.before.we.break.up.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CsHcXsRs/15-Killings-2020-542-X-768.jpg" group-title="Movies",15 Killings (2020)[DUAL]
 https://archive.org/download/10_20250714/PNG/09.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/27rRwJTT/28-Days-Later-2002-542-X-768.jpg" group-title="Movies",28 Days Later (2002)[DUAL]
@@ -493,6 +489,12 @@ https://archive.org/download/05_20250420/centos/04.mp4
 https://archive.org/download/05_20250420/centos/08.mp4
 #EXTINF:-1 group-title="Movies",heretic (2024)[eng]
 https://archive.org/download/05_20241210_202412/utp/7549.mp4
+#EXTINF:-1 group-title="Movies",a ghost story (2017)[dual]
+https://archive.org/download/tutoriales_linux_202402/03.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/i8lVYRplWdCEqYOutxpxeCtaD2a.jpg" group-title="Ps3Flix",10 Minutes Gone (2019)
+https://dl.dropboxusercontent.com/s/gudmdnmk6qxyyln/angeles%20de%20charly.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hJJaDnmz32da6gUfhTRkaXaZlwk.jpg" group-title="Ps3Flix",10 Things We Should Do Before We Break Up (2020))[ESP]
+https://dl.dropbox.com/s/l1l2ietud29v27x/10.things.before.we.break.up.mp4
 #EXTINF:-1 group-title="Ps3Flix",12 hour shift (2020)
 http://ia601502.us.archive.org/15/items/000_20201007/00009.mp4
 #EXTINF:-1 group-title="Ps3Flix",16 wishes (2010)
@@ -525,8 +527,6 @@ https://dl.dropbox.com/s/0u75i49lo9svau3/7500.2019.mp4
 https://archive.org/download/ewdwe3ww/sql/34rd43cefwee.mp4
 #EXTINF:-1 group-title="Ps3Flix",a 47 metros 2:el terror emerge 2019
 http://ia601509.us.archive.org/23/items/000_20200122_202001/2.mp4
-#EXTINF:-1 group-title="Ps3Flix",a ghost story (2017)[dual]
-https://archive.org/download/tutoriales_linux_202402/03.mp4
 #EXTINF:-1 group-title="Ps3Flix",a mother on the edge (2019)
 https://dl.dropbox.com/s/2hh2lixgtm3prqn/a.mother.on.the.edge.2019.mp4
 #EXTINF:-1 group-title="Ps3Flix",a todos los chicos p d todavia te quiero
@@ -563,8 +563,6 @@ http://archive.org/download/mio53_yopmail_5/5.mp4
 http://archive.org/download/mio53_yopmail_8/8.mp4
 #EXTINF:-1 group-title="Ps3Flix",agente bajo fuego
 https://archive.org/download/agtbf/cassa/agtbf.mkv
-#EXTINF:-1 group-title="Ps3Flix",ahí viene el cascarrabias
-http://ia801505.us.archive.org/18/items/yevadi_jbnote_00/00.mp4
 #EXTINF:-1 group-title="Ps3Flix",akira español
 http://archive.org/download/4k-1r-4-3sp_202101/4k1r4%203sp.mkv
 #EXTINF:-1 group-title="Ps3Flix",al 3 dia (2021)
@@ -573,8 +571,6 @@ https://archive.org/download/manguera_20211012/4l.t3rc3r.d14.mkv
 http://archive.org/download/0trece/3.mp4
 #EXTINF:-1 group-title="Ps3Flix",al interior (2007)
 https://archive.org/download/instinto_20200524/instinto.avi
-#EXTINF:-1 group-title="Ps3Flix",aladin
-http://archive.org/download/01_20200613_202006/01.mp4
 #EXTINF:-1 group-title="Ps3Flix",alicia en el país de las maravillas live action
 http://archive.org/download/2fc-07f-7872cf-8a-100d-544b-609239a-80f/4l1gc1jc43n3ljp415d3l45jm4r4v1ll45.mp4
 #EXTINF:-1 group-title="Ps3Flix",alien vs depredador
@@ -648,9 +644,9 @@ https://dl.dropboxusercontent.com/s/my9tn1ijj322seo/anonymous.mp4
 #EXTINF:-1 group-title="Ps3Flix",ant bully
 http://archive.org/download/2020-08-17-04-25-40-908/4nt.bully.mp4
 #EXTINF:-1 group-title="Ps3Flix",apocalypto
-https://archive.org/download/00sffdsg/4p0c4.mp4
-#EXTINF:-1 group-title="Ps3Flix",apocalypto
 https://archive.org/download/picante_202003/picante/picante.avi
+#EXTINF:-1 group-title="Ps3Flix",apocalypto
+https://archive.org/download/00sffdsg/4p0c4.mp4
 #EXTINF:-1 group-title="Ps3Flix",apolo 10 una infancia espacial
 https://archive.org/download/00naran/fgtyko/4p0l.mp4
 #EXTINF:-1 group-title="Ps3Flix",arlo el chico caiman (2021)
@@ -790,9 +786,9 @@ https://archive.org/download/manguera_20211125/8ru1s3d..mkv
 #EXTINF:-1 group-title="Ps3Flix",buscando justicia
 https://dl.dropbox.com/s/jjm5swmikheook8/buscando.justicia.mp4
 #EXTINF:-1 group-title="Ps3Flix",buscando un amigo para el fin del mundo
-https://archive.org/download/muca_20200405/muca/muca.mp4
-#EXTINF:-1 group-title="Ps3Flix",buscando un amigo para el fin del mundo
 http://archive.org/download/thebigbossps3movieplus/bu5c4nd0un4m160p4r43lf1nd3lmund0.mp4
+#EXTINF:-1 group-title="Ps3Flix",buscando un amigo para el fin del mundo
+https://archive.org/download/muca_20200405/muca/muca.mp4
 #EXTINF:-1 group-title="Ps3Flix",cabeza de muerte
 https://archive.org/download/00chayo/c4b3z4.avi
 #EXTINF:-1 group-title="Ps3Flix",cabo de miedo
@@ -1696,9 +1692,9 @@ https://archive.org/download/6666_20200608/6666.mp4
 #EXTINF:-1 group-title="Ps3Flix",jugando con fuego
 http://ia601509.us.archive.org/23/items/000_20200122_202001/5.mp4
 #EXTINF:-1 group-title="Ps3Flix",jumanji
-https://archive.org/download/027_20200428/027.mkv
-#EXTINF:-1 group-title="Ps3Flix",jumanji
 http://archive.org/download/img20190721152019/4bd13l60nz4l34.mp4
+#EXTINF:-1 group-title="Ps3Flix",jumanji
+https://archive.org/download/027_20200428/027.mkv
 #EXTINF:-1 group-title="Ps3Flix",jumanji en la selva
 http://archive.org/download/1_20200524/1.mp4
 #EXTINF:-1 group-title="Ps3Flix",jumper
@@ -1712,9 +1708,9 @@ http://archive.org/download/1_20190715_20190715_2033/1.avi
 #EXTINF:-1 group-title="Ps3Flix",jurassic park ii
 http://archive.org/download/000_20201228/jur4551cp4rk2.avi
 #EXTINF:-1 group-title="Ps3Flix",jurassic park iii
-http://archive.org/download/1_20190715_20190715_2033/3.mp4
-#EXTINF:-1 group-title="Ps3Flix",jurassic park iii
 http://archive.org/download/000_20201228/jur4551cp4rk3.mkv
+#EXTINF:-1 group-title="Ps3Flix",jurassic park iii
+http://archive.org/download/1_20190715_20190715_2033/3.mp4
 #EXTINF:-1 group-title="Ps3Flix",jurassic park iii
 http://archive.org/download/000_20201228/jur4551cp4rk3.mkv
 #EXTINF:-1 group-title="Ps3Flix",jurassic park: el mundo perdido
@@ -2300,9 +2296,9 @@ https://archive.org/download/0drt_20210709/p4pr1k4.mp4
 #EXTINF:-1 group-title="Ps3Flix",pasante de moda
 http://archive.org/download/kuhlman_1_20190504/3.mp4
 #EXTINF:-1 group-title="Ps3Flix",paternidad
-https://archive.org/download/carros_20210622/p4t3rn1d4d.mp4
-#EXTINF:-1 group-title="Ps3Flix",paternidad
 https://archive.org/download/00-sierte/p4t3r.mp4
+#EXTINF:-1 group-title="Ps3Flix",paternidad
+https://archive.org/download/carros_20210622/p4t3rn1d4d.mp4
 #EXTINF:-1 group-title="Ps3Flix",paw patrol la película
 https://archive.org/download/00azucar/p0p4tr0.mp4
 #EXTINF:-1 group-title="Ps3Flix",pearl harbor
@@ -3139,3 +3135,7 @@ https://archive.org/download/00200_20200117_0628/00200.mkv
 http://archive.org/download/0_20200417/1.mp4
 #EXTINF:-1 group-title="Ps3Flix",zombies 2
 http://archive.org/download/0_20200418/1.mp4
+#EXTINF:-1 group-title="Infantiles",ahí viene el cascarrabias
+http://ia801505.us.archive.org/18/items/yevadi_jbnote_00/00.mp4
+#EXTINF:-1 group-title="Infantiles",aladin
+http://archive.org/download/01_20200613_202006/01.mp4
