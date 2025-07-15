@@ -1,4 +1,11 @@
 ﻿#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8yqht85/Moulin-Rouge-2001-542x768.png" group-title="Movies",Moulin Rouge! (2001)[DUAL]
+https://archive.org/download/01_20250714_20250714_1531/upload/unix/01.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rRXm108K/The-Djinn-2021-542x768.png" group-title="Movies",The Djinn (2021)[ESP]
+https://archive.org/download/01_20250714_20250714_1531/upload/unix/02.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PZt8bwj8/Bag-of-Lies-2024-542x768.png" group-title="Movies",Bag of Lies (2024)[DUAL]
+https://archive.org/download/01_20250714_20250714_1531/upload/unix/03.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CsHcXsRs/15-Killings-2020-542-X-768.jpg" group-title="Movies",15 Killings (2020)[DUAL]
 https://archive.org/download/10_20250714/PNG/09.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/27rRwJTT/28-Days-Later-2002-542-X-768.jpg" group-title="Movies",28 Days Later (2002)[DUAL]
