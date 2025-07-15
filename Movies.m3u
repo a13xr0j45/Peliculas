@@ -1,5 +1,14 @@
 ﻿#EXTM3U
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Mk0Rpvqc/My-Girl-1991-542x768.png" group-title="Movies",My Girl (1991)[DUAL]
+https://archive.org/download/01_20250715_20250715_1532/unix/01.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JWTchk0f/My-Girl-2-1994-542x768.png" group-title="Movies",My Girl 2 (1994)[DUAL]
+https://archive.org/download/01_20250715_20250715_1532/unix/02.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ycTxTYt6/Hidalgo-2004-542x768.png" group-title="Movies",Hidalgo (2004)[DUAL]
+https://archive.org/download/01_20250715_20250715_1532/unix/03.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dxkch1J/White-Trash-2022-542x768.png" group-title="Movies",White Trash (2022)[DUAL]
+https://archive.org/download/01_20250715_20250715_1532/unix/04.mp4
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8yqht85/Moulin-Rouge-2001-542x768.png" group-title="Movies",Moulin Rouge! (2001)[DUAL]
 https://archive.org/download/01_20250714_20250714_1531/upload/unix/01.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rRXm108K/The-Djinn-2021-542x768.png" group-title="Movies",The Djinn (2021)[ESP]
