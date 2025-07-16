@@ -1,6 +1,9 @@
 ﻿#EXTM3U
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gbt0BPz7/M3-GAN-2-0-2025-542-X-768.jpg" group-title="Movies",M3GAN 2.0 (2025)[DUAL]
 https://archive.org/download/01_20250715_20250715_1532/unix/05.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jkKtBfSt/How-to-Train-Your-Dragon-2025-542-X-768.jpg" group-title="Movies",How to Train Your Dragon (2025)[DUAL]
+https://archive.org/download/01_20250715_20250715_1532/unix/06.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Mk0Rpvqc/My-Girl-1991-542x768.png" group-title="Movies",My Girl (1991)[DUAL]
 https://archive.org/download/01_20250715_20250715_1532/unix/01.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JWTchk0f/My-Girl-2-1994-542x768.png" group-title="Movies",My Girl 2 (1994)[DUAL]
