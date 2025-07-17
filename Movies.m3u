@@ -1,5 +1,6 @@
 ﻿#EXTM3U
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DDBTHdLY/Superman-2025-542x768.png" group-title="Movies",Superman (2025)[CAM]
+https://archive.org/download/03_20250716_20250716_1540/linux/01.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gbt0BPz7/M3-GAN-2-0-2025-542-X-768.jpg" group-title="Movies",M3GAN 2.0 (2025)[DUAL]
 https://archive.org/download/01_20250715_20250715_1532/unix/05.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jkKtBfSt/How-to-Train-Your-Dragon-2025-542-X-768.jpg" group-title="Movies",How to Train Your Dragon (2025)[DUAL]
