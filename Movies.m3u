@@ -1,18 +1,18 @@
 ﻿#EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/S4twXV4R/Independence-Day-1996-542x768.png",Independence Day (1996)[DUAL]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/S4twXV4R/Independence-Day-1996-542x768.png" group-title="Movies",Independence Day (1996)[DUAL]
 https://archive.org/download/03_20250716_20250716_1435/cacas/01.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ymyzhMrc/Independence-Day-Resurgence-2016-542x768.png",Independence Day Resurgence (2016)[DUAL]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ymyzhMrc/Independence-Day-Resurgence-2016-542x768.png" group-title="Movies",Independence Day Resurgence (2016)[DUAL]
 https://archive.org/download/03_20250716_20250716_1435/cacas/02.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/xSWTWN7D/Cave-Rescue-2019-542x768.png",Cave Rescue (2019)[DUAL]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xSWTWN7D/Cave-Rescue-2019-542x768.png" group-title="Movies",Cave Rescue (2019)[DUAL]
 https://archive.org/download/03_20250716_20250716_1435/cacas/03.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/KTxFbNX/Angels-Fallen-Warriors-of-Peace-2024-542x768.png",Angels Fallen Warriors of Peace (2024)[DUAL]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KTxFbNX/Angels-Fallen-Warriors-of-Peace-2024-542x768.png" group-title="Movies",Angels Fallen Warriors of Peace (2024)[DUAL]
 https://archive.org/download/03_20250716_20250716_1435/cacas/04.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ZzKV3HvL/Tambi-n-esto-pasar-2025-542x768.png",También esto pasará (2025)[ESP]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZzKV3HvL/Tambi-n-esto-pasar-2025-542x768.png" group-title="Movies",También esto pasará (2025)[ESP]
 https://archive.org/download/03_20250716_20250716_1435/cacas/05.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N6sFLWr0/Tusk-2014-542x768.png",Tusk (2014)[DUAL]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N6sFLWr0/Tusk-2014-542x768.png" group-title="Movies",Tusk (2014)[DUAL]
 https://archive.org/download/03_20250716_20250716_1435/cacas/06.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4Zb11mD6/The-Cellar-2024-542x768.png",The Cellar (2024)[DUAL]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4Zb11mD6/The-Cellar-2024-542x768.png" group-title="Movies",The Cellar (2024)[DUAL]
 https://archive.org/download/03_20250716_20250716_1435/cacas/07.mp4
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DDBTHdLY/Superman-2025-542x768.png" group-title="Movies",Superman (2025)[CAM]
