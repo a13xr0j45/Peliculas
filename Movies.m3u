@@ -1,5 +1,4 @@
 ﻿#EXTM3U
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/S4twXV4R/Independence-Day-1996-542x768.png" group-title="Movies",Independence Day (1996)[DUAL]
 https://archive.org/download/03_20250716_20250716_1435/cacas/01.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ymyzhMrc/Independence-Day-Resurgence-2016-542x768.png" group-title="Movies",Independence Day Resurgence (2016)[DUAL]
@@ -14,7 +13,6 @@ https://archive.org/download/03_20250716_20250716_1435/cacas/05.mp4
 https://archive.org/download/03_20250716_20250716_1435/cacas/06.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4Zb11mD6/The-Cellar-2024-542x768.png" group-title="Movies",The Cellar (2024)[DUAL]
 https://archive.org/download/03_20250716_20250716_1435/cacas/07.mp4
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DDBTHdLY/Superman-2025-542x768.png" group-title="Movies",Superman (2025)[CAM]
 https://archive.org/download/03_20250716_20250716_1540/linux/01.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gbt0BPz7/M3-GAN-2-0-2025-542-X-768.jpg" group-title="Movies",M3GAN 2.0 (2025)[DUAL]
@@ -523,7 +521,7 @@ https://archive.org/download/12_20210412_202104/tutoriales/03.mkv
 https://archive.org/download/05_20250420/centos/04.mp4
 #EXTINF:-1 group-title="Movies",here after (2024) [dual]
 https://archive.org/download/05_20250420/centos/08.mp4
-#EXTINF:-1 group-title="Movies",heretic (2024)[eng]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/G2NzJqm/Heretic-2024-542-X-768.jpg" group-title="Movies",heretic (2024)[eng]
 https://archive.org/download/05_20241210_202412/utp/7549.mp4
 #EXTINF:-1 group-title="Movies",a ghost story (2017)[dual]
 https://archive.org/download/tutoriales_linux_202402/03.mp4
