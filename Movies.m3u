@@ -1,4 +1,37 @@
 ﻿#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0p6R3wDh/Troy-2004-542x768.png" group-title="Movies",Troy (2004)[DUAL]
+https://archive.org/download/02_20250721_20250721/kk/02.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/F4Hk6CDc/Mickey-17-2025-542-x-768.jpg" group-title="Movies",Mickey 17 (2025)[DUAL]
+https://archive.org/download/02_20250721_20250721/kk/03.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XkDTqkVc/Ash-2025-542-X-768.jpg" group-title="Movies",Ash (2025)[DUAL]
+https://archive.org/download/02_20250721_20250721/kk/04.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cKqZ4jYx/Cash-Out-2024-542x768.png" group-title="Movies",Cash Out (2024)[DUAL]
+https://archive.org/download/02_20250721_20250721/kk/05.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dsQkRCmD/It-Comes-at-Night-2017-542-X-768.jpg" group-title="Movies",It Comes at Night (2017)[DUAL]
+https://archive.org/download/02_20250721_20250721/kk/06.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FkCCHZpr/Anything-for-Jackson-2020-542-X-768.jpg" group-title="Movies",Anything for Jackson (2020)[DUAL]
+https://archive.org/download/02_20250721_20250721/kk/07.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GhTcDRM/Heretic-2024-542-X-768.jpg" group-title="Movies",Heretic (2024)[DUAL]
+https://archive.org/download/02_20250721_20250721/kk/08.mp4
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/21m7FLmV/Alienoid-2022-542x768.png" group-title="Movies",Alienoid (2022)[DUAL]
+https://archive.org/download/01_20250722_20250722_1518/cursos/01.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fVq1VmVF/Alienoid-Return-to-the-Future-2024-542x768.png" group-title="Movies",Alienoid Return to the Future (2024)[DUAL]
+https://archive.org/download/01_20250722_20250722_1518/cursos/02.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jPm4qYqL/Gonjiam-Haunted-Asylum-2018-542x768.png" group-title="Movies",Gonjiam Haunted Asylum (2018)[DUAL]
+https://archive.org/download/01_20250722_20250722_1518/cursos/03.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bgGkySXf/Clown-in-a-Cornfield-2025-542x768.png" group-title="Movies",Clown in a Cornfield (2025)[DUAL]
+https://archive.org/download/01_20250722_20250722_1518/cursos/04.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mVNH4kC9/The-Beehive-2023-542x768.png" group-title="Movies",The Beehive (2023)[DUAL]
+https://archive.org/download/01_20250722_20250722_1518/cursos/05.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9kY2qrvF/Follow-2025-542x768.png" group-title="Movies",Follow (2025)[DUAL]
+https://archive.org/download/01_20250722_20250722_1518/cursos/06.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/c9R2Wd6/Cobweb-2023-542x768.png" group-title="Movies",Cobweb (2023)[DUAL]
+https://archive.org/download/01_20250722_20250722_1518/cursos/07.mp4
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/S4twXV4R/Independence-Day-1996-542x768.png" group-title="Movies",Independence Day (1996)[DUAL]
 https://archive.org/download/03_20250716_20250716_1435/cacas/01.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ymyzhMrc/Independence-Day-Resurgence-2016-542x768.png" group-title="Movies",Independence Day Resurgence (2016)[DUAL]
