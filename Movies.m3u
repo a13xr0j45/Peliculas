@@ -23,7 +23,7 @@ https://archive.org/download/03_20250716_20250716_1435/cacas/04.mp4
 https://archive.org/download/txr_20250505/txr/01.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FkCCHZpr/Anything-for-Jackson-2020-542-X-768.jpg" group-title="Movies",Anything for Jackson (2020)[DUAL]
 https://archive.org/download/02_20250721_20250721/kk/07.mp4
-#EXTINF:-1 group-title="Movies",apartment 7a (2024)[dual]
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/oyjEPno8omeDYVNqUZS2RiEpuRC.jpg" group-title="Movies",Apartment 7A (2024)[DUAL]
 https://archive.org/download/1_20241003_20241003_1434/linux/4.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4gTCnnP9/Apocalypto-2006-542-x-768.jpg" group-title="Movies",Apocalypto (2006)
 https://archive.org/download/telematica_20250522/telematica/01.mp4
@@ -39,7 +39,7 @@ https://archive.org/download/02_20250703/dance/01.mp4
 https://archive.org/download/01_20250516_20250516_1817/TCPIP/03.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/j9nD0vG3/Baskin-2015-542-X-768.jpg" group-title="Movies",Baskin (2015)[TUR]
 https://archive.org/download/01_20250609/bsd/01.mp4
-#EXTINF:-1 group-title="Movies",big eyes (2014)[dual]
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/203HAjJcLMl7xThcTqZx4zmEGcV.jpg" group-title="Movies",Big Eyes (2014)[DUAL]
 https://archive.org/download/12_20210412_202104/tutoriales/02.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qM920Kjp/Blade-Runner-2049-2017-542-x-768.jpg" group-title="Movies",Blade Runner 2049 (2017)[DUAL]
 https://archive.org/download/01_20250625_20250625_1655/temp/02.mp4
@@ -55,7 +55,7 @@ https://archive.org/download/01_20250516_20250516_1817/TCPIP/05.mp4
 https://archive.org/download/04_20250615_202506/atn/07.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cKqZ4jYx/Cash-Out-2024-542x768.png" group-title="Movies",Cash Out (2024)[DUAL]
 https://archive.org/download/02_20250721_20250721/kk/05.mp4
-#EXTINF:-1 group-title="Movies",casino royale (2006) [esp]
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lMrxYKKhd4lqRzwUHAy5gcx9PSO.jpg" group-title="Movies",Casino Royale (2006)[ESP]
 http://archive.org/download/mio53_yopmail_5/5.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xSWTWN7D/Cave-Rescue-2019-542x768.png" group-title="Movies",Cave Rescue (2019)[DUAL]
 https://archive.org/download/03_20250716_20250716_1435/cacas/03.mp4
@@ -71,7 +71,7 @@ https://archive.org/download/tutoriales_202506/TutorialesLinux/03.mp4
 https://archive.org/download/01_20250722_20250722_1518/cursos/07.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nHmQ5rf/Conjuring-the-Cult-2024-542-x-768.jpg" group-title="Movies",Conjuring the Cult (2024)[DUAL]
 https://archive.org/download/chromeos_202505/ChromeOS/09.mp4
-#EXTINF:-1 group-title="Movies",constantine (2005)[dual]
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1RFem9guI0ULyVlgR76qSfOJZym.jpg" group-title="Movies",Constantine (2005)[DUAL]
 https://archive.org/download/03_20241006/linux/02.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d4wjzjJ1/Contorted-2022-542-x-768.jpg" group-title="Movies",Contorted (2022)[DUAL]
 https://archive.org/download/telematica_20250522/telematica/04.mp4
@@ -521,8 +521,6 @@ https://archive.org/download/01_20250609/bsd/03.mp4
 https://archive.org/download/linux_202506/linux/10.mp4
 #EXTINF:-1 group-title="Movies",warning do not play (2019)[kor]
 https://archive.org/download/tutoriales_linux_202402/08.mp4
-#EXTINF:-1 group-title="Movies",warning do not play (2019)[kor]
-https://archive.org/download/tutoriales_linux_202402/08.mp4
 #EXTINF:-1 group-title="Movies",we live in time (2024)[dual]
 https://archive.org/download/5432_20241222/sabayon/5432.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PvvNm5XG/Werewolves-2024-542-x-768.jpg" group-title="Movies",Werewolves (2024) [DUAL]
@@ -545,8 +543,6 @@ https://archive.org/download/03_20250627_202506/RPM/02.mp4
 https://archive.org/download/01_20250516_20250516_1817/TCPIP/04.mp4
 #EXTINF:-1 group-title="Movies",you'll never find me (2023)[dual]
 https://archive.org/download/d-3-xrr-234_202412/sabayon/54654f43w5.mp4
-#EXTINF:-1 group-title="Movies",z (2019)[eng]
-https://archive.org/download/tutoriales_linux_202402/04.mp4
 #EXTINF:-1 group-title="Movies",z (2019)[eng]
 https://archive.org/download/tutoriales_linux_202402/04.mp4
 #EXTINF:-1 group-title="Movies",zack snyder's justice league (2021)[eng]
