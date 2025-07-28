@@ -1,4 +1,25 @@
 ﻿#EXTM3U
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/21j7ccpQ/Happy-Gilmore-1996-542-X-768.jpg" group-title="Movies",Happy Gilmore (1996)[DUAL]
+https://archive.org/download/03_20250727/linux-history/01.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SwB6P55s/Happy-Gilmore-2-2025-542-X-768.jpg" group-title="Movies",Happy Gilmore 2 (2025)[DUAL]
+https://archive.org/download/03_20250727/linux-history/02.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/s98BChPL/Once-Upon-a-Time-in-China-1991-542-X-768.jpg" group-title="Movies",Once Upon a Time in China (1991)[DUAL]
+https://archive.org/download/03_20250727/linux-history/03.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/k6KGXkLc/Once-Upon-a-Time-in-China-II-1992-542-X-768.jpg" group-title="Movies",Once Upon a Time in China II (1992)[DUAL]
+https://archive.org/download/03_20250727/linux-history/04.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WN29dcv6/Once-Upon-a-Time-in-China-III-1993-542-X-768.jpg" group-title="Movies",Once Upon a Time in China III (1993)[DUAL]
+https://archive.org/download/03_20250727/linux-history/05.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/svbTKpP9/Syndrome-2023-542-X-768.jpg" group-title="Movies",Syndrome (2023)[DUAL]
+https://archive.org/download/03_20250727/linux-history/06.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/n2YV66x/Longing-2024-542-X-768.jpg" group-title="Movies",Longing (2024)[DUAL]
+https://archive.org/download/03_20250727/linux-history/07.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8LXpzc10/Control-Room-2025-542-X-768.jpg" group-title="Movies",Control Room (2025)[CAST]
+https://archive.org/download/03_20250727/linux-history/08.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C3YWkgwK/A-Fishermen-s-Tale-2025-542-X-768.jpg" group-title="Movies",A Fishermen_s Tale (2025)[CAST]
+https://archive.org/download/03_20250727/linux-history/09.mp4
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CsHcXsRs/15-Killings-2020-542-X-768.jpg" group-title="Movies",15 Killings (2020)[DUAL]
 https://archive.org/download/10_20250714/PNG/09.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/27rRwJTT/28-Days-Later-2002-542-X-768.jpg" group-title="Movies",28 Days Later (2002)[DUAL]
