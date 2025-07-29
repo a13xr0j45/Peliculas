@@ -1,5 +1,40 @@
 ﻿#EXTM3U
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TML7fh2k/28-Years-Later-2025.jpg" group-title="Movies",28 Years Later (2025)[DUAL]
+https://archive.org/download/04_20250728_20250728_1905/Linux/00.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zHSNsDhf/The-Autopsy-of-Jane-Doe-2016-542x768.png" group-title="Movies",The Autopsy of Jane Doe (2016)[DUAL]
+https://archive.org/download/04_20250728_20250728_1905/Linux/01.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HTbgMRFm/Tarot-2024-542x768.png" group-title="Movies",Tarot (2024)[DUAL]
+https://archive.org/download/04_20250728_20250728_1905/Linux/02.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/F4m8f5vz/The-Watchers-2024-542x768.png" group-title="Movies",The Watchers (2024)[DUAL]
+https://archive.org/download/04_20250728_20250728_1905/Linux/03.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3mHhSzcs/While-We-Sleep-2021.jpg" group-title="Movies",While We Sleep (2021)[DUAL]
+https://archive.org/download/04_20250728_20250728_1905/Linux/04.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wNG44PDV/No-Way-Up-2024.jpg" group-title="Movies",No Way Up (2024)[DUAL]
+https://archive.org/download/04_20250728_20250728_1905/Linux/05.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cX7fLH7f/PRESENCE-2024-542x768.png" group-title="Movies",PRESENCE (2024)[DUAL]
+https://archive.org/download/04_20250728_20250728_1905/Linux/06.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HT3YFmL1/Bring-Her-Back-2025.jpg" group-title="Movies",Bring Her Back (2025)[DUAL]
+https://archive.org/download/04_20250728_20250728_1905/Linux/07.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KjKL600M/Wish-Upon-2017.jpg" group-title="Movies",Wish Upon (2017)[DUAL]
+https://archive.org/download/04_20250728_20250728_1905/Linux/08.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3mtkXkFN/A-Normal-Woman-2025.jpg" group-title="Movies",A Normal Woman (2025)[DUAL]
+https://archive.org/download/04_20250728_20250728_1905/Linux/09.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7t81Wc9w/The-First-Omen-2024.jpg" group-title="Movies",The First Omen (2024)[DUAL]
+https://archive.org/download/04_20250728_20250728_1905/Linux/10.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZR3zQH87/Knock-Knock-2015.jpg" group-title="Movies",Knock Knock (2015)[DUAL]
+https://archive.org/download/04_20250728_20250728_1905/Linux/11.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gFF32X8k/Sweeney-Todd-The-Demon-Barber-of-Fleet-Street-2007.jpg" group-title="Movies",Sweeney Todd The Demon Barber of Fleet Street (2007)[DUAL]
+https://archive.org/download/04_20250728_20250728_1905/Linux/12.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YF4npvZr/Toy-Story-1995.jpg" group-title="Movies",Toy Story (1995)
+https://archive.org/download/04_20250728_20250728_1905/Linux/13.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YTL7NRsT/Toy-Story-2-1999.jpg" group-title="Movies",Toy Story 2 (1999)
+https://archive.org/download/04_20250728_20250728_1905/Linux/14.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GQVLgtZM/Toy-Story-3-2010.jpg" group-title="Movies",Toy Story 3 (2010)
+https://archive.org/download/04_20250728_20250728_1905/Linux/15.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/27YL7tt6/Toy-Story-4-2019.jpg" group-title="Movies",Toy Story 4 (2019)
+https://archive.org/download/04_20250728_20250728_1905/Linux/16.mp4
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zWQTjCt9/I-Know-What-You-Did-Last-Summer-1997-542x768.png" group-title="Movies",I Know What You Did Last Summer (1997)[DUAL]
 https://archive.org/download/9_20250723_20250723/linux/01.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LdmT8JJy/I-Still-Know-What-You-Did-Last-Summer-1998-542x768.png" group-title="Movies",I Still Know What You Did Last Summer (1998)[DUAL]
