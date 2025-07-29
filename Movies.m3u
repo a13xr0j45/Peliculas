@@ -1,6 +1,31 @@
 ﻿#EXTM3U
 
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zWQTjCt9/I-Know-What-You-Did-Last-Summer-1997-542x768.png" group-title="Movies",I Know What You Did Last Summer (1997)[DUAL]
+https://archive.org/download/9_20250723_20250723/linux/01.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LdmT8JJy/I-Still-Know-What-You-Did-Last-Summer-1998-542x768.png" group-title="Movies",I Still Know What You Did Last Summer (1998)[DUAL]
+https://archive.org/download/9_20250723_20250723/linux/02.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bjg6S0p5/It-2017-542x768.png" group-title="Movies",It (2017)[DUAL]
+https://archive.org/download/9_20250723_20250723/linux/03.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C5GpRn1V/It-Chapter-Two-2019-542x768.png" group-title="Movies",It Chapter Two (2019)[DUAL]
+https://archive.org/download/9_20250723_20250723/linux/04.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KxPBLm2h/The-Descent-2005-542x768.png" group-title="Movies",The Descent (2005)[DUAL]
+https://archive.org/download/9_20250723_20250723/linux/05.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wNqfgx1Q/The-Descent-Part-2-2009-542x768.png" group-title="Movies",The Descent Part 2 (2009)[DUAL]
+https://archive.org/download/9_20250723_20250723/linux/06.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HDdW1zzH/Martyrs-2008-542x768.png" group-title="Movies",Martyrs (2008)[DUAL]
+https://archive.org/download/9_20250723_20250723/linux/07.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KjbcKRCg/Sleepy-Hollow-1999-542x768.png" group-title="Movies",Sleepy Hollow (1999)[DUAL]
+https://archive.org/download/9_20250723_20250723/linux/08.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/238x1wbs/Speak-No-Evil-2024-542x768.png" group-title="Movies",Speak No Evil (2024)[DUAL]
+https://archive.org/download/9_20250723_20250723/linux/09.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5X6XjGYz/Synchronic-2020-542x768.png" group-title="Movies",Synchronic (2020)[ENG]
+https://archive.org/download/9_20250723_20250723/linux/10.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nsnNCKfv/The-Inhabitant-2018-542x768.png" group-title="Movies",The Inhabitant (2018)[ESP]
+https://archive.org/download/9_20250723_20250723/linux/11.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fY0GmBHC/The-Messengers-2007-542x768.png" group-title="Movies",The Messengers (2007)[ESP]
+https://archive.org/download/9_20250723_20250723/linux/12.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PG40rL6m/The-Recruit-2003-542x768.png" group-title="Movies",The Recruit (2003)[DUAL]
+https://archive.org/download/9_20250723_20250723/linux/13.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/21j7ccpQ/Happy-Gilmore-1996-542-X-768.jpg" group-title="Movies",Happy Gilmore (1996)[DUAL]
 https://archive.org/download/03_20250727/linux-history/01.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SwB6P55s/Happy-Gilmore-2-2025-542-X-768.jpg" group-title="Movies",Happy Gilmore 2 (2025)[DUAL]
@@ -19,7 +44,6 @@ https://archive.org/download/03_20250727/linux-history/07.mp4
 https://archive.org/download/03_20250727/linux-history/08.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/C3YWkgwK/A-Fishermen-s-Tale-2025-542-X-768.jpg" group-title="Movies",A Fishermen_s Tale (2025)[CAST]
 https://archive.org/download/03_20250727/linux-history/09.mp4
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CsHcXsRs/15-Killings-2020-542-X-768.jpg" group-title="Movies",15 Killings (2020)[DUAL]
 https://archive.org/download/10_20250714/PNG/09.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/27rRwJTT/28-Days-Later-2002-542-X-768.jpg" group-title="Movies",28 Days Later (2002)[DUAL]
