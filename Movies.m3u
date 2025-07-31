@@ -1,7 +1,4 @@
 ﻿#EXTM3U
-
-# #EXTINF:-1 tvg-logo="" group-title="Movies",
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XrcdxmtD/A-Creature-Was-Stirring-2023-542x768.png" group-title="Movies",A Creature Was Stirring (2023)[DUAL]
 https://archive.org/download/10_20250730_20250730/editores/03.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/22sm1th/Chaos-Walking-2021-542x768.png" group-title="Movies",Chaos Walking (2021)[DUAL]
@@ -20,7 +17,6 @@ https://archive.org/download/10_20250730_20250730/editores/09.mp4
 https://archive.org/download/10_20250730_20250730/editores/10.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JjbSW3QL/Monster-Summer-2024-542x768.png" group-title="Movies",Monster Summer (2024)[DUAL]
 https://archive.org/download/02_20250721_20250721/kk/11.mp4
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TML7fh2k/28-Years-Later-2025.jpg" group-title="Movies",28 Years Later (2025)[DUAL]
 https://archive.org/download/04_20250728_20250728_1905/Linux/00.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zHSNsDhf/The-Autopsy-of-Jane-Doe-2016-542x768.png" group-title="Movies",The Autopsy of Jane Doe (2016)[DUAL]
@@ -47,8 +43,6 @@ https://archive.org/download/04_20250728_20250728_1905/Linux/10.mp4
 https://archive.org/download/04_20250728_20250728_1905/Linux/11.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gFF32X8k/Sweeney-Todd-The-Demon-Barber-of-Fleet-Street-2007.jpg" group-title="Movies",Sweeney Todd The Demon Barber of Fleet Street (2007)[DUAL]
 https://archive.org/download/04_20250728_20250728_1905/Linux/12.mp4
-
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zWQTjCt9/I-Know-What-You-Did-Last-Summer-1997-542x768.png" group-title="Movies",I Know What You Did Last Summer (1997)[DUAL]
 https://archive.org/download/9_20250723_20250723/linux/01.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LdmT8JJy/I-Still-Know-What-You-Did-Last-Summer-1998-542x768.png" group-title="Movies",I Still Know What You Did Last Summer (1998)[DUAL]
@@ -641,6 +635,742 @@ https://archive.org/download/d-3-xrr-234_202412/sabayon/54654f43w5.mp4
 https://archive.org/download/tutoriales_linux_202402/04.mp4
 #EXTINF:-1 group-title="Movies",zack snyder's justice league (2021)[eng]
 https://archive.org/download/12_20210412_202104/tutoriales/20.mkv
+#EXTINF:-1 group-title="Infantiles",101 dalmatas
+https://dl.dropboxusercontent.com/s/wmlamexvl327mth/101.1961.mp4
+#EXTINF:-1 group-title="Infantiles",22 contra el Mundo (2021)
+https://dl.dropbox.com/s/iksztbi5m65fl0r/22%20contra%20la%20Tierra%20%282021%29%20HD%201080p%20Latino.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/nhDIex7976ORDopTZ77nN0jIzVd.jpg" group-title="Infantiles",22 vs. Earth (2021)
+https://dl.dropbox.com/s/iksztbi5m65fl0r/22%20contra%20la%20Tierra%20%282021%29%20HD%201080p%20Latino.mkv
+#EXTINF:-1 group-title="Infantiles",Abracadabra Redoblaje latino
+https://dl.dropbox.com/s/7m4n4bs98g27ntq/4br4c4d4br4%20r3d0bl4j3.mp4
+#EXTINF:-1 group-title="Infantiles",Agente 00 Gato (2018)
+https://archive.org/download/agnt_20210627/41lol02/agnt.mp4
+#EXTINF:-1 group-title="Infantiles",ahí viene el cascarrabias
+http://ia801505.us.archive.org/18/items/yevadi_jbnote_00/00.mp4
+#EXTINF:-1 group-title="Infantiles",Aladdin
+https://archive.org/download/a-2109/A2109.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hJ1yGY2v/Aladdin-and-the-King-of-Thieves-1996-542-x-768.jpg" group-title="Infantiles",Aladdin and the King of Thieves (1996)
+https://archive.org/download/03_20250611_20250611/cmd/01.mp4
+#EXTINF:-1 group-title="Infantiles",aladin
+http://archive.org/download/01_20200613_202006/01.mp4
+#EXTINF:-1 group-title="Infantiles",Alicia En El Pais De Las Maravillas
+https://archive.org/download/AEEPDLM/AEEPDLM.avi
+#EXTINF:-1 group-title="Infantiles",Animales Fantásticos 1 : y dónde encontrarlos
+http://archive.org/download/AFantasticosDEncontrarlosbrspawww.newpct1.com654848946487468498449489/AFantasticosDEncontrarlosbrspa%20%5Bwww.newpct1.com%5D654848946487468498449489.mp4
+#EXTINF:-1 group-title="Infantiles",Animales Fantásticos 2 : los crímenes de Grindelwald
+https://ia801402.us.archive.org/4/items/animales-fantasticos-2/AF%202/Animales%20Fantasticos%202.mp4
+#EXTINF:-1 group-title="Infantiles",Arlo el Chico Caiman (2021)
+https://dl.dropbox.com/s/zt3gogmrnvnb93w/Arlo.the.Alligator.Boy.2021.HD.1080p.Latino.mkv
+#EXTINF:-1 group-title="Infantiles",Barbie Campamento Pop
+https://archive.org/download/b-4rb-13.pop.c-4mp-1n-6/B4rb13.pop.c4mp1n6.mp4
+#EXTINF:-1 group-title="Infantiles",Barbie Video Game Hero
+https://archive.org/download/b-4r-b-1e.g-4m-3-h-3r-0/B4rB1e.g4m3H3r0.mp4
+#EXTINF:-1 group-title="Infantiles",Batman Alma de Dragon (2021)
+https://archive.org/download/manguera/B4tm4n%2041m4%20d3%20dr450n.mkv
+#EXTINF:-1 group-title="Infantiles",Batman del futuro: El regreso del Joker
+https://archive.org/download/00200_20200111/00200.mp4
+#EXTINF:-1 group-title="Infantiles",Bob Esponja : Un Héroe Fuera Del Agua
+https://archive.org/download/bob-rp-ltn-o/Bob-RP-ltnO.avi
+#EXTINF:-1 group-title="Infantiles",Buscando A Dory
+https://archive.org/download/agtbf/cassa/bady.mkv
+#EXTINF:-1 group-title="Infantiles",Buscando A Nemo
+https://archive.org/download/lokng-4-n-3m-0/Lokng%204%20N3m0.mp4
+#EXTINF:-1 group-title="Infantiles",Buscando a Nemo (Op. 2)
+https://archive.org/download/lokng-4-n-3m-0/Lokng%204%20N3m0.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tT49kzMg/Cars-2006-542-x-768.jpg" group-title="Infantiles",Cars (2006)
+https://archive.org/download/03_20250611_20250611/cmd/03.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TD7SXHJQ/Cars-2-2011-542-x-768.jpg" group-title="Infantiles",Cars 2 (2011)
+https://archive.org/download/03_20250611_20250611/cmd/04.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/j9FGsKDc/Cars-3-2017-542-x-768.jpg" group-title="Infantiles",Cars 3 (2017)
+https://archive.org/download/03_20250611_20250611/cmd/05.mp4
+#EXTINF:-1 group-title="Infantiles",Cats & Dogs 3 Paws Unite (2020)
+https://archive.org/download/manjaro-linux/Cats%20%26%20Dogs%203%20Paws%20Unite%20%282020%29.mkv
+#EXTINF:-1 group-title="Infantiles",Christopher Robin: Un reencuentro inolvidable
+https://ia800708.us.archive.org/30/items/adjuanito_gmx_Puu2/CRUnreencuentroinolvidable2018.mp4
+#EXTINF:-1 group-title="Infantiles",Colmillo Blanco
+https://archive.org/download/leocolmilloblanco548737374535735/leo%20colmilloblanco548737374535735.avi
+#EXTINF:-1 group-title="Infantiles",Corazón de Dragon
+https://dl.dropbox.com/s/bdkmf41nbf2o1ms/corazondedragon.avi
+#EXTINF:-1 group-title="Infantiles",Cruella (2021)[DUAL]
+https://archive.org/download/tinaco_20210528/Crue11a.mkv
+#EXTINF:-1 group-title="Infantiles",Crónicas de Navidad
+http://ia801502.us.archive.org/1/items/The.Predator.BRSf.Latino489498498494/Cr0nicaNav1dad.m1080p.Castellano64867489749486498.mp4
+#EXTINF:-1 group-title="Infantiles",Cuento de Navidad
+https://archive.org/download/534_20191230/534.mp4
+#EXTINF:-1 group-title="Infantiles",Cómo entrenar a tu Dragón (2010)
+https://archive.org/download/videoplayback21_20200323/sub1d0_p4r4_5tr34ming_P5F11X/videoplayback1.mp4
+#EXTINF:-1 group-title="Infantiles",Cómo entrenar a tu dragón 2 (2014)
+https://archive.org/download/videoplayback21_20200323/sub1d0_p4r4_5tr34ming_P5F11X/videoplayback21.mp4
+#EXTINF:-1 group-title="Infantiles",Cómo entrenar a tu Dragón 3 (2019)
+https://archive.org/download/videoplayback21_20200323/sub1d0_p4r4_5tr34ming_P5F11X/videoplayback4.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YBGCmYHF/Despicable-Me-2010-542-x-768.jpg" group-title="Infantiles",Despicable Me (2010)
+https://archive.org/download/05_20250612/daemons/01.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/23nX6jZT/Despicable-Me-2-2013-542-x-768.jpg" group-title="Infantiles",Despicable Me 2 (2013)
+https://archive.org/download/05_20250612/daemons/02.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9mZgkfjR/Despicable-Me-3-2017-542-x-768.jpg" group-title="Infantiles",Despicable Me 3 (2017)
+https://archive.org/download/05_20250612/daemons/03.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PGvCHpy4/Despicable-Me-4-2024-542-x-768.jpg" group-title="Infantiles",Despicable Me 4 (2024)
+https://archive.org/download/05_20250612/daemons/04.mp4
+#EXTINF:-1 group-title="Infantiles",Dolittle
+https://dl.dropbox.com/s/4l6r58fweosertm/Dolittle.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TzRk9Nn/Dragonkeeper-2024-542-x-768.jpg" group-title="Infantiles",Dragonkeeper (2024)
+https://archive.org/download/tutoriales_202506/TutorialesLinux/09.mp4
+#EXTINF:-1 group-title="Infantiles",Dumbo
+https://ia601503.us.archive.org/26/items/9c6f1/2bb40ce4.mp4
+#EXTINF:-1 group-title="Infantiles",El camino hacia el Dorado
+https://dl.dropbox.com/s/knta3xjworertfg/El%20Camino%20Hacia%20El%20Dorado%202000%20-%20lo%20de%20jose.mkv
+#EXTINF:-1 group-title="Infantiles",El Gigante De Hierro
+https://archive.org/download/e50772/sub1d0_p4r4_5tr34ming_P5F11X/e50772.mp4
+#EXTINF:-1 group-title="Infantiles",El Grinch
+http://archive.org/download/AnimalesFantsticos20182564564445646/El%20Grinch%20%282018%296464645411.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0ytKMWvz/El-jorobado-de-Notre-Dame-1996-542-x-768.jpg" group-title="Infantiles",El jorobado de Notre Dame (1996)
+https://archive.org/download/telematica_202505/informatica/04.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/p6NR2NVP/El-jorobado-de-Notre-Dame-2-2002-542-x-768.jpg" group-title="Infantiles",El jorobado de Notre Dame 2 (2002)
+https://archive.org/download/telematica_202505/informatica/05.mp4
+#EXTINF:-1 group-title="Infantiles",El libro de la selva
+https://dl.dropbox.com/s/dsnysowyfvx64yw/El%20Libro%20De%20La%20Selva.mkv
+#EXTINF:-1 group-title="Infantiles",El Origen De Las Carreras De Dragones (2014)
+https://archive.org/download/videoplayback21_20200323/sub1d0_p4r4_5tr34ming_P5F11X/videoplayback10.mp4
+#EXTINF:-1 group-title="Infantiles",El perro sonrriente
+https://archive.org/download/elperrosonriente/El%20Perro%20Sonriente.mp4
+#EXTINF:-1 group-title="Infantiles",El Príncipe Encantado
+http://archive.org/download/AnimalesFantsticos20182564564445646/2%2B892%2B2%2B2522Principe%20Encantado654196165468564168%20%282018%29.mp4
+#EXTINF:-1 group-title="Infantiles",El regreso de Mary Poppins
+http://archive.org/download/AnimalesFantsticos20182564564445646/El%20regreso%20de%20Mary%20Poppins%20%282018%29654564684646.mp4
+#EXTINF:-1 group-title="Infantiles",El Rey León 2 : El Tesoro de Simba
+https://archive.org/download/4b1_20200101/4b1.mp4
+#EXTINF:-1 group-title="Infantiles",El Rey León 2019
+https://archive.org/download/sdalogo0400x400/130n%20%20r3y.mp4
+#EXTINF:-1 group-title="Infantiles",El Rey León 3: Hakuna matata
+https://archive.org/download/4b1_20200101/4b6.mp4
+#EXTINF:-1 group-title="Infantiles",El Señor De Los Anillos 1 : La Comunidad Del Anillo
+https://archive.org/download/021_20200427/021.mkv
+#EXTINF:-1 group-title="Infantiles",El Señor De Los Anillos 2 : Las Dos Torres
+https://archive.org/download/022_20200427/022.mkv
+#EXTINF:-1 group-title="Infantiles",El Señor De Los Anillos 3 : El Retorno Del Rey
+https://archive.org/download/023_20200427/023.mkv
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8n0NZBDF/Encanto-2021-542-x-768.jpg" group-title="Infantiles",Encanto (2021)
+https://archive.org/download/05_20250612/daemons/07.mp4
+#EXTINF:-1 group-title="Infantiles",Escuela de Miedo
+https://archive.org/download/videoplayback20_202011/sub1d0_p4r4_5tr34ming_P5F11X/videoplayback9.mkv
+#EXTINF:-1 group-title="Infantiles",Espias a escondidas (Op. 2)
+https://archive.org/download/spi_20200526/spi.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PXwq2Bj/Finding-Dory-2016-542-x-768.jpg" group-title="Infantiles",Finding Dory (2016)
+https://archive.org/download/05_20250612/daemons/06.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gLKfYFXT/Finding-Nemo-2003-542-x-768.jpg" group-title="Infantiles",Finding Nemo (2003)
+https://archive.org/download/05_20250612/daemons/05.mp4
+#EXTINF:-1 group-title="Infantiles",Flora y Ulises
+https://ia601406.us.archive.org/31/items/5010583266411938192/1_5010583266411938192.mp4
+#EXTINF:-1 group-title="Infantiles",Frankenweenie
+https://dl.dropboxusercontent.com/s/v23tj65gb8jwpjf/Frankenweenie.2012.mp4?fbclid=IwAR0o0pgU71iSg4V2IPAjDv-oX9sXDpjcz3GhBUe4CaYqJ4nC_GDenBBfB0I
+#EXTINF:-1 group-title="Infantiles",Frozen 2
+https://archive.org/download/casaxd_202003/casaxd.mkv
+#EXTINF:-1 group-title="Infantiles",Furia de titanes
+https://archive.org/download/fur-14-t-1-t-4-n-3-s/FUR14T1T4N3S.mp4
+#EXTINF:-1 group-title="Infantiles",Furia de titanes 2
+https://dl.dropbox.com/s/m9aqf4x4bjqjaju/FDT.mp4
+#EXTINF:-1 group-title="Infantiles",Grandes Heroes
+https://archive.org/download/videoplayback20_202011/sub1d0_p4r4_5tr34ming_P5F11X/videoplayback20.mkv
+#EXTINF:-1 group-title="Infantiles",Guardianes de la noche
+http://archive.org/download/0guardianes0de0la0Noche/0guardianes0de0la0Noche.mp4
+#EXTINF:-1 group-title="Infantiles",Harry Potter y el cáliz de fuego
+http://archive.org/download/ezra_2_201904/subid0_p4r4_stre4m1ng_a85/4.mp4
+#EXTINF:-1 group-title="Infantiles",Harry Potter y el misterio del príncipe
+http://archive.org/download/ezra_2_201904/subid0_p4r4_stre4m1ng_a85/6.mp4
+#EXTINF:-1 group-title="Infantiles",Harry Potter y el prisionero de Azkaban
+http://archive.org/download/ezra_2_201904/subid0_p4r4_stre4m1ng_a85/3.mp4
+#EXTINF:-1 group-title="Infantiles",Harry Potter y la cámara secreta
+http://archive.org/download/ezra_2_201904/subid0_p4r4_stre4m1ng_a85/2.mp4
+#EXTINF:-1 group-title="Infantiles",Harry Potter y la orden del Fénix
+http://archive.org/download/ezra_2_201904/subid0_p4r4_stre4m1ng_a85/5.mp4
+#EXTINF:-1 group-title="Infantiles",Harry Potter y la piedra filosofal
+http://archive.org/download/ezra_2_201904/subid0_p4r4_stre4m1ng_a85/1.mp4
+#EXTINF:-1 group-title="Infantiles",Harry Potter y las reliquias de la muerte - Parte II
+http://archive.org/download/ezra_2_201904/subid0_p4r4_stre4m1ng_a85/8.mp4
+#EXTINF:-1 group-title="Infantiles",Harry Potter y las reliquias de la muerte Parte I
+http://archive.org/download/ezra_2_201904/subid0_p4r4_stre4m1ng_a85/7.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xkFpgsj/Hola-Frida-2025-542-x-768.jpg" group-title="Infantiles",Hola Frida! (2025)[DUAL]
+https://archive.org/download/01_20250624_20250624_1917/pascal/10.mp4
+#EXTINF:-1 group-title="Infantiles",Hotel Transylvania 3
+https://archive.org/download/hotel-transylvania-3/HT3/Hotel%20Transylvania%203.mkv
+#EXTINF:-1 group-title="Infantiles",Hércules
+https://ia601402.us.archive.org/21/items/1e08_20191210/8dc.mp4
+#EXTINF:-1 group-title="Infantiles",Ice Age 2: El deshielo
+https://ia802803.us.archive.org/13/items/l4er4d3hi3l02/L4Er4d3hi3l0-2.mp4
+#EXTINF:-1 group-title="Infantiles",Jefe en pañales
+https://ia601503.us.archive.org/26/items/9c6f1/9c6f1.mp4
+#EXTINF:-1 group-title="Infantiles",Jovenes Titanes en Accion VS Jovenes Titanes
+https://archive.org/download/2223_20200217/sub1d0_p4r4_5tr34ming_P5F11X/1112.mkv
+#EXTINF:-1 group-title="Infantiles",Jugando con el destino los simpson
+https://dl.dropbox.com/s/t2c4vz9t1dl2x88/Jugando%20Con%20El%20Destino.mp4
+#EXTINF:-1 group-title="Infantiles",Jumanji
+https://archive.org/download/027_20200428/027.mkv
+#EXTINF:-1 group-title="Infantiles",Kamen Rider Heisei Generation Forever
+http://archive.org/download/GFKRHGFOREVER_201905/%5BGF%5DKRHGFOREVER.mp4
+#EXTINF:-1 group-title="Infantiles",Kimagure Orange Road: Summer's Beginning
+http://archive.org/download/KimagureOrangeRoadLaPelicula/kimagure%20orange%20road%20la%20pelicula.mp4
+#EXTINF:-1 group-title="Infantiles",Kung Fu Panda (2008)
+https://ia601503.us.archive.org/3/items/videoplayback10_20200326/sub1d0_p4r4_5tr34ming_P5F11X/videoplayback001.mp4
+#EXTINF:-1 group-title="Infantiles",Kung Fu Panda 2 (2011)
+https://ia601503.us.archive.org/3/items/videoplayback10_20200326/sub1d0_p4r4_5tr34ming_P5F11X/videoplayback4.mp4
+#EXTINF:-1 group-title="Infantiles",Kung Fu Panda 3 (2016)
+https://ia601503.us.archive.org/3/items/videoplayback10_20200326/sub1d0_p4r4_5tr34ming_P5F11X/videoplayback10.mp4
+#EXTINF:-1 group-title="Infantiles",La Bella y la Bestia - Live Action
+https://ia801407.us.archive.org/16/items/lat-720-b.-3.4.-u.-t.-y-4.-n.-d-t.-h.-3-b.-3.4.-s.-t/LAT-720%20B.3.4.U.T.Y_4.N.D_T.H.3_B.3.4.S.T.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gML7hpdk/La-dama-y-el-vagabundo-1955-542-x-768.jpg" group-title="Infantiles",La dama y el vagabundo (1955)
+https://archive.org/download/telematica_202505/informatica/01.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qZpvD7m/La-Dama-y-el-Vagabundo-2019-542-x-768.jpg" group-title="Infantiles",La Dama y el Vagabundo (2019)
+https://archive.org/download/telematica_202505/informatica/03.mp4
+#EXTINF:-1 group-title="Infantiles",La dama y el vagabundo 2019
+https://archive.org/download/00100_201912/00100.mkv
+#EXTINF:-1 tvg-logo="https://i.ibb.co/B5npcn7R/La-Dama-y-el-Vagabundo-II-Las-aventuras-de-Scamp-2001-542-x-768.jpg" group-title="Infantiles",La Dama y el Vagabundo II Las aventuras de Scamp (2001)
+https://archive.org/download/telematica_202505/informatica/02.mp4
+#EXTINF:-1 group-title="Infantiles",La Era de Hielo
+https://archive.org/download/00100_20200108_2219/00100.avi
+#EXTINF:-1 group-title="Infantiles",La Era de Hielo 3 (Op. 2)
+https://archive.org/download/hielo-4/Hielo3.mp4
+#EXTINF:-1 group-title="Infantiles",La Era de Hielo 4 (Op. 2)
+https://archive.org/download/hielo-4/Hielo4.mp4
+#EXTINF:-1 group-title="Infantiles",La leyenda de Klaus
+https://dl.dropbox.com/s/nheya40ckjt3y1x/La_leyenda_de_Klaus.mp4
+#EXTINF:-1 group-title="Infantiles",La odisea
+https://archive.org/download/l732_20200213/L732.avi
+#EXTINF:-1 group-title="Infantiles",La vida secreta de tus mascotas 2
+http://archive.org/download/direcionaudiovisual/FOTOS%20DE%20MI%20MASCOTA2.mp4
+#EXTINF:-1 group-title="Infantiles",Las locuras del emperador
+http://archive.org/download/E24M2PER4D0R1121/E24M2PER4D0R1.mp4
+#EXTINF:-1 group-title="Infantiles",LEGO La Película
+https://archive.org/download/l-360/L360.mp4
+#EXTINF:-1 group-title="Infantiles",Lego Star Wars Terrorificas historias (2021)
+https://archive.org/download/manguera_202110/L3G0.5t4r.W4r5.mkv
+#EXTINF:-1 group-title="Infantiles",Lluvia de Hamburguesas
+https://archive.org/download/4e58_20200103/4e58.mp4
+#EXTINF:-1 group-title="Infantiles",Lluvia de hamburguesas 2: La venganza de las sobras
+https://archive.org/download/4e58_20200103/0934c.mp4
+#EXTINF:-1 group-title="Infantiles",LOL Surprise The Movie (2021)
+https://archive.org/download/manguera_20211010/L0l.mkv
+#EXTINF:-1 group-title="Infantiles",Los Aristogatos
+https://archive.org/download/345689001-972984/345689001___972984.mp4
+#EXTINF:-1 group-title="Infantiles",Los Croods (2013)
+https://archive.org/download/videoplayback21_20200323/sub1d0_p4r4_5tr34ming_P5F11X/videoplayback31.mp4
+#EXTINF:-1 group-title="Infantiles",Los Croods 2: una nueva era
+https://archive.org/download/videoplayback63_202012/sub1d0_p4r4_5tr34ming_P5F11X/videoplayback63.mkv
+#EXTINF:-1 group-title="Infantiles",Los hermanos Willoughby (2020)
+https://archive.org/download/interstellar-2014/The%20Willoughbys%20%282020%29.mkv
+#EXTINF:-1 group-title="Infantiles",Los Increibles 1
+https://archive.org/download/videoplayback10_202003/sub1d0_p4r4_5tr34ming_P5F11X/videoplayback10.mp4
+#EXTINF:-1 group-title="Infantiles",Los Increibles 2
+https://archive.org/download/videoplayback21_20200319/sub1d0_p4r4_5tr34ming_P5F11X/videoplayback21.mp4
+#EXTINF:-1 group-title="Infantiles",Mas Alla de la Luna(2020)
+https://archive.org/download/videoplayback18_202011/sub1d0_p4r4_5tr34ming_P5F11X/videoplayback18.mp4
+#EXTINF:-1 group-title="Infantiles",Mi pobre angelito
+https://ia601509.us.archive.org/1/items/mipobreangelito2_201911/Mi%20Pobre%20Angelito%201.mp4
+#EXTINF:-1 group-title="Infantiles",Mi pobre angelito 2: Perdido en Nueva York
+https://ia601509.us.archive.org/1/items/mipobreangelito2_201911/mi%20pobre%20angelito%202.mp4
+#EXTINF:-1 group-title="Infantiles",Mi pobre angelito 3
+https://ia601509.us.archive.org/1/items/mipobreangelito2_201911/mi%20pobre%20angelito%203.mp4
+#EXTINF:-1 group-title="Infantiles",Mi pobre angelito 4
+https://ia601509.us.archive.org/1/items/mipobreangelito2_201911/mi%20pobre%20angelito%204.mp4
+#EXTINF:-1 group-title="Infantiles",Mi Pobre Diablillo (1990)
+https://archive.org/download/videoplayback10_20200326/sub1d0_p4r4_5tr34ming_P5F11X/videoplayback14.avi
+#EXTINF:-1 group-title="Infantiles",Mi Pobre Diablillo 2 (1992)
+https://archive.org/download/videoplayback10_20200326/sub1d0_p4r4_5tr34ming_P5F11X/videoplayback25.mkv
+#EXTINF:-1 group-title="Infantiles",Mi villano favorito 2
+https://archive.org/download/v177aN0_1/infa/v177aN0_2.avi
+#EXTINF:-1 group-title="Infantiles",Mi villano favorito 3
+https://archive.org/download/v177aN0_1/infa/v177aN0_3.avi
+#EXTINF:-1 group-title="Infantiles",Milagro en la calle 8
+https://archive.org/download/3l-4rt-3-d-3l-d-14bl-0-1/champurrado/M1l4gr0%203n%20l4%20C4ll3%208.avi
+#EXTINF:-1 group-title="Infantiles",Miraculous Shanghái (2021)
+https://archive.org/download/manguera_202107/M1racu10u5.W0r1d.mkv
+#EXTINF:-1 group-title="Infantiles",Moana
+https://archive.org/download/videoplayback21_20200319/sub1d0_p4r4_5tr34ming_P5F11X/videoplayback32.mp4
+#EXTINF:-1 group-title="Infantiles",Monster House
+https://archive.org/download/rocoto/rocoto/rocoto.mkv
+#EXTINF:-1 group-title="Infantiles",Monsters Inc.
+http://archive.org/download/1NC21021MNAELC/1NC%2CM0N5T3R.mp4
+#EXTINF:-1 group-title="Infantiles",Muppets Haunted Mansion (2021)
+https://archive.org/download/carros_20211008/Mpp3ts.H4unt3d.M4ns10n.mkv
+#EXTINF:-1 group-title="Infantiles",Nuestra Pandilla (1993)
+https://archive.org/download/videoplayback10_202003/sub1d0_p4r4_5tr34ming_P5F11X/videoplayback32.avi
+#EXTINF:-1 group-title="Infantiles",Nuestra Pandilla 2(2005)
+https://archive.org/download/videoplayback10_202003/sub1d0_p4r4_5tr34ming_P5F11X/videoplayback21.avi
+#EXTINF:-1 group-title="Infantiles",Otra Película de Huevos y un Pollo
+https://archive.org/download/534_20191230/456.mp4
+#EXTINF:-1 group-title="Infantiles",Pequeños Guerreros
+https://archive.org/download/3spe3c1as/r3c3t4r1o/p1m13ntaverde/p1m13ntaverde.mp4
+#EXTINF:-1 group-title="Infantiles",Perdi mi cuerpo
+https://dl.dropbox.com/s/5w139f1dys7xg82/I.Lost.My.Body.2019.SS_CANY.mp4
+#EXTINF:-1 group-title="Infantiles",Peter Pan (1953)
+https://ia601408.us.archive.org/15/items/123a_20191206/576vg.mp4
+#EXTINF:-1 group-title="Infantiles",Phineas y Ferb La película de Candance contra el Universo  (2020)
+https://archive.org/download/videoplayback30_20201103/sub1d0_p4r4_5tr34ming_P5F11X/videoplayback41.mkv
+#EXTINF:-1 group-title="Infantiles",Pinocchio (2019)
+https://archive.org/download/interstellar-2014/Pinocchio%20%282019%29.mkv
+#EXTINF:-1 group-title="Infantiles",Pinocho (1940)
+https://ia601408.us.archive.org/15/items/123a_20191206/998hb.mp4
+#EXTINF:-1 group-title="Infantiles",Pokémon: Mewtwo contraataca: Evolución
+https://archive.org/download/pk_20200227/pk.mkv
+#EXTINF:-1 group-title="Infantiles",Power Rangers
+https://archive.org/download/facebook-2639425032984497-720p/Facebook%202639425032984497%28720p%29.mp4
+#EXTINF:-1 group-title="Infantiles",Proyecto Almanaque
+https://dl.dropboxusercontent.com/s/jrn5kyiy4dq4cym/Proyecto-Almanac.mp4?fbclid=IwAR1yIgHOOozsmax04dEEKAji8YWdcDJrFrVT5Iq26CU_E6yTftl80JjKpak
+#EXTINF:-1 group-title="Infantiles",Rango
+https://archive.org/download/00300_20190920/00300.mkv
+#EXTINF:-1 group-title="Infantiles",Ratatouille
+https://ia601402.us.archive.org/21/items/1e08_20191210/e910.mp4
+#EXTINF:-1 group-title="Infantiles",Rio
+https://ia601402.us.archive.org/21/items/1e08_20191210/1f00e.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/K7gf9h6/Robot-salvaje.jpg" group-title="Infantiles",Robot salvaje (2024)[DUAL]
+https://archive.org/download/1_20241003_20241003_1434/linux/1.mp4
+#EXTINF:-1 group-title="Infantiles",Sahara
+https://dl.dropboxusercontent.com/s/0x82vdb9wd0k9fq/250392.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BHRdCFRM/Savages-2024-542-X-768.jpg" group-title="Infantiles",Savages (2024)[DUAL]
+https://archive.org/download/01_20250609/bsd/02.mp4
+#EXTINF:-1 group-title="Infantiles",Scooby Doo 2: Monstruos sueltos
+https://archive.org/download/78954325002/78954_325002.mp4
+#EXTINF:-1 group-title="Infantiles",Scooby-Doo
+https://archive.org/download/78954325002/78954_325001.mp4
+#EXTINF:-1 group-title="Infantiles",Scooby-Doo y la carrera de los monstruos
+https://archive.org/download/ddd5d5-04/ddd5d5/ddd5d5-01.mp4
+#EXTINF:-1 group-title="Infantiles",Scooby-Doo! Misterio en la lucha libre
+https://archive.org/download/830202008/8302020/8302020-08.mp4
+#EXTINF:-1 group-title="Infantiles",Shrek
+https://archive.org/download/00100_20190920/00100.avi
+#EXTINF:-1 group-title="Infantiles",Shrek 2
+https://archive.org/download/00200_20190920/00200.avi
+#EXTINF:-1 group-title="Infantiles",Shrek 4
+https://archive.org/download/00400_20190920/00400.mkv
+#EXTINF:-1 group-title="Infantiles",Sing: Ven y Canta
+https://ia601402.us.archive.org/21/items/1e08_20191210/cbc0.mp4
+#EXTINF:-1 group-title="Infantiles",Sonic: La Pelicula
+https://archive.org/download/50-n-1-c/50N1C.mp4
+#EXTINF:-1 group-title="Infantiles",Soul
+https://archive.org/download/soul.-2020/Soul.2020.mkv
+#EXTINF:-1 group-title="Infantiles",South Park especial de Pandemia(2020)
+https://archive.org/download/videoplayback18_202011/sub1d0_p4r4_5tr34ming_P5F11X/videoplayback39.mkv
+#EXTINF:-1 group-title="Infantiles",Spycies
+https://archive.org/download/3spe3c1as/r3c3t4r1o/3spe3c1as/3spe3c1as.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rG8vz0DC/Super-Monsters-Dia-de-los-Monsters-2020-542-x-768.jpg" group-title="Infantiles",Super Monsters Dia de los Monsters (2020)
+https://archive.org/download/tutoriales_202506/TutorialesLinux/08.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MDHLfF0Z/Taiki-2019-542-x-768.jpg" group-title="Infantiles",Taiki (2019)[DUAL]
+https://archive.org/download/tutoriales_202506/TutorialesLinux/05.mp4
+#EXTINF:-1 group-title="Infantiles",The Boxtrolls
+https://dl.dropboxusercontent.com/s/7wroemeuf596eje/The.Boxtrolls.2014.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tKf5KDX/Garfield-La-pel-cula-2024.jpg" group-title="Infantiles",The Garfield Movie (2024)[DUAL]
+https://archive.org/download/perifericos_202407/upload/perifericos.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rRRyCcjH/The-Good-Dinosaur-2015-542-x-768.jpg" group-title="Infantiles",The Good Dinosaur (2015)
+https://archive.org/download/tutoriales_202506/TutorialesLinux/07.mp4
+#EXTINF:-1 group-title="Infantiles",The Imaginarium of Doctor Parnassus
+https://dl.dropboxusercontent.com/s/ybel9j3pxn5spkt/The.Imaginarium.of.Doctor.Parnassus.2009.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gbgdFgb3/The-Return-of-Jafar-1994-542-x-768.jpg" group-title="Infantiles",The Return of Jafar (1994)
+https://archive.org/download/03_20250611_20250611/cmd/02.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Z68tjbGR/The-Wild-Robot-2024-542-x-768.jpg" group-title="Infantiles",The Wild Robot (2024)[DUAL]
+https://archive.org/download/tutoriales_202506/TutorialesLinux/04.mp4
+#EXTINF:-1 group-title="Infantiles",Tierra de Osos
+https://ia601402.us.archive.org/21/items/1e08_20191210/bf0c.mp4
+#EXTINF:-1 group-title="Infantiles",Tierra de Osos 2
+https://ia601402.us.archive.org/21/items/1e08_20191210/f163.mp4
+#EXTINF:-1 group-title="Infantiles",Todos los perros van al cielo
+https://dl.dropbox.com/s/5tvxdt0vawserm7/Todos%20los%20perros%20van%20al%20cielo.mp4
+#EXTINF:-1 group-title="Infantiles",Toy Story - Lamp Life (Corto)
+https://archive.org/download/lampara_202003/lampara.mkv
+#EXTINF:-1 group-title="Infantiles",Toy Story 1
+https://archive.org/download/01t6574568475645684685486545684/01%20t6574568475645684685486545684.mp4
+#EXTINF:-1 group-title="Infantiles",Toy Story 3
+https://archive.org/download/3gefgyilegfielngfilsaegfyiserfyiditeidfseyifdyeldyefldy/3gefgyilegfiel%C3%B1gfilsaegfyiserfyiditeidfseyifdyeldyefldy.mp4
+#EXTINF:-1 group-title="Infantiles",Toy Story: El Tiempo perdido
+https://archive.org/download/tiempoperd5346954976252380640degdsavdkjvasgxcvaductfadcfyaduytd/tiempoperd5346954976252380640degdsavdkjvasgxcvaductfadcfyaduytd.mp4
+#EXTINF:-1 group-title="Infantiles",Trolls 2 (2020)
+https://archive.org/download/tour_20200413/tour.mkv
+#EXTINF:-1 group-title="Infantiles",Un Show más: La Película
+https://archive.org/download/4b1_20200101/514.mp4
+#EXTINF:-1 group-title="Infantiles",Una Película de Huevos
+https://archive.org/download/534_20191230/b76.mp4
+#EXTINF:-1 group-title="Infantiles",Vecinos invasores
+https://archive.org/download/ax_20200528/vi.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LD4H2GdD/Wallace-Gromit-Vengeance-Most-Fowl-2024.jpg" group-title="Infantiles",Wallace & Gromit Vengeance Most Fowl (2024)
+https://archive.org/download/tutoriales_202506/TutorialesLinux/06.mp4
+#EXTINF:-1 group-title="Infantiles",Wifi Ralph
+https://archive.org/download/467764543557728/476457490142347546583683.mp4
+#EXTINF:-1 group-title="Infantiles",Willy Wonka y la fabrica de chocolates
+https://archive.org/download/caramelo_202004/caramelo/caramelo.avi
+#EXTINF:-1 group-title="Infantiles",Wolfwalkers: Espíritu de Lobo
+https://ia601504.us.archive.org/20/items/4915812364894339407/1_4915812364894339407.mp4
+#EXTINF:-1 group-title="Infantiles",¡Jóvenes Titanes en acción! La película
+https://archive.org/download/2223_20200217/sub1d0_p4r4_5tr34ming_P5F11X/2223.mkv
+#EXTINF:-1 group-title="Infantiles",¡Scooby!
+https://archive.org/download/sc_20200516/SC/SC.mkv
+#EXTINF:-1 group-title="Infantiles",101 dalmatas
+https://dl.dropboxusercontent.com/s/wmlamexvl327mth/101.1961.mp4
+#EXTINF:-1 group-title="Infantiles",22 contra el Mundo (2021)
+https://dl.dropbox.com/s/iksztbi5m65fl0r/22%20contra%20la%20Tierra%20%282021%29%20HD%201080p%20Latino.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/nhDIex7976ORDopTZ77nN0jIzVd.jpg" group-title="Infantiles",22 vs. Earth (2021)
+https://dl.dropbox.com/s/iksztbi5m65fl0r/22%20contra%20la%20Tierra%20%282021%29%20HD%201080p%20Latino.mkv
+#EXTINF:-1 group-title="Infantiles",Abracadabra Redoblaje latino
+https://dl.dropbox.com/s/7m4n4bs98g27ntq/4br4c4d4br4%20r3d0bl4j3.mp4
+#EXTINF:-1 group-title="Infantiles",Agente 00 Gato (2018)
+https://archive.org/download/agnt_20210627/41lol02/agnt.mp4
+#EXTINF:-1 group-title="Infantiles",Aladdin
+https://archive.org/download/a-2109/A2109.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hJ1yGY2v/Aladdin-and-the-King-of-Thieves-1996-542-x-768.jpg" group-title="Infantiles",Aladdin and the King of Thieves (1996)
+https://archive.org/download/03_20250611_20250611/cmd/01.mp4
+#EXTINF:-1 group-title="Infantiles",Alicia En El Pais De Las Maravillas
+https://archive.org/download/AEEPDLM/AEEPDLM.avi
+#EXTINF:-1 group-title="Infantiles",Animales Fantásticos 1 : y dónde encontrarlos
+http://archive.org/download/AFantasticosDEncontrarlosbrspawww.newpct1.com654848946487468498449489/AFantasticosDEncontrarlosbrspa%20%5Bwww.newpct1.com%5D654848946487468498449489.mp4
+#EXTINF:-1 group-title="Infantiles",Animales Fantásticos 2 : los crímenes de Grindelwald
+https://ia801402.us.archive.org/4/items/animales-fantasticos-2/AF%202/Animales%20Fantasticos%202.mp4
+#EXTINF:-1 group-title="Infantiles",Arlo el Chico Caiman (2021)
+https://dl.dropbox.com/s/zt3gogmrnvnb93w/Arlo.the.Alligator.Boy.2021.HD.1080p.Latino.mkv
+#EXTINF:-1 group-title="Infantiles",Barbie Campamento Pop
+https://archive.org/download/b-4rb-13.pop.c-4mp-1n-6/B4rb13.pop.c4mp1n6.mp4
+#EXTINF:-1 group-title="Infantiles",Barbie Video Game Hero
+https://archive.org/download/b-4r-b-1e.g-4m-3-h-3r-0/B4rB1e.g4m3H3r0.mp4
+#EXTINF:-1 group-title="Infantiles",Batman Alma de Dragon (2021)
+https://archive.org/download/manguera/B4tm4n%2041m4%20d3%20dr450n.mkv
+#EXTINF:-1 group-title="Infantiles",Batman del futuro: El regreso del Joker
+https://archive.org/download/00200_20200111/00200.mp4
+#EXTINF:-1 group-title="Infantiles",Bob Esponja : Un Héroe Fuera Del Agua
+https://archive.org/download/bob-rp-ltn-o/Bob-RP-ltnO.avi
+#EXTINF:-1 group-title="Infantiles",Buscando A Dory
+https://archive.org/download/agtbf/cassa/bady.mkv
+#EXTINF:-1 group-title="Infantiles",Buscando A Nemo
+https://archive.org/download/lokng-4-n-3m-0/Lokng%204%20N3m0.mp4
+#EXTINF:-1 group-title="Infantiles",Buscando a Nemo (Op. 2)
+https://archive.org/download/lokng-4-n-3m-0/Lokng%204%20N3m0.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tT49kzMg/Cars-2006-542-x-768.jpg" group-title="Infantiles",Cars (2006)
+https://archive.org/download/03_20250611_20250611/cmd/03.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TD7SXHJQ/Cars-2-2011-542-x-768.jpg" group-title="Infantiles",Cars 2 (2011)
+https://archive.org/download/03_20250611_20250611/cmd/04.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/j9FGsKDc/Cars-3-2017-542-x-768.jpg" group-title="Infantiles",Cars 3 (2017)
+https://archive.org/download/03_20250611_20250611/cmd/05.mp4
+#EXTINF:-1 group-title="Infantiles",Cats & Dogs 3 Paws Unite (2020)
+https://archive.org/download/manjaro-linux/Cats%20%26%20Dogs%203%20Paws%20Unite%20%282020%29.mkv
+#EXTINF:-1 group-title="Infantiles",Christopher Robin: Un reencuentro inolvidable
+https://ia800708.us.archive.org/30/items/adjuanito_gmx_Puu2/CRUnreencuentroinolvidable2018.mp4
+#EXTINF:-1 group-title="Infantiles",Colmillo Blanco
+https://archive.org/download/leocolmilloblanco548737374535735/leo%20colmilloblanco548737374535735.avi
+#EXTINF:-1 group-title="Infantiles",Corazón de Dragon
+https://dl.dropbox.com/s/bdkmf41nbf2o1ms/corazondedragon.avi
+#EXTINF:-1 group-title="Infantiles",Cruella (2021)[DUAL]
+https://archive.org/download/tinaco_20210528/Crue11a.mkv
+#EXTINF:-1 group-title="Infantiles",Crónicas de Navidad
+http://ia801502.us.archive.org/1/items/The.Predator.BRSf.Latino489498498494/Cr0nicaNav1dad.m1080p.Castellano64867489749486498.mp4
+#EXTINF:-1 group-title="Infantiles",Cuento de Navidad
+https://archive.org/download/534_20191230/534.mp4
+#EXTINF:-1 group-title="Infantiles",Cómo entrenar a tu Dragón (2010)
+https://archive.org/download/videoplayback21_20200323/sub1d0_p4r4_5tr34ming_P5F11X/videoplayback1.mp4
+#EXTINF:-1 group-title="Infantiles",Cómo entrenar a tu dragón 2 (2014)
+https://archive.org/download/videoplayback21_20200323/sub1d0_p4r4_5tr34ming_P5F11X/videoplayback21.mp4
+#EXTINF:-1 group-title="Infantiles",Cómo entrenar a tu Dragón 3 (2019)
+https://archive.org/download/videoplayback21_20200323/sub1d0_p4r4_5tr34ming_P5F11X/videoplayback4.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YBGCmYHF/Despicable-Me-2010-542-x-768.jpg" group-title="Infantiles",Despicable Me (2010)
+https://archive.org/download/05_20250612/daemons/01.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/23nX6jZT/Despicable-Me-2-2013-542-x-768.jpg" group-title="Infantiles",Despicable Me 2 (2013)
+https://archive.org/download/05_20250612/daemons/02.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9mZgkfjR/Despicable-Me-3-2017-542-x-768.jpg" group-title="Infantiles",Despicable Me 3 (2017)
+https://archive.org/download/05_20250612/daemons/03.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PGvCHpy4/Despicable-Me-4-2024-542-x-768.jpg" group-title="Infantiles",Despicable Me 4 (2024)
+https://archive.org/download/05_20250612/daemons/04.mp4
+#EXTINF:-1 group-title="Infantiles",Dolittle
+https://dl.dropbox.com/s/4l6r58fweosertm/Dolittle.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TzRk9Nn/Dragonkeeper-2024-542-x-768.jpg" group-title="Infantiles",Dragonkeeper (2024)
+https://archive.org/download/tutoriales_202506/TutorialesLinux/09.mp4
+#EXTINF:-1 group-title="Infantiles",Dumbo
+https://ia601503.us.archive.org/26/items/9c6f1/2bb40ce4.mp4
+#EXTINF:-1 group-title="Infantiles",El camino hacia el Dorado
+https://dl.dropbox.com/s/knta3xjworertfg/El%20Camino%20Hacia%20El%20Dorado%202000%20-%20lo%20de%20jose.mkv
+#EXTINF:-1 group-title="Infantiles",El Gigante De Hierro
+https://archive.org/download/e50772/sub1d0_p4r4_5tr34ming_P5F11X/e50772.mp4
+#EXTINF:-1 group-title="Infantiles",El Grinch
+http://archive.org/download/AnimalesFantsticos20182564564445646/El%20Grinch%20%282018%296464645411.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0ytKMWvz/El-jorobado-de-Notre-Dame-1996-542-x-768.jpg" group-title="Infantiles",El jorobado de Notre Dame (1996)
+https://archive.org/download/telematica_202505/informatica/04.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/p6NR2NVP/El-jorobado-de-Notre-Dame-2-2002-542-x-768.jpg" group-title="Infantiles",El jorobado de Notre Dame 2 (2002)
+https://archive.org/download/telematica_202505/informatica/05.mp4
+#EXTINF:-1 group-title="Infantiles",El libro de la selva
+https://dl.dropbox.com/s/dsnysowyfvx64yw/El%20Libro%20De%20La%20Selva.mkv
+#EXTINF:-1 group-title="Infantiles",El Origen De Las Carreras De Dragones (2014)
+https://archive.org/download/videoplayback21_20200323/sub1d0_p4r4_5tr34ming_P5F11X/videoplayback10.mp4
+#EXTINF:-1 group-title="Infantiles",El perro sonrriente
+https://archive.org/download/elperrosonriente/El%20Perro%20Sonriente.mp4
+#EXTINF:-1 group-title="Infantiles",El Príncipe Encantado
+http://archive.org/download/AnimalesFantsticos20182564564445646/2%2B892%2B2%2B2522Principe%20Encantado654196165468564168%20%282018%29.mp4
+#EXTINF:-1 group-title="Infantiles",El regreso de Mary Poppins
+http://archive.org/download/AnimalesFantsticos20182564564445646/El%20regreso%20de%20Mary%20Poppins%20%282018%29654564684646.mp4
+#EXTINF:-1 group-title="Infantiles",El Rey León 2 : El Tesoro de Simba
+https://archive.org/download/4b1_20200101/4b1.mp4
+#EXTINF:-1 group-title="Infantiles",El Rey León 2019
+https://archive.org/download/sdalogo0400x400/130n%20%20r3y.mp4
+#EXTINF:-1 group-title="Infantiles",El Rey León 3: Hakuna matata
+https://archive.org/download/4b1_20200101/4b6.mp4
+#EXTINF:-1 group-title="Infantiles",El Señor De Los Anillos 1 : La Comunidad Del Anillo
+https://archive.org/download/021_20200427/021.mkv
+#EXTINF:-1 group-title="Infantiles",El Señor De Los Anillos 2 : Las Dos Torres
+https://archive.org/download/022_20200427/022.mkv
+#EXTINF:-1 group-title="Infantiles",El Señor De Los Anillos 3 : El Retorno Del Rey
+https://archive.org/download/023_20200427/023.mkv
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8n0NZBDF/Encanto-2021-542-x-768.jpg" group-title="Infantiles",Encanto (2021)
+https://archive.org/download/05_20250612/daemons/07.mp4
+#EXTINF:-1 group-title="Infantiles",Escuela de Miedo
+https://archive.org/download/videoplayback20_202011/sub1d0_p4r4_5tr34ming_P5F11X/videoplayback9.mkv
+#EXTINF:-1 group-title="Infantiles",Espias a escondidas (Op. 2)
+https://archive.org/download/spi_20200526/spi.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PXwq2Bj/Finding-Dory-2016-542-x-768.jpg" group-title="Infantiles",Finding Dory (2016)
+https://archive.org/download/05_20250612/daemons/06.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gLKfYFXT/Finding-Nemo-2003-542-x-768.jpg" group-title="Infantiles",Finding Nemo (2003)
+https://archive.org/download/05_20250612/daemons/05.mp4
+#EXTINF:-1 group-title="Infantiles",Flora y Ulises
+https://ia601406.us.archive.org/31/items/5010583266411938192/1_5010583266411938192.mp4
+#EXTINF:-1 group-title="Infantiles",Frankenweenie
+https://dl.dropboxusercontent.com/s/v23tj65gb8jwpjf/Frankenweenie.2012.mp4?fbclid=IwAR0o0pgU71iSg4V2IPAjDv-oX9sXDpjcz3GhBUe4CaYqJ4nC_GDenBBfB0I
+#EXTINF:-1 group-title="Infantiles",Frozen 2
+https://archive.org/download/casaxd_202003/casaxd.mkv
+#EXTINF:-1 group-title="Infantiles",Furia de titanes
+https://archive.org/download/fur-14-t-1-t-4-n-3-s/FUR14T1T4N3S.mp4
+#EXTINF:-1 group-title="Infantiles",Furia de titanes 2
+https://dl.dropbox.com/s/m9aqf4x4bjqjaju/FDT.mp4
+#EXTINF:-1 group-title="Infantiles",Grandes Heroes
+https://archive.org/download/videoplayback20_202011/sub1d0_p4r4_5tr34ming_P5F11X/videoplayback20.mkv
+#EXTINF:-1 group-title="Infantiles",Guardianes de la noche
+http://archive.org/download/0guardianes0de0la0Noche/0guardianes0de0la0Noche.mp4
+#EXTINF:-1 group-title="Infantiles",Harry Potter y el cáliz de fuego
+http://archive.org/download/ezra_2_201904/subid0_p4r4_stre4m1ng_a85/4.mp4
+#EXTINF:-1 group-title="Infantiles",Harry Potter y el misterio del príncipe
+http://archive.org/download/ezra_2_201904/subid0_p4r4_stre4m1ng_a85/6.mp4
+#EXTINF:-1 group-title="Infantiles",Harry Potter y el prisionero de Azkaban
+http://archive.org/download/ezra_2_201904/subid0_p4r4_stre4m1ng_a85/3.mp4
+#EXTINF:-1 group-title="Infantiles",Harry Potter y la cámara secreta
+http://archive.org/download/ezra_2_201904/subid0_p4r4_stre4m1ng_a85/2.mp4
+#EXTINF:-1 group-title="Infantiles",Harry Potter y la orden del Fénix
+http://archive.org/download/ezra_2_201904/subid0_p4r4_stre4m1ng_a85/5.mp4
+#EXTINF:-1 group-title="Infantiles",Harry Potter y la piedra filosofal
+http://archive.org/download/ezra_2_201904/subid0_p4r4_stre4m1ng_a85/1.mp4
+#EXTINF:-1 group-title="Infantiles",Harry Potter y las reliquias de la muerte - Parte II
+http://archive.org/download/ezra_2_201904/subid0_p4r4_stre4m1ng_a85/8.mp4
+#EXTINF:-1 group-title="Infantiles",Harry Potter y las reliquias de la muerte Parte I
+http://archive.org/download/ezra_2_201904/subid0_p4r4_stre4m1ng_a85/7.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xkFpgsj/Hola-Frida-2025-542-x-768.jpg" group-title="Infantiles",Hola Frida! (2025)[DUAL]
+https://archive.org/download/01_20250624_20250624_1917/pascal/10.mp4
+#EXTINF:-1 group-title="Infantiles",Hotel Transylvania 3
+https://archive.org/download/hotel-transylvania-3/HT3/Hotel%20Transylvania%203.mkv
+#EXTINF:-1 group-title="Infantiles",Hércules
+https://ia601402.us.archive.org/21/items/1e08_20191210/8dc.mp4
+#EXTINF:-1 group-title="Infantiles",Ice Age 2: El deshielo
+https://ia802803.us.archive.org/13/items/l4er4d3hi3l02/L4Er4d3hi3l0-2.mp4
+#EXTINF:-1 group-title="Infantiles",Jefe en pañales
+https://ia601503.us.archive.org/26/items/9c6f1/9c6f1.mp4
+#EXTINF:-1 group-title="Infantiles",Jovenes Titanes en Accion VS Jovenes Titanes
+https://archive.org/download/2223_20200217/sub1d0_p4r4_5tr34ming_P5F11X/1112.mkv
+#EXTINF:-1 group-title="Infantiles",Jugando con el destino los simpson
+https://dl.dropbox.com/s/t2c4vz9t1dl2x88/Jugando%20Con%20El%20Destino.mp4
+#EXTINF:-1 group-title="Infantiles",Jumanji
+https://archive.org/download/027_20200428/027.mkv
+#EXTINF:-1 group-title="Infantiles",Kamen Rider Heisei Generation Forever
+http://archive.org/download/GFKRHGFOREVER_201905/%5BGF%5DKRHGFOREVER.mp4
+#EXTINF:-1 group-title="Infantiles",Kimagure Orange Road: Summer's Beginning
+http://archive.org/download/KimagureOrangeRoadLaPelicula/kimagure%20orange%20road%20la%20pelicula.mp4
+#EXTINF:-1 group-title="Infantiles",Kung Fu Panda (2008)
+https://ia601503.us.archive.org/3/items/videoplayback10_20200326/sub1d0_p4r4_5tr34ming_P5F11X/videoplayback001.mp4
+#EXTINF:-1 group-title="Infantiles",Kung Fu Panda 2 (2011)
+https://ia601503.us.archive.org/3/items/videoplayback10_20200326/sub1d0_p4r4_5tr34ming_P5F11X/videoplayback4.mp4
+#EXTINF:-1 group-title="Infantiles",Kung Fu Panda 3 (2016)
+https://ia601503.us.archive.org/3/items/videoplayback10_20200326/sub1d0_p4r4_5tr34ming_P5F11X/videoplayback10.mp4
+#EXTINF:-1 group-title="Infantiles",La Bella y la Bestia - Live Action
+https://ia801407.us.archive.org/16/items/lat-720-b.-3.4.-u.-t.-y-4.-n.-d-t.-h.-3-b.-3.4.-s.-t/LAT-720%20B.3.4.U.T.Y_4.N.D_T.H.3_B.3.4.S.T.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gML7hpdk/La-dama-y-el-vagabundo-1955-542-x-768.jpg" group-title="Infantiles",La dama y el vagabundo (1955)
+https://archive.org/download/telematica_202505/informatica/01.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qZpvD7m/La-Dama-y-el-Vagabundo-2019-542-x-768.jpg" group-title="Infantiles",La Dama y el Vagabundo (2019)
+https://archive.org/download/telematica_202505/informatica/03.mp4
+#EXTINF:-1 group-title="Infantiles",La dama y el vagabundo 2019
+https://archive.org/download/00100_201912/00100.mkv
+#EXTINF:-1 tvg-logo="https://i.ibb.co/B5npcn7R/La-Dama-y-el-Vagabundo-II-Las-aventuras-de-Scamp-2001-542-x-768.jpg" group-title="Infantiles",La Dama y el Vagabundo II Las aventuras de Scamp (2001)
+https://archive.org/download/telematica_202505/informatica/02.mp4
+#EXTINF:-1 group-title="Infantiles",La Era de Hielo
+https://archive.org/download/00100_20200108_2219/00100.avi
+#EXTINF:-1 group-title="Infantiles",La Era de Hielo 3 (Op. 2)
+https://archive.org/download/hielo-4/Hielo3.mp4
+#EXTINF:-1 group-title="Infantiles",La Era de Hielo 4 (Op. 2)
+https://archive.org/download/hielo-4/Hielo4.mp4
+#EXTINF:-1 group-title="Infantiles",La leyenda de Klaus
+https://dl.dropbox.com/s/nheya40ckjt3y1x/La_leyenda_de_Klaus.mp4
+#EXTINF:-1 group-title="Infantiles",La odisea
+https://archive.org/download/l732_20200213/L732.avi
+#EXTINF:-1 group-title="Infantiles",La vida secreta de tus mascotas 2
+http://archive.org/download/direcionaudiovisual/FOTOS%20DE%20MI%20MASCOTA2.mp4
+#EXTINF:-1 group-title="Infantiles",Las locuras del emperador
+http://archive.org/download/E24M2PER4D0R1121/E24M2PER4D0R1.mp4
+#EXTINF:-1 group-title="Infantiles",LEGO La Película
+https://archive.org/download/l-360/L360.mp4
+#EXTINF:-1 group-title="Infantiles",Lego Star Wars Terrorificas historias (2021)
+https://archive.org/download/manguera_202110/L3G0.5t4r.W4r5.mkv
+#EXTINF:-1 group-title="Infantiles",Lluvia de Hamburguesas
+https://archive.org/download/4e58_20200103/4e58.mp4
+#EXTINF:-1 group-title="Infantiles",Lluvia de hamburguesas 2: La venganza de las sobras
+https://archive.org/download/4e58_20200103/0934c.mp4
+#EXTINF:-1 group-title="Infantiles",LOL Surprise The Movie (2021)
+https://archive.org/download/manguera_20211010/L0l.mkv
+#EXTINF:-1 group-title="Infantiles",Los Aristogatos
+https://archive.org/download/345689001-972984/345689001___972984.mp4
+#EXTINF:-1 group-title="Infantiles",Los Croods (2013)
+https://archive.org/download/videoplayback21_20200323/sub1d0_p4r4_5tr34ming_P5F11X/videoplayback31.mp4
+#EXTINF:-1 group-title="Infantiles",Los Croods 2: una nueva era
+https://archive.org/download/videoplayback63_202012/sub1d0_p4r4_5tr34ming_P5F11X/videoplayback63.mkv
+#EXTINF:-1 group-title="Infantiles",Los hermanos Willoughby (2020)
+https://archive.org/download/interstellar-2014/The%20Willoughbys%20%282020%29.mkv
+#EXTINF:-1 group-title="Infantiles",Los Increibles 1
+https://archive.org/download/videoplayback10_202003/sub1d0_p4r4_5tr34ming_P5F11X/videoplayback10.mp4
+#EXTINF:-1 group-title="Infantiles",Los Increibles 2
+https://archive.org/download/videoplayback21_20200319/sub1d0_p4r4_5tr34ming_P5F11X/videoplayback21.mp4
+#EXTINF:-1 group-title="Infantiles",Mas Alla de la Luna(2020)
+https://archive.org/download/videoplayback18_202011/sub1d0_p4r4_5tr34ming_P5F11X/videoplayback18.mp4
+#EXTINF:-1 group-title="Infantiles",Mi pobre angelito
+https://ia601509.us.archive.org/1/items/mipobreangelito2_201911/Mi%20Pobre%20Angelito%201.mp4
+#EXTINF:-1 group-title="Infantiles",Mi pobre angelito 2: Perdido en Nueva York
+https://ia601509.us.archive.org/1/items/mipobreangelito2_201911/mi%20pobre%20angelito%202.mp4
+#EXTINF:-1 group-title="Infantiles",Mi pobre angelito 3
+https://ia601509.us.archive.org/1/items/mipobreangelito2_201911/mi%20pobre%20angelito%203.mp4
+#EXTINF:-1 group-title="Infantiles",Mi pobre angelito 4
+https://ia601509.us.archive.org/1/items/mipobreangelito2_201911/mi%20pobre%20angelito%204.mp4
+#EXTINF:-1 group-title="Infantiles",Mi Pobre Diablillo (1990)
+https://archive.org/download/videoplayback10_20200326/sub1d0_p4r4_5tr34ming_P5F11X/videoplayback14.avi
+#EXTINF:-1 group-title="Infantiles",Mi Pobre Diablillo 2 (1992)
+https://archive.org/download/videoplayback10_20200326/sub1d0_p4r4_5tr34ming_P5F11X/videoplayback25.mkv
+#EXTINF:-1 group-title="Infantiles",Mi villano favorito 2
+https://archive.org/download/v177aN0_1/infa/v177aN0_2.avi
+#EXTINF:-1 group-title="Infantiles",Mi villano favorito 3
+https://archive.org/download/v177aN0_1/infa/v177aN0_3.avi
+#EXTINF:-1 group-title="Infantiles",Milagro en la calle 8
+https://archive.org/download/3l-4rt-3-d-3l-d-14bl-0-1/champurrado/M1l4gr0%203n%20l4%20C4ll3%208.avi
+#EXTINF:-1 group-title="Infantiles",Miraculous Shanghái (2021)
+https://archive.org/download/manguera_202107/M1racu10u5.W0r1d.mkv
+#EXTINF:-1 group-title="Infantiles",Moana
+https://archive.org/download/videoplayback21_20200319/sub1d0_p4r4_5tr34ming_P5F11X/videoplayback32.mp4
+#EXTINF:-1 group-title="Infantiles",Monster House
+https://archive.org/download/rocoto/rocoto/rocoto.mkv
+#EXTINF:-1 group-title="Infantiles",Monsters Inc.
+http://archive.org/download/1NC21021MNAELC/1NC%2CM0N5T3R.mp4
+#EXTINF:-1 group-title="Infantiles",Muppets Haunted Mansion (2021)
+https://archive.org/download/carros_20211008/Mpp3ts.H4unt3d.M4ns10n.mkv
+#EXTINF:-1 group-title="Infantiles",Nuestra Pandilla (1993)
+https://archive.org/download/videoplayback10_202003/sub1d0_p4r4_5tr34ming_P5F11X/videoplayback32.avi
+#EXTINF:-1 group-title="Infantiles",Nuestra Pandilla 2(2005)
+https://archive.org/download/videoplayback10_202003/sub1d0_p4r4_5tr34ming_P5F11X/videoplayback21.avi
+#EXTINF:-1 group-title="Infantiles",Otra Película de Huevos y un Pollo
+https://archive.org/download/534_20191230/456.mp4
+#EXTINF:-1 group-title="Infantiles",Pequeños Guerreros
+https://archive.org/download/3spe3c1as/r3c3t4r1o/p1m13ntaverde/p1m13ntaverde.mp4
+#EXTINF:-1 group-title="Infantiles",Perdi mi cuerpo
+https://dl.dropbox.com/s/5w139f1dys7xg82/I.Lost.My.Body.2019.SS_CANY.mp4
+#EXTINF:-1 group-title="Infantiles",Peter Pan (1953)
+https://ia601408.us.archive.org/15/items/123a_20191206/576vg.mp4
+#EXTINF:-1 group-title="Infantiles",Phineas y Ferb La película de Candance contra el Universo  (2020)
+https://archive.org/download/videoplayback30_20201103/sub1d0_p4r4_5tr34ming_P5F11X/videoplayback41.mkv
+#EXTINF:-1 group-title="Infantiles",Pinocchio (2019)
+https://archive.org/download/interstellar-2014/Pinocchio%20%282019%29.mkv
+#EXTINF:-1 group-title="Infantiles",Pinocho (1940)
+https://ia601408.us.archive.org/15/items/123a_20191206/998hb.mp4
+#EXTINF:-1 group-title="Infantiles",Pokémon: Mewtwo contraataca: Evolución
+https://archive.org/download/pk_20200227/pk.mkv
+#EXTINF:-1 group-title="Infantiles",Power Rangers
+https://archive.org/download/facebook-2639425032984497-720p/Facebook%202639425032984497%28720p%29.mp4
+#EXTINF:-1 group-title="Infantiles",Proyecto Almanaque
+https://dl.dropboxusercontent.com/s/jrn5kyiy4dq4cym/Proyecto-Almanac.mp4?fbclid=IwAR1yIgHOOozsmax04dEEKAji8YWdcDJrFrVT5Iq26CU_E6yTftl80JjKpak
+#EXTINF:-1 group-title="Infantiles",Rango
+https://archive.org/download/00300_20190920/00300.mkv
+#EXTINF:-1 group-title="Infantiles",Ratatouille
+https://ia601402.us.archive.org/21/items/1e08_20191210/e910.mp4
+#EXTINF:-1 group-title="Infantiles",Rio
+https://ia601402.us.archive.org/21/items/1e08_20191210/1f00e.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/K7gf9h6/Robot-salvaje.jpg" group-title="Infantiles",Robot salvaje (2024)[DUAL]
+https://archive.org/download/1_20241003_20241003_1434/linux/1.mp4
+#EXTINF:-1 group-title="Infantiles",Sahara
+https://dl.dropboxusercontent.com/s/0x82vdb9wd0k9fq/250392.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BHRdCFRM/Savages-2024-542-X-768.jpg" group-title="Infantiles",Savages (2024)[DUAL]
+https://archive.org/download/01_20250609/bsd/02.mp4
+#EXTINF:-1 group-title="Infantiles",Scooby Doo 2: Monstruos sueltos
+https://archive.org/download/78954325002/78954_325002.mp4
+#EXTINF:-1 group-title="Infantiles",Scooby-Doo
+https://archive.org/download/78954325002/78954_325001.mp4
+#EXTINF:-1 group-title="Infantiles",Scooby-Doo y la carrera de los monstruos
+https://archive.org/download/ddd5d5-04/ddd5d5/ddd5d5-01.mp4
+#EXTINF:-1 group-title="Infantiles",Scooby-Doo! Misterio en la lucha libre
+https://archive.org/download/830202008/8302020/8302020-08.mp4
+#EXTINF:-1 group-title="Infantiles",Shrek
+https://archive.org/download/00100_20190920/00100.avi
+#EXTINF:-1 group-title="Infantiles",Shrek 2
+https://archive.org/download/00200_20190920/00200.avi
+#EXTINF:-1 group-title="Infantiles",Shrek 4
+https://archive.org/download/00400_20190920/00400.mkv
+#EXTINF:-1 group-title="Infantiles",Sing: Ven y Canta
+https://ia601402.us.archive.org/21/items/1e08_20191210/cbc0.mp4
+#EXTINF:-1 group-title="Infantiles",Sonic: La Pelicula
+https://archive.org/download/50-n-1-c/50N1C.mp4
+#EXTINF:-1 group-title="Infantiles",Soul
+https://archive.org/download/soul.-2020/Soul.2020.mkv
+#EXTINF:-1 group-title="Infantiles",South Park especial de Pandemia(2020)
+https://archive.org/download/videoplayback18_202011/sub1d0_p4r4_5tr34ming_P5F11X/videoplayback39.mkv
+#EXTINF:-1 group-title="Infantiles",Spycies
+https://archive.org/download/3spe3c1as/r3c3t4r1o/3spe3c1as/3spe3c1as.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rG8vz0DC/Super-Monsters-Dia-de-los-Monsters-2020-542-x-768.jpg" group-title="Infantiles",Super Monsters Dia de los Monsters (2020)
+https://archive.org/download/tutoriales_202506/TutorialesLinux/08.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MDHLfF0Z/Taiki-2019-542-x-768.jpg" group-title="Infantiles",Taiki (2019)[DUAL]
+https://archive.org/download/tutoriales_202506/TutorialesLinux/05.mp4
+#EXTINF:-1 group-title="Infantiles",The Boxtrolls
+https://dl.dropboxusercontent.com/s/7wroemeuf596eje/The.Boxtrolls.2014.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tKf5KDX/Garfield-La-pel-cula-2024.jpg" group-title="Infantiles",The Garfield Movie (2024)[DUAL]
+https://archive.org/download/perifericos_202407/upload/perifericos.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rRRyCcjH/The-Good-Dinosaur-2015-542-x-768.jpg" group-title="Infantiles",The Good Dinosaur (2015)
+https://archive.org/download/tutoriales_202506/TutorialesLinux/07.mp4
+#EXTINF:-1 group-title="Infantiles",The Imaginarium of Doctor Parnassus
+https://dl.dropboxusercontent.com/s/ybel9j3pxn5spkt/The.Imaginarium.of.Doctor.Parnassus.2009.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gbgdFgb3/The-Return-of-Jafar-1994-542-x-768.jpg" group-title="Infantiles",The Return of Jafar (1994)
+https://archive.org/download/03_20250611_20250611/cmd/02.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Z68tjbGR/The-Wild-Robot-2024-542-x-768.jpg" group-title="Infantiles",The Wild Robot (2024)[DUAL]
+https://archive.org/download/tutoriales_202506/TutorialesLinux/04.mp4
+#EXTINF:-1 group-title="Infantiles",Tierra de Osos
+https://ia601402.us.archive.org/21/items/1e08_20191210/bf0c.mp4
+#EXTINF:-1 group-title="Infantiles",Tierra de Osos 2
+https://ia601402.us.archive.org/21/items/1e08_20191210/f163.mp4
+#EXTINF:-1 group-title="Infantiles",Todos los perros van al cielo
+https://dl.dropbox.com/s/5tvxdt0vawserm7/Todos%20los%20perros%20van%20al%20cielo.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YF4npvZr/Toy-Story-1995.jpg" group-title="Infantiles",Toy Story (1995)
+https://archive.org/download/04_20250728_20250728_1905/Linux/13.mp4
+#EXTINF:-1 group-title="Infantiles",Toy Story 1
+https://archive.org/download/01t6574568475645684685486545684/01%20t6574568475645684685486545684.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YTL7NRsT/Toy-Story-2-1999.jpg" group-title="Infantiles",Toy Story 2 (1999)
+https://archive.org/download/04_20250728_20250728_1905/Linux/14.mp4
+#EXTINF:-1 group-title="Infantiles",Toy Story 3
+https://archive.org/download/3gefgyilegfielngfilsaegfyiserfyiditeidfseyifdyeldyefldy/3gefgyilegfiel%C3%B1gfilsaegfyiserfyiditeidfseyifdyeldyefldy.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GQVLgtZM/Toy-Story-3-2010.jpg" group-title="Infantiles",Toy Story 3 (2010)
+https://archive.org/download/10_20250730_20250730/editores/01.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/27YL7tt6/Toy-Story-4-2019.jpg" group-title="Infantiles",Toy Story 4 (2019)
+https://archive.org/download/10_20250730_20250730/editores/02.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mJ95RnlammhYb6ZvBbQFLq8Jqnl.jpg" group-title="Infantiles",Toy Story Lamp Life (2020)
+https://archive.org/download/lampara_202003/lampara.mkv
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kVOaFo8RaYQceHfTqbZGmV9R80q.jpg" group-title="Infantiles",Toy Story That Time Forgot (2014)
+https://archive.org/download/tiempoperd5346954976252380640degdsavdkjvasgxcvaductfadcfyaduytd/tiempoperd5346954976252380640degdsavdkjvasgxcvaductfadcfyaduytd.mp4
+#EXTINF:-1 group-title="Infantiles",Trolls 2 (2020)
+https://archive.org/download/tour_20200413/tour.mkv
+#EXTINF:-1 group-title="Infantiles",Un Show más: La Película
+https://archive.org/download/4b1_20200101/514.mp4
+#EXTINF:-1 group-title="Infantiles",Una Película de Huevos
+https://archive.org/download/534_20191230/b76.mp4
+#EXTINF:-1 group-title="Infantiles",Vecinos invasores
+https://archive.org/download/ax_20200528/vi.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LD4H2GdD/Wallace-Gromit-Vengeance-Most-Fowl-2024.jpg" group-title="Infantiles",Wallace & Gromit Vengeance Most Fowl (2024)
+https://archive.org/download/tutoriales_202506/TutorialesLinux/06.mp4
+#EXTINF:-1 group-title="Infantiles",Wifi Ralph
+https://archive.org/download/467764543557728/476457490142347546583683.mp4
+#EXTINF:-1 group-title="Infantiles",Willy Wonka y la fabrica de chocolates
+https://archive.org/download/caramelo_202004/caramelo/caramelo.avi
+#EXTINF:-1 group-title="Infantiles",Wolfwalkers: Espíritu de Lobo
+https://ia601504.us.archive.org/20/items/4915812364894339407/1_4915812364894339407.mp4
+#EXTINF:-1 group-title="Infantiles",¡Jóvenes Titanes en acción! La película
+https://archive.org/download/2223_20200217/sub1d0_p4r4_5tr34ming_P5F11X/2223.mkv
+#EXTINF:-1 group-title="Infantiles",¡Scooby!
+https://archive.org/download/sc_20200516/SC/SC.mkv
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/i8lVYRplWdCEqYOutxpxeCtaD2a.jpg" group-title="Ps3Flix",10 Minutes Gone (2019)
 https://dl.dropboxusercontent.com/s/gudmdnmk6qxyyln/angeles%20de%20charly.mp4
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hJJaDnmz32da6gUfhTRkaXaZlwk.jpg" group-title="Ps3Flix",10 Things We Should Do Before We Break Up (2020))[ESP]
@@ -3285,369 +4015,3 @@ https://archive.org/download/00200_20200117_0628/00200.mkv
 http://archive.org/download/0_20200417/1.mp4
 #EXTINF:-1 group-title="Ps3Flix",zombies 2
 http://archive.org/download/0_20200418/1.mp4
-#EXTINF:-1 group-title="Infantiles",101 dalmatas
-https://dl.dropboxusercontent.com/s/wmlamexvl327mth/101.1961.mp4
-#EXTINF:-1 group-title="Infantiles",22 contra el Mundo (2021)
-https://dl.dropbox.com/s/iksztbi5m65fl0r/22%20contra%20la%20Tierra%20%282021%29%20HD%201080p%20Latino.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/nhDIex7976ORDopTZ77nN0jIzVd.jpg" group-title="Infantiles",22 vs. Earth (2021)
-https://dl.dropbox.com/s/iksztbi5m65fl0r/22%20contra%20la%20Tierra%20%282021%29%20HD%201080p%20Latino.mkv
-#EXTINF:-1 group-title="Infantiles",Abracadabra Redoblaje latino
-https://dl.dropbox.com/s/7m4n4bs98g27ntq/4br4c4d4br4%20r3d0bl4j3.mp4
-#EXTINF:-1 group-title="Infantiles",Agente 00 Gato (2018)
-https://archive.org/download/agnt_20210627/41lol02/agnt.mp4
-#EXTINF:-1 group-title="Infantiles",ahí viene el cascarrabias
-http://ia801505.us.archive.org/18/items/yevadi_jbnote_00/00.mp4
-#EXTINF:-1 group-title="Infantiles",Aladdin
-https://archive.org/download/a-2109/A2109.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hJ1yGY2v/Aladdin-and-the-King-of-Thieves-1996-542-x-768.jpg" group-title="Infantiles",Aladdin and the King of Thieves (1996)
-https://archive.org/download/03_20250611_20250611/cmd/01.mp4
-#EXTINF:-1 group-title="Infantiles",aladin
-http://archive.org/download/01_20200613_202006/01.mp4
-#EXTINF:-1 group-title="Infantiles",Alicia En El Pais De Las Maravillas
-https://archive.org/download/AEEPDLM/AEEPDLM.avi
-#EXTINF:-1 group-title="Infantiles",Animales Fantásticos 1 : y dónde encontrarlos
-http://archive.org/download/AFantasticosDEncontrarlosbrspawww.newpct1.com654848946487468498449489/AFantasticosDEncontrarlosbrspa%20%5Bwww.newpct1.com%5D654848946487468498449489.mp4
-#EXTINF:-1 group-title="Infantiles",Animales Fantásticos 2 : los crímenes de Grindelwald
-https://ia801402.us.archive.org/4/items/animales-fantasticos-2/AF%202/Animales%20Fantasticos%202.mp4
-#EXTINF:-1 group-title="Infantiles",Arlo el Chico Caiman (2021)
-https://dl.dropbox.com/s/zt3gogmrnvnb93w/Arlo.the.Alligator.Boy.2021.HD.1080p.Latino.mkv
-#EXTINF:-1 group-title="Infantiles",Barbie Campamento Pop
-https://archive.org/download/b-4rb-13.pop.c-4mp-1n-6/B4rb13.pop.c4mp1n6.mp4
-#EXTINF:-1 group-title="Infantiles",Barbie Video Game Hero
-https://archive.org/download/b-4r-b-1e.g-4m-3-h-3r-0/B4rB1e.g4m3H3r0.mp4
-#EXTINF:-1 group-title="Infantiles",Batman Alma de Dragon (2021)
-https://archive.org/download/manguera/B4tm4n%2041m4%20d3%20dr450n.mkv
-#EXTINF:-1 group-title="Infantiles",Batman del futuro: El regreso del Joker
-https://archive.org/download/00200_20200111/00200.mp4
-#EXTINF:-1 group-title="Infantiles",Bob Esponja : Un Héroe Fuera Del Agua
-https://archive.org/download/bob-rp-ltn-o/Bob-RP-ltnO.avi
-#EXTINF:-1 group-title="Infantiles",Buscando A Dory
-https://archive.org/download/agtbf/cassa/bady.mkv
-#EXTINF:-1 group-title="Infantiles",Buscando A Nemo
-https://archive.org/download/lokng-4-n-3m-0/Lokng%204%20N3m0.mp4
-#EXTINF:-1 group-title="Infantiles",Buscando a Nemo (Op. 2)
-https://archive.org/download/lokng-4-n-3m-0/Lokng%204%20N3m0.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tT49kzMg/Cars-2006-542-x-768.jpg" group-title="Infantiles",Cars (2006)
-https://archive.org/download/03_20250611_20250611/cmd/03.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/TD7SXHJQ/Cars-2-2011-542-x-768.jpg" group-title="Infantiles",Cars 2 (2011)
-https://archive.org/download/03_20250611_20250611/cmd/04.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/j9FGsKDc/Cars-3-2017-542-x-768.jpg" group-title="Infantiles",Cars 3 (2017)
-https://archive.org/download/03_20250611_20250611/cmd/05.mp4
-#EXTINF:-1 group-title="Infantiles",Cats & Dogs 3 Paws Unite (2020)
-https://archive.org/download/manjaro-linux/Cats%20%26%20Dogs%203%20Paws%20Unite%20%282020%29.mkv
-#EXTINF:-1 group-title="Infantiles",Christopher Robin: Un reencuentro inolvidable
-https://ia800708.us.archive.org/30/items/adjuanito_gmx_Puu2/CRUnreencuentroinolvidable2018.mp4
-#EXTINF:-1 group-title="Infantiles",Colmillo Blanco
-https://archive.org/download/leocolmilloblanco548737374535735/leo%20colmilloblanco548737374535735.avi
-#EXTINF:-1 group-title="Infantiles",Corazón de Dragon
-https://dl.dropbox.com/s/bdkmf41nbf2o1ms/corazondedragon.avi
-#EXTINF:-1 group-title="Infantiles",Cruella (2021)[DUAL]
-https://archive.org/download/tinaco_20210528/Crue11a.mkv
-#EXTINF:-1 group-title="Infantiles",Crónicas de Navidad
-http://ia801502.us.archive.org/1/items/The.Predator.BRSf.Latino489498498494/Cr0nicaNav1dad.m1080p.Castellano64867489749486498.mp4
-#EXTINF:-1 group-title="Infantiles",Cuento de Navidad
-https://archive.org/download/534_20191230/534.mp4
-#EXTINF:-1 group-title="Infantiles",Cómo entrenar a tu Dragón (2010)
-https://archive.org/download/videoplayback21_20200323/sub1d0_p4r4_5tr34ming_P5F11X/videoplayback1.mp4
-#EXTINF:-1 group-title="Infantiles",Cómo entrenar a tu dragón 2 (2014)
-https://archive.org/download/videoplayback21_20200323/sub1d0_p4r4_5tr34ming_P5F11X/videoplayback21.mp4
-#EXTINF:-1 group-title="Infantiles",Cómo entrenar a tu Dragón 3 (2019)
-https://archive.org/download/videoplayback21_20200323/sub1d0_p4r4_5tr34ming_P5F11X/videoplayback4.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/YBGCmYHF/Despicable-Me-2010-542-x-768.jpg" group-title="Infantiles",Despicable Me (2010)
-https://archive.org/download/05_20250612/daemons/01.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/23nX6jZT/Despicable-Me-2-2013-542-x-768.jpg" group-title="Infantiles",Despicable Me 2 (2013)
-https://archive.org/download/05_20250612/daemons/02.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/9mZgkfjR/Despicable-Me-3-2017-542-x-768.jpg" group-title="Infantiles",Despicable Me 3 (2017)
-https://archive.org/download/05_20250612/daemons/03.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/PGvCHpy4/Despicable-Me-4-2024-542-x-768.jpg" group-title="Infantiles",Despicable Me 4 (2024)
-https://archive.org/download/05_20250612/daemons/04.mp4
-#EXTINF:-1 group-title="Infantiles",Dolittle
-https://dl.dropbox.com/s/4l6r58fweosertm/Dolittle.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/TzRk9Nn/Dragonkeeper-2024-542-x-768.jpg" group-title="Infantiles",Dragonkeeper (2024)
-https://archive.org/download/tutoriales_202506/TutorialesLinux/09.mp4
-#EXTINF:-1 group-title="Infantiles",Dumbo
-https://ia601503.us.archive.org/26/items/9c6f1/2bb40ce4.mp4
-#EXTINF:-1 group-title="Infantiles",El camino hacia el Dorado
-https://dl.dropbox.com/s/knta3xjworertfg/El%20Camino%20Hacia%20El%20Dorado%202000%20-%20lo%20de%20jose.mkv
-#EXTINF:-1 group-title="Infantiles",El Gigante De Hierro
-https://archive.org/download/e50772/sub1d0_p4r4_5tr34ming_P5F11X/e50772.mp4
-#EXTINF:-1 group-title="Infantiles",El Grinch
-http://archive.org/download/AnimalesFantsticos20182564564445646/El%20Grinch%20%282018%296464645411.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0ytKMWvz/El-jorobado-de-Notre-Dame-1996-542-x-768.jpg" group-title="Infantiles",El jorobado de Notre Dame (1996)
-https://archive.org/download/telematica_202505/informatica/04.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/p6NR2NVP/El-jorobado-de-Notre-Dame-2-2002-542-x-768.jpg" group-title="Infantiles",El jorobado de Notre Dame 2 (2002)
-https://archive.org/download/telematica_202505/informatica/05.mp4
-#EXTINF:-1 group-title="Infantiles",El libro de la selva
-https://dl.dropbox.com/s/dsnysowyfvx64yw/El%20Libro%20De%20La%20Selva.mkv
-#EXTINF:-1 group-title="Infantiles",El Origen De Las Carreras De Dragones (2014)
-https://archive.org/download/videoplayback21_20200323/sub1d0_p4r4_5tr34ming_P5F11X/videoplayback10.mp4
-#EXTINF:-1 group-title="Infantiles",El perro sonrriente
-https://archive.org/download/elperrosonriente/El%20Perro%20Sonriente.mp4
-#EXTINF:-1 group-title="Infantiles",El Príncipe Encantado
-http://archive.org/download/AnimalesFantsticos20182564564445646/2%2B892%2B2%2B2522Principe%20Encantado654196165468564168%20%282018%29.mp4
-#EXTINF:-1 group-title="Infantiles",El regreso de Mary Poppins
-http://archive.org/download/AnimalesFantsticos20182564564445646/El%20regreso%20de%20Mary%20Poppins%20%282018%29654564684646.mp4
-#EXTINF:-1 group-title="Infantiles",El Rey León 2 : El Tesoro de Simba
-https://archive.org/download/4b1_20200101/4b1.mp4
-#EXTINF:-1 group-title="Infantiles",El Rey León 2019
-https://archive.org/download/sdalogo0400x400/130n%20%20r3y.mp4
-#EXTINF:-1 group-title="Infantiles",El Rey León 3: Hakuna matata
-https://archive.org/download/4b1_20200101/4b6.mp4
-#EXTINF:-1 group-title="Infantiles",El Señor De Los Anillos 1 : La Comunidad Del Anillo
-https://archive.org/download/021_20200427/021.mkv
-#EXTINF:-1 group-title="Infantiles",El Señor De Los Anillos 2 : Las Dos Torres
-https://archive.org/download/022_20200427/022.mkv
-#EXTINF:-1 group-title="Infantiles",El Señor De Los Anillos 3 : El Retorno Del Rey
-https://archive.org/download/023_20200427/023.mkv
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8n0NZBDF/Encanto-2021-542-x-768.jpg" group-title="Infantiles",Encanto (2021)
-https://archive.org/download/05_20250612/daemons/07.mp4
-#EXTINF:-1 group-title="Infantiles",Escuela de Miedo
-https://archive.org/download/videoplayback20_202011/sub1d0_p4r4_5tr34ming_P5F11X/videoplayback9.mkv
-#EXTINF:-1 group-title="Infantiles",Espias a escondidas (Op. 2)
-https://archive.org/download/spi_20200526/spi.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/PXwq2Bj/Finding-Dory-2016-542-x-768.jpg" group-title="Infantiles",Finding Dory (2016)
-https://archive.org/download/05_20250612/daemons/06.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gLKfYFXT/Finding-Nemo-2003-542-x-768.jpg" group-title="Infantiles",Finding Nemo (2003)
-https://archive.org/download/05_20250612/daemons/05.mp4
-#EXTINF:-1 group-title="Infantiles",Flora y Ulises
-https://ia601406.us.archive.org/31/items/5010583266411938192/1_5010583266411938192.mp4
-#EXTINF:-1 group-title="Infantiles",Frankenweenie
-https://dl.dropboxusercontent.com/s/v23tj65gb8jwpjf/Frankenweenie.2012.mp4?fbclid=IwAR0o0pgU71iSg4V2IPAjDv-oX9sXDpjcz3GhBUe4CaYqJ4nC_GDenBBfB0I
-#EXTINF:-1 group-title="Infantiles",Frozen 2
-https://archive.org/download/casaxd_202003/casaxd.mkv
-#EXTINF:-1 group-title="Infantiles",Furia de titanes
-https://archive.org/download/fur-14-t-1-t-4-n-3-s/FUR14T1T4N3S.mp4
-#EXTINF:-1 group-title="Infantiles",Furia de titanes 2
-https://dl.dropbox.com/s/m9aqf4x4bjqjaju/FDT.mp4
-#EXTINF:-1 group-title="Infantiles",Grandes Heroes
-https://archive.org/download/videoplayback20_202011/sub1d0_p4r4_5tr34ming_P5F11X/videoplayback20.mkv
-#EXTINF:-1 group-title="Infantiles",Guardianes de la noche
-http://archive.org/download/0guardianes0de0la0Noche/0guardianes0de0la0Noche.mp4
-#EXTINF:-1 group-title="Infantiles",Harry Potter y el cáliz de fuego
-http://archive.org/download/ezra_2_201904/subid0_p4r4_stre4m1ng_a85/4.mp4
-#EXTINF:-1 group-title="Infantiles",Harry Potter y el misterio del príncipe
-http://archive.org/download/ezra_2_201904/subid0_p4r4_stre4m1ng_a85/6.mp4
-#EXTINF:-1 group-title="Infantiles",Harry Potter y el prisionero de Azkaban
-http://archive.org/download/ezra_2_201904/subid0_p4r4_stre4m1ng_a85/3.mp4
-#EXTINF:-1 group-title="Infantiles",Harry Potter y la cámara secreta
-http://archive.org/download/ezra_2_201904/subid0_p4r4_stre4m1ng_a85/2.mp4
-#EXTINF:-1 group-title="Infantiles",Harry Potter y la orden del Fénix
-http://archive.org/download/ezra_2_201904/subid0_p4r4_stre4m1ng_a85/5.mp4
-#EXTINF:-1 group-title="Infantiles",Harry Potter y la piedra filosofal
-http://archive.org/download/ezra_2_201904/subid0_p4r4_stre4m1ng_a85/1.mp4
-#EXTINF:-1 group-title="Infantiles",Harry Potter y las reliquias de la muerte - Parte II
-http://archive.org/download/ezra_2_201904/subid0_p4r4_stre4m1ng_a85/8.mp4
-#EXTINF:-1 group-title="Infantiles",Harry Potter y las reliquias de la muerte Parte I
-http://archive.org/download/ezra_2_201904/subid0_p4r4_stre4m1ng_a85/7.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/xkFpgsj/Hola-Frida-2025-542-x-768.jpg" group-title="Infantiles",Hola Frida! (2025)[DUAL]
-https://archive.org/download/01_20250624_20250624_1917/pascal/10.mp4
-#EXTINF:-1 group-title="Infantiles",Hotel Transylvania 3
-https://archive.org/download/hotel-transylvania-3/HT3/Hotel%20Transylvania%203.mkv
-#EXTINF:-1 group-title="Infantiles",Hércules
-https://ia601402.us.archive.org/21/items/1e08_20191210/8dc.mp4
-#EXTINF:-1 group-title="Infantiles",Ice Age 2: El deshielo
-https://ia802803.us.archive.org/13/items/l4er4d3hi3l02/L4Er4d3hi3l0-2.mp4
-#EXTINF:-1 group-title="Infantiles",Jefe en pañales
-https://ia601503.us.archive.org/26/items/9c6f1/9c6f1.mp4
-#EXTINF:-1 group-title="Infantiles",Jovenes Titanes en Accion VS Jovenes Titanes
-https://archive.org/download/2223_20200217/sub1d0_p4r4_5tr34ming_P5F11X/1112.mkv
-#EXTINF:-1 group-title="Infantiles",Jugando con el destino los simpson
-https://dl.dropbox.com/s/t2c4vz9t1dl2x88/Jugando%20Con%20El%20Destino.mp4
-#EXTINF:-1 group-title="Infantiles",Jumanji
-https://archive.org/download/027_20200428/027.mkv
-#EXTINF:-1 group-title="Infantiles",Kamen Rider Heisei Generation Forever
-http://archive.org/download/GFKRHGFOREVER_201905/%5BGF%5DKRHGFOREVER.mp4
-#EXTINF:-1 group-title="Infantiles",Kimagure Orange Road: Summer's Beginning
-http://archive.org/download/KimagureOrangeRoadLaPelicula/kimagure%20orange%20road%20la%20pelicula.mp4
-#EXTINF:-1 group-title="Infantiles",Kung Fu Panda (2008)
-https://ia601503.us.archive.org/3/items/videoplayback10_20200326/sub1d0_p4r4_5tr34ming_P5F11X/videoplayback001.mp4
-#EXTINF:-1 group-title="Infantiles",Kung Fu Panda 2 (2011)
-https://ia601503.us.archive.org/3/items/videoplayback10_20200326/sub1d0_p4r4_5tr34ming_P5F11X/videoplayback4.mp4
-#EXTINF:-1 group-title="Infantiles",Kung Fu Panda 3 (2016)
-https://ia601503.us.archive.org/3/items/videoplayback10_20200326/sub1d0_p4r4_5tr34ming_P5F11X/videoplayback10.mp4
-#EXTINF:-1 group-title="Infantiles",La Bella y la Bestia - Live Action
-https://ia801407.us.archive.org/16/items/lat-720-b.-3.4.-u.-t.-y-4.-n.-d-t.-h.-3-b.-3.4.-s.-t/LAT-720%20B.3.4.U.T.Y_4.N.D_T.H.3_B.3.4.S.T.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gML7hpdk/La-dama-y-el-vagabundo-1955-542-x-768.jpg" group-title="Infantiles",La dama y el vagabundo (1955)
-https://archive.org/download/telematica_202505/informatica/01.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qZpvD7m/La-Dama-y-el-Vagabundo-2019-542-x-768.jpg" group-title="Infantiles",La Dama y el Vagabundo (2019)
-https://archive.org/download/telematica_202505/informatica/03.mp4
-#EXTINF:-1 group-title="Infantiles",La dama y el vagabundo 2019
-https://archive.org/download/00100_201912/00100.mkv
-#EXTINF:-1 tvg-logo="https://i.ibb.co/B5npcn7R/La-Dama-y-el-Vagabundo-II-Las-aventuras-de-Scamp-2001-542-x-768.jpg" group-title="Infantiles",La Dama y el Vagabundo II Las aventuras de Scamp (2001)
-https://archive.org/download/telematica_202505/informatica/02.mp4
-#EXTINF:-1 group-title="Infantiles",La Era de Hielo
-https://archive.org/download/00100_20200108_2219/00100.avi
-#EXTINF:-1 group-title="Infantiles",La Era de Hielo 3 (Op. 2)
-https://archive.org/download/hielo-4/Hielo3.mp4
-#EXTINF:-1 group-title="Infantiles",La Era de Hielo 4 (Op. 2)
-https://archive.org/download/hielo-4/Hielo4.mp4
-#EXTINF:-1 group-title="Infantiles",La leyenda de Klaus
-https://dl.dropbox.com/s/nheya40ckjt3y1x/La_leyenda_de_Klaus.mp4
-#EXTINF:-1 group-title="Infantiles",La odisea
-https://archive.org/download/l732_20200213/L732.avi
-#EXTINF:-1 group-title="Infantiles",La vida secreta de tus mascotas 2
-http://archive.org/download/direcionaudiovisual/FOTOS%20DE%20MI%20MASCOTA2.mp4
-#EXTINF:-1 group-title="Infantiles",Las locuras del emperador
-http://archive.org/download/E24M2PER4D0R1121/E24M2PER4D0R1.mp4
-#EXTINF:-1 group-title="Infantiles",LEGO La Película
-https://archive.org/download/l-360/L360.mp4
-#EXTINF:-1 group-title="Infantiles",Lego Star Wars Terrorificas historias (2021)
-https://archive.org/download/manguera_202110/L3G0.5t4r.W4r5.mkv
-#EXTINF:-1 group-title="Infantiles",Lluvia de Hamburguesas
-https://archive.org/download/4e58_20200103/4e58.mp4
-#EXTINF:-1 group-title="Infantiles",Lluvia de hamburguesas 2: La venganza de las sobras
-https://archive.org/download/4e58_20200103/0934c.mp4
-#EXTINF:-1 group-title="Infantiles",LOL Surprise The Movie (2021)
-https://archive.org/download/manguera_20211010/L0l.mkv
-#EXTINF:-1 group-title="Infantiles",Los Aristogatos
-https://archive.org/download/345689001-972984/345689001___972984.mp4
-#EXTINF:-1 group-title="Infantiles",Los Croods (2013)
-https://archive.org/download/videoplayback21_20200323/sub1d0_p4r4_5tr34ming_P5F11X/videoplayback31.mp4
-#EXTINF:-1 group-title="Infantiles",Los Croods 2: una nueva era
-https://archive.org/download/videoplayback63_202012/sub1d0_p4r4_5tr34ming_P5F11X/videoplayback63.mkv
-#EXTINF:-1 group-title="Infantiles",Los hermanos Willoughby (2020)
-https://archive.org/download/interstellar-2014/The%20Willoughbys%20%282020%29.mkv
-#EXTINF:-1 group-title="Infantiles",Los Increibles 1
-https://archive.org/download/videoplayback10_202003/sub1d0_p4r4_5tr34ming_P5F11X/videoplayback10.mp4
-#EXTINF:-1 group-title="Infantiles",Los Increibles 2
-https://archive.org/download/videoplayback21_20200319/sub1d0_p4r4_5tr34ming_P5F11X/videoplayback21.mp4
-#EXTINF:-1 group-title="Infantiles",Mas Alla de la Luna(2020)
-https://archive.org/download/videoplayback18_202011/sub1d0_p4r4_5tr34ming_P5F11X/videoplayback18.mp4
-#EXTINF:-1 group-title="Infantiles",Mi pobre angelito
-https://ia601509.us.archive.org/1/items/mipobreangelito2_201911/Mi%20Pobre%20Angelito%201.mp4
-#EXTINF:-1 group-title="Infantiles",Mi pobre angelito 2: Perdido en Nueva York
-https://ia601509.us.archive.org/1/items/mipobreangelito2_201911/mi%20pobre%20angelito%202.mp4
-#EXTINF:-1 group-title="Infantiles",Mi pobre angelito 3
-https://ia601509.us.archive.org/1/items/mipobreangelito2_201911/mi%20pobre%20angelito%203.mp4
-#EXTINF:-1 group-title="Infantiles",Mi pobre angelito 4
-https://ia601509.us.archive.org/1/items/mipobreangelito2_201911/mi%20pobre%20angelito%204.mp4
-#EXTINF:-1 group-title="Infantiles",Mi Pobre Diablillo (1990)
-https://archive.org/download/videoplayback10_20200326/sub1d0_p4r4_5tr34ming_P5F11X/videoplayback14.avi
-#EXTINF:-1 group-title="Infantiles",Mi Pobre Diablillo 2 (1992)
-https://archive.org/download/videoplayback10_20200326/sub1d0_p4r4_5tr34ming_P5F11X/videoplayback25.mkv
-#EXTINF:-1 group-title="Infantiles",Mi villano favorito 2
-https://archive.org/download/v177aN0_1/infa/v177aN0_2.avi
-#EXTINF:-1 group-title="Infantiles",Mi villano favorito 3
-https://archive.org/download/v177aN0_1/infa/v177aN0_3.avi
-#EXTINF:-1 group-title="Infantiles",Milagro en la calle 8
-https://archive.org/download/3l-4rt-3-d-3l-d-14bl-0-1/champurrado/M1l4gr0%203n%20l4%20C4ll3%208.avi
-#EXTINF:-1 group-title="Infantiles",Miraculous Shanghái (2021)
-https://archive.org/download/manguera_202107/M1racu10u5.W0r1d.mkv
-#EXTINF:-1 group-title="Infantiles",Moana
-https://archive.org/download/videoplayback21_20200319/sub1d0_p4r4_5tr34ming_P5F11X/videoplayback32.mp4
-#EXTINF:-1 group-title="Infantiles",Monster House
-https://archive.org/download/rocoto/rocoto/rocoto.mkv
-#EXTINF:-1 group-title="Infantiles",Monsters Inc.
-http://archive.org/download/1NC21021MNAELC/1NC%2CM0N5T3R.mp4
-#EXTINF:-1 group-title="Infantiles",Muppets Haunted Mansion (2021)
-https://archive.org/download/carros_20211008/Mpp3ts.H4unt3d.M4ns10n.mkv
-#EXTINF:-1 group-title="Infantiles",Nuestra Pandilla (1993)
-https://archive.org/download/videoplayback10_202003/sub1d0_p4r4_5tr34ming_P5F11X/videoplayback32.avi
-#EXTINF:-1 group-title="Infantiles",Nuestra Pandilla 2(2005)
-https://archive.org/download/videoplayback10_202003/sub1d0_p4r4_5tr34ming_P5F11X/videoplayback21.avi
-#EXTINF:-1 group-title="Infantiles",Otra Película de Huevos y un Pollo
-https://archive.org/download/534_20191230/456.mp4
-#EXTINF:-1 group-title="Infantiles",Pequeños Guerreros
-https://archive.org/download/3spe3c1as/r3c3t4r1o/p1m13ntaverde/p1m13ntaverde.mp4
-#EXTINF:-1 group-title="Infantiles",Perdi mi cuerpo
-https://dl.dropbox.com/s/5w139f1dys7xg82/I.Lost.My.Body.2019.SS_CANY.mp4
-#EXTINF:-1 group-title="Infantiles",Peter Pan (1953)
-https://ia601408.us.archive.org/15/items/123a_20191206/576vg.mp4
-#EXTINF:-1 group-title="Infantiles",Phineas y Ferb La película de Candance contra el Universo  (2020)
-https://archive.org/download/videoplayback30_20201103/sub1d0_p4r4_5tr34ming_P5F11X/videoplayback41.mkv
-#EXTINF:-1 group-title="Infantiles",Pinocchio (2019)
-https://archive.org/download/interstellar-2014/Pinocchio%20%282019%29.mkv
-#EXTINF:-1 group-title="Infantiles",Pinocho (1940)
-https://ia601408.us.archive.org/15/items/123a_20191206/998hb.mp4
-#EXTINF:-1 group-title="Infantiles",Pokémon: Mewtwo contraataca: Evolución
-https://archive.org/download/pk_20200227/pk.mkv
-#EXTINF:-1 group-title="Infantiles",Power Rangers
-https://archive.org/download/facebook-2639425032984497-720p/Facebook%202639425032984497%28720p%29.mp4
-#EXTINF:-1 group-title="Infantiles",Proyecto Almanaque
-https://dl.dropboxusercontent.com/s/jrn5kyiy4dq4cym/Proyecto-Almanac.mp4?fbclid=IwAR1yIgHOOozsmax04dEEKAji8YWdcDJrFrVT5Iq26CU_E6yTftl80JjKpak
-#EXTINF:-1 group-title="Infantiles",Rango
-https://archive.org/download/00300_20190920/00300.mkv
-#EXTINF:-1 group-title="Infantiles",Ratatouille
-https://ia601402.us.archive.org/21/items/1e08_20191210/e910.mp4
-#EXTINF:-1 group-title="Infantiles",Rio
-https://ia601402.us.archive.org/21/items/1e08_20191210/1f00e.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/K7gf9h6/Robot-salvaje.jpg" group-title="Infantiles",Robot salvaje (2024)[DUAL]
-https://archive.org/download/1_20241003_20241003_1434/linux/1.mp4
-#EXTINF:-1 group-title="Infantiles",Sahara
-https://dl.dropboxusercontent.com/s/0x82vdb9wd0k9fq/250392.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BHRdCFRM/Savages-2024-542-X-768.jpg" group-title="Infantiles",Savages (2024)[DUAL]
-https://archive.org/download/01_20250609/bsd/02.mp4
-#EXTINF:-1 group-title="Infantiles",Scooby Doo 2: Monstruos sueltos
-https://archive.org/download/78954325002/78954_325002.mp4
-#EXTINF:-1 group-title="Infantiles",Scooby-Doo
-https://archive.org/download/78954325002/78954_325001.mp4
-#EXTINF:-1 group-title="Infantiles",Scooby-Doo y la carrera de los monstruos
-https://archive.org/download/ddd5d5-04/ddd5d5/ddd5d5-01.mp4
-#EXTINF:-1 group-title="Infantiles",Scooby-Doo! Misterio en la lucha libre
-https://archive.org/download/830202008/8302020/8302020-08.mp4
-#EXTINF:-1 group-title="Infantiles",Shrek
-https://archive.org/download/00100_20190920/00100.avi
-#EXTINF:-1 group-title="Infantiles",Shrek 2
-https://archive.org/download/00200_20190920/00200.avi
-#EXTINF:-1 group-title="Infantiles",Shrek 4
-https://archive.org/download/00400_20190920/00400.mkv
-#EXTINF:-1 group-title="Infantiles",Sing: Ven y Canta
-https://ia601402.us.archive.org/21/items/1e08_20191210/cbc0.mp4
-#EXTINF:-1 group-title="Infantiles",Sonic: La Pelicula
-https://archive.org/download/50-n-1-c/50N1C.mp4
-#EXTINF:-1 group-title="Infantiles",Soul
-https://archive.org/download/soul.-2020/Soul.2020.mkv
-#EXTINF:-1 group-title="Infantiles",South Park especial de Pandemia(2020)
-https://archive.org/download/videoplayback18_202011/sub1d0_p4r4_5tr34ming_P5F11X/videoplayback39.mkv
-#EXTINF:-1 group-title="Infantiles",Spycies
-https://archive.org/download/3spe3c1as/r3c3t4r1o/3spe3c1as/3spe3c1as.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rG8vz0DC/Super-Monsters-Dia-de-los-Monsters-2020-542-x-768.jpg" group-title="Infantiles",Super Monsters Dia de los Monsters (2020)
-https://archive.org/download/tutoriales_202506/TutorialesLinux/08.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/MDHLfF0Z/Taiki-2019-542-x-768.jpg" group-title="Infantiles",Taiki (2019)[DUAL]
-https://archive.org/download/tutoriales_202506/TutorialesLinux/05.mp4
-#EXTINF:-1 group-title="Infantiles",The Boxtrolls
-https://dl.dropboxusercontent.com/s/7wroemeuf596eje/The.Boxtrolls.2014.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tKf5KDX/Garfield-La-pel-cula-2024.jpg" group-title="Infantiles",The Garfield Movie (2024)[DUAL]
-https://archive.org/download/perifericos_202407/upload/perifericos.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rRRyCcjH/The-Good-Dinosaur-2015-542-x-768.jpg" group-title="Infantiles",The Good Dinosaur (2015)
-https://archive.org/download/tutoriales_202506/TutorialesLinux/07.mp4
-#EXTINF:-1 group-title="Infantiles",The Imaginarium of Doctor Parnassus
-https://dl.dropboxusercontent.com/s/ybel9j3pxn5spkt/The.Imaginarium.of.Doctor.Parnassus.2009.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gbgdFgb3/The-Return-of-Jafar-1994-542-x-768.jpg" group-title="Infantiles",The Return of Jafar (1994)
-https://archive.org/download/03_20250611_20250611/cmd/02.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Z68tjbGR/The-Wild-Robot-2024-542-x-768.jpg" group-title="Infantiles",The Wild Robot (2024)[DUAL]
-https://archive.org/download/tutoriales_202506/TutorialesLinux/04.mp4
-#EXTINF:-1 group-title="Infantiles",Tierra de Osos
-https://ia601402.us.archive.org/21/items/1e08_20191210/bf0c.mp4
-#EXTINF:-1 group-title="Infantiles",Tierra de Osos 2
-https://ia601402.us.archive.org/21/items/1e08_20191210/f163.mp4
-#EXTINF:-1 group-title="Infantiles",Todos los perros van al cielo
-https://dl.dropbox.com/s/5tvxdt0vawserm7/Todos%20los%20perros%20van%20al%20cielo.mp4
-#EXTINF:-1 group-title="Infantiles",Toy Story - Lamp Life (Corto)
-https://archive.org/download/lampara_202003/lampara.mkv
-#EXTINF:-1 group-title="Infantiles",Toy Story 1
-https://archive.org/download/01t6574568475645684685486545684/01%20t6574568475645684685486545684.mp4
-#EXTINF:-1 group-title="Infantiles",Toy Story 3
-https://archive.org/download/3gefgyilegfielngfilsaegfyiserfyiditeidfseyifdyeldyefldy/3gefgyilegfiel%C3%B1gfilsaegfyiserfyiditeidfseyifdyeldyefldy.mp4
-#EXTINF:-1 group-title="Infantiles",Toy Story: El Tiempo perdido
-https://archive.org/download/tiempoperd5346954976252380640degdsavdkjvasgxcvaductfadcfyaduytd/tiempoperd5346954976252380640degdsavdkjvasgxcvaductfadcfyaduytd.mp4
-#EXTINF:-1 group-title="Infantiles",Trolls 2 (2020)
-https://archive.org/download/tour_20200413/tour.mkv
-#EXTINF:-1 group-title="Infantiles",Un Show más: La Película
-https://archive.org/download/4b1_20200101/514.mp4
-#EXTINF:-1 group-title="Infantiles",Una Película de Huevos
-https://archive.org/download/534_20191230/b76.mp4
-#EXTINF:-1 group-title="Infantiles",Vecinos invasores
-https://archive.org/download/ax_20200528/vi.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/LD4H2GdD/Wallace-Gromit-Vengeance-Most-Fowl-2024.jpg" group-title="Infantiles",Wallace & Gromit Vengeance Most Fowl (2024)
-https://archive.org/download/tutoriales_202506/TutorialesLinux/06.mp4
-#EXTINF:-1 group-title="Infantiles",Wifi Ralph
-https://archive.org/download/467764543557728/476457490142347546583683.mp4
-#EXTINF:-1 group-title="Infantiles",Willy Wonka y la fabrica de chocolates
-https://archive.org/download/caramelo_202004/caramelo/caramelo.avi
-#EXTINF:-1 group-title="Infantiles",Wolfwalkers: Espíritu de Lobo
-https://ia601504.us.archive.org/20/items/4915812364894339407/1_4915812364894339407.mp4
-#EXTINF:-1 group-title="Infantiles",¡Jóvenes Titanes en acción! La película
-https://archive.org/download/2223_20200217/sub1d0_p4r4_5tr34ming_P5F11X/2223.mkv
-#EXTINF:-1 group-title="Infantiles",¡Scooby!
-https://archive.org/download/sc_20200516/SC/SC.mkv
