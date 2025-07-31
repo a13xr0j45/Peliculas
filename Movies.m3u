@@ -1,5 +1,26 @@
 ﻿#EXTM3U
 
+# #EXTINF:-1 tvg-logo="" group-title="Movies",
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XrcdxmtD/A-Creature-Was-Stirring-2023-542x768.png" group-title="Movies",A Creature Was Stirring (2023)[DUAL]
+https://archive.org/download/10_20250730_20250730/editores/03.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/22sm1th/Chaos-Walking-2021-542x768.png" group-title="Movies",Chaos Walking (2021)[DUAL]
+https://archive.org/download/10_20250730_20250730/editores/04.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TD73qwTw/Don-t-Breathe-2016-542x768.png" group-title="Movies",Don_t Breathe (2016)[DUAL]
+https://archive.org/download/10_20250730_20250730/editores/05.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PsZ7fj8r/Don-t-Breathe-2-2021.jpg" group-title="Movies",Don_t Breathe 2 (2021)[DUAL]
+https://archive.org/download/10_20250730_20250730/editores/06.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kVfk6Ndz/Dumbo-2019-542x768.png" group-title="Movies",Dumbo (2019)[DUAL]
+https://archive.org/download/10_20250730_20250730/editores/07.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PGjX8bJ3/Efsunlu-Ayin-2020-542x768.png" group-title="Movies",Efsunlu Ayin (2020)[DUAL]
+https://archive.org/download/10_20250730_20250730/editores/08.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Kx7wwYNy/Maleficent-2014-542x768.png" group-title="Movies",Maleficent (2014)[DUAL]
+https://archive.org/download/10_20250730_20250730/editores/09.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rGW5Gtgs/Maleficent-Mistress-of-Evil-2019-542x768.png" group-title="Movies",Maleficent Mistress of Evil (2019)[DUAL]
+https://archive.org/download/10_20250730_20250730/editores/10.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JjbSW3QL/Monster-Summer-2024-542x768.png" group-title="Movies",Monster Summer (2024)[DUAL]
+https://archive.org/download/02_20250721_20250721/kk/11.mp4
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TML7fh2k/28-Years-Later-2025.jpg" group-title="Movies",28 Years Later (2025)[DUAL]
 https://archive.org/download/04_20250728_20250728_1905/Linux/00.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zHSNsDhf/The-Autopsy-of-Jane-Doe-2016-542x768.png" group-title="Movies",The Autopsy of Jane Doe (2016)[DUAL]
@@ -26,14 +47,7 @@ https://archive.org/download/04_20250728_20250728_1905/Linux/10.mp4
 https://archive.org/download/04_20250728_20250728_1905/Linux/11.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gFF32X8k/Sweeney-Todd-The-Demon-Barber-of-Fleet-Street-2007.jpg" group-title="Movies",Sweeney Todd The Demon Barber of Fleet Street (2007)[DUAL]
 https://archive.org/download/04_20250728_20250728_1905/Linux/12.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/YF4npvZr/Toy-Story-1995.jpg" group-title="Movies",Toy Story (1995)
-https://archive.org/download/04_20250728_20250728_1905/Linux/13.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/YTL7NRsT/Toy-Story-2-1999.jpg" group-title="Movies",Toy Story 2 (1999)
-https://archive.org/download/04_20250728_20250728_1905/Linux/14.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GQVLgtZM/Toy-Story-3-2010.jpg" group-title="Movies",Toy Story 3 (2010)
-https://archive.org/download/04_20250728_20250728_1905/Linux/15.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/27YL7tt6/Toy-Story-4-2019.jpg" group-title="Movies",Toy Story 4 (2019)
-https://archive.org/download/04_20250728_20250728_1905/Linux/16.mp4
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zWQTjCt9/I-Know-What-You-Did-Last-Summer-1997-542x768.png" group-title="Movies",I Know What You Did Last Summer (1997)[DUAL]
 https://archive.org/download/9_20250723_20250723/linux/01.mp4
