@@ -1,4 +1,12 @@
 ﻿#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YF4npvZr/Toy-Story-1995.jpg" group-title="Infantiles",Toy Story (1995)
+https://archive.org/download/04_20250728_20250728_1905/Linux/13.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YTL7NRsT/Toy-Story-2-1999.jpg" group-title="Infantiles",Toy Story 2 (1999)
+https://archive.org/download/04_20250728_20250728_1905/Linux/14.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GQVLgtZM/Toy-Story-3-2010.jpg" group-title="Infantiles",Toy Story 3 (2010)
+https://archive.org/download/10_20250730_20250730/editores/01.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/27YL7tt6/Toy-Story-4-2019.jpg" group-title="Infantiles",Toy Story 4 (2019)
+https://archive.org/download/10_20250730_20250730/editores/02.mp4
 #EXTINF:-1,101 dalmatas
 https://dl.dropboxusercontent.com/s/wmlamexvl327mth/101.1961.mp4
 #EXTINF:-1,22 contra el Mundo (2021)
