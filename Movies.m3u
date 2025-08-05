@@ -1,5 +1,4 @@
 ﻿#EXTM3U
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qMLs3vdJ/The-Matrix-1999-542x768.png" group-title="Movies",The Matrix (1999)[DUAL]
 https://archive.org/download/06_20250805/daemons/01.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Q7tqWdwY/The-Matrix-Reloaded-2003-542x768.png" group-title="Movies",The Matrix Reloaded (2003)[DUAL]
@@ -8,7 +7,7 @@ https://archive.org/download/06_20250805/daemons/02.mp4
 https://archive.org/download/06_20250805/daemons/03.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/x8YJKDpC/The-Matrix-Resurrections-2021-542x768.png" group-title="Movies",The Matrix Resurrections (2021)[DUAL]
 https://archive.org/download/06_20250805/daemons/04.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies",Pirates of the Caribbean The Curse of the Black Pearl (2003)[DUAL]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nNXNLmwv/Pirates-of-the-Caribbean-The-Curse-of-the-Black-Pearl-2003-542x768.png" group-title="Movies",Pirates of the Caribbean The Curse of the Black Pearl (2003)[DUAL]
 https://archive.org/download/06_20250805/daemons/05.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5hwfZyPx/Pirates-of-the-Caribbean-Dead-Man-s-Chest-2006-542x768.png" group-title="Movies",Pirates of the Caribbean Dead Man_s Chest (2006)[DUAL]
 https://archive.org/download/06_20250805/daemons/06.mp4
@@ -36,7 +35,6 @@ https://archive.org/download/06_20250805/daemons/16.mp4
 https://archive.org/download/06_20250805/daemons/17.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vrKwNDY/Fr-waka-2025-542x768.png" group-title="Movies",Fréwaka (2025)[DUAL]
 https://archive.org/download/06_20250805/daemons/18.mp4
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TML7fh2k/28-Years-Later-2025.jpg" group-title="Movies",28 Years Later (2025)[DUAL]
 https://archive.org/download/04_20250728_20250728_1905/Linux/00.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XrcdxmtD/A-Creature-Was-Stirring-2023-542x768.png" group-title="Movies",A Creature Was Stirring (2023)[DUAL]
@@ -99,7 +97,6 @@ https://archive.org/download/9_20250723_20250723/linux/09.mp4
 https://archive.org/download/9_20250723_20250723/linux/10.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nsnNCKfv/The-Inhabitant-2018-542x768.png" group-title="Movies",The Inhabitant (2018)[ESP]
 https://archive.org/download/9_20250723_20250723/linux/11.mp4
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zWQTjCt9/I-Know-What-You-Did-Last-Summer-1997-542x768.png" group-title="Movies",I Know What You Did Last Summer (1997)[DUAL]
 https://archive.org/download/9_20250723_20250723/linux/01.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LdmT8JJy/I-Still-Know-What-You-Did-Last-Summer-1998-542x768.png" group-title="Movies",I Still Know What You Did Last Summer (1998)[DUAL]
