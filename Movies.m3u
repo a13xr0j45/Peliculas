@@ -1,24 +1,41 @@
 ﻿#EXTM3U
 
-01 The Matrix (1999)[DUAL]
-02 The Matrix Reloaded (2003)[DUAL]
-03 The Matrix Revolutions (2003)[DUAL]
-04 The Matrix Resurrections (2021)[DUAL]
-05 Pirates of the Caribbean The Curse of the Black Pearl (2003)[DUAL]
-06 Pirates of the Caribbean Dead Man_s Chest (2006)[DUAL]
-07 Pirates of the Caribbean At World_s End (2007)[DUAL]
-08 Pirates of the Caribbean On Stranger Tides (2011)[DUAL]
-09 Pirates of the Caribbean Dead Men Tell No Tales (2017)[DUAL]
-10 Mad Max (1979)[DUAL]
-11 Mad Max 2 (1981)[DUAL]
-12 Mad Max Beyond Thunderdome (1985)[DUAL]
-13 Mad Max Fury Road (2015)[DUAL]
-14 Young Guns (1988)[DUAL]
-15 Jerry Maguire (1996)[DUAL]
-16 Children of Men (2006)[DUAL]
-17 Everyone Is Going to Die (2025)[DUAL]
-18 Fréwaka (2025)[DUAL]
-
+#EXTINF:-1 tvg-logo="" group-title="Movies",The Matrix (1999)[DUAL]
+https://archive.org/download/06_20250805/daemons/01.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies",The Matrix Reloaded (2003)[DUAL]
+https://archive.org/download/06_20250805/daemons/02.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies",The Matrix Revolutions (2003)[DUAL]
+https://archive.org/download/06_20250805/daemons/03.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies",The Matrix Resurrections (2021)[DUAL]
+https://archive.org/download/06_20250805/daemons/04.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies",Pirates of the Caribbean The Curse of the Black Pearl (2003)[DUAL]
+https://archive.org/download/06_20250805/daemons/05.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies",Pirates of the Caribbean Dead Man_s Chest (2006)[DUAL]
+https://archive.org/download/06_20250805/daemons/06.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies",Pirates of the Caribbean At World_s End (2007)[DUAL]
+https://archive.org/download/06_20250805/daemons/07.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies",Pirates of the Caribbean On Stranger Tides (2011)[DUAL]
+https://archive.org/download/06_20250805/daemons/08.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies",Pirates of the Caribbean Dead Men Tell No Tales (2017)[DUAL]
+https://archive.org/download/06_20250805/daemons/09.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies",Mad Max (1979)[DUAL]
+https://archive.org/download/06_20250805/daemons/10.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies",Mad Max 2 (1981)[DUAL]
+https://archive.org/download/06_20250805/daemons/11.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies",Mad Max Beyond Thunderdome (1985)[DUAL]
+https://archive.org/download/06_20250805/daemons/12.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies",Mad Max Fury Road (2015)[DUAL]
+https://archive.org/download/06_20250805/daemons/13.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies",Young Guns (1988)[DUAL]
+https://archive.org/download/06_20250805/daemons/14.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies",Jerry Maguire (1996)[DUAL]
+https://archive.org/download/06_20250805/daemons/15.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies",Children of Men (2006)[DUAL]
+https://archive.org/download/06_20250805/daemons/16.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies",Everyone Is Going to Die (2025)[DUAL]
+https://archive.org/download/06_20250805/daemons/17.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies",Fréwaka (2025)[DUAL]
+https://archive.org/download/06_20250805/daemons/18.mp4
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TML7fh2k/28-Years-Later-2025.jpg" group-title="Movies",28 Years Later (2025)[DUAL]
 https://archive.org/download/04_20250728_20250728_1905/Linux/00.mp4
