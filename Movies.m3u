@@ -1,4 +1,22 @@
 ﻿#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gLqfvf60/Spirit-in-the-Blood-2024-542x768.png" group-title="Movies",Spirit in the Blood (2024)[DUAL]
+https://archive.org/download/9_20250723_20250723_1924/daemons/01.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LXtRhhqr/The-Outlaws-2024-542x768.png" group-title="Movies",The Outlaws (2024)[DUAL]
+https://archive.org/download/9_20250723_20250723_1924/daemons/01.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xqz2b1tv/Creation-of-the-Gods-I-Kingdom-of-Storms-2023-542x768.png" group-title="Movies",Creation of the Gods I Kingdom of Storms (2023)[DUAL]
+https://archive.org/download/9_20250723_20250723_1924/daemons/01.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/chCChs3z/Creation-of-the-Gods-II-Demon-Force-2025-542x768.png" group-title="Movies",Creation of the Gods II Demon Force (2025)[DUAL]
+https://archive.org/download/9_20250723_20250723_1924/daemons/01.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3Z2hHHc/Hook-2025-542x768.png" group-title="Movies",Hook (2025)[DUAL]
+https://archive.org/download/9_20250723_20250723_1924/daemons/01.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qhB75qv/Milk-Teeth-2024-542x768.png" group-title="Movies",Milk Teeth (2024)[DUAL]
+https://archive.org/download/9_20250723_20250723_1924/daemons/01.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wh1gc0DQ/The-Doors-1991-542x768.png" group-title="Movies",The Doors (1991)[DUAL]
+https://archive.org/download/9_20250723_20250723_1924/daemons/01.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kgzRx6fg/Karate-Kid-Legends-2025-542x768.png" group-title="Movies",Karate Kid Legends (2025)[DUAL]
+https://archive.org/download/9_20250723_20250723_1924/daemons/01.mp4
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qMLs3vdJ/The-Matrix-1999-542x768.png" group-title="Movies",The Matrix (1999)[DUAL]
 https://archive.org/download/06_20250805/daemons/01.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Q7tqWdwY/The-Matrix-Reloaded-2003-542x768.png" group-title="Movies",The Matrix Reloaded (2003)[DUAL]
