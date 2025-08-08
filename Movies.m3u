@@ -1,4 +1,15 @@
 ﻿#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tpRb4sZx/Jurassic-World-Rebirth-2025-542x768.png" group-title="Movies",Jurassic World Rebirth (2025)[DUAL]
+https://archive.org/download/01_20250808_20250808_1322/daemons/01.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0jgJFPYL/Slingshot-2024-542x768.png" group-title="Movies",Slingshot (2024)[DUAL]
+https://archive.org/download/01_20250808_20250808_1322/daemons/02.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NgndPjLx/T-I-M-2023-542x768.png" group-title="Movies",T.I.M. (2023)[DUAL]
+https://archive.org/download/01_20250808_20250808_1322/daemons/03.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SwcP7Zmw/Turn-Me-On-2024-542x768.png" group-title="Movies",Turn Me On (2024)[DUAL]
+https://archive.org/download/01_20250808_20250808_1322/daemons/04.mp4
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gLqfvf60/Spirit-in-the-Blood-2024-542x768.png" group-title="Movies",Spirit in the Blood (2024)[DUAL]
 https://archive.org/download/9_20250723_20250723_1924/daemons/01.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LXtRhhqr/The-Outlaws-2024-542x768.png" group-title="Movies",The Outlaws (2024)[DUAL]
@@ -15,8 +26,6 @@ https://archive.org/download/9_20250723_20250723_1924/daemons/01.mp4
 https://archive.org/download/9_20250723_20250723_1924/daemons/01.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kgzRx6fg/Karate-Kid-Legends-2025-542x768.png" group-title="Movies",Karate Kid Legends (2025)[DUAL]
 https://archive.org/download/9_20250723_20250723_1924/daemons/01.mp4
-
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qMLs3vdJ/The-Matrix-1999-542x768.png" group-title="Movies",The Matrix (1999)[DUAL]
 https://archive.org/download/06_20250805/daemons/01.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Q7tqWdwY/The-Matrix-Reloaded-2003-542x768.png" group-title="Movies",The Matrix Reloaded (2003)[DUAL]
