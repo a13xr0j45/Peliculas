@@ -1,5 +1,16 @@
 ﻿#EXTM3U
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hJ9SRFy7/Silent-Hill-2006-542x768.png" group-title="Movies",Silent Hill (2006)[DUAL]
+https://archive.org/download/01_20250819_20250819_1912/linux/01.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/twMTK7P7/Silent-Hill-Revelation-3-D-2012-542x768.png" group-title="Movies",Silent Hill Revelation 3D (2012)[DUAL]
+https://archive.org/download/01_20250819_20250819_1912/linux/02.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C3fVSQsR/The-Ballad-of-Buster-Scruggs-2018-542x768.png" group-title="Movies",The Ballad of Buster Scruggs (2018)[DUAL]
+https://archive.org/download/01_20250819_20250819_1912/linux/03.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xqbthRKH/The-Pale-Blue-Eye-2022-542x768.png" group-title="Movies",The Pale Blue Eye (2022)[DUAL]
+https://archive.org/download/01_20250819_20250819_1912/linux/04.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/b5n5TRxw/You-Will-Die-in-6-Hours-2024-542x768.png" group-title="Movies",You Will Die in 6 Hours (2024)[DUAL]
+https://archive.org/download/01_20250819_20250819_1912/linux/05.mp4
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d4X0WkTd/The-Bad-Guys-2-2025-542x768.png" group-title="Movies",The Bad Guys 2 (2025)[LAT]
 https://archive.org/download/04_20250819/text-editors/01.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gMQH5BKh/Elio-2025-542x768.png" group-title="Movies",Elio (2025)[LAT]
@@ -12,7 +23,6 @@ https://archive.org/download/04_20250819/text-editors/04.mp4
 https://archive.org/download/04_20250819/text-editors/05.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QFtDbsk3/Materialists-2025-542x768.png" group-title="Movies",Materialists (2025)[DUAL]
 https://archive.org/download/04_20250819/text-editors/06.mp4
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NgndPjLx/T-I-M-2023-542x768.png" group-title="Movies",T.I.M. (2023)[DUAL]
 https://archive.org/download/09_20250811/daemons/10.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sJ1dnJcp/Hijack-1971-2024-542-X-768.jpg" group-title="Movies",Hijack 1971 (2024)[DUAL]
