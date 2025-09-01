@@ -1,5 +1,17 @@
 ﻿#EXTM3U
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0RgJfs5m/Risen-2021-542x768.png",Risen (2021)[DUAL]
+https://archive.org/download/03_20250820_20250820_1910/deb/01.mp4
+
+#EXTINF:-1 tvg-logo="",Striking Rescue (2024)[DUAL]
+
+#EXTINF:-1 tvg-logo="",The Forgiven (2022)[DUAL]
+
+#EXTINF:-1 tvg-logo="",Night Always Comes (2025)[DUAL]
+
+#EXTINF:-1 tvg-logo="",Piglet (2025)[DUAL]
+https://archive.org/download/03_20250820_20250820_1910/deb/05.mp4
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hJ9SRFy7/Silent-Hill-2006-542x768.png" group-title="Movies",Silent Hill (2006)[DUAL]
 https://archive.org/download/01_20250819_20250819_1912/linux/01.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/twMTK7P7/Silent-Hill-Revelation-3-D-2012-542x768.png" group-title="Movies",Silent Hill Revelation 3D (2012)[DUAL]
@@ -10,7 +22,6 @@ https://archive.org/download/01_20250819_20250819_1912/linux/03.mp4
 https://archive.org/download/01_20250819_20250819_1912/linux/04.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/b5n5TRxw/You-Will-Die-in-6-Hours-2024-542x768.png" group-title="Movies",You Will Die in 6 Hours (2024)[DUAL]
 https://archive.org/download/01_20250819_20250819_1912/linux/05.mp4
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d4X0WkTd/The-Bad-Guys-2-2025-542x768.png" group-title="Movies",The Bad Guys 2 (2025)[LAT]
 https://archive.org/download/04_20250819/text-editors/01.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gMQH5BKh/Elio-2025-542x768.png" group-title="Movies",Elio (2025)[LAT]
