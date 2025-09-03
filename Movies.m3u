@@ -2,14 +2,13 @@
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0RgJfs5m/Risen-2021-542x768.png",Risen (2021)[DUAL]
 https://archive.org/download/03_20250820_20250820_1910/deb/01.mp4
-
-#EXTINF:-1 tvg-logo="",Striking Rescue (2024)[DUAL]
-
-#EXTINF:-1 tvg-logo="",The Forgiven (2022)[DUAL]
-
-#EXTINF:-1 tvg-logo="",Night Always Comes (2025)[DUAL]
-
-#EXTINF:-1 tvg-logo="",Piglet (2025)[DUAL]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nqWZwSjw/Striking-Rescue-2024-542x768.png",Striking Rescue (2024)[DUAL]
+https://archive.org/download/03_20250820_20250820_1910/deb/02.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/n8tFykPM/The-Forgiven-2022-542x768.png",The Forgiven (2022)[DUAL]
+https://archive.org/download/03_20250820_20250820_1910/deb/03.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Nnyz8v3R/Night-Always-Comes-2025-542x768.png",Night Always Comes (2025)[DUAL]
+https://archive.org/download/03_20250820_20250820_1910/deb/04.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JwFLSBVK/Piglet-2025-542x768.png",Piglet (2025)[DUAL]
 https://archive.org/download/03_20250820_20250820_1910/deb/05.mp4
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hJ9SRFy7/Silent-Hill-2006-542x768.png" group-title="Movies",Silent Hill (2006)[DUAL]
