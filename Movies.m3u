@@ -1,4 +1,18 @@
 ﻿#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1Yjf7hVw/Nobody-2-2025-542-X-768.jpg",Nobody 2 (2025)[DUAL]
+https://archive.org/download/daemons_202509/daemons/01.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/m5GW3NSg/The-Bourne-Identity-2002-542-X-768.jpg",The Bourne Identity (2002)[DUAL]
+https://archive.org/download/daemons_202509/daemons/02.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SXcNqKC0/The-Bourne-Supremacy-2004-542-X-768.jpg",The Bourne Supremacy (2004)[DUAL]
+https://archive.org/download/daemons_202509/daemons/03.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gZV1YXHV/The-Bourne-Ultimatum-2007-542-X-768.jpg",The Bourne Ultimatum (2007) [DUAL]
+https://archive.org/download/daemons_202509/daemons/04.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rGpHhhcd/The-Artifice-Girl-2023-542-X-768.jpg",The Artifice Girl (2023)[DUAL]
+https://archive.org/download/daemons_202509/daemons/05.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VcPtk69F/Silence-of-the-Prey-2024-542-X-768.jpg",Silence of the Prey (2024))[DUAL]
+https://archive.org/download/daemons_202509/daemons/06.mp4
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CsHcXsRs/15-Killings-2020-542-X-768.jpg" group-title="Movies",15 Killings (2020)[DUAL]
 https://archive.org/download/10_20250714/PNG/09.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/27rRwJTT/28-Days-Later-2002-542-X-768.jpg" group-title="Movies",28 Days Later (2002)[DUAL]
