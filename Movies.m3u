@@ -1,4 +1,8 @@
 ﻿#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rRnMTbc0/Together-2025-542-X-768.jpg" group-title="Movies",Together (2025)[DUAL]
+https://archive.org/download/02_20250919_20250919/linux/05.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zVnQvP3Q/The-Fantastic-4-First-Steps-2025-542-X-768.jpg" group-title="Movies",The Fantastic 4 First Steps (2025)[DUAL]
+https://archive.org/download/02_20250919_20250919/linux/06.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CsHcXsRs/15-Killings-2020-542-X-768.jpg" group-title="Movies",15 Killings (2020)[DUAL]
 https://archive.org/download/10_20250714/PNG/09.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/27rRwJTT/28-Days-Later-2002-542-X-768.jpg" group-title="Movies",28 Days Later (2002)[DUAL]
