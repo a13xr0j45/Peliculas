@@ -1,5 +1,22 @@
 ﻿#EXTM3U
 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fYzPNYSh/Fantastic-Beasts-and-Where-to-Find-Them-2016-542-X-768.jpg",Fantastic Beasts and Where to Find Them (2016)[DUAL]
+https://archive.org/download/04_20250929_202509/commands/01.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C3j8Z5NB/Fantastic-Beasts-The-Crimes-of-Grindelwald-2018-542-X-768.jpg",Fantastic Beasts The Crimes of Grindelwald (2018)[DUAL]
+https://archive.org/download/04_20250929_202509/commands/02.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zh4V7337/Fantastic-Beasts-The-Secrets-of-Dumbledore-2022-542-X-768.jpg",Fantastic Beasts The Secrets of Dumbledore (2022)[DUAL]
+https://archive.org/download/04_20250929_202509/commands/03.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1YDvGWRD/Fantastic-Four-2005-542-X-768.jpg",Fantastic Four (2005)[DUAL]
+https://archive.org/download/04_20250929_202509/commands/04.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YGBh3NR/Fantastic-Four-Rise-of-the-Silver-Surfer-2007-542-X-768.jpg",Fantastic Four Rise of the Silver Surfer (2007)[DUAL]
+https://archive.org/download/04_20250929_202509/commands/05.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DgVPnrZf/Fantastic-Four-2015-542-X-768.jpg",Fantastic Four (2015)[DUAL]
+https://archive.org/download/04_20250929_202509/commands/06.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XxHSZhws/The-Ritual-2025-542-X-768.jpg",The Ritual (2025)[DUAL]
+https://archive.org/download/04_20250929_202509/commands/07.mp4
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mFJVcjcq/Restore-Point-2023-542-X-768.jpg" group-title="Movies",Restore Point (2023)[DUAL]
 https://archive.org/download/linux-like/unix/69.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rRnMTbc0/Together-2025-542-X-768.jpg" group-title="Movies",Together (2025)[DUAL]
