@@ -1,5 +1,17 @@
 ﻿#EXTM3U
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/G32VtQNs/Crouching-Tiger-Hidden-Dragon-2000-542-X-768.jpg" group-title="Movies",Crouching Tiger, Hidden Dragon (2000)[DUAL]
+https://archive.org/download/00_20250930/unix/01.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cS22xxY0/Crouching-Tiger-Hidden-Dragon-Sword-of-Destiny-2016-542-X-768.jpg" group-title="Movies",Crouching Tiger, Hidden Dragon Sword of Destiny (2016)[DUAL]
+https://archive.org/download/00_20250930/unix/02.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zHxcV7G3/Mad-S-2024-542-X-768.jpg" group-title="Movies",MadS (2024)[DUAL]
+https://archive.org/download/00_20250930/unix/03.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5XyXvW77/Shark-Evil-2023-542-X-768.jpg" group-title="Movies",Shark Evil (2023)[CAST]
+https://archive.org/download/00_20250930/unix/04.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WpjwJ97v/Consumed-2024-542-X-768.jpg" group-title="Movies",Consumed (2024)[DUAL]
+https://archive.org/download/00_20250930/unix/05.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1t2XcD1H/Eden-Lake-2008-542-X-768.jpg" group-title="Movies",Eden Lake (2008)[DUAL]
+https://archive.org/download/00_20250930/unix/06.mp4
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fYzPNYSh/Fantastic-Beasts-and-Where-to-Find-Them-2016-542-X-768.jpg" group-title="Movies",Fantastic Beasts and Where to Find Them (2016)[DUAL]
 https://archive.org/download/04_20250929_202509/commands/01.mp4
