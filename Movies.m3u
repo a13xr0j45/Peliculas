@@ -1,5 +1,15 @@
 ﻿#EXTM3U
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Q7F1TpmS/The-Conjuring-Last-Rites-2025-542-X-768.jpg" group-title="Movies",The Conjuring Last Rites (2025)[DUAL]
+https://archive.org/download/index_20251006_2147/LAST/01.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BKw5Cx1J/Django-Undisputed-2024-542-X-768.jpg" group-title="Movies",Django Undisputed (2024)[DUAL]
+https://archive.org/download/index_20251006_2147/LAST/02.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/W4kGzYP2/The-Taking-of-Deborah-Logan-2014-542-X-768.jpg" group-title="Movies",The Taking of Deborah Logan (2014)[DUAL]
+https://archive.org/download/index_20251006_2147/LAST/03.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rRnMTbc0/Together-2025-542-X-768.jpg" group-title="Movies",Together (2025)[DUAL]
+https://archive.org/download/index_20251006_2147/LAST/04.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DP1wP7Qk/La-zona-vac-a-2024-542-X-768.jpg" group-title="Movies",La zona vacía (2024)[CAST]
+https://archive.org/download/index_20251006_2147/LAST/05.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/G32VtQNs/Crouching-Tiger-Hidden-Dragon-2000-542-X-768.jpg" group-title="Movies",Crouching Tiger, Hidden Dragon (2000)[DUAL]
 https://archive.org/download/00_20250930/unix/01.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cS22xxY0/Crouching-Tiger-Hidden-Dragon-Sword-of-Destiny-2016-542-X-768.jpg" group-title="Movies",Crouching Tiger, Hidden Dragon Sword of Destiny (2016)[DUAL]
@@ -12,7 +22,6 @@ https://archive.org/download/00_20250930/unix/04.mp4
 https://archive.org/download/00_20250930/unix/05.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1t2XcD1H/Eden-Lake-2008-542-X-768.jpg" group-title="Movies",Eden Lake (2008)[DUAL]
 https://archive.org/download/00_20250930/unix/06.mp4
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fYzPNYSh/Fantastic-Beasts-and-Where-to-Find-Them-2016-542-X-768.jpg" group-title="Movies",Fantastic Beasts and Where to Find Them (2016)[DUAL]
 https://archive.org/download/04_20250929_202509/commands/01.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/C3j8Z5NB/Fantastic-Beasts-The-Crimes-of-Grindelwald-2018-542-X-768.jpg" group-title="Movies",Fantastic Beasts The Crimes of Grindelwald (2018)[DUAL]
@@ -27,8 +36,6 @@ https://archive.org/download/04_20250929_202509/commands/05.mp4
 https://archive.org/download/04_20250929_202509/commands/06.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XxHSZhws/The-Ritual-2025-542-X-768.jpg" group-title="Movies",The Ritual (2025)[DUAL]
 https://archive.org/download/04_20250929_202509/commands/07.mp4
-
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mFJVcjcq/Restore-Point-2023-542-X-768.jpg" group-title="Movies",Restore Point (2023)[DUAL]
 https://archive.org/download/linux-like/unix/69.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rRnMTbc0/Together-2025-542-X-768.jpg" group-title="Movies",Together (2025)[DUAL]
@@ -53,7 +60,7 @@ https://archive.org/download/tutoriales_linux_202402/03.mp4
 https://archive.org/download/01_20250516_20250516_1817/TCPIP/01.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3mtkXkFN/A-Normal-Woman-2025.jpg" group-title="Movies",A Normal Woman (2025)[DUAL]
 https://archive.org/download/04_20250728_20250728_1905/Linux/09.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/urQRTWxekNi6OS7RP5vWblEssQj.jpg" group-title="Movies",Absolution (2024)[DUAL]
+4#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/urQRTWxekNi6OS7RP5vWblEssQj.jpg" group-title="Movies",Absolution (2024)[DUAL]
 https://archive.org/download/05_20250420/centos/07.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/21m7FLmV/Alienoid-2022-542x768.png" group-title="Movies",Alienoid (2022)[DUAL]
 https://archive.org/download/01_20250722_20250722_1518/cursos/01.mp4
