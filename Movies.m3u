@@ -1,4 +1,11 @@
 ﻿#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ycYtgmY0/Robin-Hood-2010-542-X-768.jpg",Robin Hood (2010)[DUAL]
+https://archive.org/download/fast_20251007/FAST/01.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/prdVcqg9/Django-Unchained-2012-542-X-768.jpg",Django Unchained (2012)[DUAL]
+https://archive.org/download/fast_20251007/FAST/02.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6Rvb3hyZ/Forrest-Gump-1994-542-X-768.jpg",Forrest Gump (1994)[DUAL]
+https://archive.org/download/fast_20251007/FAST/03.mp4
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/27rRwJTT/28-Days-Later-2002-542-X-768.jpg" group-title="Movies",28 Days Later (2002)[DUAL]
 https://archive.org/download/01_20250616_20250616_1849/COBOL/07.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LhBpDyjD/28-Weeks-Later-2007-542-X-768.jpg" group-title="Movies",28 Weeks Later (2007)[DUAL]
