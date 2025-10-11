@@ -1,11 +1,21 @@
 ﻿#EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ycYtgmY0/Robin-Hood-2010-542-X-768.jpg",Robin Hood (2010)[DUAL]
-https://archive.org/download/fast_20251007/FAST/01.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/prdVcqg9/Django-Unchained-2012-542-X-768.jpg",Django Unchained (2012)[DUAL]
-https://archive.org/download/fast_20251007/FAST/02.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6Rvb3hyZ/Forrest-Gump-1994-542-X-768.jpg",Forrest Gump (1994)[DUAL]
-https://archive.org/download/fast_20251007/FAST/03.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/G3Wf636L/The-Conjuring-2013-542-X-768.jpg" group-title="Movies",The Conjuring (2013)[DUAL]
+https://archive.org/download/02_20251010/pbx/01.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/j9XyT5N6/The-Conjuring-2-2016-542-X-768.jpg" group-title="Movies",The Conjuring 2 (2016)[DUAL]
+https://archive.org/download/02_20251010/pbx/02.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9mtkPjQs/The-Conjuring-The-Devil-Made-Me-Do-It-2021-542-X-768.jpg" group-title="Movies",The Conjuring The Devil Made Me Do It (2021)[DUAL]
+https://archive.org/download/02_20251010/pbx/03.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Cp3F6g1J/Hereditary-2018-542-X-768.jpg" group-title="Movies",Hereditary (2018)[ENG]
+https://archive.org/download/02_20251010/pbx/04.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jdKrttH/The-Witch-2016-542-X-768.jpg" group-title="Movies",The Witch (2016)[DUAL]
+https://archive.org/download/02_20251010/pbx/05.mp4
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ycYtgmY0/Robin-Hood-2010-542-X-768.jpg" group-title="Movies",Robin Hood (2010)[DUAL]
+https://archive.org/download/fast_20251007/FAST/01.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/prdVcqg9/Django-Unchained-2012-542-X-768.jpg" group-title="Movies",Django Unchained (2012)[DUAL]
+https://archive.org/download/fast_20251007/FAST/02.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6Rvb3hyZ/Forrest-Gump-1994-542-X-768.jpg" group-title="Movies",Forrest Gump (1994)[DUAL]
+https://archive.org/download/fast_20251007/FAST/03.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/27rRwJTT/28-Days-Later-2002-542-X-768.jpg" group-title="Movies",28 Days Later (2002)[DUAL]
 https://archive.org/download/01_20250616_20250616_1849/COBOL/07.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LhBpDyjD/28-Weeks-Later-2007-542-X-768.jpg" group-title="Movies",28 Weeks Later (2007)[DUAL]
