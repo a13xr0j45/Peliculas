@@ -1,4 +1,22 @@
 ﻿#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ibb.co/G3Wf636L/The-Conjuring-2013-542-X-768.jpg",The Conjuring (2013)[DUAL]
+https://archive.org/download/02_20251010/pbx/01.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/j9XyT5N6/The-Conjuring-2-2016-542-X-768.jpg",The Conjuring 2 (2016)[DUAL]
+https://archive.org/download/02_20251010/pbx/02.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9mtkPjQs/The-Conjuring-The-Devil-Made-Me-Do-It-2021-542-X-768.jpg",The Conjuring The Devil Made Me Do It (2021)[DUAL]
+https://archive.org/download/02_20251010/pbx/03.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Cp3F6g1J/Hereditary-2018-542-X-768.jpg",Hereditary (2018)[ENG]
+https://archive.org/download/02_20251010/pbx/04.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jdKrttH/The-Witch-2016-542-X-768.jpg",The Witch (2016)[DUAL]
+https://archive.org/download/02_20251010/pbx/05.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Kj9QNcBN/The-Orphanage-2007-542-X-768.jpg",The Orphanage (2007)[CAST]
+https://archive.org/download/02_20251014_202510/RPM/03.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YBpW59rH/Spectral-2016-542-X-768.jpg",Spectral (2016)[DUAL]
+https://archive.org/download/02_20251014_202510/RPM/04.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/B2rM5MP3/Kill-Bill-Vol-1-2003-542-X-768.jpg",Kill Bill Vol. 1 (2003) [DUAL]
+https://archive.org/download/02_20251014_202510/RPM/01.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jvhybs1w/Kill-Bill-Vol-2-2004-542-X-768.jpg",Kill Bill Vol. 2 (2004)[DUAL]
+https://archive.org/download/02_20251014_202510/RPM/02.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/G3Wf636L/The-Conjuring-2013-542-X-768.jpg" group-title="Movies",The Conjuring (2013)[DUAL]
 https://archive.org/download/02_20251010/pbx/01.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/j9XyT5N6/The-Conjuring-2-2016-542-X-768.jpg" group-title="Movies",The Conjuring 2 (2016)[DUAL]
@@ -9,7 +27,6 @@ https://archive.org/download/02_20251010/pbx/03.mp4
 https://archive.org/download/02_20251010/pbx/04.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jdKrttH/The-Witch-2016-542-X-768.jpg" group-title="Movies",The Witch (2016)[DUAL]
 https://archive.org/download/02_20251010/pbx/05.mp4
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ycYtgmY0/Robin-Hood-2010-542-X-768.jpg" group-title="Movies",Robin Hood (2010)[DUAL]
 https://archive.org/download/fast_20251007/FAST/01.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/prdVcqg9/Django-Unchained-2012-542-X-768.jpg" group-title="Movies",Django Unchained (2012)[DUAL]
