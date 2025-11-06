@@ -1,5 +1,27 @@
 ﻿#EXTM3U
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HpNhnVkV/The-People-In-The-Walls-2024-542-X-768.jpg" group-title="Movies",The People In The Walls (2024)[CAST]
+https://archive.org/download/11_20251104/Gedit/01.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pjt9W9MB/Delirium-2023-542-X-768.jpg" group-title="Movies",Delirium (2023)[DUAL]
+https://archive.org/download/11_20251104/Gedit/02.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/V0SvyzjY/You-Shall-Not-Sleep-Tonight-2024-542-X-768.jpg" group-title="Movies",You Shall Not Sleep Tonight (2024)[DUAL]
+https://archive.org/download/11_20251104/Gedit/03.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/B2XxkNRB/Ghostland-2018-542-X-768.jpg" group-title="Movies",Ghostland (2018)[DUAL]
+https://archive.org/download/11_20251104/Gedit/04.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DPDffKLY/825-Forest-Road-2025-542-X-768.jpg" group-title="Movies",825 Forest Road (2025)[DUAL]
+https://archive.org/download/11_20251104/Gedit/05.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7tXvLMMy/Revival-2024-542-X-768.jpg" group-title="Movies",Revival (2024)[DUAL]
+https://archive.org/download/11_20251104/Gedit/06.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/d09vz0DW/Attack-13-2025-542-X-768.jpg" group-title="Movies",Attack 13 (2025) [DUAL]
+https://archive.org/download/11_20251104/Gedit/07.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RpmH0h5c/Wrong-Turn-5-Bloodlines-2012-542-X-768.jpg" group-title="Movies",Wrong Turn 5 Bloodlines (2012) [DUAL]
+https://archive.org/download/11_20251104/Gedit/08.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/200yhbmp/Night-Courier-2023-542-X-768.jpg" group-title="Movies",Night Courier (2023)[DUAL]
+https://archive.org/download/11_20251104/Gedit/09.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/S4xMyhc6/Wrong-Turn-2021-542-X-768.jpg" group-title="Movies",Wrong Turn (2021) [DUAL]
+https://archive.org/download/11_20251104/Gedit/10.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0jFrSZTD/The-Dark-Tower-2017-542-X-768.jpg" group-title="Movies",The Dark Tower (2017)[DUAL]
+https://archive.org/download/11_20251104/Gedit/11.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JWKtBYSs/The-Ugly-Stepsister-2025-542-X-768.jpg" group-title="Movies",The Ugly Stepsister (2025)[DUAL]
 https://archive.org/download/05_20251029/MANJARO/01.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gMpMnk2X/Don-t-Be-Afraid-of-the-Dark-2010-542-X-768.jpg" group-title="Movies",Don_t Be Afraid of the Dark (2010)[DUAL]
