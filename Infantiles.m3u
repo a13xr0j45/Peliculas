@@ -1,4 +1,24 @@
 ﻿#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TBDddhFC/The-Legend-of-the-Nahuala-2007-542-X-768.jpg",The Legend of the Nahuala (2007)
+https://archive.org/download/10_20251106/nano/01.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/27Y8LSMp/The-Legend-of-La-Llorona-2011-542-X-768.jpg",The Legend of La Llorona (2011)
+https://archive.org/download/10_20251106/nano/02.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bML08Gm0/The-Legend-of-the-Guanajuato-Mummies-2014-542-X-768.jpg",The Legend of the Guanajuato Mummies (2014)
+https://archive.org/download/10_20251106/nano/03.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mCNsDXBK/The-Legend-of-the-Chupacabras-2016-542-X-768.jpg",The Legend of the Chupacabras (2016)
+https://archive.org/download/10_20251106/nano/04.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1Jqv59sC/Frozen-II-2019-542-X-768.jpg",Frozen II (2019)
+https://archive.org/download/10_20251106/nano/05.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N6Z92rkc/Rio-2011-542-X-768.jpg",Rio (2011)
+https://archive.org/download/10_20251106/nano/06.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5gYdcJkP/Megamind-2010-542-X-768.jpg",Megamind (2010)
+https://archive.org/download/10_20251106/nano/07.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jkVzZzZ6/The-Croods-Family-Tree-2021-542-X-768.jpg",The Croods Family Tree (2021)
+https://archive.org/download/10_20251106/nano/08.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nW0ZkVP/Robin-Hood-1973-542-X-768.jpg",Robin Hood (1973)
+https://archive.org/download/10_20251106/nano/09.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7xCDBTr3/The-Boss-Baby-Family-Business-2021-542-X-768.jpg",The Boss Baby Family Business (2021)
+https://archive.org/download/10_20251106/nano/10.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dJj68PY5/The-Twits-2025-542-X-768.jpg",The Twits (2025)[LAT]
 https://archive.org/download/05_20251029/MANJARO/07.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0pDRsJ1c/Gabby-s-Dollhouse-The-Movie-2025-542-X-768.jpg",Gabby_s Dollhouse The Movie (2025)[LAT]
