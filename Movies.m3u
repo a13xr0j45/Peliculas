@@ -1,5 +1,6 @@
 ﻿#EXTM3U
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Mk2Fvg6h/Frankenstein-2025-542-X-768.jpg",Frankenstein (2025)[DUAL]
+https://archive.org/download/10_20251106/nano/11.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HpNhnVkV/The-People-In-The-Walls-2024-542-X-768.jpg" group-title="Movies",The People In The Walls (2024)[CAST]
 https://archive.org/download/11_20251104/Gedit/01.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pjt9W9MB/Delirium-2023-542-X-768.jpg" group-title="Movies",Delirium (2023)[DUAL]
