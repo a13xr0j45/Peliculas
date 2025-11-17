@@ -1,84 +1,10 @@
 ﻿#EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Mk2Fvg6h/Frankenstein-2025-542-X-768.jpg",Frankenstein (2025)[DUAL]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Mk2Fvg6h/Frankenstein-2025-542-X-768.jpg" group-title="Estrenos",Frankenstein (2025)[DUAL]
 https://archive.org/download/10_20251106/nano/11.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/KxppSVKT/Black-Phone-2-2025-542-X-768.jpg" group-title="Movies",Black Phone 2 (2025)[DUAL]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KxppSVKT/Black-Phone-2-2025-542-X-768.jpg" group-title="Estrenos",Black Phone 2 (2025)[DUAL]
 https://archive.org/download/03_20251117/gedit/00.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/YFLww9zg/Solace-2015-542-X-768.jpg" group-title="Movies",Solace (2015)[DUAL]
-https://archive.org/download/06_20251117_20251117/vim/00.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/J0jgTHS/Donnie-Darko-2001-542-X-768.jpg" group-title="Movies",Donnie Darko (2001)[DUAL]
-https://archive.org/download/06_20251117_20251117/vim/01.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ZsH4XvW/Parasite-2019-542-X-768.jpg" group-title="Movies",Parasite (2019)[DUAL]
-https://archive.org/download/06_20251117_20251117/vim/02.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/PG2RptdQ/The-Hand-That-Rocks-the-Cradle-1992-542-X-768.jpg" group-title="Movies",The Hand That Rocks the Cradle (1992)[DUAL]
-https://archive.org/download/06_20251117_20251117/vim/03.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zVXRNrYd/Poseidon-2006-542-X-768.jpg" group-title="Movies",Poseidon (2006)[DUAL]
-https://archive.org/download/06_20251117_20251117/vim/04.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/9mLnvyrX/Edward-Scissorhands-1990-542-X-768.jpg" group-title="Movies",Edward Scissorhands (1990)[DUAL]
-https://archive.org/download/06_20251117_20251117/vim/05.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4ZS0Pkd5/The-Rite-2011-542-X-768.jpg" group-title="Movies",The Rite (2011)[DUAL]
-https://archive.org/download/06_20251117_20251117/vim/06.mkv
-#EXTINF:-1 tvg-logo="https://i.ibb.co/LzVRwzfK/The-Ghost-Station-2023-542-X-768.jpg" group-title="Movies",The Ghost Station (2023)[DUAL]
-https://archive.org/download/03_20251117/gedit/01.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5hWTM974/Home-Alone-1990-542-X-768.jpg" group-title="Movies",Home Alone (1990) [DUAL]
-https://archive.org/download/03_20251117/gedit/02.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/QL9rbtC/Home-Alone-2-Lost-in-New-York-1992-542-X-768.jpg" group-title="Movies",Home Alone 2 Lost in New York (1992) [DUAL]
-https://archive.org/download/03_20251117/gedit/03.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ycDjLR5t/A-Perfect-Murder-1998-542-X-768.jpg" group-title="Movies",A Perfect Murder (1998)[DUAL]
-https://archive.org/download/03_20251117/gedit/04.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/VWFqhgsj/The-Guest-2025-542-X-768.jpg" group-title="Movies",The Guest (2025)[DUAL]
-https://archive.org/download/03_20251117/gedit/05.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Pp6QFYd/Beware-the-Boogeyman-2024-542-X-768.jpg" group-title="Movies",Beware the Boogeyman (2024)[DUAL]
-https://archive.org/download/03_20251117/gedit/06.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/RFBMrmZ/Baramulla-2025-542-X-768.jpg" group-title="Movies",Baramulla (2025)[DUAL]
-https://archive.org/download/03_20251117/gedit/07.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/1GKNkDB6/Angst-1983-542-X-768.jpg" group-title="Movies",Angst (1983) [GER]
-https://archive.org/download/03_20251117/gedit/08.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/HpNhnVkV/The-People-In-The-Walls-2024-542-X-768.jpg" group-title="Movies",The People In The Walls (2024)[CAST]
-https://archive.org/download/11_20251104/Gedit/01.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pjt9W9MB/Delirium-2023-542-X-768.jpg" group-title="Movies",Delirium (2023)[DUAL]
-https://archive.org/download/11_20251104/Gedit/02.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/V0SvyzjY/You-Shall-Not-Sleep-Tonight-2024-542-X-768.jpg" group-title="Movies",You Shall Not Sleep Tonight (2024)[DUAL]
-https://archive.org/download/11_20251104/Gedit/03.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/B2XxkNRB/Ghostland-2018-542-X-768.jpg" group-title="Movies",Ghostland (2018)[DUAL]
-https://archive.org/download/11_20251104/Gedit/04.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/DPDffKLY/825-Forest-Road-2025-542-X-768.jpg" group-title="Movies",825 Forest Road (2025)[DUAL]
-https://archive.org/download/11_20251104/Gedit/05.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/7tXvLMMy/Revival-2024-542-X-768.jpg" group-title="Movies",Revival (2024)[DUAL]
-https://archive.org/download/11_20251104/Gedit/06.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/d09vz0DW/Attack-13-2025-542-X-768.jpg" group-title="Movies",Attack 13 (2025) [DUAL]
-https://archive.org/download/11_20251104/Gedit/07.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/RpmH0h5c/Wrong-Turn-5-Bloodlines-2012-542-X-768.jpg" group-title="Movies",Wrong Turn 5 Bloodlines (2012) [DUAL]
-https://archive.org/download/11_20251104/Gedit/08.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/200yhbmp/Night-Courier-2023-542-X-768.jpg" group-title="Movies",Night Courier (2023)[DUAL]
-https://archive.org/download/11_20251104/Gedit/09.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/S4xMyhc6/Wrong-Turn-2021-542-X-768.jpg" group-title="Movies",Wrong Turn (2021) [DUAL]
-https://archive.org/download/11_20251104/Gedit/10.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0jFrSZTD/The-Dark-Tower-2017-542-X-768.jpg" group-title="Movies",The Dark Tower (2017)[DUAL]
-https://archive.org/download/11_20251104/Gedit/11.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/JWKtBYSs/The-Ugly-Stepsister-2025-542-X-768.jpg" group-title="Movies",The Ugly Stepsister (2025)[DUAL]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JWKtBYSs/The-Ugly-Stepsister-2025-542-X-768.jpg" group-title="Estrenos",The Ugly Stepsister (2025)[DUAL]
 https://archive.org/download/05_20251029/MANJARO/01.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gMpMnk2X/Don-t-Be-Afraid-of-the-Dark-2010-542-X-768.jpg" group-title="Movies",Don_t Be Afraid of the Dark (2010)[DUAL]
-https://archive.org/download/05_20251029/MANJARO/02.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tTjGVybs/Opus-2025-542-X-768.jpg" group-title="Movies",Opus (2025)[DUAL]
-https://archive.org/download/05_20251029/MANJARO/03.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/LXsxnQ7S/Vicious-2025-DUAL.jpg" group-title="Movies",Vicious (2025) [DUAL]
-https://archive.org/download/05_20251029/MANJARO/04.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhZcPt45/I-ll-Take-Your-Dead-2018-542-X-768.jpg" group-title="Movies",I_ll Take Your Dead (2018)[DUAL]
-https://archive.org/download/05_20251029/MANJARO/05.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/7tTJs2rc/Books-of-Blood-2020-542-X-768.jpg" group-title="Movies",Books of Blood (2020)[DUAL]
-https://archive.org/download/05_20251029/MANJARO/06.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/KxDshvhS/Ghost-1990-542-X-768.jpg" group-title="Movies",Ghost (1990)[DUAL]
-https://archive.org/download/05_20251029/MANJARO/08.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/xK1SjT5S/Grafted-2024-542-X-768.jpg" group-title="Movies",Grafted (2024)[DUAL]
-https://archive.org/download/06_20251017/rpm/01.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/TDkz1NzB/Treasure-Hunters-On-the-Tracks-of-Khufu-2025-542-X-768.jpg" group-title="Movies",Treasure Hunters On the Tracks of Khufu (2025)[DUAL]
-https://archive.org/download/06_20251017/rpm/03.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tTf5GXqV/V-H-S-HALLOWEEN-2025-542-X-768.jpg" group-title="Movies",V-H-S-HALLOWEEN (2025)[DUAL]
-https://archive.org/download/06_20251017/rpm/04.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/yFMFSm3W/The-Partisan-2025-542-X-768.jpg" group-title="Movies",The Partisan (2025)[DUAL]
-https://archive.org/download/06_20251017/rpm/05.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/R4271NBS/Kill-Bill-The-Whole-Bloody-Affair-2025-542-X-768.jpg" group-title="Movies",Kill Bill The Whole Bloody Affair (2025) [DUAL]
-https://archive.org/download/06_20251017/rpm/06.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/27rRwJTT/28-Days-Later-2002-542-X-768.jpg" group-title="Movies",28 Days Later (2002)[DUAL]
 https://archive.org/download/01_20250616_20250616_1849/COBOL/07.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LhBpDyjD/28-Weeks-Later-2007-542-X-768.jpg" group-title="Movies",28 Weeks Later (2007)[DUAL]
@@ -87,30 +13,44 @@ https://archive.org/download/01_20250616_20250616_1849/COBOL/06.mp4
 https://archive.org/download/04_20250728_20250728_1905/Linux/00.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/27X6LJfx/KM-31-Kilometer-31-2006-542-X-768.jpg" group-title="Movies",31 Kilometer 31 (2006)[LAT]
 https://archive.org/download/05_20251015/deb/01.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DPDffKLY/825-Forest-Road-2025-542-X-768.jpg" group-title="Movies",825 Forest Road (2025)[DUAL]
+https://archive.org/download/11_20251104/Gedit/05.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/W4pCZfxT/A-Few-Good-Men-1992-542-X-768.jpg" group-title="Movies",A Few Good Men (1992)[DUAL]
 https://archive.org/download/05_20251015/deb/02.mp4
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rp5JPIyZi9sMob15l46zNQLe5cO.jpg" group-title="Movies",A Ghost story (2017)[DUAL]
 https://archive.org/download/tutoriales_linux_202402/03.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3mtkXkFN/A-Normal-Woman-2025.jpg" group-title="Movies",A Normal Woman (2025)[DUAL]
 https://archive.org/download/04_20250728_20250728_1905/Linux/09.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ycDjLR5t/A-Perfect-Murder-1998-542-X-768.jpg" group-title="Movies",A Perfect Murder (1998)[DUAL]
+https://archive.org/download/03_20251117/gedit/04.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/21m7FLmV/Alienoid-2022-542x768.png" group-title="Movies",Alienoid (2022)[DUAL]
 https://archive.org/download/01_20250722_20250722_1518/cursos/01.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fVq1VmVF/Alienoid-Return-to-the-Future-2024-542x768.png" group-title="Movies",Alienoid Return to the Future (2024)[DUAL]
 https://archive.org/download/01_20250722_20250722_1518/cursos/02.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KTxFbNX/Angels-Fallen-Warriors-of-Peace-2024-542x768.png" group-title="Movies",Angels Fallen Warriors of Peace (2024)[DUAL]
 https://archive.org/download/03_20250716_20250716_1435/cacas/04.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1GKNkDB6/Angst-1983-542-X-768.jpg" group-title="Movies",Angst (1983) [GER]
+https://archive.org/download/03_20251117/gedit/08.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FkCCHZpr/Anything-for-Jackson-2020-542-X-768.jpg" group-title="Movies",Anything for Jackson (2020)[DUAL]
 https://archive.org/download/02_20250721_20250721/kk/07.mp4
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/oyjEPno8omeDYVNqUZS2RiEpuRC.jpg" group-title="Movies",Apartment 7A (2024)[DUAL]
 https://archive.org/download/1_20241003_20241003_1434/linux/4.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XkDTqkVc/Ash-2025-542-X-768.jpg" group-title="Movies",Ash (2025)[DUAL]
 https://archive.org/download/02_20250721_20250721/kk/04.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/d09vz0DW/Attack-13-2025-542-X-768.jpg" group-title="Movies",Attack 13 (2025) [DUAL]
+https://archive.org/download/11_20251104/Gedit/07.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ymGg00hY/Azrael-2024-542-x-768.jpg" group-title="Movies",Azrael (2024)[DUAL]
 https://archive.org/download/05_20250626_202506/linux/09.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RFBMrmZ/Baramulla-2025-542-X-768.jpg" group-title="Movies",Baramulla (2025)[DUAL]
+https://archive.org/download/03_20251117/gedit/07.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/j9nD0vG3/Baskin-2015-542-X-768.jpg" group-title="Movies",Baskin (2015)[TUR]
 https://archive.org/download/01_20250609/bsd/01.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Pp6QFYd/Beware-the-Boogeyman-2024-542-X-768.jpg" group-title="Movies",Beware the Boogeyman (2024)[DUAL]
+https://archive.org/download/03_20251117/gedit/06.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qM920Kjp/Blade-Runner-2049-2017-542-x-768.jpg" group-title="Movies",Blade Runner 2049 (2017)[DUAL]
 https://archive.org/download/01_20250625_20250625_1655/temp/02.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7tTJs2rc/Books-of-Blood-2020-542-X-768.jpg" group-title="Movies",Books of Blood (2020)[DUAL]
+https://archive.org/download/05_20251029/MANJARO/06.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HT3YFmL1/Bring-Her-Back-2025.jpg" group-title="Movies",Bring Her Back (2025)[DUAL]
 https://archive.org/download/04_20250728_20250728_1905/Linux/07.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/60K0t575/Cad-ver-2018-542-X-768.jpg" group-title="Movies",Cadáver (2018) [DUAL]
@@ -147,16 +87,24 @@ https://archive.org/download/01_20241006/linux/03.mp4
 https://archive.org/download/05_20250626_202506/linux/12.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xKcCntth/Death-Valley-2021-542-X-768.jpg" group-title="Movies",Death Valley (2021) [DUAL]
 https://archive.org/download/04_20250615_202506/atn/02.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pjt9W9MB/Delirium-2023-542-X-768.jpg" group-title="Movies",Delirium (2023)[DUAL]
+https://archive.org/download/11_20251104/Gedit/02.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/V02B7H3g/Distant-2024-542-X-768.jpg" group-title="Movies",Distant (2024)[DUAL]
 https://archive.org/download/01_20250624_20250624_1917/pascal/07.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/prdVcqg9/Django-Unchained-2012-542-X-768.jpg" group-title="Movies",Django Unchained (2012)[DUAL]
 https://archive.org/download/fast_20251007/FAST/02.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BKw5Cx1J/Django-Undisputed-2024-542-X-768.jpg" group-title="Movies",Django Undisputed (2024)[DUAL]
 https://archive.org/download/index_20251006_2147/LAST/02.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/J0jgTHS/Donnie-Darko-2001-542-X-768.jpg" group-title="Movies",Donnie Darko (2001)[DUAL]
+https://archive.org/download/06_20251117_20251117/vim/01.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gMpMnk2X/Don-t-Be-Afraid-of-the-Dark-2010-542-X-768.jpg" group-title="Movies",Don_t Be Afraid of the Dark (2010)[DUAL]
+https://archive.org/download/05_20251029/MANJARO/02.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1t2XcD1H/Eden-Lake-2008-542-X-768.jpg" group-title="Movies",Eden Lake (2008)[DUAL]
 https://archive.org/download/00_20250930/unix/06.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MxJmZsxz/Eden-Lake-2008-542-X-768.jpg" group-title="Movies",Eden Lake (2008)[DUAL]
 https://archive.org/download/02_20250917/TEXT/03.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9mLnvyrX/Edward-Scissorhands-1990-542-X-768.jpg" group-title="Movies",Edward Scissorhands (1990)[DUAL]
+https://archive.org/download/06_20251117_20251117/vim/05.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gMQH5BKh/Elio-2025-542x768.png" group-title="Movies",Elio (2025)[LAT]
 https://archive.org/download/04_20250819/text-editors/02.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dsVYj467/Eyes-Wide-Shut-1999-542-x-768.jpg" group-title="Movies",Eyes Wide Shut (1999)[DUAL]
@@ -177,10 +125,16 @@ https://archive.org/download/04_20250929_202509/commands/05.mp4
 https://archive.org/download/01_20250722_20250722_1518/cursos/06.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6Rvb3hyZ/Forrest-Gump-1994-542-X-768.jpg" group-title="Movies",Forrest Gump (1994)[DUAL]
 https://archive.org/download/fast_20251007/FAST/03.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KxDshvhS/Ghost-1990-542-X-768.jpg" group-title="Movies",Ghost (1990)[DUAL]
+https://archive.org/download/05_20251029/MANJARO/08.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/B2XxkNRB/Ghostland-2018-542-X-768.jpg" group-title="Movies",Ghostland (2018)[DUAL]
+https://archive.org/download/11_20251104/Gedit/04.mp4
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/f54mzACTFdiAxnQ30BK4GjrKzyn.jpg" group-title="Movies",Gladiator II (2024))[ENG]
 https://archive.org/download/5432_20241222/sabayon/24524r.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jPm4qYqL/Gonjiam-Haunted-Asylum-2018-542x768.png" group-title="Movies",Gonjiam Haunted Asylum (2018)[DUAL]
 https://archive.org/download/01_20250722_20250722_1518/cursos/03.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xK1SjT5S/Grafted-2024-542-X-768.jpg" group-title="Movies",Grafted (2024)[DUAL]
+https://archive.org/download/06_20251017/rpm/01.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4gFC66L6/Grafted-2024-542-X-768.jpg" group-title="Movies",Grafted (2024)[DUAL]
 https://archive.org/download/06_20251017/rpm/01.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XR9q8RY/Green-Book-2018-542-X-768.jpg" group-title="Movies",Green Book (2018) [DUAL]
@@ -201,6 +155,10 @@ https://archive.org/download/00_20250930/unix/02.mp4
 https://archive.org/download/09_20250811/daemons/11.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0jr7JJ1L/Hitch-2005-542-X-768.jpg" group-title="Movies",Hitch (2005)[DUAL]
 https://archive.org/download/04_20250615_202506/atn/04.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5hWTM974/Home-Alone-1990-542-X-768.jpg" group-title="Movies",Home Alone (1990) [DUAL]
+https://archive.org/download/03_20251117/gedit/02.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QL9rbtC/Home-Alone-2-Lost-in-New-York-1992-542-X-768.jpg" group-title="Movies",Home Alone 2 Lost in New York (1992) [DUAL]
+https://archive.org/download/03_20251117/gedit/03.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3Z2hHHc/Hook-2025-542x768.png" group-title="Movies",Hook (2025)[DUAL]
 https://archive.org/download/9_20250723_20250723_1924/daemons/01.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zWQTjCt9/I-Know-What-You-Did-Last-Summer-1997-542x768.png" group-title="Movies",I Know What You Did Last Summer (1997)[DUAL]
@@ -235,6 +193,8 @@ https://archive.org/download/9_20250723_20250723/linux/03.mp4
 https://archive.org/download/9_20250723_20250723/linux/04.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dsQkRCmD/It-Comes-at-Night-2017-542-X-768.jpg" group-title="Movies",It Comes at Night (2017)[DUAL]
 https://archive.org/download/02_20250721_20250721/kk/06.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhZcPt45/I-ll-Take-Your-Dead-2018-542-X-768.jpg" group-title="Movies",I_ll Take Your Dead (2018)[DUAL]
+https://archive.org/download/05_20251029/MANJARO/05.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tpRb4sZx/Jurassic-World-Rebirth-2025-542x768.png" group-title="Movies",Jurassic World Rebirth (2025)[DUAL]
 https://archive.org/download/01_20250808_20250808_1322/daemons/01.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TMTws25K/Karate-Kid-Legends-2025-542-x-768.jpg" group-title="Movies",Karate Kid Legends (2025) [DUAL]
@@ -243,6 +203,8 @@ https://archive.org/download/linux_202506/linux/01.mp4
 https://archive.org/download/9_20250723_20250723_1924/daemons/01.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/C4MrBTt/Kiff-Lore-of-the-Ring-Light-2025-542-x-768.jpg" group-title="Movies",Kiff Lore of the Ring Light (2025)[DUAL]
 https://archive.org/download/linux_202506/linux/05.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/R4271NBS/Kill-Bill-The-Whole-Bloody-Affair-2025-542-X-768.jpg" group-title="Movies",Kill Bill The Whole Bloody Affair (2025) [DUAL]
+https://archive.org/download/06_20251017/rpm/06.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jkDhZ9Lk/Kill-Bill-The-Whole-Bloody-Affair-2025-542-X-768.jpg" group-title="Movies",Kill Bill The Whole Bloody Affair (2025) [DUAL]
 https://archive.org/download/06_20251017/rpm/06.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/B2rM5MP3/Kill-Bill-Vol-1-2003-542-X-768.jpg" group-title="Movies",Kill Bill Vol. 1 (2003) [DUAL]
@@ -287,12 +249,18 @@ https://archive.org/download/01_20250624_20250624_1917/pascal/06.mp4
 https://archive.org/download/03_20250820_20250820_1910/deb/04.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GQddqxs7/Night-Call-2024-542-x-768.jpg" group-title="Movies",Night Call (2024)[DUAL]
 https://archive.org/download/01_20250625_20250625_1655/temp/03.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/200yhbmp/Night-Courier-2023-542-X-768.jpg" group-title="Movies",Night Courier (2023)[DUAL]
+https://archive.org/download/11_20251104/Gedit/09.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wNG44PDV/No-Way-Up-2024.jpg" group-title="Movies",No Way Up (2024)[DUAL]
 https://archive.org/download/04_20250728_20250728_1905/Linux/05.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1Yjf7hVw/Nobody-2-2025-542-X-768.jpg" group-title="Movies",Nobody 2 (2025)[DUAL]
 https://archive.org/download/daemons_202509/daemons/01.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tTjGVybs/Opus-2025-542-X-768.jpg" group-title="Movies",Opus (2025)[DUAL]
+https://archive.org/download/05_20251029/MANJARO/03.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N2v1zH4G/Paradox-Effect-2024-542-x-768.jpg" group-title="Movies",Paradox Effect (2024)[DUAL]
 https://archive.org/download/01_20250625_20250625_1655/temp/04.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZsH4XvW/Parasite-2019-542-X-768.jpg" group-title="Movies",Parasite (2019)[DUAL]
+https://archive.org/download/06_20251117_20251117/vim/02.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Lz09JZF8/Pearl-2022-542-x-768.jpg" group-title="Movies",Pearl (2022)[DUAL]
 https://archive.org/download/03_20250627_202506/RPM/01.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JwFLSBVK/Piglet-2025-542x768.png" group-title="Movies",Piglet (2025)[DUAL]
@@ -309,6 +277,8 @@ https://archive.org/download/09_20250811/daemons/08.mp4
 https://archive.org/download/09_20250811/daemons/05.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LXwd4hv3/Play-Dead-2025-542-x-768.jpg" group-title="Movies",Play Dead (2025)[DUAL]
 https://archive.org/download/asterix_202506/pbx/01.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zVXRNrYd/Poseidon-2006-542-X-768.jpg" group-title="Movies",Poseidon (2006)[DUAL]
+https://archive.org/download/06_20251117_20251117/vim/04.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cX7fLH7f/PRESENCE-2024-542x768.png" group-title="Movies",PRESENCE (2024)[DUAL]
 https://archive.org/download/04_20250728_20250728_1905/Linux/06.mp4
 #EXTINF:-1 group-title="Movies",project silence (2024) [kor]
@@ -324,11 +294,13 @@ https://archive.org/download/05_20241210_202412/utp/7549.mp4
 #EXTINF:-1 group-title="Movies",red one (2024)[dual]
 https://archive.org/download/01_20241213_202412/opensource/linux/01.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/n8rZMyh6/Remember-the-Titans-2000-542-x-768.jpg" group-title="Movies",Remember the Titans (2000)[DUAL]
-https://archive.org/download/linux_202506/linux/09.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/n8rZMyh6/Remember-the-Titans-2000-542-x-768.jpg" group-title="Movies",Remember the Titans (2000)[DUAL]
 https://archive.org/download/01_20250609/bsd/05.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/n8rZMyh6/Remember-the-Titans-2000-542-x-768.jpg" group-title="Movies",Remember the Titans (2000)[DUAL]
+https://archive.org/download/linux_202506/linux/09.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mFJVcjcq/Restore-Point-2023-542-X-768.jpg" group-title="Movies",Restore Point (2023)[DUAL]
 https://archive.org/download/linux-like/unix/69.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7tXvLMMy/Revival-2024-542-X-768.jpg" group-title="Movies",Revival (2024)[DUAL]
+https://archive.org/download/11_20251104/Gedit/06.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JWzjXPLh/Rich-Flu-2024-542-x-768.jpg" group-title="Movies",Rich Flu (2024) [DUAL]
 https://archive.org/download/linux_202506/linux/04.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0RgJfs5m/Risen-2021-542x768.png" group-title="Movies",Risen (2021)[DUAL]
@@ -375,6 +347,8 @@ https://archive.org/download/asterix_202506/pbx/06.mp4
 https://archive.org/download/9_20250723_20250723/linux/08.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0jgJFPYL/Slingshot-2024-542x768.png" group-title="Movies",Slingshot (2024)[DUAL]
 https://archive.org/download/01_20250808_20250808_1322/daemons/02.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YFLww9zg/Solace-2015-542-X-768.jpg" group-title="Movies",Solace (2015)[DUAL]
+https://archive.org/download/06_20251117_20251117/vim/00.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/238x1wbs/Speak-No-Evil-2024-542x768.png" group-title="Movies",Speak No Evil (2024)[DUAL]
 https://archive.org/download/9_20250723_20250723/linux/09.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YBpW59rH/Spectral-2016-542-X-768.jpg" group-title="Movies",Spectral (2016)[DUAL]
@@ -463,6 +437,8 @@ https://archive.org/download/02_20251010/pbx/03.mp4
 https://archive.org/download/asterix_202506/pbx/02.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/s9y8WYbz/The-Dark-and-the-Wicked-2020-542-X-768.jpg" group-title="Movies",The Dark and the Wicked (2020) [ENG]
 https://archive.org/download/04_20250615_202506/atn/05.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0jFrSZTD/The-Dark-Tower-2017-542-X-768.jpg" group-title="Movies",The Dark Tower (2017)[DUAL]
+https://archive.org/download/11_20251104/Gedit/11.mp4
 #EXTINF:-1 group-title="Movies",the deliverance (2024)[eng]
 https://archive.org/download/01_20240901_20240901_1848/bordados/03.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KxPBLm2h/The-Descent-2005-542x768.png" group-title="Movies",The Descent (2005)[DUAL]
@@ -495,8 +471,14 @@ https://archive.org/download/01_20250624_20250624_1917/pascal/08.mp4
 https://archive.org/download/02_20251017/rpm/234.mp4
 #EXTINF:-1 group-title="Movies",the garfield movie (2024)[dual]
 https://archive.org/download/perifericos_202407/upload/perifericos.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LzVRwzfK/The-Ghost-Station-2023-542-X-768.jpg" group-title="Movies",The Ghost Station (2023)[DUAL]
+https://archive.org/download/03_20251117/gedit/01.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rKvxfgBB/The-Girl-with-the-Needle-2024-542x768.png" group-title="Movies",The Girl with the Needle (2024)[DUAL]
 https://archive.org/download/04_20250819/text-editors/05.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VWFqhgsj/The-Guest-2025-542-X-768.jpg" group-title="Movies",The Guest (2025)[DUAL]
+https://archive.org/download/03_20251117/gedit/05.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PG2RptdQ/The-Hand-That-Rocks-the-Cradle-1992-542-X-768.jpg" group-title="Movies",The Hand That Rocks the Cradle (1992)[DUAL]
+https://archive.org/download/06_20251117_20251117/vim/03.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MkJqZDwV/The-Happening-2008-542-x-768.jpg" group-title="Movies",The Happening (2008) [DUAL]
 https://archive.org/download/04_20250613_20250613/c%2B%2B/04.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nsnNCKfv/The-Inhabitant-2018-542x768.png" group-title="Movies",The Inhabitant (2018)[ESP]
@@ -535,6 +517,10 @@ https://archive.org/download/9_20250723_20250723_1924/daemons/01.mp4
 https://archive.org/download/01_20250819_20250819_1912/linux/04.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WWZxn7Tj/The-Partisan-2025-542-X-768.jpg" group-title="Movies",The Partisan (2025)[DUAL]
 https://archive.org/download/06_20251017/rpm/05.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yFMFSm3W/The-Partisan-2025-542-X-768.jpg" group-title="Movies",The Partisan (2025)[DUAL]
+https://archive.org/download/06_20251017/rpm/05.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HpNhnVkV/The-People-In-The-Walls-2024-542-X-768.jpg" group-title="Movies",The People In The Walls (2024)[CAST]
+https://archive.org/download/11_20251104/Gedit/01.mp4
 #EXTINF:-1 group-title="Movies",the platform 2 (2024)[dual]
 https://archive.org/download/01_20241006/linux/01.mp4
 #EXTINF:-1 group-title="Movies",the polar express (2004)[dual]
@@ -543,6 +529,8 @@ https://archive.org/download/07_20241213/chuchu.mkv
 https://archive.org/download/index_20240823/cursos/05.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PG40rL6m/The-Recruit-2003-542x768.png" group-title="Movies",The Recruit (2003)[DUAL]
 https://archive.org/download/9_20250723_20250723/linux/13.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4ZS0Pkd5/The-Rite-2011-542-X-768.jpg" group-title="Movies",The Rite (2011)[DUAL]
+https://archive.org/download/06_20251117_20251117/vim/06.mkv
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XxHSZhws/The-Ritual-2025-542-X-768.jpg" group-title="Movies",The Ritual (2025)[DUAL]
 https://archive.org/download/04_20250929_202509/commands/07.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pvG7T8RJ/The-Skulls-2000-542-x-768.jpg" group-title="Movies",The Skulls (2000)[ENG]
@@ -582,11 +570,13 @@ https://archive.org/download/01_20250609/bsd/04.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WN2MSf7Q/Titan-The-Ocean-Gate-Submersible-Disaster-2025-542-x-768.jpg" group-title="Movies",Titan The OceanGate Submersible Disaster (2025)
 https://archive.org/download/04_20250613_20250613/c%2B%2B/03.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rRnMTbc0/Together-2025-542-X-768.jpg" group-title="Movies",Together (2025)[DUAL]
-https://archive.org/download/index_20251006_2147/LAST/04.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rRnMTbc0/Together-2025-542-X-768.jpg" group-title="Movies",Together (2025)[DUAL]
 https://archive.org/download/02_20250919_20250919/linux/05.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rRnMTbc0/Together-2025-542-X-768.jpg" group-title="Movies",Together (2025)[DUAL]
+https://archive.org/download/index_20251006_2147/LAST/04.mp4
 #EXTINF:-1 group-title="Movies",tomorrow never dies (1997)[esp]
 http://archive.org/download/mio53_yopmail_2/2.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TDkz1NzB/Treasure-Hunters-On-the-Tracks-of-Khufu-2025-542-X-768.jpg" group-title="Movies",Treasure Hunters On the Tracks of Khufu (2025)[DUAL]
+https://archive.org/download/06_20251017/rpm/03.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pGnnhvq/Treasure-Hunters-On-the-Tracks-of-Khufu-2025-542-X-768.jpg" group-title="Movies",Treasure Hunters On the Tracks of Khufu (2025)[DUAL]
 https://archive.org/download/06_20251017/rpm/03.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0p6R3wDh/Troy-2004-542x768.png" group-title="Movies",Troy (2004)[DUAL]
@@ -603,14 +593,18 @@ https://archive.org/download/67cwerf-3q-32w/sql/asdwerer23ew.mp4
 https://archive.org/download/04_20250613_20250613/c%2B%2B/02.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LdL7GsZm/V-H-S-HALLOWEEN-2025-542-X-768.jpg" group-title="Movies",V-H-S-HALLOWEEN (2025)[DUAL]
 https://archive.org/download/06_20251017/rpm/04.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tTf5GXqV/V-H-S-HALLOWEEN-2025-542-X-768.jpg" group-title="Movies",V-H-S-HALLOWEEN (2025)[DUAL]
+https://archive.org/download/06_20251017/rpm/04.mp4
 #EXTINF:-1 group-title="Movies",venom the last dance (2024)[dual]
 https://archive.org/download/05_20241210_202412/utp/05.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LXsxnQ7S/Vicious-2025-DUAL.jpg" group-title="Movies",Vicious (2025) [DUAL]
+https://archive.org/download/05_20251029/MANJARO/04.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Rks64kwM/Wake-2024-542-x-768.jpg" group-title="Movies",Wake (2024)[DUAL]
 https://archive.org/download/04_20250613_20250613/c%2B%2B/01.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ynVGVRkf/Warfare-2025-542-x-768.jpg" group-title="Movies",Warfare (2025)[DUAL]
-https://archive.org/download/01_20250609/bsd/03.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0pWhVSwF/Warfare-2025-542-x-768.jpg" group-title="Movies",Warfare (2025)[DUAL]
 https://archive.org/download/linux_202506/linux/10.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ynVGVRkf/Warfare-2025-542-x-768.jpg" group-title="Movies",Warfare (2025)[DUAL]
+https://archive.org/download/01_20250609/bsd/03.mp4
 #EXTINF:-1 group-title="Movies",warning do not play (2019)[kor]
 https://archive.org/download/tutoriales_linux_202402/08.mp4
 #EXTINF:-1 group-title="Movies",we live in time (2024)[dual]
@@ -629,8 +623,14 @@ https://archive.org/download/01_20241006/linux/02.mp4
 https://archive.org/download/05_20241210_202412/utp/549.mp4
 #EXTINF:-1 group-title="Movies",woman of the hour (2024) [dual]
 https://archive.org/download/5432_20241222/sabayon/3454212.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/S4xMyhc6/Wrong-Turn-2021-542-X-768.jpg" group-title="Movies",Wrong Turn (2021) [DUAL]
+https://archive.org/download/11_20251104/Gedit/10.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RpmH0h5c/Wrong-Turn-5-Bloodlines-2012-542-X-768.jpg" group-title="Movies",Wrong Turn 5 Bloodlines (2012) [DUAL]
+https://archive.org/download/11_20251104/Gedit/08.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KjfZWws1/X-2022-542-x-768.jpg" group-title="Movies",X (2022)[ENG]
 https://archive.org/download/03_20250627_202506/RPM/02.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/V0SvyzjY/You-Shall-Not-Sleep-Tonight-2024-542-X-768.jpg" group-title="Movies",You Shall Not Sleep Tonight (2024)[DUAL]
+https://archive.org/download/11_20251104/Gedit/03.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/b5n5TRxw/You-Will-Die-in-6-Hours-2024-542x768.png" group-title="Movies",You Will Die in 6 Hours (2024)[DUAL]
 https://archive.org/download/01_20250819_20250819_1912/linux/05.mp4
 #EXTINF:-1 group-title="Movies",you'll never find me (2023)[dual]
