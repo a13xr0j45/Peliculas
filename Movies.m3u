@@ -1,9 +1,22 @@
 ﻿#EXTM3U
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Mk2Fvg6h/Frankenstein-2025-542-X-768.jpg",Frankenstein (2025)[DUAL]
 https://archive.org/download/10_20251106/nano/11.mp4
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KxppSVKT/Black-Phone-2-2025-542-X-768.jpg" group-title="Movies",Black Phone 2 (2025)[DUAL]
 https://archive.org/download/03_20251117/gedit/00.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YFLww9zg/Solace-2015-542-X-768.jpg" group-title="Movies",Solace (2015)[DUAL]
+https://archive.org/download/06_20251117_20251117/vim/00.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/J0jgTHS/Donnie-Darko-2001-542-X-768.jpg" group-title="Movies",Donnie Darko (2001)[DUAL]
+https://archive.org/download/06_20251117_20251117/vim/01.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZsH4XvW/Parasite-2019-542-X-768.jpg" group-title="Movies",Parasite (2019)[DUAL]
+https://archive.org/download/06_20251117_20251117/vim/02.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PG2RptdQ/The-Hand-That-Rocks-the-Cradle-1992-542-X-768.jpg" group-title="Movies",The Hand That Rocks the Cradle (1992)[DUAL]
+https://archive.org/download/06_20251117_20251117/vim/03.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zVXRNrYd/Poseidon-2006-542-X-768.jpg" group-title="Movies",Poseidon (2006)[DUAL]
+https://archive.org/download/06_20251117_20251117/vim/04.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9mLnvyrX/Edward-Scissorhands-1990-542-X-768.jpg" group-title="Movies",Edward Scissorhands (1990)[DUAL]
+https://archive.org/download/06_20251117_20251117/vim/05.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4ZS0Pkd5/The-Rite-2011-542-X-768.jpg" group-title="Movies",The Rite (2011)[DUAL]
+https://archive.org/download/06_20251117_20251117/vim/06.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LzVRwzfK/The-Ghost-Station-2023-542-X-768.jpg" group-title="Movies",The Ghost Station (2023)[DUAL]
 https://archive.org/download/03_20251117/gedit/01.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5hWTM974/Home-Alone-1990-542-X-768.jpg" group-title="Movies",Home Alone (1990) [DUAL]
@@ -20,7 +33,6 @@ https://archive.org/download/03_20251117/gedit/06.mp4
 https://archive.org/download/03_20251117/gedit/07.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1GKNkDB6/Angst-1983-542-X-768.jpg" group-title="Movies",Angst (1983) [GER]
 https://archive.org/download/03_20251117/gedit/08.mp4
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HpNhnVkV/The-People-In-The-Walls-2024-542-X-768.jpg" group-title="Movies",The People In The Walls (2024)[CAST]
 https://archive.org/download/11_20251104/Gedit/01.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pjt9W9MB/Delirium-2023-542-X-768.jpg" group-title="Movies",Delirium (2023)[DUAL]
