@@ -1,4 +1,10 @@
 ﻿#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0yY6MzkH/Stitch-Head-2025-542-X-768.jpg" group-title="Estrenos",Stitch Head (2025)
+https://archive.org/download/01_20251125_20251125_0530/Onifom/08.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FbSfCpMY/The-Storm-2024-542-X-768.jpg" group-title="Estrenos",The Storm (2024)[DUAL]
+https://archive.org/download/01_20251125_20251125_0530/Onifom/06.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KjmWRrZB/Night-of-the-Zoopocalypse-2025-542-X-768.jpg" group-title="Estrenos",Night of the Zoopocalypse (2025)
+https://archive.org/download/01_20251125_20251125_0530/Onifom/07.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TBDddhFC/The-Legend-of-the-Nahuala-2007-542-X-768.jpg",The Legend of the Nahuala (2007)
 https://archive.org/download/10_20251106/nano/01.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/27Y8LSMp/The-Legend-of-La-Llorona-2011-542-X-768.jpg",The Legend of La Llorona (2011)
