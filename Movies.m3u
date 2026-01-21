@@ -1,4 +1,14 @@
 ﻿#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9m005Pwc/TRON-Ares-2025-542-X-768.jpg" group-title="Estrenos",TRON Ares (2025) [DUAL]
+https://archive.org/download/01_20251209_20251209/uptown/00.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZpZYxrQn/The-Shadow-s-Edge-2025-542-X-768.jpg" group-title="Estrenos",The Shadow_s Edge (2025)[CHI]
+https://archive.org/download/01_20251209_20251209/uptown/01.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Q3VFx65J/Bugonia-2025-542-X-768.jpg" group-title="Estrenos",Bugonia (2025)[DUAL]
+https://archive.org/download/01_20251209_20251209/uptown/02.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dw8cb2Pb/Last-Breath-2025-542-X-768.jpg" group-title="Estrenos",Last Breath (2025)[DUAL]
+https://archive.org/download/01_20251209_20251209/uptown/03.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/R495cHNZ/Trust-2025-542-X-768.jpg" group-title="Estrenos",Trust (2025)[DUAL]
+https://archive.org/download/01_20251209_20251209/uptown/09.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KxppSVKT/Black-Phone-2-2025-542-X-768.jpg" group-title="Estrenos",Black Phone 2 (2025)[DUAL]
 https://archive.org/download/03_20251117/gedit/00.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/359t880L/Bureau-749-2024-542-X-768.jpg" group-title="Estrenos",Bureau 749 (2024)[DUAL]
@@ -59,6 +69,8 @@ https://dl.dropbox.com/s/2hh2lixgtm3prqn/a.mother.on.the.edge.2019.mp4
 https://archive.org/download/04_20250728_20250728_1905/Linux/09.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ycDjLR5t/A-Perfect-Murder-1998-542-X-768.jpg" group-title="Movies",A Perfect Murder (1998)[DUAL]
 https://archive.org/download/03_20251117/gedit/04.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kgSHHgf9/A-Star-Is-Born-2018-542-X-768.jpg" group-title="Movies",A Star Is Born (2018)[DUAL]
+https://archive.org/download/01_20251209_20251209/uptown/08.mp4
 #EXTINF:-1 group-title="Movies",a todos los chicos p d todavia te quiero
 http://archive.org/download/5_20200304_20200304/7.mp4
 #EXTINF:-1 group-title="Movies",a.x.l
@@ -93,8 +105,6 @@ http://archive.org/download/mio53_yopmail_3/3.mp4
 http://archive.org/download/mio53_yopmail_5/5.mp4
 #EXTINF:-1 group-title="Movies",agente 007 james bond 8
 http://archive.org/download/mio53_yopmail_8/8.mp4
-#EXTINF:-1 group-title="Movies",ahí viene el cascarrabias
-http://ia801505.us.archive.org/18/items/yevadi_jbnote_00/00.mp4
 #EXTINF:-1 group-title="Movies",akira español
 http://archive.org/download/4k-1r-4-3sp_202101/4k1r4%203sp.mkv
 #EXTINF:-1 group-title="Movies",al diablo con el diablo
@@ -231,28 +241,6 @@ https://dl.dropbox.com/s/3unlrrh1g24851j/bachelor.party.%281984%29.720p.x264.fit
 http://archive.org/download/img-20200823-wa-0003/b4mb1.avi
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RFBMrmZ/Baramulla-2025-542-X-768.jpg" group-title="Movies",Baramulla (2025)[DUAL]
 https://archive.org/download/03_20251117/gedit/07.mp4
-#EXTINF:-1 group-title="Movies",Barbie Campamento Pop
-https://archive.org/download/b-4rb-13.pop.c-4mp-1n-6/B4rb13.pop.c4mp1n6.mp4
-#EXTINF:-1 group-title="Movies",barbie castillo de diamantes
-http://archive.org/download/15902146490988087416513007050637/6.mp4
-#EXTINF:-1 group-title="Movies",barbie chelsea el cumpleanos perdido
-https://archive.org/download/00-sierte/b4rb13.mp4
-#EXTINF:-1 group-title="Movies",barbie el diario de barbie
-http://archive.org/download/15902146490988087416513007050637/10.mp4
-#EXTINF:-1 group-title="Movies",barbie el lago de los cisnes
-http://archive.org/download/15902146490988087416513007050637/9.mp4
-#EXTINF:-1 group-title="Movies",barbie el secreto de las hadas
-http://archive.org/download/15902146490988087416513007050637/7.mp4
-#EXTINF:-1 group-title="Movies",barbie escuela de princesas
-http://archive.org/download/15902146490988087416513007050637/8.mp4
-#EXTINF:-1 group-title="Movies",barbie la magia del pagaso
-http://archive.org/download/15902146490988087416513007050637/4.mp4
-#EXTINF:-1 group-title="Movies",barbie las 3 mosqueteras
-http://archive.org/download/15902139288862477066218214529000/2.mp4
-#EXTINF:-1 group-title="Movies",barbie video game hero
-http://archive.org/download/15902146490988087416513007050637/5.mp4
-#EXTINF:-1 group-title="Movies",Barbie Video Game Hero
-https://archive.org/download/b-4r-b-1e.g-4m-3-h-3r-0/B4rB1e.g4m3H3r0.mp4
 #EXTINF:-1 group-title="Movies",bartkowiak
 https://archive.org/download/pacto1/b4rt.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/j9nD0vG3/Baskin-2015-542-X-768.jpg" group-title="Movies",Baskin (2015)[TUR]
@@ -391,6 +379,8 @@ https://archive.org/download/africa_202004/africa/africa.mp4
 https://archive.org/download/thdg_20200308/cnstine/cnstine.avi
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1RFem9guI0ULyVlgR76qSfOJZym.jpg" group-title="Movies",Constantine (2005)[DUAL]
 https://archive.org/download/03_20241006/linux/02.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Z2VH7fZ/constantine.jpg" group-title="Movies",Constantine (2005)[DUAL]
+https://archive.org/download/01_20251209_20251209/uptown/06.mp4
 #EXTINF:-1 group-title="Movies",constantine (op2)
 https://archive.org/download/007_20200426/007.avi
 #EXTINF:-1 group-title="Movies",constantine 2005
@@ -441,6 +431,8 @@ https://archive.org/download/videoplayback21_20200323/sub1d0_p4r4_5tr34ming_P5F1
 https://archive.org/download/videoplayback21_20200323/sub1d0_p4r4_5tr34ming_P5F11X/videoplayback4.mp4
 #EXTINF:-1 group-title="Movies",d a de la independencia (op. 2)
 http://archive.org/download/npr82752_zoqqa_1_201903/subid0_p4r4_str34ming_a85/1.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/W47DYHMt/Damien-Omen-II-1978-542-X-768.jpg" group-title="Movies",Damien - Omen II (1978)[DUAL]
+https://archive.org/download/01_20251209_20251209/uptown/05.mp4
 #EXTINF:-1 group-title="Movies",danny the dog (2005)
 https://archive.org/download/thdg_20200308/dn%20th%20dg/thdg.avi
 #EXTINF:-1 group-title="Movies",daria:  ya lleg  el oto o?
@@ -473,6 +465,8 @@ https://archive.org/download/04_20250615_202506/atn/02.mp4
 https://archive.org/download/11_20251104/Gedit/02.mp4
 #EXTINF:-1 group-title="Movies",delirium 2018
 http://ia601500.us.archive.org/8/items/000_20191210/1.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/W4rCcN2t/Demonic-2021-542-X-768.jpg" group-title="Movies",Demonic (2021)[DUAL]
+https://archive.org/download/01_20251209_20251209/uptown/07.mp4
 #EXTINF:-1 group-title="Movies",depredador la presa
 https://dl.dropbox.com/s/5zg3ng9m5m9gwjg/predator%20la%20presa%20%282022%29%20720p%20latino.mp4
 #EXTINF:-1 group-title="Movies",descendientes 3
@@ -527,10 +521,10 @@ http://archive.org/download/0_20200402_202004/1.mp4
 https://dl.dropbox.com/s/kcdgfbx1999wikh/tarde%20de%20perros%28ss_cany%29.mp4
 #EXTINF:-1 group-title="Movies",dog. un viaje salvaje
 https://archive.org/download/00naran/22/d0gunv14jes4lv4j3.mp4
-#EXTINF:-1 group-title="Movies",Dolittle
-https://dl.dropbox.com/s/4l6r58fweosertm/Dolittle.mp4
 #EXTINF:-1 group-title="Movies",dolittle
 https://dl.dropbox.com/s/4l6r58fweosertm/dolittle.mp4
+#EXTINF:-1 group-title="Movies",Dolittle
+https://dl.dropbox.com/s/4l6r58fweosertm/Dolittle.mp4
 #EXTINF:-1 group-title="Movies",dolittle (2020)
 http://archive.org/download/3_20200303/3.mp4
 #EXTINF:-1 group-title="Movies",don de dios
@@ -681,10 +675,10 @@ https://archive.org/download/019_20200427/020.mp4
 https://archive.org/download/e50772/sub1d0_p4r4_5tr34ming_P5F11X/e50772.mp4
 #EXTINF:-1 group-title="Movies",el gran simon
 https://archive.org/download/00gt_20210720/s1m0n.mp4
-#EXTINF:-1 group-title="Movies",el grinch
-http://archive.org/download/img20200212wa0108/9r1nch28129.mp4
 #EXTINF:-1 group-title="Movies",El Grinch
 http://archive.org/download/AnimalesFantsticos20182564564445646/El%20Grinch%20%282018%296464645411.mp4
+#EXTINF:-1 group-title="Movies",el grinch
+http://archive.org/download/img20200212wa0108/9r1nch28129.mp4
 #EXTINF:-1 group-title="Movies",el hallowen de hubie peli de la gran n 2020
 http://ia601509.us.archive.org/15/items/000_20201016/00005.mp4
 #EXTINF:-1 group-title="Movies",el hijo de la mascara
@@ -973,14 +967,14 @@ https://archive.org/download/00naran/fgtyko/frut0.mp4
 https://archive.org/download/cacahu/fu3rz4s3spec1al3s.mp4
 #EXTINF:-1 group-title="Movies",fullmetal alchemist - live action
 https://dl.dropbox.com/s/x2rnvflu7x8smnr/fullmetal%20alchemist%20pel%c3%adcula.mp4
-#EXTINF:-1 group-title="Movies",furia de titanes
-https://archive.org/download/polofoto/polofoto.mp4
 #EXTINF:-1 group-title="Movies",Furia de titanes
 https://archive.org/download/fur-14-t-1-t-4-n-3-s/FUR14T1T4N3S.mp4
-#EXTINF:-1 group-title="Movies",furia de titanes 2
-https://dl.dropbox.com/s/m9aqf4x4bjqjaju/fdt.mp4
+#EXTINF:-1 group-title="Movies",furia de titanes
+https://archive.org/download/polofoto/polofoto.mp4
 #EXTINF:-1 group-title="Movies",Furia de titanes 2
 https://dl.dropbox.com/s/m9aqf4x4bjqjaju/FDT.mp4
+#EXTINF:-1 group-title="Movies",furia de titanes 2
+https://dl.dropbox.com/s/m9aqf4x4bjqjaju/fdt.mp4
 #EXTINF:-1 group-title="Movies",furia silenciosa
 https://archive.org/download/00chayo/fur1as1l3.mkv
 #EXTINF:-1 group-title="Movies",futboll shaolin
@@ -1023,10 +1017,10 @@ https://dl.dropboxusercontent.com/s/1s72ufp19xnrphg/gonjiam.haunted.asylum.2018.
 https://dl.dropbox.com/s/funqz194sk2mj0x/goodland.2017.mp4
 #EXTINF:-1 group-title="Movies",gosth michael jackson
 http://archive.org/download/0_20200403/1.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4gFC66L6/Grafted-2024-542-X-768.jpg" group-title="Movies",Grafted (2024)[DUAL]
-https://archive.org/download/06_20251017/rpm/01.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xK1SjT5S/Grafted-2024-542-X-768.jpg" group-title="Movies",Grafted (2024)[DUAL]
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4gFC66L6/Grafted-2024-542-X-768.jpg" group-title="Movies",Grafted (2024)[DUAL]
+https://archive.org/download/06_20251017/rpm/01.mp4
 #EXTINF:-1 group-title="Movies",Grandes Heroes
 https://archive.org/download/videoplayback20_202011/sub1d0_p4r4_5tr34ming_P5F11X/videoplayback20.mkv
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XR9q8RY/Green-Book-2018-542-X-768.jpg" group-title="Movies",Green Book (2018) [DUAL]
@@ -1089,9 +1083,9 @@ http://archive.org/download/ezra_2_201904/subid0_p4r4_stre4m1ng_a85/8.mp4
 
 #EXTINF:-1 group-title="Movies",Harry Potter y el misterio del príncipe
 
-#EXTINF:-1 group-title="Movies",harry potter y el prisionero de azkaban
-
 #EXTINF:-1 group-title="Movies",Harry Potter y el prisionero de Azkaban
+
+#EXTINF:-1 group-title="Movies",harry potter y el prisionero de azkaban
 
 #EXTINF:-1 group-title="Movies",harry potter y la c mara secreta
 
@@ -1101,17 +1095,17 @@ http://archive.org/download/ezra_2_201904/subid0_p4r4_stre4m1ng_a85/8.mp4
 
 #EXTINF:-1 group-title="Movies",Harry Potter y la orden del Fénix
 
-#EXTINF:-1 group-title="Movies",harry potter y la piedra filosofal
-
 #EXTINF:-1 group-title="Movies",Harry Potter y la piedra filosofal
 
-#EXTINF:-1 group-title="Movies",harry potter y las reliquias de la muerte - parte ii
+#EXTINF:-1 group-title="Movies",harry potter y la piedra filosofal
 
 #EXTINF:-1 group-title="Movies",Harry Potter y las reliquias de la muerte - Parte II
 
-#EXTINF:-1 group-title="Movies",Harry Potter y las reliquias de la muerte Parte I
+#EXTINF:-1 group-title="Movies",harry potter y las reliquias de la muerte - parte ii
 
 #EXTINF:-1 group-title="Movies",harry potter y las reliquias de la muerte parte i
+
+#EXTINF:-1 group-title="Movies",Harry Potter y las reliquias de la muerte Parte I
 
 #EXTINF:-1 group-title="Movies",hasta el último hombre
 https://archive.org/download/00naran/pjki/h4st4ultim0.mp4
@@ -1265,10 +1259,10 @@ https://archive.org/download/6666_20200608/6666.mp4
 https://dl.dropbox.com/s/t2c4vz9t1dl2x88/Jugando%20Con%20El%20Destino.mp4
 #EXTINF:-1 group-title="Movies",jugando con fuego
 http://ia601509.us.archive.org/23/items/000_20200122_202001/5.mp4
-#EXTINF:-1 group-title="Movies",Jumanji
-https://archive.org/download/027_20200428/027.mkv
 #EXTINF:-1 group-title="Movies",jumanji
 http://archive.org/download/img20190721152019/4bd13l60nz4l34.mp4
+#EXTINF:-1 group-title="Movies",Jumanji
+https://archive.org/download/027_20200428/027.mkv
 #EXTINF:-1 group-title="Movies",jumper
 https://archive.org/download/356792-1026835/356792___1026835.mp4
 #EXTINF:-1 group-title="Movies",jurassic park
@@ -1301,10 +1295,10 @@ https://archive.org/download/linux_202506/linux/01.mp4
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/C4MrBTt/Kiff-Lore-of-the-Ring-Light-2025-542-x-768.jpg" group-title="Movies",Kiff Lore of the Ring Light (2025)[DUAL]
 https://archive.org/download/linux_202506/linux/05.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/R4271NBS/Kill-Bill-The-Whole-Bloody-Affair-2025-542-X-768.jpg" group-title="Movies",Kill Bill The Whole Bloody Affair (2025) [DUAL]
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jkDhZ9Lk/Kill-Bill-The-Whole-Bloody-Affair-2025-542-X-768.jpg" group-title="Movies",Kill Bill The Whole Bloody Affair (2025) [DUAL]
 https://archive.org/download/06_20251017/rpm/06.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/R4271NBS/Kill-Bill-The-Whole-Bloody-Affair-2025-542-X-768.jpg" group-title="Movies",Kill Bill The Whole Bloody Affair (2025) [DUAL]
+
 #EXTINF:-1 group-title="Movies",kill bill vol 2
 https://archive.org/download/00gt_20210720/k1llb12.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/B2rM5MP3/Kill-Bill-Vol-1-2003-542-X-768.jpg" group-title="Movies",Kill Bill Vol. 1 (2003) [DUAL]
@@ -1387,10 +1381,10 @@ https://archive.org/download/00pera/l4cur4.mp4
 https://archive.org/download/00100_201912/00100.mkv
 #EXTINF:-1 group-title="Movies",la desaparición de mamá
 https://archive.org/download/cacahu/d3s4p4r1.mp4
-#EXTINF:-1 group-title="Movies",la era de hielo
-http://archive.org/download/000_20210108_202101/3r4d3h13l0.avi
 #EXTINF:-1 group-title="Movies",La Era de Hielo
 https://archive.org/download/00100_20200108_2219/00100.avi
+#EXTINF:-1 group-title="Movies",la era de hielo
+http://archive.org/download/000_20210108_202101/3r4d3h13l0.avi
 #EXTINF:-1 group-title="Movies",la era de hielo 1
 http://archive.org/download/15_20200213_202002/5ub1d0p0ry4553r.mp4
 #EXTINF:-1 group-title="Movies",la era de hielo 1 (opc.2)
@@ -1783,10 +1777,10 @@ https://archive.org/download/05_20250626_202506/linux/05.mp4
 https://archive.org/download/desct_202107/m1ssv10l.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1tv9931T/Missing-Link-1988-542-x-768.jpg" group-title="Movies",Missing Link (1988)[DUAL]
 https://archive.org/download/01_20250624_20250624_1917/pascal/01.mp4
-#EXTINF:-1 group-title="Movies",moana
-http://archive.org/download/7_20190824/6.mp4
 #EXTINF:-1 group-title="Movies",Moana
 https://archive.org/download/videoplayback21_20200319/sub1d0_p4r4_5tr34ming_P5F11X/videoplayback32.mp4
+#EXTINF:-1 group-title="Movies",moana
+http://archive.org/download/7_20190824/6.mp4
 #EXTINF:-1 group-title="Movies",mobile suit gundam hathaway
 https://archive.org/download/0hyu_20210713/m0v1l3gu.mp4
 #EXTINF:-1 group-title="Movies",Monster House
@@ -1899,10 +1893,10 @@ http://archive.org/download/img20200212wa0130/e59gkol41o12.mp4-h264_720p.mp4
 https://archive.org/download/00-zarza/p3rr1j4cs0n.mp4
 #EXTINF:-1 group-title="Movies",percy jackson y el mar de los monstruos (2013)
 https://archive.org/download/00-zarza/p3rr1j4cs0nm0unstr0.mp4
-#EXTINF:-1 group-title="Movies",Perdi mi cuerpo
-https://dl.dropbox.com/s/5w139f1dys7xg82/I.Lost.My.Body.2019.SS_CANY.mp4
 #EXTINF:-1 group-title="Movies",perdi mi cuerpo
 https://dl.dropbox.com/s/5w139f1dys7xg82/i.lost.my.body.2019.ss_cany.mp4
+#EXTINF:-1 group-title="Movies",Perdi mi cuerpo
+https://dl.dropbox.com/s/5w139f1dys7xg82/I.Lost.My.Body.2019.SS_CANY.mp4
 #EXTINF:-1 group-title="Movies",perdidos en el ártico (2022)
 https://archive.org/download/ck-2_20210106/derty/p3rd1d0s.mp4
 #EXTINF:-1 group-title="Movies",peregrino 2019
@@ -1985,10 +1979,10 @@ https://archive.org/download/00naran/fgtyko/pr1s1.mp4
 https://archive.org/download/index_20240823/cursos/02.mp4
 #EXTINF:-1 group-title="Movies",proyecto alf
 https://archive.org/download/00chayo/4lf.mp4
-#EXTINF:-1 group-title="Movies",Proyecto Almanaque
-https://dl.dropboxusercontent.com/s/jrn5kyiy4dq4cym/Proyecto-Almanac.mp4?fbclid=IwAR1yIgHOOozsmax04dEEKAji8YWdcDJrFrVT5Iq26CU_E6yTftl80JjKpak
 #EXTINF:-1 group-title="Movies",proyecto almanaque
 https://dl.dropboxusercontent.com/s/jrn5kyiy4dq4cym/proyecto-almanac.mp4?fbclid=iwar1yighooozsmax04deekaji8ywdcdjrfrvt5iq26cu_e6ytftl80jjkpak
+#EXTINF:-1 group-title="Movies",Proyecto Almanaque
+https://dl.dropboxusercontent.com/s/jrn5kyiy4dq4cym/Proyecto-Almanac.mp4?fbclid=IwAR1yIgHOOozsmax04dEEKAji8YWdcDJrFrVT5Iq26CU_E6yTftl80JjKpak
 #EXTINF:-1 group-title="Movies",proyecto x
 http://archive.org/download/hcr83403_zoqqa_2/subid0_p4r4_stre4m1ng_a85/2.mp4
 #EXTINF:-1 group-title="Movies",psycho bff
@@ -2095,20 +2089,20 @@ https://archive.org/download/leo_20200826/leo.mp4
 https://archive.org/download/linux_202506/linux/04.mp4
 #EXTINF:-1 group-title="Movies",ricky ricon
 https://archive.org/download/00gt_20210720/r1cr1c0n.mp4
-#EXTINF:-1 group-title="Movies",Rio
-https://ia601402.us.archive.org/21/items/1e08_20191210/1f00e.mp4
 #EXTINF:-1 group-title="Movies",rio
 http://archive.org/download/002_20200607_202006/001.mp4
+#EXTINF:-1 group-title="Movies",Rio
+https://ia601402.us.archive.org/21/items/1e08_20191210/1f00e.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0RgJfs5m/Risen-2021-542x768.png" group-title="Movies",Risen (2021)[DUAL]
 https://archive.org/download/03_20250820_20250820_1910/deb/01.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WWFd8n1y/Rob1n-2025-542x768.png" group-title="Movies",Rob1n (2025)[DUAL]
 https://archive.org/download/04_20250819/text-editors/03.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ycYtgmY0/Robin-Hood-2010-542-X-768.jpg" group-title="Movies",Robin Hood (2010)[DUAL]
 https://archive.org/download/fast_20251007/FAST/01.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/K7gf9h6/Robot-salvaje.jpg" group-title="Movies",Robot salvaje (2024)[DUAL]
-https://archive.org/download/1_20241003_20241003_1434/linux/1.mp4
 #EXTINF:-1 group-title="Movies",robot salvaje (2024)[dual]
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/K7gf9h6/Robot-salvaje.jpg" group-title="Movies",Robot salvaje (2024)[DUAL]
+https://archive.org/download/1_20241003_20241003_1434/linux/1.mp4
 #EXTINF:-1 group-title="Movies",robots
 http://archive.org/download/img20200311185853/r0b075dvdr1pl471n0.mp4
 #EXTINF:-1 group-title="Movies",rocknrolla (2008)
@@ -2221,10 +2215,10 @@ https://archive.org/download/descarga_202101/dfdf/s0n1.mp4
 https://archive.org/download/50-n-1-c/50N1C.mp4
 #EXTINF:-1 group-title="Movies",South Park especial de Pandemia(2020)
 https://archive.org/download/videoplayback18_202011/sub1d0_p4r4_5tr34ming_P5F11X/videoplayback39.mkv
-#EXTINF:-1 tvg-logo="https://i.ibb.co/238x1wbs/Speak-No-Evil-2024-542x768.png" group-title="Movies",Speak No Evil (2024)[DUAL]
-https://archive.org/download/9_20250723_20250723/linux/09.mp4
 #EXTINF:-1 group-title="Movies",speak no evil (2024)[dual]
 https://archive.org/download/1_20241003_20241003_1434/linux/3.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/238x1wbs/Speak-No-Evil-2024-542x768.png" group-title="Movies",Speak No Evil (2024)[DUAL]
+https://archive.org/download/9_20250723_20250723/linux/09.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YBpW59rH/Spectral-2016-542-X-768.jpg" group-title="Movies",Spectral (2016)[DUAL]
 https://archive.org/download/02_20251014_202510/RPM/04.mp4
 #EXTINF:-1 group-title="Movies",spectre (2015)
@@ -2427,10 +2421,10 @@ https://archive.org/download/03_20250820_20250820_1910/deb/03.mp4
 https://archive.org/download/01_20250624_20250624_1917/pascal/08.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XfT3wc9p/The-Gangster-the-Cop-the-Devil-2019-542-X-768.jpg" group-title="Movies",The Gangster the Cop the Devil (2019)[DUAL]
 https://archive.org/download/02_20251017/rpm/234.mp4
-#EXTINF:-1 group-title="Movies",the garfield movie (2024)[dual]
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tKf5KDX/Garfield-La-pel-cula-2024.jpg" group-title="Movies",The Garfield Movie (2024)[DUAL]
 https://archive.org/download/perifericos_202407/upload/perifericos.mp4
+#EXTINF:-1 group-title="Movies",the garfield movie (2024)[dual]
+
 #EXTINF:-1 group-title="Movies",the gentlemen: los se ores de la mafia (2020)
 https://archive.org/download/oxtar/gaxx/oxtar.mkv
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LzVRwzfK/The-Ghost-Station-2023-542-X-768.jpg" group-title="Movies",The Ghost Station (2023)[DUAL]
@@ -2449,10 +2443,10 @@ https://archive.org/download/06_20251117_20251117/vim/03.mp4
 https://archive.org/download/04_20250613_20250613/c%2B%2B/04.mp4
 #EXTINF:-1 group-title="Movies",the ice road (2021)
 https://archive.org/download/cacahu/1c3r0ad.mp4
-#EXTINF:-1 group-title="Movies",The Imaginarium of Doctor Parnassus
-https://dl.dropboxusercontent.com/s/ybel9j3pxn5spkt/The.Imaginarium.of.Doctor.Parnassus.2009.mp4
 #EXTINF:-1 group-title="Movies",the imaginarium of doctor parnassus
 https://dl.dropboxusercontent.com/s/ybel9j3pxn5spkt/the.imaginarium.of.doctor.parnassus.2009.mp4
+#EXTINF:-1 group-title="Movies",The Imaginarium of Doctor Parnassus
+https://dl.dropboxusercontent.com/s/ybel9j3pxn5spkt/The.Imaginarium.of.Doctor.Parnassus.2009.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nsnNCKfv/The-Inhabitant-2018-542x768.png" group-title="Movies",The Inhabitant (2018)[ESP]
 https://archive.org/download/9_20250723_20250723/linux/11.mp4
 #EXTINF:-1 group-title="Movies",the instigators (2024)
@@ -2487,6 +2481,8 @@ https://archive.org/download/vigota/vigota.mp4
 https://archive.org/download/05_20251202_202512/Linux/06.mp4
 #EXTINF:-1 group-title="Movies",the old guard (2020)
 https://dl.dropbox.com/s/2dlws4f8y42dq3m/the.old.guard.2020.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bj9NcVwX/The-Omen-1976-542-X-768.jpg" group-title="Movies",The Omen (1976)[DUAL]
+https://archive.org/download/01_20251209_20251209/uptown/04.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Kj9QNcBN/The-Orphanage-2007-542-X-768.jpg" group-title="Movies",The Orphanage (2007)[CAST]
 https://archive.org/download/02_20251014_202510/RPM/03.mp4
 #EXTINF:-1 group-title="Movies",the outlaws
@@ -2573,14 +2569,14 @@ https://archive.org/download/cuartormuna/20.mp4
 http://archive.org/download/0_20200424_20200424_1602/9.mp4
 #EXTINF:-1 group-title="Movies",tick tick boom! (2021)
 https://archive.org/download/00chich/t1c6t1.mp4
-#EXTINF:-1 group-title="Movies",tierra de osos
-http://archive.org/download/000_20210108_202101/713rr4d30505.avi
 #EXTINF:-1 group-title="Movies",Tierra de Osos
 https://ia601402.us.archive.org/21/items/1e08_20191210/bf0c.mp4
-#EXTINF:-1 group-title="Movies",Tierra de Osos 2
-https://ia601402.us.archive.org/21/items/1e08_20191210/f163.mp4
+#EXTINF:-1 group-title="Movies",tierra de osos
+http://archive.org/download/000_20210108_202101/713rr4d30505.avi
 #EXTINF:-1 group-title="Movies",tierra de osos 2
 http://archive.org/download/000_20210108_202101/713rr4d305052.avi
+#EXTINF:-1 group-title="Movies",Tierra de Osos 2
+https://ia601402.us.archive.org/21/items/1e08_20191210/f163.mp4
 #EXTINF:-1 group-title="Movies",timadoras compulsivas
 http://ia801507.us.archive.org/4/items/000_20200127/5.mp4
 #EXTINF:-1 group-title="Movies",tio buck al rescate
@@ -2619,10 +2615,10 @@ https://archive.org/download/01t6574568475645684685486545684/01%20t6574568475645
 https://archive.org/download/h1erb4/t0y2.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YTL7NRsT/Toy-Story-2-1999.jpg" group-title="Movies",Toy Story 2 (1999)
 https://archive.org/download/04_20250728_20250728_1905/Linux/14.mp4
-#EXTINF:-1 group-title="Movies",toy story 3
-https://archive.org/download/h1erb4/t0y3.mp4
 #EXTINF:-1 group-title="Movies",Toy Story 3
 https://archive.org/download/3gefgyilegfielngfilsaegfyiserfyiditeidfseyifdyeldyefldy/3gefgyilegfiel%C3%B1gfilsaegfyiserfyiditeidfseyifdyeldyefldy.mp4
+#EXTINF:-1 group-title="Movies",toy story 3
+https://archive.org/download/h1erb4/t0y3.mp4
 #EXTINF:-1 group-title="Movies",toy story 4
 http://archive.org/download/t0y2t0r7/t0y2t0r7.mp4
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mJ95RnlammhYb6ZvBbQFLq8Jqnl.jpg" group-title="Movies",Toy Story Lamp Life (2020)
@@ -2633,10 +2629,10 @@ https://archive.org/download/tiempoperd5346954976252380640degdsavdkjvasgxcvaduct
 
 #EXTINF:-1 group-title="Movies",trascender
 https://archive.org/download/tmbrder/trsndr/trsndr.avi
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pGnnhvq/Treasure-Hunters-On-the-Tracks-of-Khufu-2025-542-X-768.jpg" group-title="Movies",Treasure Hunters On the Tracks of Khufu (2025)[DUAL]
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TDkz1NzB/Treasure-Hunters-On-the-Tracks-of-Khufu-2025-542-X-768.jpg" group-title="Movies",Treasure Hunters On the Tracks of Khufu (2025)[DUAL]
 https://archive.org/download/06_20251017/rpm/03.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pGnnhvq/Treasure-Hunters-On-the-Tracks-of-Khufu-2025-542-X-768.jpg" group-title="Movies",Treasure Hunters On the Tracks of Khufu (2025)[DUAL]
+
 #EXTINF:-1 group-title="Movies",tres lancheros muy picudos (1989)
 https://archive.org/download/dedede-1/3%20l4nch3r0s%20p1cud05.mp4
 #EXTINF:-1 group-title="Movies",trolls 2
@@ -2757,10 +2753,10 @@ https://archive.org/download/04_20250613_20250613/c%2B%2B/01.mp4
 https://archive.org/download/tutoriales_202506/TutorialesLinux/06.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/C5QHZcm7/War-of-the-Worlds-2005-542-X-768.jpg" group-title="Movies",War of the Worlds (2005) [DUAL]
 https://archive.org/download/01_20251125_20251125_0530/Onifom/02.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0pWhVSwF/Warfare-2025-542-x-768.jpg" group-title="Movies",Warfare (2025)[DUAL]
-https://archive.org/download/linux_202506/linux/10.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ynVGVRkf/Warfare-2025-542-x-768.jpg" group-title="Movies",Warfare (2025)[DUAL]
 https://archive.org/download/01_20250609/bsd/03.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0pWhVSwF/Warfare-2025-542-x-768.jpg" group-title="Movies",Warfare (2025)[DUAL]
+https://archive.org/download/linux_202506/linux/10.mp4
 #EXTINF:-1 group-title="Movies",warning do not play (2019)[kor]
 https://archive.org/download/tutoriales_linux_202402/08.mp4
 #EXTINF:-1 group-title="Movies",was i really kidnapped
@@ -2869,6 +2865,30 @@ https://archive.org/download/2223_20200217/sub1d0_p4r4_5tr34ming_P5F11X/2223.mkv
 https://dl.dropboxusercontent.com/s/wmlamexvl327mth/101.1961.mp4
 #EXTINF:-1 group-title="Infantiles",Agente 00 Gato (2018)
 https://archive.org/download/agnt_20210627/41lol02/agnt.mp4
+#EXTINF:-1 group-title="Infantiles",ahí viene el cascarrabias
+http://ia801505.us.archive.org/18/items/yevadi_jbnote_00/00.mp4
+#EXTINF:-1 group-title="Infantiles",Barbie Campamento Pop
+https://archive.org/download/b-4rb-13.pop.c-4mp-1n-6/B4rb13.pop.c4mp1n6.mp4
+#EXTINF:-1 group-title="Infantiles",barbie castillo de diamantes
+http://archive.org/download/15902146490988087416513007050637/6.mp4
+#EXTINF:-1 group-title="Infantiles",barbie chelsea el cumpleanos perdido
+https://archive.org/download/00-sierte/b4rb13.mp4
+#EXTINF:-1 group-title="Infantiles",barbie el diario de barbie
+http://archive.org/download/15902146490988087416513007050637/10.mp4
+#EXTINF:-1 group-title="Infantiles",barbie el lago de los cisnes
+http://archive.org/download/15902146490988087416513007050637/9.mp4
+#EXTINF:-1 group-title="Infantiles",barbie el secreto de las hadas
+http://archive.org/download/15902146490988087416513007050637/7.mp4
+#EXTINF:-1 group-title="Infantiles",barbie escuela de princesas
+http://archive.org/download/15902146490988087416513007050637/8.mp4
+#EXTINF:-1 group-title="Infantiles",barbie la magia del pagaso
+http://archive.org/download/15902146490988087416513007050637/4.mp4
+#EXTINF:-1 group-title="Infantiles",barbie las 3 mosqueteras
+http://archive.org/download/15902139288862477066218214529000/2.mp4
+#EXTINF:-1 group-title="Infantiles",Barbie Video Game Hero
+https://archive.org/download/b-4r-b-1e.g-4m-3-h-3r-0/B4rB1e.g4m3H3r0.mp4
+#EXTINF:-1 group-title="Infantiles",barbie video game hero
+http://archive.org/download/15902146490988087416513007050637/5.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KjmWRrZB/Night-of-the-Zoopocalypse-2025-542-X-768.jpg" group-title="Infantiles",Night of the Zoopocalypse (2025)
 https://archive.org/download/01_20251125_20251125_0530/Onifom/07.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0yY6MzkH/Stitch-Head-2025-542-X-768.jpg" group-title="Infantiles",Stitch Head (2025)
