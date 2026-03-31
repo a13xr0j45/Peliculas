@@ -1,25 +1,24 @@
 #EXTM3U
-#EXTINF:-1 group-title="Películas",300
+#EXTINF:-1,300 (2007)
 https://ia601509.us.archive.org/32/items/nhu9tdftu/nhu9tdftu.mp4
-#EXTINF:-1 group-title="Películas",300 rise of an empire
+#EXTINF:-1,300 rise of an empire (2014)
 https://ia601509.us.archive.org/32/items/nhu9tdftu/bvuwv.mp4
-#EXTINF:-1 group-title="Películas",31 Kilometer 31
+#EXTINF:-1 tvg-logo="https://i.ibb.co/27X6LJfx/KM-31-Kilometer-31-2006-542-X-768.jpg",31 Kilometer 31 (2006)[LAT]
 https://archive.org/download/05_20251015/deb/01.mp4
-#EXTINF:-1 group-title="Películas",500 Days of Summer
+#EXTINF:-1,500 Days of Summer (2009)
 https://archive.org/download/500-dias-con-ella/500%20d%c3%adas%20con%20ella.mp4
-#EXTINF:-1 group-title="Películas",7500
+#EXTINF:-1,7500 (2019)
 https://dl.dropbox.com/s/0u75i49lo9svau3/7500.2019.mp4
-#EXTINF:-1 group-title="Películas",The Lord of the Rings 1
+#EXTINF:-1,The Lord of the Rings 1
 https://archive.org/download/021_20200427/021.mkv
-#EXTINF:-1 group-title="Películas",The Lord of the Rings 2
+#EXTINF:-1,The Lord of the Rings 2
 https://archive.org/download/022_20200427/022.mkv
-#EXTINF:-1 group-title="Películas",The Lord of the Rings
+#EXTINF:-1,The Lord of the Rings
 https://archive.org/download/023_20200427/023.mkv
-#EXTINF:-1 group-title="Películas",el señor de los anillos el retorno del rey
+#EXTINF:-1,el señor de los anillos el retorno del rey
 http://archive.org/download/0trece/9.mp4
-#EXTINF:-1 group-title="Películas",el señor de los anillos las dos torres
+#EXTINF:-1,el señor de los anillos las dos torres
 http://archive.org/download/0trece/8.mp4
-
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/i8lVYRplWdCEqYOutxpxeCtaD2a.jpg",10 Minutes Gone (2019)
 https://dl.dropboxusercontent.com/s/gudmdnmk6qxyyln/angeles%20de%20charly.mp4
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hJJaDnmz32da6gUfhTRkaXaZlwk.jpg",10 Things We Should Do Before We Break Up (2020))[ESP]
