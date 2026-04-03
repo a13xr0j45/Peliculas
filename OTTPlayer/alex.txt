@@ -1,4 +1,3 @@
-En mi lista m3u, elimina las entradas duplicadas, basado en los enlaces y dale a los títulos formato de letra Capital
 
 #EXTM3U
 #EXTINF:-1 ,puppet master 3
