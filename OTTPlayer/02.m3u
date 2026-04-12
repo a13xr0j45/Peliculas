@@ -1,4 +1,19 @@
 ﻿#EXTM3U
+#EXTINF:-1,Mission Impossible (1996)[DUAL]
+https://archive.org/download/03_20260408_202604/up/01.mkv
+#EXTINF:-1,Mission Impossible II (2000)[DUAL]
+https://archive.org/download/03_20260408_202604/up/02.mkv
+#EXTINF:-1,Mission Impossible III (2006)[DUAL]
+https://archive.org/download/03_20260408_202604/up/03.mkv
+#EXTINF:-1,Mission Impossible - Ghost Protocol (2011)[DUAL]
+https://archive.org/download/03_20260408_202604/up/04.mkv
+#EXTINF:-1,Mission Impossible - Rogue Nation (2015)[DUAL]
+https://archive.org/download/03_20260408_202604/up/05.mkv
+#EXTINF:-1,Mission Impossible - Fallout (2018)[DUAL]
+https://archive.org/download/03_20260408_202604/up/06.mkv
+#EXTINF:-1,Mission Impossible - Dead Reckoning Part One (2023)[DUAL]
+https://archive.org/download/03_20260408_202604/up/07.mkv
+
 #EXTINF:-1,Please Don_t Feed the Children (2025)[DUAL]
 https://archive.org/download/05_20260406_202604/DEBIAN/01.mkv
 #EXTINF:-1,As Above So Below (2014)[DUAL]
@@ -13,8 +28,6 @@ https://archive.org/download/05_20260406_202604/DEBIAN/05.mkv
 https://archive.org/download/05_20260406_202604/DEBIAN/06.mkv
 #EXTINF:-1,Five Nights at Freddy_s 2 (2025)[DUAL]
 https://archive.org/download/05_20260406_202604/DEBIAN/07.mkv
-
-
 #EXTINF:-1 ,Home Alone (1990)
 http://archive.org/download/alogupax1/Sub1d0_p4r4_5tr34ming_A85_v4r145_12/1.mkv
 #EXTINF:-1 ,Home Alone 2 Lost in New York (1992)
