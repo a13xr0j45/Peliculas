@@ -1,4 +1,13 @@
 ﻿#EXTM3U
+#EXTINF:-1,The Da Vinci Code (2006)[DUAL]
+https://archive.org/download/02_20260418_202604/Nuevos/01.mkv
+#EXTINF:-1,Angels & Demons (2009)[DUAL]
+https://archive.org/download/02_20260418_202604/Nuevos/02.mkv
+#EXTINF:-1,Inferno (2016)[DUAL]
+https://archive.org/download/02_20260418_202604/Nuevos/03.mkv
+#EXTINF:-1,Return to Silent Hill (2026)[DUAL]
+https://archive.org/download/02_20260418_202604/Nuevos/04.mkv
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9m005Pwc/TRON-Ares-2025-542-X-768.jpg" group-title="Estrenos",TRON Ares (2025) [DUAL]
 https://archive.org/download/01_20251209_20251209/uptown/00.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZpZYxrQn/The-Shadow-s-Edge-2025-542-X-768.jpg" group-title="Estrenos",The Shadow_s Edge (2025)[CHI]
