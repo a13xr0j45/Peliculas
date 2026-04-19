@@ -1,5 +1,30 @@
 ﻿#EXTM3U
 
+#EXTINF:-1,Letters from Iwo Jima (2006)[DUAL]
+https://archive.org/download/03_20260419/Linux/01.mkv
+#EXTINF:-1,Black Swan (2010)[DUAL]
+https://archive.org/download/03_20260419/Linux/02.mkv
+#EXTINF:-1,A Perfect World (1993)[DUAL]
+https://archive.org/download/03_20260419/Linux/03.mkv
+#EXTINF:-1,The Eagle (2011)[DUAL]
+https://archive.org/download/03_20260419/Linux/04.mkv
+#EXTINF:-1,Highlander (1986)[DUAL]
+https://archive.org/download/03_20260419/Linux/05.mkv
+#EXTINF:-1,Harry Potter and the Philosopher's Stone (2001)[DUAL]
+https://archive.org/download/03_20260419/Linux/001.mp4
+#EXTINF:-1,Harry Potter and the Chamber of Secrets (2002)[DUAL]
+https://archive.org/download/03_20260419/Linux/002.mp4
+#EXTINF:-1,Harry Potter and the Prisoner of Azkaban (2004)[DUAL]
+https://archive.org/download/03_20260419/Linux/003.mp4
+#EXTINF:-1,Harry Potter and the Goblet of Fire (2005)[DUAL]
+https://archive.org/download/03_20260419/Linux/004.mp4
+#EXTINF:-1,Harry Potter and the Half-Blood Prince (2009)[DUAL]
+https://archive.org/download/03_20260419/Linux/005.mp4
+#EXTINF:-1,Harry Potter and the Deathly Hallows Part 1 (2010)[DUAL]
+https://archive.org/download/03_20260419/Linux/006.mp4
+#EXTINF:-1,Harry Potter and the Deathly Hallows Part 2 (2011)[DUAL]
+https://archive.org/download/03_20260419/Linux/007.mp4
+
 #EXTINF:-1,Babe (1995)[DUAL]
 https://archive.org/download/08_20260419/apt/01.mkv
 #EXTINF:-1,Fear Cabin The Last Weekend of Summer (2024)[DUAL]
@@ -16,7 +41,6 @@ https://archive.org/download/08_20260419/apt/06.mkv
 https://archive.org/download/08_20260419/apt/07.mkv
 #EXTINF:-1,The Crucifix Blood of the Exorcist (2025)[DUAL]
 https://archive.org/download/08_20260419/apt/08.mkv
-
 #EXTINF:-1,The Da Vinci Code (2006)[DUAL]
 https://archive.org/download/02_20260418_202604/Nuevos/01.mkv
 #EXTINF:-1,Angels & Demons (2009)[DUAL]
