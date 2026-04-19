@@ -1,5 +1,24 @@
 ﻿#EXTM3U
 
+
+#EXTINF:-1,Self-less (2015)[DUAL]
+https://archive.org/download/08_20260419_202604/Debianators/02.mkv
+#EXTINF:-1,Fantastic Beasts and Where to Find Them (2016)[DUAL]
+https://archive.org/download/08_20260419_202604/Debianators/03.mp4
+#EXTINF:-1,Fantastic Beasts The Crimes of Grindelwald (2018)[DUAL]
+https://archive.org/download/08_20260419_202604/Debianators/04.mkv
+#EXTINF:-1,Fantastic Beasts The Secrets of Dumbledore (2022)[DUAL]
+https://archive.org/download/08_20260419_202604/Debianators/05.mp4
+#EXTINF:-1,Avatar (2009)[DUAL]
+https://archive.org/download/08_20260419_202604/Debianators/06.mp4
+#EXTINF:-1,Avatar The Way of Water (2022)[DUAL]
+https://archive.org/download/08_20260419_202604/Debianators/07.mp4
+#EXTINF:-1,Avatar Fire and Ash (2025)[DUAL]
+https://archive.org/download/08_20260419_202604/Debianators/08.mkv
+#EXTINF:-1,Primate (2026)[DUAL]
+https://archive.org/download/08_20260419_202604/Debianators/09.mkv
+
+
 #EXTINF:-1,Letters from Iwo Jima (2006)[DUAL]
 https://archive.org/download/03_20260419/Linux/01.mkv
 #EXTINF:-1,Black Swan (2010)[DUAL]
@@ -18,6 +37,8 @@ https://archive.org/download/03_20260419/Linux/002.mp4
 https://archive.org/download/03_20260419/Linux/003.mp4
 #EXTINF:-1,Harry Potter and the Goblet of Fire (2005)[DUAL]
 https://archive.org/download/03_20260419/Linux/004.mp4
+#EXTINF:-1,Harry Potter and the Order of the Phoenix (2007)[DUAL]
+https://archive.org/download/08_20260419_202604/Debianators/01.mp4
 #EXTINF:-1,Harry Potter and the Half-Blood Prince (2009)[DUAL]
 https://archive.org/download/03_20260419/Linux/005.mp4
 #EXTINF:-1,Harry Potter and the Deathly Hallows Part 1 (2010)[DUAL]
