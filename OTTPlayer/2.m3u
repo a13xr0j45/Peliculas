@@ -1,14 +1,23 @@
 ﻿#EXTM3U
-NightMare (2022)[DUAL] mp4
-02 Mudborn (2025)[DUAL]
-03 Outcome (2026)[DUAL]
-04 Terror Firma (2023)[DUAL]
-05 The Anchor (2022)[DUAL]
-06 The Other (2025)[DUAL]
-07 The Scary House (2020)[DUAL]
-08 The Shrinking Man (2025)[DUAL]
-09 Tu sangre (2024)[CAST]
 
+#EXTINF:-1,NightMare (2022)[DUAL]
+https://archive.org/download/07_20260420/manjaritos/01.mp4
+#EXTINF:-1,Mudborn (2025)[DUAL]
+https://archive.org/download/07_20260420/manjaritos/02.mkv
+#EXTINF:-1,Outcome (2026)[DUAL]
+https://archive.org/download/07_20260420/manjaritos/03.mkv
+#EXTINF:-1,Terror Firma (2023)[DUAL]
+https://archive.org/download/07_20260420/manjaritos/04.mkv
+#EXTINF:-1,The Anchor (2022)[DUAL]
+https://archive.org/download/07_20260420/manjaritos/05.mkv
+#EXTINF:-1,The Other (2025)[DUAL]
+https://archive.org/download/07_20260420/manjaritos/06.mkv
+#EXTINF:-1,The Scary House (2020)[DUAL]
+https://archive.org/download/07_20260420/manjaritos/07.mkv
+#EXTINF:-1,The Shrinking Man (2025)[DUAL]
+https://archive.org/download/07_20260420/manjaritos/08.mkv
+#EXTINF:-1,Tu sangre (2024)[CAST]
+https://archive.org/download/07_20260420/manjaritos/09.mkv
 
 #EXTINF:-1,Twas The Night (2023)[DUAL]
 https://archive.org/download/02_20260419_20260419_2355/Debianitos/01.mkv
