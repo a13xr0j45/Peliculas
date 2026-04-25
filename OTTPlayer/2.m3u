@@ -1,30 +1,4 @@
 ﻿#EXTM3U
-
-#EXTINF:-1,The People In The Walls (2024)[CAST]
-https://archive.org/download/12_20260425_202604/unix/01.mp4
-#EXTINF:-1,The Strangers Chapter 1 (2024)[DUAL]
-https://archive.org/download/12_20260425_202604/unix/02.mp4
-#EXTINF:-1,The Strangers Chapter 2 (2025)[DUAL]
-https://archive.org/download/12_20260425_202604/unix/03.mp4
-#EXTINF:-1,The Other (2025)[DUAL]
-https://archive.org/download/12_20260425_202604/unix/04.mkv
-#EXTINF:-1,The Ritual (2025)[DUAL]
-https://archive.org/download/12_20260425_202604/unix/05.mp4
-#EXTINF:-1,The Omen (1976)[DUAL]
-https://archive.org/download/12_20260425_202604/unix/06.mp4
-#EXTINF:-1,The Recruit (2003)[DUAL]
-https://archive.org/download/12_20260425_202604/unix/07.mp4
-#EXTINF:-1,The Messengers (2007)[ESP]
-https://archive.org/download/12_20260425_202604/unix/08.mp4
-#EXTINF:-1,The Orphanage (2007)[CAST]
-https://archive.org/download/12_20260425_202604/unix/09.mp4
-#EXTINF:-1,The Pale Blue Eye (2022)[DUAL]
-https://archive.org/download/12_20260425_202604/unix/10.mp4
-#EXTINF:-1,The Rite (2011)[DUAL]
-https://archive.org/download/12_20260425_202604/unix/11.mkv
-#EXTINF:-1,The Ninth Gate (1999)[DUAL]
-https://archive.org/download/12_20260425_202604/unix/12.mkv
-
 #EXTINF:-1,28 Years Later (2025)[DUAL]
 https://archive.org/download/02_20260404_20260404/up/01.mp4
 #EXTINF:-1,28 Years Later The Bone Temple (2026)
@@ -543,10 +517,10 @@ https://archive.org/download/6666_20200608/6666.mp4
 https://dl.dropbox.com/s/t2c4vz9t1dl2x88/Jugando%20Con%20El%20Destino.mp4
 #EXTINF:-1,jugando con fuego
 http://ia601509.us.archive.org/23/items/000_20200122_202001/5.mp4
-#EXTINF:-1,Jumanji
-https://archive.org/download/027_20200428/027.mkv
 #EXTINF:-1,jumanji
 http://archive.org/download/img20190721152019/4bd13l60nz4l34.mp4
+#EXTINF:-1,Jumanji
+https://archive.org/download/027_20200428/027.mkv
 #EXTINF:-1,jumper
 https://archive.org/download/356792-1026835/356792___1026835.mp4
 #EXTINF:-1,jurassic park
@@ -1069,10 +1043,10 @@ https://archive.org/download/03_20260408_202604/up/05.mkv
 https://archive.org/download/03_20260408_202604/up/02.mkv
 #EXTINF:-1,Mission Impossible III (2006)[DUAL]
 https://archive.org/download/03_20260408_202604/up/03.mkv
-#EXTINF:-1,moana
-http://archive.org/download/7_20190824/6.mp4
 #EXTINF:-1,Moana
 https://archive.org/download/videoplayback21_20200319/sub1d0_p4r4_5tr34ming_P5F11X/videoplayback32.mp4
+#EXTINF:-1,moana
+http://archive.org/download/7_20190824/6.mp4
 #EXTINF:-1,mobile suit gundam hathaway
 https://archive.org/download/0hyu_20210713/m0v1l3gu.mp4
 #EXTINF:-1,Monster House
@@ -1134,9 +1108,9 @@ http://archive.org/download/nnndnsfkfjgjjdisdkfjsk/nnndnsfkfjgjjdisdkfjsk.mp4
 #EXTINF:-1,No Way Up (2024)[DUAL]
 https://archive.org/download/04_20250728_20250728_1905/Linux/05.mp4
 #EXTINF:-1,Nobody 2 (2025)[DUAL]
-https://archive.org/download/daemons_202509/daemons/01.mp4
-#EXTINF:-1,Nobody 2 (2025)[DUAL]
 https://archive.org/download/08_20260421_202604/Linux/12.mp4
+#EXTINF:-1,Nobody 2 (2025)[DUAL]
+https://archive.org/download/daemons_202509/daemons/01.mp4
 #EXTINF:-1,noche de fuego
 https://archive.org/download/h1erb4/l4f4m1l1m0ns.mp4
 #EXTINF:-1,Now You See Me (2013)[DUAL]
@@ -1754,9 +1728,9 @@ https://archive.org/download/00naran/23/th3g1rl.mp4
 #EXTINF:-1,The Girl With The Needle (2024) [Dual]
 https://archive.org/download/04_20250819/text-editors/05.mp4
 #EXTINF:-1,The Godfather (1972)
-https://archive.org/download/00guay-4/p4dr1n0.mp4
-#EXTINF:-1,The Godfather (1972)
 https://dl.dropbox.com/s/bnpgfv9yzowzv5y/ppppp.avi
+#EXTINF:-1,The Godfather (1972)
+https://archive.org/download/00guay-4/p4dr1n0.mp4
 #EXTINF:-1,The Godfather Part II (1974)
 https://archive.org/download/00papay-4/p4dr1n2.mp4
 #EXTINF:-1,The Godfather Part II (1974)
@@ -1828,13 +1802,13 @@ http://ia601509.us.archive.org/15/items/000_20201016/00008.mp4
 #EXTINF:-1,The Lord of the Rings 1 The Fellowship of the Ring (2001)
 https://archive.org/download/021_20200427/021.mkv
 #EXTINF:-1,The Lord of the Rings 2 The Two Towers (2002)
-https://archive.org/download/022_20200427/022.mkv
-#EXTINF:-1,The Lord of the Rings 2 The Two Towers (2002)
 http://archive.org/download/0trece/8.mp4
-#EXTINF:-1,The Lord of the Rings 3 The Return of the King (2003)
-https://archive.org/download/023_20200427/023.mkv
+#EXTINF:-1,The Lord of the Rings 2 The Two Towers (2002)
+https://archive.org/download/022_20200427/022.mkv
 #EXTINF:-1,The Lord of the Rings 3 The Return of the King (2003)
 http://archive.org/download/0trece/9.mp4
+#EXTINF:-1,The Lord of the Rings 3 The Return of the King (2003)
+https://archive.org/download/023_20200427/023.mkv
 #EXTINF:-1,the lovebirds
 https://dl.dropboxusercontent.com/s/praw50i7boz8qid/the.lovebirds.2020.mp4
 #EXTINF:-1,The Map of Tiny Perfect Things (2021)
@@ -1849,6 +1823,8 @@ https://archive.org/download/elmari2dvdlat/mrne/elmarin3dvdlat.avi
 https://archive.org/download/elmari2dvdlat/mrne/elmarin4dvdlat.avi
 #EXTINF:-1,The Messengers (2007) [Esp]
 https://archive.org/download/9_20250723_20250723/linux/12.mp4
+#EXTINF:-1,The Messengers (2007)[ESP]
+https://archive.org/download/12_20260425_202604/unix/08.mp4
 #EXTINF:-1,the misfits los inadaptados
 https://archive.org/download/00chayo/rt/m1sf1t.mp4
 #EXTINF:-1,The Monkey (2025) [DUAL]
@@ -1859,22 +1835,34 @@ https://archive.org/download/01_20250625_20250625_1655/temp/05.mp4
 https://archive.org/download/vigota/vigota.mp4
 #EXTINF:-1,The Ninth Gate (1999) [Dual]
 https://archive.org/download/05_20251202_202512/Linux/06.mp4
+#EXTINF:-1,The Ninth Gate (1999)[DUAL]
+https://archive.org/download/12_20260425_202604/unix/12.mkv
 #EXTINF:-1,The Northman (2022)
 https://archive.org/download/descarga_202101/dfdf/n0rt.mp4
 #EXTINF:-1,the old guard (2020)
 https://dl.dropbox.com/s/2dlws4f8y42dq3m/the.old.guard.2020.mp4
+#EXTINF:-1,The Omen (1976)[DUAL]
+https://archive.org/download/12_20260425_202604/unix/06.mp4
 #EXTINF:-1,The Orphanage (2007) [Cast]
 https://archive.org/download/02_20251014_202510/RPM/03.mp4
+#EXTINF:-1,The Orphanage (2007)[CAST]
+https://archive.org/download/12_20260425_202604/unix/09.mp4
+#EXTINF:-1,The Other (2025)[DUAL]
+https://archive.org/download/12_20260425_202604/unix/04.mkv
 #EXTINF:-1,The Other (2025)[DUAL]
 https://archive.org/download/07_20260420/manjaritos/06.mkv
 #EXTINF:-1,the outlaws
 https://dl.dropbox.com/s/vgcs6zwszfeuebt/the%20outlaws%20%282017%29ss_cany.mp4
 #EXTINF:-1,The Pale Blue Eye (2022) [Dual]
 https://archive.org/download/01_20250819_20250819_1912/linux/04.mp4
+#EXTINF:-1,The Pale Blue Eye (2022)[DUAL]
+https://archive.org/download/12_20260425_202604/unix/10.mp4
 #EXTINF:-1,The Partisan (2025) [Dual]
 https://archive.org/download/06_20251017/rpm/05.mp4
 #EXTINF:-1,The People In The Walls (2024) [Cast]
 https://archive.org/download/11_20251104/Gedit/01.mp4
+#EXTINF:-1,The People In The Walls (2024)[CAST]
+https://archive.org/download/12_20260425_202604/unix/01.mp4
 #EXTINF:-1,The Pianist (2002)
 https://archive.org/download/025_20200427/025.mkv
 #EXTINF:-1,The Platform (2019)
@@ -1889,14 +1877,20 @@ https://archive.org/download/index_20240823/cursos/05.mp4
 http://archive.org/download/0_20200403/2.mp4
 #EXTINF:-1,The Recruit (2003) [Dual]
 https://archive.org/download/9_20250723_20250723/linux/13.mp4
+#EXTINF:-1,The Recruit (2003)[DUAL]
+https://archive.org/download/12_20260425_202604/unix/07.mp4
 #EXTINF:-1,The Return of Jafar (1994)
 https://archive.org/download/03_20250611_20250611/cmd/02.mp4
 #EXTINF:-1,The Return of the Living Dead (1985)
 https://archive.org/download/ayer_20200214/ayer.avi
 #EXTINF:-1,The Rite (2011) [Dual]
 https://archive.org/download/06_20251117_20251117/vim/06.mkv
+#EXTINF:-1,The Rite (2011)[DUAL]
+https://archive.org/download/12_20260425_202604/unix/11.mkv
 #EXTINF:-1,The Ritual (2025) [Dual]
 https://archive.org/download/01_20251125_20251125_0530/Onifom/00.mp4
+#EXTINF:-1,The Ritual (2025)[DUAL]
+https://archive.org/download/12_20260425_202604/unix/05.mp4
 #EXTINF:-1,The Room (2019)
 https://archive.org/download/whats-app-audio-2021-05-21-at-7.37.12-pm/l4h4b1t4.mp4
 #EXTINF:-1,The Sand (2015)
@@ -1920,9 +1914,13 @@ https://archive.org/download/tutoriales_202506/TutorialesLinux/11.mp4
 #EXTINF:-1,The Strangers (2008)[DUAL]
 https://archive.org/download/02_20260419_20260419_2355/Debianitos/10.mkv
 #EXTINF:-1,The Strangers Chapter 1 (2024)[DUAL]
+https://archive.org/download/12_20260425_202604/unix/02.mp4
+#EXTINF:-1,The Strangers Chapter 1 (2024)[DUAL]
 https://archive.org/download/05_20260406_202604/DEBIAN/03.mkv
 #EXTINF:-1,The Strangers Chapter 2 (2025)[DUAL]
 https://archive.org/download/05_20260406_202604/DEBIAN/04.mkv
+#EXTINF:-1,The Strangers Chapter 2 (2025)[DUAL]
+https://archive.org/download/12_20260425_202604/unix/03.mp4
 #EXTINF:-1,The Substance (2024) [Dual]
 https://dl.dropbox.com/scl/fi/glmaudmqyjaej9eockusr/the-substance-2024-dual.mp4?rlkey=okzg4ggm64a7d476xzh9quaq3
 #EXTINF:-1,The Suicide Squad (2021)
@@ -1932,9 +1930,9 @@ https://archive.org/download/descarga_202101/hgty/3ls0br3.mp4
 #EXTINF:-1,the swing of things (2020)
 https://dl.dropboxusercontent.com/s/x4v1wuwyuwn9zma/theswingofthings.mp4
 #EXTINF:-1,The Taking of Deborah Logan (2014)[DUAL]
-https://archive.org/download/linux_202604/unix/04.mp4
-#EXTINF:-1,The Taking of Deborah Logan (2014)[DUAL]
 https://archive.org/download/linux_202604/unix/03.mkv
+#EXTINF:-1,The Taking of Deborah Logan (2014)[DUAL]
+https://archive.org/download/linux_202604/unix/04.mp4
 #EXTINF:-1,the ten commandments (1956)
 https://archive.org/download/mani_20200319/mani/mani.avi
 #EXTINF:-1,The Tourist (2010)
@@ -1991,14 +1989,14 @@ http://archive.org/download/0_20200424_20200424_1602/9.mp4
 https://archive.org/download/02_20260419_20260419_2355/Debianitos/02.mkv
 #EXTINF:-1,tick tick boom! (2021)
 https://archive.org/download/00chich/t1c6t1.mp4
-#EXTINF:-1,Tierra de Osos
-https://ia601402.us.archive.org/21/items/1e08_20191210/bf0c.mp4
 #EXTINF:-1,tierra de osos
 http://archive.org/download/000_20210108_202101/713rr4d30505.avi
-#EXTINF:-1,Tierra de Osos 2
-https://ia601402.us.archive.org/21/items/1e08_20191210/f163.mp4
+#EXTINF:-1,Tierra de Osos
+https://ia601402.us.archive.org/21/items/1e08_20191210/bf0c.mp4
 #EXTINF:-1,tierra de osos 2
 http://archive.org/download/000_20210108_202101/713rr4d305052.avi
+#EXTINF:-1,Tierra de Osos 2
+https://ia601402.us.archive.org/21/items/1e08_20191210/f163.mp4
 #EXTINF:-1,timadoras compulsivas
 http://ia801507.us.archive.org/4/items/000_20200127/5.mp4
 #EXTINF:-1,tio buck al rescate
@@ -2037,10 +2035,10 @@ https://archive.org/download/01t6574568475645684685486545684/01%20t6574568475645
 https://archive.org/download/h1erb4/t0y2.mp4
 #EXTINF:-1,Toy Story 2 (1999)
 https://archive.org/download/04_20250728_20250728_1905/Linux/14.mp4
-#EXTINF:-1,Toy Story 3
-https://archive.org/download/3gefgyilegfielngfilsaegfyiserfyiditeidfseyifdyeldyefldy/3gefgyilegfiel%C3%B1gfilsaegfyiserfyiditeidfseyifdyeldyefldy.mp4
 #EXTINF:-1,toy story 3
 https://archive.org/download/h1erb4/t0y3.mp4
+#EXTINF:-1,Toy Story 3
+https://archive.org/download/3gefgyilegfielngfilsaegfyiserfyiditeidfseyifdyeldyefldy/3gefgyilegfiel%C3%B1gfilsaegfyiserfyiditeidfseyifdyeldyefldy.mp4
 #EXTINF:-1,toy story 4
 http://archive.org/download/t0y2t0r7/t0y2t0r7.mp4
 #EXTINF:-1,Toy Story That Time Forgot (2014)
@@ -2152,9 +2150,9 @@ http://ia801505.us.archive.org/11/items/camillerosunidos_gmail_01_201902/01.mp4
 #EXTINF:-1,Utopia (2024) [Dual]
 https://archive.org/download/04_20250613_20250613/c%2B%2B/02.mp4
 #EXTINF:-1,V-H-S-HALLOWEEN (2025)[DUAL]
-https://archive.org/download/10_20260425_20260425/tex/06.mp4
-#EXTINF:-1,V-H-S-HALLOWEEN (2025)[DUAL]
 https://archive.org/download/06_20251017/rpm/04.mp4
+#EXTINF:-1,V-H-S-HALLOWEEN (2025)[DUAL]
+https://archive.org/download/10_20260425_20260425/tex/06.mp4
 #EXTINF:-1,V/H/S: Beyond (2024) [Dual]
 https://archive.org/download/01_20251125_20251125_0530/Onifom/01.mp4
 #EXTINF:-1,Vacaciones De Terror (1989)
@@ -2172,9 +2170,9 @@ https://archive.org/download/10_20260425_20260425/tex/05.mp4
 #EXTINF:-1,viaje al centro de la tierra
 https://ia801502.us.archive.org/34/items/5044448658339135791/1_5044448658339135791.mp4
 #EXTINF:-1,Vicious (2025) [DUAL]
-https://archive.org/download/05_20251029/MANJARO/04.mp4
-#EXTINF:-1,Vicious (2025) [DUAL]
 https://archive.org/download/10_20260425_20260425/tex/07.mp4
+#EXTINF:-1,Vicious (2025) [DUAL]
+https://archive.org/download/05_20251029/MANJARO/04.mp4
 #EXTINF:-1,Vietnamese Horror Story (2022)[DUAL]
 https://archive.org/download/10_20260425_20260425/tex/08.mp4
 #EXTINF:-1,virgen a los 40
@@ -2190,9 +2188,9 @@ https://archive.org/download/02_20260419_20260419_2355/Debianitos/04.mp4
 #EXTINF:-1,Wallace & Gromit Vengeance Most Fowl (2024)
 https://archive.org/download/tutoriales_202506/TutorialesLinux/06.mp4
 #EXTINF:-1,War of the Worlds (2005) [DUAL]
-https://archive.org/download/10_20260425_20260425/tex/09.mp4
-#EXTINF:-1,War of the Worlds (2005) [DUAL]
 https://archive.org/download/01_20251125_20251125_0530/Onifom/02.mp4
+#EXTINF:-1,War of the Worlds (2005) [DUAL]
+https://archive.org/download/10_20260425_20260425/tex/09.mp4
 #EXTINF:-1,Warfare (2025) [Dual]
 https://archive.org/download/linux_202506/linux/10.mp4
 #EXTINF:-1,Warfare (2025)[DUAL]
@@ -2230,9 +2228,9 @@ https://dl.dropbox.com/s/5ao8tq43ig2w0qv/winter.ridge.2018.mp4
 #EXTINF:-1,Wish Upon (2017) [Dual]
 https://archive.org/download/04_20250728_20250728_1905/Linux/08.mp4
 #EXTINF:-1,Wish Upon (2017)[DUAL]
-https://archive.org/download/10_20260425_20260425/tex/12.mp4
-#EXTINF:-1,Wish Upon (2017)[DUAL]
 https://archive.org/download/02_20260419_20260419_2355/Debianitos/05.mkv
+#EXTINF:-1,Wish Upon (2017)[DUAL]
+https://archive.org/download/10_20260425_20260425/tex/12.mp4
 #EXTINF:-1,Witches In The Woods (2019)
 http://ia801409.us.archive.org/33/items/000_20200204_20200204/2.mp4
 #EXTINF:-1,Wolfs (2024) [Dual]
@@ -2248,25 +2246,25 @@ https://archive.org/download/02_20260403_202604/up/01.mkv
 #EXTINF:-1,Wrong Turn (2021) [DUAL]
 https://archive.org/download/02_20260403_202604/up/07.mp4
 #EXTINF:-1,Wrong Turn 2 Dead End (2007)[DUAL]
-https://archive.org/download/02_20260403_202604/up/02.mkv
-#EXTINF:-1,Wrong Turn 2 Dead End (2007)[DUAL]
 https://archive.org/download/04_20251118/latex/04.mp4
-#EXTINF:-1,Wrong Turn 3 Left for Dead (2009)[DUAL]
-https://archive.org/download/02_20260403_202604/up/03.mkv
+#EXTINF:-1,Wrong Turn 2 Dead End (2007)[DUAL]
+https://archive.org/download/02_20260403_202604/up/02.mkv
 #EXTINF:-1,Wrong Turn 3 Left for Dead (2009)[DUAL]
 https://archive.org/download/04_20251118/latex/05.mp4
-#EXTINF:-1,Wrong Turn 4 Bloody Beginnings (2011)[DUAL]
-https://archive.org/download/02_20260403_202604/up/04.mkv
+#EXTINF:-1,Wrong Turn 3 Left for Dead (2009)[DUAL]
+https://archive.org/download/02_20260403_202604/up/03.mkv
 #EXTINF:-1,Wrong Turn 4 Bloody Beginnings (2011)[DUAL]
 https://archive.org/download/04_20251118/latex/06.mp4
-#EXTINF:-1,Wrong Turn 5 Bloodlines (2012) [DUAL]
-https://archive.org/download/11_20251104/Gedit/08.mp4
+#EXTINF:-1,Wrong Turn 4 Bloody Beginnings (2011)[DUAL]
+https://archive.org/download/02_20260403_202604/up/04.mkv
 #EXTINF:-1,Wrong Turn 5 Bloodlines (2012) [DUAL]
 https://archive.org/download/02_20260403_202604/up/05.mp4
-#EXTINF:-1,Wrong Turn 6 Last Resort (2014)[DUAL]
-https://archive.org/download/02_20260403_202604/up/06.mkv
+#EXTINF:-1,Wrong Turn 5 Bloodlines (2012) [DUAL]
+https://archive.org/download/11_20251104/Gedit/08.mp4
 #EXTINF:-1,Wrong Turn 6 Last Resort (2014)[DUAL]
 https://archive.org/download/04_20251118/latex/07.mp4
+#EXTINF:-1,Wrong Turn 6 Last Resort (2014)[DUAL]
+https://archive.org/download/02_20260403_202604/up/06.mkv
 #EXTINF:-1,Wrong Turn 7 (2021) [DUAL]
 https://archive.org/download/11_20251104/Gedit/10.mp4
 #EXTINF:-1,Wuthering Heights (2026)[DUAL]
