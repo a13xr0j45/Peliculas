@@ -1,8 +1,7 @@
 ﻿#EXTM3U
-#EXTINF:-1,Project Hail Mary (2026)
+#EXTINF:-1,Project Hail Mary (2026)[DUAL][4K][HDR10]
 https://archive.org/download/xrtvesf/Linux/xrtvesf.mkv
-#EXTINF:-1,Project Hail Mary (2026)
-https://archive.org/download/xrtvesf/Linux/xrtvesf.mp4
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Mk2Fvg6h/Frankenstein-2025-542-X-768.jpg",Frankenstein (2025)[DUAL][4K][HDR10]
 https://archive.org/download/REFERTREFD/REFERTREFD.mkv
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KxppSVKT/Black-Phone-2-2025-542-X-768.jpg",Black Phone 2 (2025)[DUAL][4K][HDR10]
