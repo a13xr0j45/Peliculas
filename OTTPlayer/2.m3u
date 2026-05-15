@@ -1,4 +1,12 @@
 ﻿#EXTM3U
+
+#EXTINF:-1,The Lord of the Rings The Fellowship of the Ring (2001)[DUAL]
+https://archive.org/download/03_20260514_20260514/Linux/01.mkv
+#EXTINF:-1,The Lord of the Rings The Two Towers (2002)[DUAL]
+https://archive.org/download/03_20260514_20260514/Linux/02.mkv
+#EXTINF:-1,The Lord of the Rings The Return of the King (2003)[DUAL]
+https://archive.org/download/03_20260514_20260514/Linux/03.mkv
+
 #EXTINF:-1,100 Feet (2008)[DUAL]
 https://archive.org/download/09_20260501/upload/07.mp4
 #EXTINF:-1,12 Hours Shift (2020)
