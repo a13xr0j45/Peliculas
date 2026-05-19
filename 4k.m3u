@@ -1,32 +1,33 @@
 ﻿#EXTM3U
-
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/mdw7bSnE11WpwWf3ViXtnavuqiT.jpg",Return to Silent Hill (2026) [4K][HDR10]
-https://archive.org/download/000123_202605/Deb/000123.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/zzpLLdfSPsufdfo3nFOTLNOIuTX.jpg",The Lord of the Rings The Fellowship of the Ring (2001)[DUAL][4K][HDR10]
-https://archive.org/download/gentoo_202605/Linux/01.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/ffUCCX8kPkhfQ3DgW0huo0eygDc.jpg",The Lord of the Rings The Two Towers (2002)[DUAL][4K][HDR10]
-https://archive.org/download/000315_202605/Deb/000315.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/wNB551TsEb7KFU3an5LwOrgvUpn.jpg",The Lord of the Rings The Return of the King (2003)[DUAL][4K][HDR10]
-https://archive.org/download/197987/upload/197987.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/13ZcJzSGEqVgDSqsS9U5EkQwPkV.jpg",Ready or Not 2 Here I Come (2026)[DUAL][4K][HDR10]
-https://archive.org/download/Plexito/Tutoriales/01.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/huVzcVrlK8aiLd240ienleODvWl.jpg",Project Hail Mary (2026)[DUAL][4K][HDR10]
-https://archive.org/download/xrtvesf/Linux/xrtvesf.mkv
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Mk2Fvg6h/Frankenstein-2025-542-X-768.jpg",Frankenstein (2025)[DUAL][4K][HDR10]
-https://archive.org/download/REFERTREFD/REFERTREFD.mkv
-#EXTINF:-1 tvg-logo="https://i.ibb.co/KxppSVKT/Black-Phone-2-2025-542-X-768.jpg",Black Phone 2 (2025)[DUAL][4K][HDR10]
-https://archive.org/download/sdweew/nano/sdweew.mkv
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Q7F1TpmS/The-Conjuring-Last-Rites-2025-542-X-768.jpg",The Conjuring Last Rites (2025)[DUAL][4K][HDR10]
-https://archive.org/download/fast_20251007/FAST/04.mkv
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TML7fh2k/28-Years-Later-2025.jpg",28 Years Later (2025)[4K][HDR10][DUAL]
 https://archive.org/download/index_20251008_0506/Low/01.mkv
 #EXTINF:-1 tvg-logo="https://i.ibb.co/svgsFLqR/A-Working-Man-2025-542-x-768.jpg",A Working Man (2025) [4K][HDR10][DUAL]
 https://archive.org/download/01_20250616_20250616_1849/COBOL/01.mp4
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5UsK3grJvtQrtzEgqNlDljJW96w.jpg",Batman v Superman: Dawn of Justice (2016) [DUAL][4k]
 https://archive.org/download/tinaco_20210409/B4tm4n.v55up35m4n.mkv
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KxppSVKT/Black-Phone-2-2025-542-X-768.jpg",Black Phone 2 (2025)[DUAL][4K][HDR10]
+https://archive.org/download/sdweew/nano/sdweew.mkv
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Mk2Fvg6h/Frankenstein-2025-542-X-768.jpg",Frankenstein (2025)[DUAL][4K][HDR10]
+https://archive.org/download/REFERTREFD/REFERTREFD.mkv
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xSQPvzHc/Friday-the-13th-1980-542-x-768.jpg",Friday the 13th (1980) [4k][HDR10][DUAL]
 https://archive.org/download/01_20250616_20250616_1849/COBOL/02.mp4
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dKMkmb1Oyfo9H8YuyG7awLGUNXL.jpg",In the Tall Grass (2019) [4K][HDR10][DUAL]
 https://archive.org/download/06_20241202/PBX4K/01.mkv
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/lTQoEczVEnkuxHFEGgWYfJB98tL.jpg",Lee Cronin's The Mummy (2026)[ENG][4K][HDR10]
+https://archive.org/download/19345/Daemons/19345.mkv
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/huVzcVrlK8aiLd240ienleODvWl.jpg",Project Hail Mary (2026)[DUAL][4K][HDR10]
+https://archive.org/download/xrtvesf/Linux/xrtvesf.mkv
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/13ZcJzSGEqVgDSqsS9U5EkQwPkV.jpg",Ready or Not 2 Here I Come (2026)[DUAL][4K][HDR10]
+https://archive.org/download/Plexito/Tutoriales/01.mkv
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/mdw7bSnE11WpwWf3ViXtnavuqiT.jpg",Return to Silent Hill (2026) [4K][HDR10]
+https://archive.org/download/000123_202605/Deb/000123.mkv
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ht8Uv9QPv9y7K0RvUyJIaXOZTfd.jpg",Smile 2 (2024) [DUAL][4K]
 https://archive.org/download/02_20241203_202412/opnbsd/02.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Q7F1TpmS/The-Conjuring-Last-Rites-2025-542-X-768.jpg",The Conjuring Last Rites (2025)[DUAL][4K][HDR10]
+https://archive.org/download/fast_20251007/FAST/04.mkv
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/zzpLLdfSPsufdfo3nFOTLNOIuTX.jpg",The Lord of the Rings The Fellowship of the Ring (2001)[DUAL][4K][HDR10]
+https://archive.org/download/gentoo_202605/Linux/01.mkv
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/wNB551TsEb7KFU3an5LwOrgvUpn.jpg",The Lord of the Rings The Return of the King (2003)[DUAL][4K][HDR10]
+https://archive.org/download/197987/upload/197987.mkv
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/ffUCCX8kPkhfQ3DgW0huo0eygDc.jpg",The Lord of the Rings The Two Towers (2002)[DUAL][4K][HDR10]
+https://archive.org/download/000315_202605/Deb/000315.mkv
